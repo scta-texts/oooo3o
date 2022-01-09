@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="146-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k90093"><!--l1d26-42q4 -->
+            <head xml:id="oooo3o-k90093-Hd1e99">Quaestio 4</head>
+            <p xml:id="oooo3o-k90093-d1e101">
+               <lb ed="#P" n="77"/>¶ COnsequenter quarto iuxta 
+      <lb ed="#P" n="78"/>predictam materiam Quero vtrum 
+      <lb ed="#P" n="79"/>habitus iusticie seu claritatis 
+      in<lb ed="#P" n="80" break="no"/>fuse sit melior vel eligibilior quam 
+      <lb ed="#P" n="81"/>actus meritorius sit bonus vel et 
+      <lb ed="#P" n="82"/>ligibilis. 
+    </p>
+            <p xml:id="oooo3o-k90093-d1e117">
+               <lb ed="#P" n="83"/>¶ quod sic quia habitus caritatis est  
+      <lb ed="#P" n="84"/>ad salutem sufficiens sine actu 
+      me<lb ed="#P" n="85" break="no"/>ritorio et est necessarius. sed actus meritorius non est 
+      ne<lb ed="#P" n="86" break="no"/>cessarius: nec poterit esse sande charitate ergo. maior est 
+      <lb ed="#P" n="87"/>nota per augu. primo de trinitate. c. 4 dicentem quod 
+      clari<lb ed="#P" n="88" break="no"/>tas siue aliis perducit ad regnum. sed minor pro prima parte patet 
+      <lb ed="#P" n="89"/>de infantibus statim post baptismum decedentibus. 
+      pro<lb ed="#P" n="90" break="no"/>secunda parte patet per augu. de verbis domini sermodoe. 12. prius inquit 
+      <lb ed="#P" n="91"/>mutandus est homo vt opera mutentur si enim manet ialus in 
+      <lb ed="#P" n="92"/>eo quod malus bona opera habere non potest. 
+    </p>
+            <p xml:id="oooo3o-k90093-d1e141">
+               <lb ed="#P" n="93"/>¶ Secundo secundum latitudinem finalis iusticie et 
+      <lb ed="#P" n="94"/>non secundum opera meritoria: reddetur quantitas praemii ergo 
+      me<lb ed="#P" n="95" break="no"/>ritum ordinatur in praemium mediante habitu tamquam mensura 
+      imme<lb ed="#P" n="96" break="no"/>diata et per consequens habitus melior e actu. antecedens probatur per illum 
+      <lb ed="#P" n="97"/>augustini enchi. 12. charitas in quocumque maior est: tanto 
+      <lb ed="#P" n="98"/>melior est ipse in quo est non dicit meritum in quocunque ete. 
+      <lb ed="#P" n="99"/>Tertio quia claritatis auctio datur quasi pro 
+      pre<lb ed="#P" n="100" break="no"/>mio meritorie operanti ergo consequentia no. quia praemium est finis meri 
+      <lb ed="#P" n="101"/>li antecedens est gregorum Charitas meretur augeri vt 
+      aucta<lb ed="#P" n="102" break="no"/>mereatur perfici 
+    </p>
+            <p xml:id="oooo3o-k90093-d1e165">
+               <lb ed="#P" n="103"/>¶ Oppositum vsus virtutis melior est virtute er 
+      <lb ed="#P" n="104"/>go ./ consequentia nota. sed probatur antecedens primo: quia vsus est finis vrtu 
+      <lb ed="#P" n="105"/>tis per philo. dicentem vertutes autem eligimus propt opera. 10. 
+      <lb ed="#P" n="106"/>Ethicorum tum secundo quia vertus est potentia et vsus est actus: in 
+      <lb ed="#P" n="107"/>ponis autem melior est actus quam potentia. 16 metha. tum 
+      ter<lb ed="#P" n="108" break="no"/>tio quia actu meritorio neno potest male vti sed gratia quis potest 
+      <lb ed="#P" n="109"/>male vti: saltem venialiter omittendo quousque mortalite 
+      <lb ed="#P" n="110"/>corrumpatur vnde glosa super illo ad corint. 6. obsecro vos 
+      <lb ed="#P" n="111"/>ne in vacuum gratiam dei recipiatis etc. dicit gratia est 
+      re<lb ed="#P" n="112" break="no"/>missio peccatorum quam in vacuum recipit qui post se non excercet 
+      <lb ed="#P" n="113"/>in bonis igitur 
+    </p>
+            <p xml:id="oooo3o-k90093-d1e192">
+               <lb ed="#P" n="114"/>¶ Responsio primo videndum est de quasito prin di 
+      <lb ed="#P" n="115"/>cipali. Secundo dicendum circa ipsin in speciali. Tertio 
+      <lb ed="#P" n="116"/>videndum de quadem difficultate incidentali: scilicet vtrum a 
+      <lb ed="#P" n="117"/>ctus meritorie elicitus et gratifice: possit a deo non ad 
+      <lb ed="#P" n="118"/>ceptari ad premium. 
+    </p>
+            <div xml:id="oooo3o-k90093-Dd1e205">
+               <head xml:id="oooo3o-k90093-Hd1e207">Articulus 1</head>
+               <p xml:id="oooo3o-k90093-d1e209">
+                  <lb ed="#P" n="119"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e214">
+                  <lb ed="#P" n="120"/>QUantum ad primum premitto pro 
+      <lb ed="#P" n="121"/>intellectu dicendorum diuisionem quae est: quod boni 
+      <lb ed="#P" n="122"/>tas habitus claritatis seu iusticie 
+      infu<lb ed="#P" n="123" break="no"/>se triplepem seu tripliciter potest mensurari 
+      <lb ed="#P" n="124"/>vel attendi. Primo modo attenditur bonitas 
+      <!--311.xml-->
+      <pb ed="#P" n="146-v"/>
+                  <lb ed="#P" n="1"/>habitus secundum actum sue forme intensiue prout forma et 
+      ei<lb ed="#P" n="2" break="no"/>acto pulchrificat calificat bene: seu honestificat animam 
+      <lb ed="#P" n="3"/>quam informat et perficit. Secunda eius bonitas attenditur 
+      pe<lb ed="#P" n="4" break="no"/>nes posse ad gloriam hoc autem posse non est sibi 
+      natura<lb ed="#P" n="5" break="no"/>le sed ex voluntate et ordinatione dei. Tertia eius 
+      boni<lb ed="#P" n="6" break="no"/>tas mensuratur vel attenditur penes posse in actum proprium 
+      <lb ed="#P" n="7"/>qui est supnaturalis homini et meritorius. et est naturalis 
+      <lb ed="#P" n="8"/>charitatis: vocetur ergo. prima bonitas b. secunda. c. et 
+      <lb ed="#P" n="9"/>tertia. de¬ 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e251">
+                  <lb ed="#P" n="10"/>¶ Et sit conclusio prima quod bonitas. d. ipsius 
+      ha<lb ed="#P" n="11" break="no"/>bitus / minoris bonitatis est quam actus in quem potest. 
+      pro<lb ed="#P" n="12" break="no"/>batur quia actus est finis habitus. vt supra dictum est igitur 
+      <lb ed="#P" n="13"/>Secunda conclusio c bonitas habitualis iustum 
+      <lb ed="#P" n="14"/>cie est melior quam d. bonitas eiusd. probatur quia 
+      posito<lb ed="#P" n="15" break="no"/>quod habitus iusticie per ymaginationem non haberet. c. sed 
+      <lb ed="#P" n="16"/>olum. d. bonitatem: tunc non haberet paerogatiuas has: vt 
+      <lb ed="#P" n="17"/>quod sola charitas diuidit inter filios regni et filios 
+      per<lb ed="#P" n="18" break="no"/>ditionis. et quod sola producit ad regnum. Item non haberet 
+      <lb ed="#P" n="19"/>paerogatiuas quas tangit apostolus dicens. Si linguis 
+      homi<lb ed="#P" n="20" break="no"/>etc. Sed posito quod charitas haberet c. et non d. bonita 
+      <lb ed="#P" n="21"/>tem: tanto habens eam: esset maiori praemio dignus 
+      beatif<lb ed="#P" n="22" break="no"/>cari: quanto ipsa esset intensior. Unde puuli per c. et non per 
+      <lb ed="#P" n="23"/>bd. saluantur Item c. bonitas immediate ordinatur in gloriam 
+      <lb ed="#P" n="24"/>sed d. non. sed ad meritum. et gloria est melior merito. ergo c. 
+      <lb ed="#P" n="25"/>est melior quam. d. patet consequentia: quia c. propinquior actui iusticie 
+      <lb ed="#P" n="26"/>glorie et non tanquam actui quem efficiat / sed tanquam praemio 
+      <lb ed="#P" n="27"/>quod recipiat. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e293">
+                  <lb ed="#P" n="28"/>¶ Tertia conclusio: bonitas. d actus meritoriim 
+      <lb ed="#P" n="29"/>vel dilectionis dei / est melior et eligibilior ceteris pari 
+      <lb ed="#P" n="30"/>bus quam bonitas habitus. probatur summus actus charita 
+      <lb ed="#P" n="31"/>tis est melior summo habitum vt patet quia melior est 
+      fruitio<lb ed="#P" n="32" break="no"/>actualis quolet habitu bono. Secundo quia si deus 
+      supple<lb ed="#P" n="33" break="no"/>ret in viatore causalitatem habitus respectu actus nichil 
+      <lb ed="#P" n="34"/>ominus esset actu diligens / bonus formaliter lauda 
+      <lb ed="#P" n="35"/>bilis. sed remoto actu pro nullo habitu esset ipse 
+      lauda<lb ed="#P" n="36" break="no"/>bilis licet sit felix sicut dicit Seneca felicitatem consiste 
+      <lb ed="#P" n="37"/>re in habitu vt patet primo ethicorum. Ex quibus conclusioni 
+      <lb ed="#P" n="38"/>bus patet quod b. bonitas habitus est minor quam c. vel. d. 
+      pa<lb ed="#P" n="39" break="no"/>tet ex dictis 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e323">
+                  <lb ed="#P" n="40"/>¶ Quarta conclusio Cuilibet viatori est magis 
+      <lb ed="#P" n="41"/>necessarius habitus charitatis: quam actus meritorius. 
+      <lb ed="#P" n="42"/>patet quia in quolet soluando necessario requiritur habitus 
+      <lb ed="#P" n="43"/>iusticie: et non in quolet requiritur acto. Item qualet 
+      momi<lb ed="#P" n="44" break="no"/>tanea carentia habitus / obligat ad mortem eternam: et non 
+      <lb ed="#P" n="45"/>quaelicet carentia actus. ergo.  
+    </p>
+               <p xml:id="oooo3o-k90093-d1e339">
+                  <lb ed="#P" n="46"/>¶ Quita conclusio aliquo actu iusticie contingit 
+      <lb ed="#P" n="47"/>habitum grati praecise infuse / esse meliorem homin probatur: quia 
+      ta<lb ed="#P" n="48" break="no"/>lis habitus (cum sit diuisibilis) potest esse duplus ad cer 
+      <lb ed="#P" n="49"/>tam latitudinem alicuius certi meriti remissi. et latitudo 
+      <lb ed="#P" n="50"/>praemit correspondens prime gratie erit dupla ad premium 
+      <lb ed="#P" n="51"/>correspondens merito remisso. ergo.  
+    </p>
+               <p xml:id="oooo3o-k90093-d1e355">
+                  <lb ed="#P" n="52"/>¶ Sexta conclusio contingit actum meritorium esse 
+      <lb ed="#P" n="53"/>meliorem quam fuit prima gratia seu iusticia baptismalis. 
+      <lb ed="#P" n="54"/>probatur quia contigit viatorem iustum elicere secundum eam 
+      perfectis<lb ed="#P" n="55" break="no"/>simum actum cuius praemium erit maior btitudo glore quam tota 
+      la<lb ed="#P" n="56" break="no"/>titudo correspondens gratie baptismali. ergo conclusio 
+      ve<lb ed="#P" n="57" break="no"/>ra. consequentia nota. antecedens patet de a viatore adulto bapti: ato q 
+      <lb ed="#P" n="58"/>si mox martirio agonim et per horam: verisimile est quod 
+      in<lb ed="#P" n="59" break="no"/>quadruplo maius praemium correspond ebit sibi pro 
+      ago<lb ed="#P" n="60" break="no"/>ne martiri quam pro gratia praecise baptismali et hoc de 
+      pri<lb ed="#P" n="61" break="no"/>mo articulo.
+         </p>
+            </div>
+            <div xml:id="oooo3o-k90093-Dd1e380">
+               <head xml:id="oooo3o-k90093-Hd1e382">Articulus 2</head>
+               <p xml:id="oooo3o-k90093-d1e384">
+      <!--311.xml-->
+                  <lb ed="#P" n="62"/>Uantum ad secundum articul 
+      <lb ed="#P" n="63"/>lum dubitatur contra conclusionem vlti 
+      <lb ed="#P" n="64"/>nam: quia a. ex prima gratia vel per primum 
+      <lb ed="#P" n="65"/>meritum in baptismo meruit 
+      remis<lb ed="#P" n="66" break="no"/>sionem eterne mortis et gradum glorie. 
+      <lb ed="#P" n="67"/>et hoc totum est eligibilius 
+      homi<lb ed="#P" n="68" break="no"/>quacumque intensiua latitudine 
+      prae<lb ed="#P" n="69" break="no"/>mii: probatur quia perfecta privatio istius 
+      <lb ed="#P" n="70"/>totius est agibilior perfecta 
+      pri<lb ed="#P" n="71" break="no"/>tatione latitudinis sequentis. vt patet 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e410">
+                  <lb ed="#P" n="72"/>¶ Et confirmatur. sit primus actus baptismalis 
+      <lb ed="#P" n="73"/>vel prima gratia b. et actus sequens sit c. tunc. a homini pro b. 
+      <lb ed="#P" n="74"/>debetur remissio mortis eterne debite / et eternitas frui 
+      <lb ed="#P" n="75"/>tionis et securitas certa et indubitata. sed proc. non 
+      <lb ed="#P" n="76"/>debetur a. nisi latitudo fruitionis. et illa omnia sunt 
+      mai<lb ed="#P" n="77" break="no"/>bonum: quia sunt bona infinita. igitur. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e426">
+                  <lb ed="#P" n="78"/>¶ Pro isto dubio hollot concedit istas quatuor. 
+      <lb ed="#P" n="79"/>propositiones. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e433">
+                  <lb ed="#P" n="80"/>¶ Pria quod minimus actus contritionis est magis pre 
+      <lb ed="#P" n="81"/>ninando quam omnes actoboni sequentes et quam actus martirii. 
+      <lb ed="#P" n="82"/>Secunda quod qui nunquam peccauit mortaliter sicut 
+      <lb ed="#P" n="83"/>sancta virgo maria: nunquam elicuit actum ita 
+      preminan<lb ed="#P" n="84" break="no"/>dum: sicut minimus actus contritionis. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e447">
+                  <lb ed="#P" n="85"/>¶ Tertia quod pro nullis actibus optimis tantum 
+      <lb ed="#P" n="86"/>bonum redderetur sicut pro baptismali gratia. Et si 
+      di<lb ed="#P" n="87" break="no"/>cas quod non quia videtur mirabile. respondetur quod non opertet quaerere 
+      <lb ed="#P" n="88"/>rationem huius. sed sufficit nobis. quia deo ita placet. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e458">
+                  <lb ed="#P" n="89"/>¶ Quarta quod primum remississimum mortale vnius 
+      <lb ed="#P" n="90"/>nime sancti viri: est magis pumiendum quam aliquod sequens 
+      <lb ed="#P" n="91"/>vel omnia alia sequentia grauissima. Sed ista non sunt vide 
+      <lb ed="#P" n="92"/>re meo bene nec rationabiliter dicta. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e469">
+                  <lb ed="#P" n="93"/>¶ Idcirco respondetur aliter cum magistro hugo 
+      <lb ed="#P" n="94"/>lino praemi ttendo quatuor propositiones. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e476">
+                  <lb ed="#P" n="95"/>¶ Prima. Proportio inter bonitatem meriti pro 
+      <lb ed="#P" n="96"/>gratia prima pro actu contricionis / et actum sequentem / non est attem 
+      <lb ed="#P" n="97"/>denda penes latitudinem pene eterne euase: sed penes 
+      <lb ed="#P" n="98"/>glorie adipiscende latitudinem praecise. Probatur prima pars. 
+      <lb ed="#P" n="99"/>quia quantum ad euasionem pene eterne quodlem meritum est 
+      <lb ed="#P" n="100"/>equale quilicet enim qui meretur equaliter est non dignus 
+      <lb ed="#P" n="101"/>pens eterna et equaliter euadit Secunda pars patet quia 
+      ma<lb ed="#P" n="102" break="no"/>iori merito ceteris paribus correspondet maior 
+      lati<lb ed="#P" n="103" break="no"/>tudo glorie 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e498">
+                  <lb ed="#P" n="104"/>¶ Secunda propotio pena quae alicui est tanto peior quanto 
+      <lb ed="#P" n="105"/>est penaliorsiue penosior commensuratiue 
+      correspon<lb ed="#P" n="106" break="no"/>det grauitati culpe. patet quia vbi maior culpa ibi maior. 
+      <lb ed="#P" n="107"/>pena inesse pene 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e509">
+                  <lb ed="#P" n="108"/>¶ Tertia proportio quaelibet mortalis culpa prima 
+      posi<lb ed="#P" n="109" break="no"/>gratiam respicit priuationem gratie et glorie indiuisibiliter et 
+      <lb ed="#P" n="110"/>latitudiuem pene secundum latitudinem demeriti. Similiter quaelicet 
+      <lb ed="#P" n="111"/>ptritio prima post peccatum mortale respicit euasionem 
+      mor<lb ed="#P" n="112" break="no"/>tale respicit euasionem eterne mortis indiuisibiliter: et 
+      <lb ed="#P" n="113"/>atitudinem glorie secundum latitudinem gratie et sic licet 
+      culpa<lb ed="#P" n="114" break="no"/>perdat totam latitudinem glorie et gratie non tamen perdit eam vt 
+      lati<lb ed="#P" n="115" break="no"/>tudo sed indiuisibiliter et non latitudinaliter et 
+      conuer<lb ed="#P" n="116" break="no"/>sio ad deum licet euadat totam latitudinem pene non tamen 
+      <lb ed="#P" n="117"/>euadit eam latitudinaliter sed indiuisibiliter. Unde si cui 
+      <lb ed="#P" n="118"/>debetur latitudo pene eterne vt centum et deus infundat 
+      <lb ed="#P" n="119"/>gratiam illi partibiliter incipientem a non gradu. in b. in 
+      <lb ed="#P" n="120"/>stanti: tunc in b. debetur sibi latitudo pene vt centum: et 
+      <lb ed="#P" n="121"/>immediate post b. nichil de tota latitudine pene sibi de 
+      <lb ed="#P" n="122"/>beretur sed tantum proportionabiliter sibi deberetur de latitu¬ 
+      <!--312.xml-->
+      <pb ed="#P" n="147-r"/>
+                  <lb ed="#P" n="1"/>dinem glorie: quanta fuerit latitudo gratie. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e552">
+                  <lb ed="#P" n="2"/>¶ Quarta propositio quicumque meretur de nouo/ 
+      <lb ed="#P" n="3"/>meretur aliquam latitudinem glorie priter eternam mansio 
+      <lb ed="#P" n="4"/>nem et illius latitudins nouam certitudinem. et impliciter mere 
+      <lb ed="#P" n="5"/>tur euasionem omnis mali incompossibilis isti latitudini: et 
+      <lb ed="#P" n="6"/>siliter de demerito respectu noue latitudis pene E 
+      <lb ed="#P" n="7"/>sic patet quod quaelicet equatur latitudo meriti est equaliter 
+      bo<lb ed="#P" n="8" break="no"/>na beato nec melior est sibi prior quam sequens vt dicit 
+      hol<lb ed="#P" n="9" break="no"/>cot. Exemplum qualiter quantitas meriti quo ad esse bonum 
+      <lb ed="#P" n="10"/>non mensuratur penes ademptionem mali nec penes 
+      quantita<lb ed="#P" n="11" break="no"/>tem mali adempti Et similiter qualiter quantitas demerit i 
+      <lb ed="#P" n="12"/>non mensuratur per se penes quantitatem gratie vel glorie perdite 
+      <lb ed="#P" n="13"/>Imaginemur super centrum a / in sursum lineam infinitam et etiam 
+      <lb ed="#P" n="14"/>deorsum infinitam et sit b longitudo super a et c longitudo praec 
+      <lb ed="#P" n="15"/>se infra a et vltra ymaginemur quod conuerti in deum sit 
+      ascen<lb ed="#P" n="16" break="no"/>dere vel ab a / vel ab aliquo puncto super a: et quod one autem 
+      <lb ed="#P" n="17"/>a deo sit descendem incipiens praecise vel ab a vel ab ali 
+      <lb ed="#P" n="18"/>quo puncto infra a tunc ponatur quod petrus in suo 
+      mortali<lb ed="#P" n="19" break="no"/>sit in d puncto suba et iudas ex sua gratia sit in 
+      puncto<lb ed="#P" n="20" break="no"/>et supra a ita quod vterque equaliter distet ab a tunc petrus 
+      <lb ed="#P" n="21"/>conuertatur per horam ad deum tanta latitud ine meriti quanta 
+      <lb ed="#P" n="22"/>distat ab a quo facto petrus non solum redibit ad a ymo 
+      <lb ed="#P" n="23"/>incipiet ab a ascendere ine et distantiam qua est inter a et d 
+      infe<lb ed="#P" n="24" break="no"/>rius transibit indiuisibiliter et diuisibiliter ascendet et 
+      tem<lb ed="#P" n="25" break="no"/>poraliter moueri incipiet ab a versus edone c fiat in e / si 
+      <lb ed="#P" n="26"/>militer Iudas si auertatur per mortale equatr ecum morta 
+      <lb ed="#P" n="27"/>li petri per quod descendit ab a ind per horam tunc etiam per tantum 
+      te<lb ed="#P" n="28" break="no"/>lus descendet ab a in d et perdet latitudinem quae est inter e su 
+      <lb ed="#P" n="29"/>perius et a indiuisibiliter. Cum ergo totum bene operari et 
+      me<lb ed="#P" n="30" break="no"/>reri sit supra a et totumsdemereri vel demeritorie esse: sit 
+      <lb ed="#P" n="31"/>ifra a: sequitur quod infra ademptiones vel priuationes dictorum 
+      <lb ed="#P" n="32"/>terminorum a quibus indiuisibiliter fiant. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e622">
+                  <lb ed="#P" n="33"/>¶ Ex hoc infero quatuor correlaria. Primum 
+      <lb ed="#P" n="34"/>Omne meritum quo quis magis ascendit est si incipiet 
+      su<lb ed="#P" n="35" break="no"/>pra a ab aliquo puncto: non minus hebet annexampriuatio 
+      <lb ed="#P" n="36"/>nem totaliter ipsius esse deorsum quam si incipet ab a 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e633">
+                  <lb ed="#P" n="37"/>¶ Secundum correlarium quod per primam gratiam 
+      sem<lb ed="#P" n="38" break="no"/>per incipitur ab a et post primum mortale post gratiam / sper 
+      inci<lb ed="#P" n="39" break="no"/>pitur ab a patet quia incipitur per primam gratiam a non gradu ipsius 
+      <lb ed="#P" n="40"/>esse sursum et per primum mortale a non gradu ipsius esse 
+      deor<lb ed="#P" n="41" break="no"/>sum et sic patet quod a ymaginatur est status neuter per 
+      vtrius<lb ed="#P" n="42" break="no"/>que abnegationem tam meriti quam demeriti tam culpe quam gratio 
+      <lb ed="#P" n="43"/>Tertiu correlarium nullus viator de co lege est 
+      <lb ed="#P" n="44"/>proprie in a sed quiliet aut est supra a aut infra quia nullus est in neu 
+      <lb ed="#P" n="45"/>aro: sed quilet aut in gratia aut in mortali originali vel actuali. 
+      <lb ed="#P" n="46"/>¶ Quartum correlarium quod quis potest ascendere incidenm 
+      <lb ed="#P" n="47"/>do supra a et tamen ex isto vnico ascensu non acquirit 
+      maio<lb ed="#P" n="48" break="no"/>rem latitudinem: quam per gratiam primam distabat ab a etiam potest 
+      <lb ed="#P" n="49"/>contingere quod ex vnico actu maiorem latitudinem acquirat 
+      <lb ed="#P" n="50"/>vt patet per conclusiones. quitam et sextam articuli praecedentis. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e666">
+                  <lb ed="#P" n="51"/>¶ Ex istis patet quid dicendum est ad rationem factam in ista 
+      <lb ed="#P" n="52"/>dubitatione et quod holchot vt videtur insufficienter dicit 
+      <lb ed="#P" n="53"/>et minus verum. Et hec de secundo. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e675">
+                  <lb ed="#P" n="54"/>¶ Unc tertio est videndum vtrum 
+      <lb ed="#P" n="55"/>actus elicitus gratifice et 
+      praemiati<lb ed="#P" n="56" break="no"/>ue possit adeo non remunerari 
+      ve<lb ed="#P" n="57" break="no"/>ad praemium non acceptari. 
+      premitto<lb ed="#P" n="58" break="no"/>declarationes terminorum.
+    </p>
+               <p xml:id="oooo3o-k90093-d1e688">
+      ¶ 
+      Pri<lb ed="#P" n="59" break="no"/>mus terminus declarandus est actus 
+      <lb ed="#P" n="60"/>gratifice elicitus per gratifice opera. 
+      <lb ed="#P" n="61"/>ri non intelligo ipsam qualitatem praecise 
+      <lb ed="#P" n="62"/>qua est actus quae nec ipsa nec aliquid eius est capax praemiari prope¬ 
+      <!--312.xml-->
+      <lb ed="#P" n="63"/>praemio immo posset esse talis qualitas sine eo quod est 
+      ac<lb ed="#P" n="64" break="no"/>ceptari ad praemium vel ips coefficere gratifice Sed per 
+      gra<lb ed="#P" n="65" break="no"/>tifice elicere intelligo voluntatem viatoris viuificatam 
+      <lb ed="#P" n="66"/>deo ipso primcipaliter operanti per habitum gratie vertualiter co 
+      <lb ed="#P" n="67"/>pperari sicut sninaliter ponit augu. de verbis apostoli sermodoe 
+      <lb ed="#P" n="68"/>tertio decio. Et ista descriptio comprehendit tam 
+      primcipa<lb ed="#P" n="69" break="no"/>le et formale gratificans quam illud cui competit praemiari et omnem 
+      <lb ed="#P" n="70"/>taliter agere est agere gratificum. quia est agere vitale prim 
+      <lb ed="#P" n="71"/>cipale: et est viatoris partiale cooperare quod proprie ad praemium 
+      <lb ed="#P" n="72"/>acceptatur 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e724">
+                  <lb ed="#P" n="73"/>¶ Secundus terminus est hoc complexum ad praemium 
+      <lb ed="#P" n="74"/>icceptari: pro quo praemitto quod praemium quo agere 
+      gratifi<lb ed="#P" n="75" break="no"/>cum praemiabile dicitur est duplex quia vnum est extrisecum et 
+      distin<lb ed="#P" n="76" break="no"/>ctum ab actu gratifice elicito puta beatificum bene esse 
+      con<lb ed="#P" n="77" break="no"/>prehendens: videre deum et frui beatifice deo: aliud est 
+      <lb ed="#P" n="78"/>intrinsecum ipsi vitaliter ager eveliquasi essentialiter an 
+      <lb ed="#P" n="79"/>nexum. vt puta voluntatem iustificatam gratifica meliora 
+      <lb ed="#P" n="80"/>tione proficere vel profecisse per sic agere vel egisse: et istu 
+      <lb ed="#P" n="81"/>praemium est realiter distinctum inter se et a praeuio cooperari 
+      gra<lb ed="#P" n="82" break="no"/>tifico viatoris est distinguitur a primo praemio vt notum est: Et 
+      <lb ed="#P" n="83"/>nota quod ista tria sic se habent quod praemium primo modo dictum est 
+      in<lb ed="#P" n="84" break="no"/>comperabiliter melius et maius: quam praemium secundo modo dictum et prae 
+      <lb ed="#P" n="85"/>mium secundo modo dictum est perfectius et melius quam suum praemium 
+      <lb ed="#P" n="86"/>pperari gratificum fuerit bonum inquantum concernit cooperari 
+      <lb ed="#P" n="87"/>creature tiantum est tali gratifico agere vel cooperari 
+      abso<lb ed="#P" n="88" break="no"/>ute¬ 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e761">
+                  <lb ed="#P" n="89"/>¶ his praemissis sit prima conclusio. Possibile est ge
+            <lb ed="#P" n="90" break="no"/>¶ neraliter / quod viatori pro suo actu per gratiam elicito non red 
+      <lb ed="#P" n="91"/>datur praemium beatificum. probatur quia si non sequitur quod quilicet viatorum 
+      <lb ed="#P" n="92"/>post vnicum gratifice operatum vel elicitum actum: tanta necem 
+      <lb ed="#P" n="93"/>sitate esset praedestinatus quanta necessitate esset illum actum prae 
+      <lb ed="#P" n="94"/>teritum esse: quod est inconueniens. Item nullum cooperari viatoris  
+      <lb ed="#P" n="95"/>est necessarium antecedens ad deum bificare ipsum alioquin isto 
+      <lb ed="#P" n="96"/>operari praeterito: tanta necessitate deus esset redditurus 
+      <lb ed="#P" n="97"/>fruitionem et visionem in isto viatore: quanta necessitate est 
+      il<lb ed="#P" n="98" break="no"/>lud preteritum esse preteritum. quod falsum est. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e785">
+                  <lb ed="#P" n="99"/>¶ Secunda conclusio absolute possibile est quod haben 
+      <lb ed="#P" n="100"/>ti finaliter actum gratificum: non reddatur praemium 
+      gratificum<lb ed="#P" n="101" break="no"/>patet sicut praecedens quia taliter operari non sufficit necessita 
+      <lb ed="#P" n="102"/>re deum ad dandum eternaliter praemium melius 
+      incompabili<lb ed="#P" n="103" break="no"/>ter quam sic operari sit bonum. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e798">
+                  <lb ed="#P" n="104"/>¶ Tertia conclusio quod de potentia dei ordinata 
+            <lb ed="#P" n="105"/>stante repromissione: non est possibile qui (stante ipsa 
+      ordi<lb ed="#P" n="106" break="no"/>natione) alicui viatori pro actu suo gratifice elicito red 
+      <lb ed="#P" n="107"/>datur praemium beatificum. probatur contradictionem claudit 
+      ordum<lb ed="#P" n="108" break="no"/>nationem dei stare: et non sic esse vel fore sicut deus praeordi 
+      <lb ed="#P" n="109"/>nauit vel repromisit. fidelis enim est deus seipstum negare 
+      <lb ed="#P" n="110"/>non potest: sed ordinatio diuina est quod decedens in gratia: habens 
+      fi<lb ed="#P" n="111" break="no"/>taliter actum gratificum: finaliter habeat vitam eternam et sit 
+      <lb ed="#P" n="112"/>peatus igitur etc. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e820">
+                  <lb ed="#P" n="113"/>¶ Quarta conclusio quod non est possibile voluntat em 
+            <lb ed="#P" n="114"/>viatoris gratifice et vitaliter operari: et non ad praemium ad q 
+      <lb ed="#P" n="115"/>ceptari capiendo praemium secundo modo probatur 
+      impossibilita<lb ed="#P" n="116" break="no"/>tem tcludit deum velle et facere b voluntatem nouiter si 
+      bi<lb ed="#P" n="117" break="no"/>scilicet deo operanti per gratiam eooperari aliqualiter: qualiter 
+      <lb ed="#P" n="118"/>cooperando b melioratur simpliciter: et deum non acceptare 
+      <lb ed="#P" n="119"/>b ad istum profectum meliorationis ergo. non est possibile etc 
+      <lb ed="#P" n="120"/>omequena nota. quia deum acceptare illud cooperari ad praemium 
+      se<lb ed="#P" n="121" break="no"/>cundo modo dictum: et deum velle voluntatem sic sibi cooperantem 
+      <lb ed="#P" n="122"/>meliorari: sunt in propositio conuertibilia. Et probatur antecedens 
+      <lb ed="#P" n="123"/>quia qualitercumque esse velle diuinum principaliter operatur: et 
+      <lb ed="#P" n="124"/>creaturam cooperari facit taliter ec complacenter acceptat 
+      <!--313.xml-->
+      <pb ed="#P" n="147-v"/>
+                  <lb ed="#P" n="1"/>non enim hic est solo permissio nec sola praeceptio sed est vel 
+      <lb ed="#P" n="2"/>le beneplaciti proprie ad extra 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e857">
+                  <lb ed="#P" n="3"/>¶ Ex hus sequitur correlaria Primum quodlem age 
+      <lb ed="#P" n="4"/>re gratificum praemiatur meliori permio quam ipsum sit bonum: et 
+      <lb ed="#P" n="5"/>sic videtur quod ad condignum praemietur citra premium 
+      btifi<lb ed="#P" n="6" break="no"/>cum Patet ex conclusione. a. et notabili supius in hoc 
+      ar<lb ed="#P" n="7" break="no"/>ticulo posito¬ 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e871">
+                  <lb ed="#P" n="8"/>¶ Secundum correlarium quod actus qui nunc est meri 
+      <lb ed="#P" n="9"/>torius vite eterne poterit cras nunquam fuisse meritoris 
+      <lb ed="#P" n="10"/>patet per primam et secundam conclusiones. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e880">
+                  <lb ed="#P" n="11"/>¶ Tertium quod actus nunc meritorius premii secut 
+      <lb ed="#P" n="12"/>do modo dicti non potest cras non fuisse meritorius 
+      <lb ed="#P" n="13"/>eiusdem praemii: patet ex quarta conclusione. 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e889">
+                  <lb ed="#P" n="14"/>¶ Quartu correlarium quod b. actus qui nunc est 
+      meri<lb ed="#P" n="15" break="no"/>torius secundi praemii et non primi potest esse meritorius primi 
+      <lb ed="#P" n="16"/>Et hec sufficiant de tertio principali¬ 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e898">
+                  <lb ed="#P" n="17"/>¶ Ad rationes primcipales. Ad primam dico quod facit 
+      <lb ed="#P" n="18"/>pro conclusione quarta primi articuli 
+    </p>
+               <p xml:id="oooo3o-k90093-d1e905">
+                  <lb ed="#P" n="19"/>¶ Ad secundam nego consequentiam: quia ideo deus 
+      <lb ed="#P" n="20"/>sic ordinauit non quod vel habitus sit melior: sed quia habitus 
+      <lb ed="#P" n="21"/>manet infine / act autem non Item quod secundum opera datur 
+      ha<lb ed="#P" n="22" break="no"/>bitus vt finaliter resultet ad quid valuerunt opera Item 
+      <lb ed="#P" n="23"/>tertio quia quis sine actu soluatur et non sine habitu. 
+      <lb ed="#P" n="24"/>Ad tertiam dico quod auctio habitus ordinatur in 
+      <lb ed="#P" n="25"/>actum tanquam in finem vlteriorem. et sic est finis quastionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

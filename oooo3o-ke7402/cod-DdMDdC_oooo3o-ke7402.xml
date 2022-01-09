@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="12-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-ke7402"><!--l1d1q2 -->
+            <head xml:id="oooo3o-ke7402-Hd1e99">Quaestio 2</head>
+            <p xml:id="oooo3o-ke7402-d1e101">
+               <lb ed="#P" n="120"/>¶ COnsequenter circa distinctionem 
+      <lb ed="#P" n="121"/>predictam. Quero vtrum omni re citra dei 
+      <lb ed="#P" n="122"/>propter ipsum eque sic vtendum. 
+    </p>
+            <p xml:id="oooo3o-ke7402-d1e110">
+      ¶ Et 
+      ar<lb ed="#P" n="123" break="no"/>guitur quod non quia si propter deum omni re 
+      cu<lb ed="#P" n="124" break="no"/>tra ipsum eque esset vtendum: ergo deus 
+      <lb ed="#P" n="125"/>deus esset plus diligendus quam patet 
+      fra<lb ed="#P" n="126" break="no"/>tervel proximus. consequens videtur falsum. et consequentia pa: et. sed 
+      <!--43.xml-->
+      <pb ed="#P" n="12-v"/>
+               <lb ed="#P" n="1"/>falsitas consequentis probatur. quia aut esset finite plus 
+      <lb ed="#P" n="2"/>diligendus vel infinite. Non finite vt patet per beatum 
+      <lb ed="#P" n="3"/>augustinum. 6 de trinitate. capit. 8 de magnis. vbi 
+      di<lb ed="#P" n="4" break="no"/>cit. Nec illa questio iam moueatur quantum charitatis 
+      <lb ed="#P" n="5"/>debeamus impendere: quandam incomparabiliter plusquam non 
+      <lb ed="#P" n="6"/>bis deo. Nec infinite: quia licet augere dilectionem de 
+      <lb ed="#P" n="7"/>per aliquem gradum propter aliquod benficium exhibitum prox 
+      <lb ed="#P" n="8"/>mo: vt patet per beatum Bernardum in lib. de diligendo 
+      <lb ed="#P" n="9"/>deum: in principio dicentem Si totum me debeo deo pro 
+      <lb ed="#P" n="10"/>me facto: quantum debeo pro me refecto. et multa 
+      simili<lb ed="#P" n="11" break="no"/>dicit. Ex quibus videtur quod dilectio augeri debet pro 
+      <lb ed="#P" n="12"/>pter officium sibi vel proximo exhibitum.
+    </p>
+            <p xml:id="oooo3o-ke7402-d1e152">
+      ¶ Probatur 
+      <lb ed="#P" n="13"/>etiam per decretalem extra de testamentis capitulo cum 
+      <lb ed="#P" n="14"/>n officiis. vbi sic dicitur: in officio charitatis prime 
+      <lb ed="#P" n="15"/>itenemur his a quibus benficia recepimus. quod non 
+      <lb ed="#P" n="16"/>fieret: nisi propter benficia contingeret continue augeri 
+      <lb ed="#P" n="17"/>dilectionem proximi. ergo a multo fortiori dilectionem dei. 
+      <lb ed="#P" n="18"/>Secundo quilibet homo debet plus se dilige 
+      <lb ed="#P" n="19"/>re in deum: quam proxitrum. ergo non debet equaliter vti scip 
+      <lb ed="#P" n="20"/>so et proximo. consequentia tenet: eo quod se diligere et 
+      dili<lb ed="#P" n="21" break="no"/>gere proximum est bene vti. Antecedens est augustini libro de 
+      <lb ed="#P" n="22"/>quantitate anime. plus amoris michi debeo quam proximo 
+      <lb ed="#P" n="23"/>magis enim michi me debeo quam omnibus ceteris quae 
+      <lb ed="#P" n="24"/>uis deo magis quam michi / et idem dicit primo 
+      retracta<lb ed="#P" n="25" break="no"/>tionum capi. 8.
+    </p>
+            <p xml:id="oooo3o-ke7402-d1e183">
+      ¶ Econtra vero potest argui. quandam 
+      quanto<lb ed="#P" n="26" break="no"/>rationalis creatura iustior est seu melior: tanto 
+      compl<lb ed="#P" n="27" break="no"/>cendum est magis eo quod deo inhercat (et hoc est magis 
+      <lb ed="#P" n="28"/>ea vti) sed proximus est me iustior: patet de beato / patet 
+      <lb ed="#P" n="29"/>de aliquo viatorc. ergo non omni alio a deo est eque vtendum. 
+      <lb ed="#P" n="30"/>Tertio arguitur contra suppositum vel prelacer 
+      <lb ed="#P" n="31"/>tem sic. odio dei non est propter deum vtendum / ergo etc. 
+      con<lb ed="#P" n="32" break="no"/>sequentia patet. antecedens probo / si quis vult vti odio dei vult 
+      <lb ed="#P" n="33"/>assumere odium dei in facultatem voluntatis propter 
+      ali<lb ed="#P" n="34" break="no"/>ud: sed non potest id fieri nisi eligendo odium et per 
+      conse<lb ed="#P" n="35" break="no"/>ques odiendo. quod essc propter deum non potest. Et 
+      simi<lb ed="#P" n="36" break="no"/>liter argui potest de omnibus malis culpe. 
+    </p>
+            <p xml:id="oooo3o-ke7402-d1e210">
+               <lb ed="#P" n="37"/>¶ In oppositum arguo sic: omna alia a deo sunt 
+      <lb ed="#P" n="38"/>equalis perfectionis in esse: ergo questio vera. 
+      conse<lb ed="#P" n="39" break="no"/>quentia patet ex regula data augustini. tantum res aman 
+      <lb ed="#P" n="40"/>da est quantum est. antecedens ex duobus probari potest / primum 
+      <lb ed="#P" n="41"/>quia omnia sunt valde bona. Secundum quia omnia 
+      equali<lb ed="#P" n="42" break="no"/>ter distant a deo non vnum plusquam aliud. quia sicut vnum 
+      <lb ed="#P" n="43"/>eparticipat de bonitate dei: et quodlibet aliud per esse 
+    </p>
+            <p xml:id="oooo3o-ke7402-d1e228">
+               <lb ed="#P" n="44"/>¶ In ista questione erunt tres articuli. in primo ponam 
+      <lb ed="#P" n="45"/>declarationes terminorum. In secundo conclusiones / et 
+      <lb ed="#P" n="46"/>n tertio respondebo ad obiectiones. 
+    </p>
+            <div xml:id="oooo3o-ke7402-Dd1e237">
+               <head xml:id="oooo3o-ke7402-Hd1e239">Articulus 1</head>
+               <p xml:id="oooo3o-ke7402-d1e241">
+                  <lb ed="#P" n="47"/>Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e246">
+                  <lb ed="#P" n="48"/>¶ QUantum ad primandeo articulum vltra 
+      <lb ed="#P" n="49"/>distinctionem dari possibilem de vti (vt ha 
+      <lb ed="#P" n="50"/>bitum est. in primo articulo questionis praece 
+      <lb ed="#P" n="51"/>dent) dico quod vti quandoque accipitur largissie 
+      <lb ed="#P" n="52"/>omni exercitio vel operatione cuiusque. quo 
+      <lb ed="#P" n="53"/>dicitur primo regum capitulo. 17 de dauio 
+      <lb ed="#P" n="54"/>quod vsum armorum non habuit. sicut etiam dicitur in libro 
+      tho<lb ed="#P" n="55" break="no"/>picorum quod cuius vsus bonus est ipsum quoque bonum est 
+      <lb ed="#P" n="56"/>Alio modo accipitur large pro actu voluntatis 
+      que<lb ed="#P" n="57" break="no"/>aliquid pertractatur mente. quo modo accipit augustinus. 11 
+      <lb ed="#P" n="58"/>de trinitate capitulo. 11 dicens vsus est voluntate per 
+      <lb ed="#P" n="59"/>tractare ea quae continentur in memoria et intelligetia 
+      <lb ed="#P" n="60"/>Et in eodem dicit: vti est aliquid in facultatem voluntatis 
+      <lb ed="#P" n="61"/>assumere. et sic vti supius est ad frui. sicut genus ad 
+      <lb ed="#P" n="62"/>speciem.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e281">
+      ¶ Tercio modo sumitur vti proprie et stricte 
+      <!--43.xml-->
+      <lb ed="#P" n="63"/>et sic quodlibet assumere aliquid in facultatem voluntatis 
+      <lb ed="#P" n="64"/>propter aliud dicitur vti vel vsus quiquidem aliquando 
+      <lb ed="#P" n="65"/>est volitio aliquando est nolitio: aliquando complexa 
+      <lb ed="#P" n="66"/>aliquando incomplexa.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e294">
+      ¶ Quarto modo potest sumi vsus 
+      <lb ed="#P" n="67"/>strictissime et propriissime. et sic solum actus voluntatis  
+      <lb ed="#P" n="68"/>complacenter elicitus respectu obiecti creati / et actuali 
+      <lb ed="#P" n="69"/>ter vel habitualiter in vltimum finem relatus: dicitur vsus 
+      <lb ed="#P" n="70"/>et hic est vsus rectus: quem sic describit magister 
+      hu<lb ed="#P" n="71" break="no"/>golinus distinctione . i. Usus recto est voluntatis actus 
+      <lb ed="#P" n="72"/>elicitus / scti spiritus gratia viuificato / complacenter 
+      ser<lb ed="#P" n="73" break="no"/>uatus / respectu obiecti noliti vel voliti / actuali vel 
+      <lb ed="#P" n="74"/>habituali inclinatione in summum bonum relati. Patet 
+      <lb ed="#P" n="75"/>ista descriptio ex terminis / et talis vsus est recta 
+      di<lb ed="#P" n="76" break="no"/>lectio proximi vel obiecti creati: quem infidelis non 
+      cre<lb ed="#P" n="77" break="no"/>dens deum / habere non potest. Et secundum magistrum Gregorium 
+      <lb ed="#P" n="78"/>vti propriissime / est assumere aliquid in facultatem 
+      volunta<lb ed="#P" n="79" break="no"/>tis propter aliud quo fruendum est.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e326">
+      ¶ Tercio modo sumen 
+      <lb ed="#P" n="80"/>do vti dico quod vsus est actus rationalis creature secundum 
+      <lb ed="#P" n="81"/>potentiam liberam elicitus quo aliquid diligitur vel 
+      assu<lb ed="#P" n="82" break="no"/>mitur propter aliud. Patet ista descriptio vsus per 
+      au<lb ed="#P" n="83" break="no"/>gustinu. 4 de trinitate ca. penultimo dicentem. vti est aliquid 
+      <lb ed="#P" n="84"/>in facultatem voluntatis assumere id est voluntatem sua 
+      li<lb ed="#P" n="85" break="no"/>bertate / aliquem actum suum siue complexum siue 
+      incomple<lb ed="#P" n="86" break="no"/>xum siue velle siue nole elicere. Unde assumere est 
+      ge<lb ed="#P" n="87" break="no"/>nus ad fruitione et vsu assumere. quo ad primum patet 
+      <lb ed="#P" n="88"/>vnde cimo de trinitate capi. 13. Utimur illa re quan 
+      <lb ed="#P" n="89"/>propter aliud querimus. quo ad vltimum patet dicta 
+      de<lb ed="#P" n="90" break="no"/>scriptio / et ex dictis danielis lib. 2. capit. 22. vbi dicit 
+      <lb ed="#P" n="91"/>quod hec quatuor habent ordinem inter se: scilicet desiderium 
+      <lb ed="#P" n="92"/>finis / electio / impetus id est motus membrorum interiorum et 
+      <lb ed="#P" n="93"/>exteriorum / et vsus. sic quod vsus aliastria presupponit. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e359">
+                  <lb ed="#P" n="94"/>¶ Ex istis descriptionibus sequuntur aliquae propositiones. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e364">
+                  <lb ed="#P" n="95"/>¶ Prima est quod bruta nullo medo proprie possunt 
+      <lb ed="#P" n="96"/>vti. patet ex notabili et ex descriptione vti: quia sola ratio 
+      <lb ed="#P" n="97"/>nalia dicuntur vti. et etiam quia talia non libere eliciunt 
+      <lb ed="#P" n="98"/>actus suos: tum quia non habent voluntatem. vt vult 
+      <lb ed="#P" n="99"/>idem doctor. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e377">
+                  <lb ed="#P" n="100"/>¶ Secunda quod vsus proprie est actus voluntatis 
+      ef<lb ed="#P" n="101" break="no"/>fectiue. patet ex descriptione. et probatur quia eius est 
+      <lb ed="#P" n="102"/>vti cuius est frui: sed voluntatis est proprium frui ex 
+      <lb ed="#P" n="103"/>go voluntatis etiam erit proprie vti. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e388">
+                  <lb ed="#P" n="104"/>¶ Tertia non omnis rei cuius vsus eius est 
+      di<lb ed="#P" n="105" break="no"/>ectio. patet de vsu miserie. rmmo vsus formaliter 
+      <lb ed="#P" n="106"/>aliquando est odium. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e397">
+                  <lb ed="#P" n="107"/>¶ Quarta licet omnis volens vel diligens a 
+      pro<lb ed="#P" n="108" break="no"/>pter / b / actu vel habitu velit / b / non tamen eodem acir 
+      <lb ed="#P" n="109"/>vult / a / propter / b / et vult / b. Patet ista secunda pars / 
+      c<lb ed="#P" n="110" break="no"/>prima conclusione tertii articuli questionis 
+      preceden<lb ed="#P" n="111" break="no"/>tis. et prima probatur: quia aliud non esti a / esse volitum 
+      pro<lb ed="#P" n="112" break="no"/>pter / b / quam si dicatur / a / est volitum / quia / b / est volitum 
+      <lb ed="#P" n="113"/>vet dictum est ibidem. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e416">
+                  <lb ed="#P" n="114"/>¶ Quinta propositio nulla absolura vel 
+      incomple<lb ed="#P" n="115" break="no"/>xa dilectio creature: est rectus vsus. probatur. quia 
+      <lb ed="#P" n="116"/>sola illa dilectio vocatur recte vsus per quam volo 
+      <lb ed="#P" n="117"/>vel opto taliter esse michi vel alteri / qualiter esse est 
+      <lb ed="#P" n="118"/>vere bene vel iuste esse: referendo in sumtrum bonum 
+      ve<lb ed="#P" n="119" break="no"/>dicit descriptio: sed nulla talis est incomplexa vel 
+      ab<lb ed="#P" n="120" break="no"/>soluta dilectio (vt patet) quia dilectio absoluta non 
+      <lb ed="#P" n="121"/>est referibilis 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e436">
+                  <lb ed="#P" n="122"/>¶ Sexta. volitio qua quis vult proximum peccare 
+      <lb ed="#P" n="123"/>ifatni est proprie vsus: sed abusus / et vicium detestandum
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e443">
+                  <lb ed="#P" n="124"/>¶ Probatur nam si opto vel volo aliquem esse furem
+    </p>
+            </div>
+            <div xml:id="oooo3o-ke7402-Dd1e449">
+               <head xml:id="oooo3o-ke7402-Hd1e451">Articulus 2</head>
+               <p xml:id="oooo3o-ke7402-d1e453">
+      <!--44.xml-->
+                  <pb ed="#P" n="13-r"/>
+                  <lb ed="#P" n="1"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e462">
+                  <lb ed="#P" n="2"/>¶ re Unc pono conclusiones sequendo 
+      <lb ed="#P" n="3"/>doctrinam magistri nostri hugolini. et 
+      prae<lb ed="#P" n="4" break="no"/>mo de supposito. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e471">
+                  <lb ed="#P" n="5"/>¶ Prima e. Omnis vsus a qualibet 
+      <lb ed="#P" n="6"/>et fruitone specifice distinguitur. probatur nulla 
+      <lb ed="#P" n="7"/>volitio alicuius sciti non esse bonum infinitum / sed finitum et 
+      <lb ed="#P" n="8"/>contingens: est eiusdem speciei cum volitione boni sciti esse 
+      <lb ed="#P" n="9"/>infinitum et necessarium. sed quaelibet fruitio recta est 
+      voli<lb ed="#P" n="10" break="no"/>tio alicuius sciti esse infinitum bonum et necessarium / et vsus 
+      <lb ed="#P" n="11"/>quilibet est volitio alicuius sciti esse bonum finitum et 
+      contin<lb ed="#P" n="12" break="no"/>gens: ergo non sunt eiusdem speciei. Maior est nota / quia sicut 
+      <lb ed="#P" n="13"/>cognitiones talium. obiectorum distinguntur: sic et volitio. 
+      <lb ed="#P" n="14"/>nes. et minor apparet per dicta in primo articulo. et est 
+      <lb ed="#P" n="15"/>per dicta in quaestione praecedenti. Confirmatur Nam 
+      descriptio<lb ed="#P" n="16" break="no"/>fruitionis est: quod fruitio est actus incomplexus et non relati 
+      <lb ed="#P" n="17"/>et vsus recto (vt dicit quita propositio primi 
+      articuli<lb ed="#P" n="18" break="no"/>est: quod est actus complexus et relatus sed omnis actus complexus a 
+      <lb ed="#P" n="19"/>quolibet incomplexo specifice distinguitur. ergo stat conclusio. 
+      <lb ed="#P" n="20"/>Correlarium primum Nullus vsus est fuitio. 
+      <lb ed="#P" n="21"/>patet ex conclusione quandam si quilibet vsus a qualibet 
+      frui<lb ed="#P" n="22" break="no"/>tione specifice distinguitur. ergo et numero distinguitur. 
+      pa<lb ed="#P" n="23" break="no"/>tet quia quaecumque differunt specie: differunt numero idem 
+      po<lb ed="#P" n="24" break="no"/>nit Gregorius libro primo. distinctione prima. questio 
+      <lb ed="#P" n="25"/>ne prima contra obam. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e519">
+                  <lb ed="#P" n="26"/>¶ Oppositum tamen tenuit adam ponens actum 
+      <lb ed="#P" n="27"/>medium quai simul est vsus et fruitio. vnde arguit sic. 
+      dilectio<lb ed="#P" n="28" break="no"/>aliqua creature est relatas / ergo ipsa diligit aliquid 
+      propter<lb ed="#P" n="29" break="no"/>aliud. Consequentia patet. antecedens probatur alias ea 
+      <lb ed="#P" n="30"/>dem dilectio potest esse nunc vitiosa nunc virtuosa.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e533">
+      ¶ 
+      Se<lb ed="#P" n="31" break="no"/>cundo arguit sic: quaro quid est habitu diligere propter aliud 
+      <lb ed="#P" n="32"/>aliquid an sit habitus vel act. si habitus ergo habens illum 
+      <lb ed="#P" n="33"/>semper diligit aliquid propter aliud. si acto. hoc est 
+      contra<lb ed="#P" n="34" break="no"/>experientiam / quod habeamus semper simul tot actus. Ex hoc 
+      <lb ed="#P" n="35"/>patet quod possumus diligere aliquid propter aliud et tam 
+      <lb ed="#P" n="36"/>non propter vltimum finem ergo est actus medius.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e549">
+      ¶ Tercio. 
+      di<lb ed="#P" n="37" break="no"/>lectio qua simul angelus diligit christi humanitatem 
+      <lb ed="#P" n="38"/>est simul vsus et frnitio. quia est dilectio mediatoris 
+      que<lb ed="#P" n="39" break="no"/>mediator vnus est christus deus et homo. Propter ista 
+      po<lb ed="#P" n="40" break="no"/>nit Adam actum medium qui est simul vsus et fruitio. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e560">
+                  <lb ed="#P" n="41"/>¶ Pro responsione ad argumenta ade 
+      Notan<lb ed="#P" n="42" break="no"/>dum quod non est necesse quod omnis res (qua diligit) habeat 
+      pli<lb ed="#P" n="43" break="no"/>res volitiones elicitas. sed sufficit quod vnam actu et 
+      a<lb ed="#P" n="44" break="no"/>liam habitu. vnde ad primam rationem dico quod dilectio illa alio 
+      <lb ed="#P" n="45"/>actu est reseribilis: quam actu quo creatura diligitur. vel 
+      <lb ed="#P" n="46"/>quia ex alterius amore causatur vt dilectio herbe 
+      cau<lb ed="#P" n="47" break="no"/>satur ab amore sanitatis. vel ex sola aliquando causatur 
+      <lb ed="#P" n="48"/>habituali inclinatione: per hoc etiam secundum 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e580">
+                  <lb ed="#P" n="49"/>¶ Ad Tertium de angelo dico quod si est 
+      incomple<lb ed="#P" n="50" break="no"/>xus amor / tunc est persone christi et sic est fruitio. vel est 
+      na<lb ed="#P" n="51" break="no"/>ture diuine: et sic etiam praecise est fruitio / vel est humane 
+      <lb ed="#P" n="52"/>nature praecise / et sic est vsus Non autem potest esse vnus 
+      amori<lb ed="#P" n="53" break="no"/>incomplexus vtriusque nature. vt dictum est in tertio 
+      articu<lb ed="#P" n="54" break="no"/>lo quaestionis praecedentis. Si vero est complexus amor / tunc ali 
+      <lb ed="#P" n="55"/>quo modo concludit vtramque. placet enim mihi deum sumpsisse 
+      <lb ed="#P" n="56"/>humanam naturam. sed qualis acto sit ille patebit in 
+      se<lb ed="#P" n="57" break="no"/>cunda conclusione. Istud est est contra olram qui putauit quod si volo 
+      <lb ed="#P" n="58"/>herbam propter sanitatem. talis volitio respectu sanitatis 
+      <lb ed="#P" n="59"/>esset fruitio et respectu herbe esset vso. Non dicit quod idem 
+      <lb ed="#P" n="60"/>actus poterat esse vso et fruitio quod est falsum. quandam non quilib 
+      <lb ed="#P" n="61"/>tactus respectu finis est fruitio sed solus acto absolutus vel 
+      <!--44.xml-->
+      <lb ed="#P" n="62"/>incomplexus respectufinis vltimi. Ideo dicendum quod 
+      ta<lb ed="#P" n="63" break="no"/>lis volitio est proprie vsus. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e617">
+                  <lb ed="#P" n="64"/>¶ Secundum corre. quaelibet fruitio recta est quolibet 
+      <lb ed="#P" n="65"/>vsu perfectior. probatur quia totum genus fruitionis est nobili 
+      <lb ed="#P" n="66"/>toto grastioe vsu perfectione essentiali. vt faciliter posse 
+      dedu<lb ed="#P" n="67" break="no"/>ci ergo.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e628">
+      ¶ Secunda conclusio Non omnis actus voluntatis est vso vel 
+      <lb ed="#P" n="68"/>fruitio contra gregorium probatur non one velle vel nolle est vso 
+      ve<lb ed="#P" n="69" break="no"/>fruitio ergo. antecedens arguitur de istis nolitionibus et 
+      voli<lb ed="#P" n="70" break="no"/>tionibus volo deum esse summum bonum et croatorem / oprito 
+      dcum<lb ed="#P" n="71" break="no"/>numquam humaninam naturam reliquere. placet michi patrem 
+      produ<lb ed="#P" n="72" break="no"/>cere filium / gaudeo deum posse omnia / nolo deum esse 
+      mis<lb ed="#P" n="73" break="no"/>rum / nolo deum esse iniustum / que non sunt fruitiones. 
+      cum<lb ed="#P" n="74" break="no"/>fruitio sit actus incomplexus nec est vso: quia non referuntur 
+      <lb ed="#P" n="75"/>in aliud Nam deus non est aliud quam id circa quod ille 
+      vo<lb ed="#P" n="76" break="no"/>litiones sunt. etiam quia deo non est vtendum. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e651">
+                  <lb ed="#P" n="77"/>¶ Correlarium primum aliquis est actus medius vel 
+      <lb ed="#P" n="78"/>esse potest / inter fruitionem et vsum: circa deum et circa 
+      crea<lb ed="#P" n="79" break="no"/>turam: qui nec erit vsus nec fruitio / patet ex conclusione / et 
+      <lb ed="#P" n="80"/>est contra adam. dictum tamen medium non videtur sufficienter 
+      <lb ed="#P" n="81"/>probare doctor subtilis libro primo distinctione prima 
+      <lb ed="#P" n="82"/>uistione prima / distinguens de duplici actu assentiendi 
+      <lb ed="#P" n="83"/>iutellectus et voluntatis propter se et propter aliud. vbi 
+      <lb ed="#P" n="84"/>arguit sic voluntati potest ostendi aliquod bonum 
+      absolute<lb ed="#P" n="85" break="no"/>apprehensum / nec sub ratione propter se boni. nec propter aliud 
+      <lb ed="#P" n="86"/>ergo voluntas potest actum medium habere. probatur consequentia quia 
+      <lb ed="#P" n="87"/>potest se conformare vel non difformare ab apprehensione / 
+      <lb ed="#P" n="88"/>luxta illud tertio thopicorum. quod est in intellectum 
+      affirma<lb ed="#P" n="89" break="no"/>tio et negatio. est in voluntate prosecutio et fuga. Sed 
+      <lb ed="#P" n="90"/>ista ratio non probat vnde arguit magister hugolinus redu 
+      <lb ed="#P" n="91"/>cendo eam contra cum sic. voluntati pot ostendi aliquod bonum 
+      <lb ed="#P" n="92"/>absolute nec sub ratione volibilis incomplexe nec sub 
+      ration<lb ed="#P" n="93" break="no"/>volibilis complexe: ergo voluntas potest sic velle. consequens est 
+      im<lb ed="#P" n="94" break="no"/>possibile.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e693">
+      ¶ Preterea potest ostendi voluntati aliquod 
+      ob<lb ed="#P" n="95" break="no"/>iectum et non dictari vtrum sit volendum vel nolendum: ergo sic. 
+      <lb ed="#P" n="96"/>voluntas potest habere actum / quo nec velit nec nolit. quod est 
+      <lb ed="#P" n="97"/>falsum. Unde ad rationem dico / quod si intellectus dictaret quod 
+      <lb ed="#P" n="98"/>nec propter se nec propter aliud esset volendum vel diligen 
+      <lb ed="#P" n="99"/>dum: numquam tali dictamini posset se voluntas conformare. 
+      <lb ed="#P" n="100"/>¶ Actum etiam mediumponit praestantissimus magister / et 
+      <lb ed="#P" n="101"/>piter meus magister francscus de parisio / regens in domo 
+      <lb ed="#P" n="102"/>minorum libro. 1 distinctione. 1. articuo. 3. conclusione. 1. quam 
+      <lb ed="#P" n="103"/>probat decem rationibus quas adducem nolo causa breuitatis  
+      <lb ed="#P" n="104"/>Secundum correlarium: non est necesse quod omnem velle 
+      <lb ed="#P" n="105"/>vel nolle circa deum (quod non est fruitio) si propter aliud volitum 
+      <lb ed="#P" n="106"/>vel nolitum a deo. patet de volitionibus suprapositis. id non 
+      <lb ed="#P" n="107"/>sequitur hoc velle vel nolle non non est fruitio ergo est vsus 
+      <lb ed="#P" n="108"/>si deo non sit vtendum. quod non debet verti in dubium. 
+      <lb ed="#P" n="109"/>Tertia conclusio. omnis rectus vsus aliqua 
+      ordina<lb ed="#P" n="110" break="no"/>ta fruitione est posterior / probatur omnis vsus est propter 
+      <lb ed="#P" n="111"/>aliud volitum et prius dilectum. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e732">
+                  <lb ed="#P" n="112"/>¶ Primum correlarium. naturaliter prius est diligem bonum 
+      <lb ed="#P" n="113"/>quam fugem malum. Patet quia dilectio boni est causa fuge mali. 
+      <lb ed="#P" n="114"/>Secundum precepta negatiua sunt propter 
+      <lb ed="#P" n="115"/>affirmatiua / patet ex immediate percedenti. Item primus 
+      <lb ed="#P" n="116"/>actus voluntatis est volitio. Istud probatur per predictum 
+      <lb ed="#P" n="117"/>reuerendum magistrum vbi. q. 2. sic / primus actus 
+      crea<lb ed="#P" n="118" break="no"/>ti intellectus est cognitio ergo primus actus create 
+      <lb ed="#P" n="119"/>voluntatis est volitio. patet antecedens nam primus actus 
+      in<lb ed="#P" n="120" break="no"/>tellectus est intellectio qui est cognitio alicuius obiecti 
+      <lb ed="#P" n="121"/>probatur consequentia nam primus actus voluntatis create non 
+      <lb ed="#P" n="122"/>potest esse nolle respectu boni / ergo erit velle quod est 
+      pro<lb ed="#P" n="123" break="no"/>positum.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e761">
+      ¶ Preterea volitio est nolitio sui oppositi 
+      <!--45.xml-->
+      <pb ed="#P" n="13-v"/>
+                  <lb ed="#P" n="1"/>ergo per prius est volitio quam nolitio. plures alias 
+      ratio<lb ed="#P" n="2" break="no"/>nes facit quas dimitto¬ 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e772">
+                  <lb ed="#P" n="3"/>¶ Quarta conclusio. licet quelibet res sit vtilis 
+      <lb ed="#P" n="4"/>siue vtibilis: non tamen quaelibet est propter aliam diligibilis 
+      <lb ed="#P" n="5"/>Prima pars patet / quia qualibet re voluntas potest vti ben 
+      <lb ed="#P" n="6"/>vel male vt patet per dicta. Et secunda patet de miseria 
+      <lb ed="#P" n="7"/>que nullo modo neque propter se neque propter aliud est 
+      <lb ed="#P" n="8"/>diligibilis. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e788">
+                  <lb ed="#P" n="9"/>¶ Correlarium. non omne vti est diligere 
+      propte<lb ed="#P" n="10" break="no"/>aliud. patet ex conclusione ymo est odire 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e796">
+                  <lb ed="#P" n="11"/>¶ Secundum correlarium aliquod nolle est 
+      dili<lb ed="#P" n="12" break="no"/>gere. Patet per illud quod dixit christus / qui odit animam 
+      <lb ed="#P" n="13"/>suam in hoc mundo et cera. vnde augustinus si male 
+      ama<lb ed="#P" n="14" break="no"/>ueris tunc odisti. si bene oderis tunc amasti. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e807">
+                  <lb ed="#P" n="15"/>¶ Quinta conclusio licet quilibet vsus illicitus 
+      <lb ed="#P" n="16"/>sit peccatum: non tamen quilibet licitus est meritum. Prima 
+      <lb ed="#P" n="17"/>pars patet / secunda probatur quia dare elemosinam est licitum 
+      <lb ed="#P" n="18"/>pecctori mortali / tamen non est meritorium / etiam peccator morta 
+      <lb ed="#P" n="19"/>lis diligens sortem propter deum licite diligit: tamen non 
+      meri<lb ed="#P" n="20" break="no"/>torie cum sit in peccato mortali. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e823">
+                  <lb ed="#P" n="21"/>¶ Primum correlarium licet quilibet acts sit bonus vel 
+      <lb ed="#P" n="22"/>malus: non tamen quilibet est mereri vel demereri / probatur 
+      <lb ed="#P" n="23"/>ex dictis.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e832">
+      ¶ Secundum correlarium. non omnis vsus licit 
+      <lb ed="#P" n="24"/>cadit sub percepto. patet quia praeceptum non potest 
+      imple<lb ed="#P" n="25" break="no"/>ri nisi meritorie 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e839">
+                  <lb ed="#P" n="26"/>¶ Sexta conclusio. quilibet viator tenetur sc 
+      dil<lb ed="#P" n="27" break="no"/>gere / et proximum / ad equale bonum / probatur quia alias 
+      <lb ed="#P" n="28"/>optarem me praeferri ingluria proximo: et sic non diligem proximum 
+      <lb ed="#P" n="29"/>sicut meipsum. vt dicit augustinus in libro de moribus eo 
+      <lb ed="#P" n="30"/>clesie vbi inquit non diligis proximum tanquam teipsum: si non ad 
+      <lb ed="#P" n="31"/>bonum ad quod tendis / eum reducere satagis non autem 
+      sata<lb ed="#P" n="32" break="no"/>gis si ncupis eum eque perfecto amore deum diligere. 
+      <lb ed="#P" n="33"/>et si non vis eum ad perfectionem tui status peruenire 
+      <lb ed="#P" n="34"/>Correlarium quilibet viator tenetur se perprius 
+      <lb ed="#P" n="35"/>diligere / quam proximum. probatur quia perprius tenetur se esse iustium 
+      <lb ed="#P" n="36"/>vel esse bonum / et se reddere obedientem deo: quam hoc 
+      tene<lb ed="#P" n="37" break="no"/>atur de proxio / nam sic est ordo charitatis 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e868">
+                  <lb ed="#P" n="38"/>¶ Secundum. capiendo diligere pro complacere: qui 
+      <lb ed="#P" n="39"/>libet viator tenetur ad maius bonum diligere meliorem 
+      sci<lb ed="#P" n="40" break="no"/>tum esse meliorem: quam se. patet ista quia sic dictat recta ratio. quod 
+      <lb ed="#P" n="41"/>deus vult dare maius praemium illi quam tibi / quia meliorem / et 
+      <lb ed="#P" n="42"/>hoc tu scis ergo etc. Item bti in patria ad maius bonum 
+      dili<lb ed="#P" n="43" break="no"/>gunt animam christi quam se / ergo. Per hoc patere potest quid 
+      di<lb ed="#P" n="44" break="no"/>cendum ad quaestionem cum quaeritur: vtrum omni alio a deo propter 
+      <lb ed="#P" n="45"/>deum eque sit vtendum. quia si intelligatur vt dicit sexta 
+      cocli<lb ed="#P" n="46" break="no"/>sio id est vtrum propter idem vel equale bonum quolibet proxi 
+      <lb ed="#P" n="47"/>mo sit vtendu: quastio est vera. si intelligatur de equa 
+      perfe<lb ed="#P" n="48" break="no"/>ctione dilectionis questio est falsa. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e895">
+                  <lb ed="#P" n="49"/>¶ Contra secundam conclusionem et eius primum 
+      cor<lb ed="#P" n="50" break="no"/>relarium est doctor nostur magister Gregorius libro primo. 
+      di<lb ed="#P" n="51" break="no"/>stictione. prima quaestione. prima articulo primo. in prima 
+      se<lb ed="#P" n="52" break="no"/>cunda tertia et quarta conclusionibus. quarum prima est 
+      nul<lb ed="#P" n="53" break="no"/>lum nolle est fruitio: secunda conclusio est quod oe nolle est 
+      vs<lb ed="#P" n="54" break="no"/>probatur quia per one nolle assumitur aliquid in facultatem 
+      <lb ed="#P" n="55"/>voluntatis propter aliud volitum (vt supponit) ergo. Ista 
+      con<lb ed="#P" n="56" break="no"/>clusio videtur falsa per iam dicta. quia nolitio qua nolo deum 
+      <lb ed="#P" n="57"/>non esse / vel qua nolo ipsum creare alium mundum: non sunt 
+      re<lb ed="#P" n="58" break="no"/>seribiles nisi in deum / nolo enim deum non esse quia volo dei 
+      <lb ed="#P" n="59"/>esse vel deum nolo esse miserum quia placet michi deus. Ac 
+      <lb ed="#P" n="60"/>rationem dicendum quod one rectum nolle circa creaturam / est 
+      <!--45.xml-->
+      <lb ed="#P" n="61"/>propter aliud. et istud probat. sed si sit vniuersalis falsa 
+      <lb ed="#P" n="62"/>est. et conrsequentia est vera. Tertia conclusio gregorii est 
+      <lb ed="#P" n="63"/>omnem velle est vso vel fruitio. probatur / omni velle assumitur 
+      <lb ed="#P" n="64"/>aliquid in facultatem voluntatis propter se vel propter aliud 
+      <lb ed="#P" n="65"/>ergo omne tale est vsus vel fruitio. Rendetur negando 
+      con<lb ed="#P" n="66" break="no"/>sequentiam quia volo deum esse summum bonum et illud velle 
+      <lb ed="#P" n="67"/>assumitur in facultatem vel libertatem voluntatis propter 
+      a<lb ed="#P" n="68" break="no"/>liud scilicet propter deum et tamen non est vsus. Quarta 
+      comn<lb ed="#P" n="69" break="no"/>clusio gregorii quae sequitur. ex duabus praecedentibus est. quod 
+      <lb ed="#P" n="70"/>omnis actus voluntatis est vsus vel fruitio. probatur vt 
+      prior<lb ed="#P" n="71" break="no"/>quia tunc esset aliquis acto deliberato / ratioe dictante licitus 
+      <lb ed="#P" n="72"/>qui nec esset bonus nec malus. quia omnis actus bonus vel 
+      <lb ed="#P" n="73"/>malus est vso vel fruitio / dico ad probationem quod non sequitur 
+      <lb ed="#P" n="74"/>quilibet acto hominis deliberantis ex electione dictata 
+      eli<lb ed="#P" n="75" break="no"/>citus circa deum vel circa seipsum est bonus vel malus / ergo 
+      <lb ed="#P" n="76"/>quilibet est vsus vel fruitio. Nam antecedens concederetur 
+      <lb ed="#P" n="77"/>verum et consequens falsum de .b. volitione qua placet 
+      mi<lb ed="#P" n="78" break="no"/>chi deum semper ante mundum fuisse et tamen nec est vsus nec 
+      <lb ed="#P" n="79"/>fruitio.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e967">
+      ¶ Si quis vellet sustinere gregorium / de 
+      duo<lb ed="#P" n="80" break="no"/>bus haberet dicere vnum / vel quod conclusiones 
+      gregori<lb ed="#P" n="81" break="no"/>loquerentur de volitionibus incomplexis / vel quod possumus 
+      vti<lb ed="#P" n="82" break="no"/>deo aliquo modo. et tunc volitio qua volo solum patrem 
+      <lb ed="#P" n="83"/>producere filium esset vsus. Sed distinguendum esset de vsu 
+      <lb ed="#P" n="84"/>quia vsus relatos ad creaturam tamquam eius causa non est licitus 
+      <lb ed="#P" n="85"/>de deo. sed relatio illius actus in complacentiam voliti quia 
+      <lb ed="#P" n="86"/>est deus non est inconueniens de deo. vnde omnis talis 
+      comple<lb ed="#P" n="87" break="no"/>xa volitio vel nolitio induci habet in incomplexam complacem 
+      <lb ed="#P" n="88"/>tiam dei. et id talis respectu voliti quod est deus n est illicitus.
+    </p>
+            </div>
+            <div xml:id="oooo3o-ke7402-Dd1e990">
+               <head xml:id="oooo3o-ke7402-Hd1e992">Articulus 3</head>
+               <p xml:id="oooo3o-ke7402-d1e994">
+                  <lb ed="#P" n="89"/>Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e999">
+                  <lb ed="#P" n="90"/>¶ Respondendo ad obiecta ponossex propositiones. 
+      <lb ed="#P" n="91"/>Prima est: dei dilectio super omnia quam habet 
+      <lb ed="#P" n="92"/>quis / est maior: quam sit dilectio etus meritoria respectu 
+      a<lb ed="#P" n="93" break="no"/>licuius creature. probatur. quia quacumque tali dilectione 
+      quan<lb ed="#P" n="94" break="no"/>tuncumque remissa dummodo sit dilectio dei super omnia / plus 
+      dili<lb ed="#P" n="95" break="no"/>gitur deus: quam diligatur creatura aliqua dilectioe quae sit 
+      <lb ed="#P" n="96"/>vsus. Cum illa quae est super omnia diligatur deus super creaturam 
+      <lb ed="#P" n="97"/>quia aliter non esset dilectio. super omnia / hec propositio debet in 
+      <lb ed="#P" n="98"/>telligi de maioritate speciei vel gradus 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1021">
+                  <lb ed="#P" n="99"/>¶ Secunda. quaecumque dei dilectio super omnia 
+      incompara<lb ed="#P" n="100" break="no"/>rabiliter excedit dilectionem creature. in eodem / 
+      pro<lb ed="#P" n="101" break="no"/>batur quandam si precise compaabiliter / sit ergo 
+      dilectio<lb ed="#P" n="102" break="no"/>dei / a / et b. dilectio creature precise excessa ab. a. in 
+      <lb ed="#P" n="103"/>duplo ergo si foret aliqua dilectio subdupla ad a. 
+      ipsa<lb ed="#P" n="104" break="no"/>foret equalis b. et sic vso et fruitio forent equales. et 
+      <lb ed="#P" n="105"/>si sic. ergo dilectio dei super omnia non excedit hanc 
+      dilectio<lb ed="#P" n="106" break="no"/>nem creature. quod est contra primam proportionem. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1041">
+                  <lb ed="#P" n="107"/>¶ Tertia. non est possibile amplius diligere deum 
+      <lb ed="#P" n="108"/>quam super omnia / propter alidd benficium factum sibi vel proximo 
+      <lb ed="#P" n="109"/>Probatur / sit aliqua dilectio quam habet sortes 
+      abso<lb ed="#P" n="110" break="no"/>lute erga deum. tunc sic: sortes potest augem .a. dilectione 
+      <lb ed="#P" n="111"/>propter b. benficium / si sic potesatur ergo quod augeat per c. latitudinem 
+      <lb ed="#P" n="112"/>et arguitur sic c. latitudie diligit sortes magis b. 
+      benefi<lb ed="#P" n="113" break="no"/>cium quam deum ergo c. latitudine non diligit deum super omnia. 
+      Pre<lb ed="#P" n="114" break="no"/>terea c. potest augeri a. non aucto ergo tantum poterit augeri 
+      <lb ed="#P" n="115"/>c. quod equabitur a. et ita in fine liceret tantum diligetur benficium 
+      <lb ed="#P" n="116"/>quantum in principio diligebatur deus / quod est falsum. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1066">
+                  <lb ed="#P" n="117"/>¶ Quarta. secundum nullam propositionem que est 
+      in<lb ed="#P" n="118" break="no"/>ter finitum et finitum eiusdem rationis et speciei vel etiam 
+      <lb ed="#P" n="119"/>esse posset: est magis diligendo deus quam si non esset benficiis 
+      <lb ed="#P" n="120"/>probatur quia tunc ecset aliqua proportio inter dilectionem super 
+      <lb ed="#P" n="121"/>omnia. et dilectionem huius benficii quo occasionaliter est 
+      dili<lb ed="#P" n="122" break="no"/>gendo: cuius oppositum statim probatum est. 
+      <!--46.xml-->
+      <pb ed="#P" n="14-r"/>
+                  <lb ed="#P" n="1"/>¶ Quinta. non licet amplius diligere proximum 
+      <lb ed="#P" n="2"/>propter aliquod benficium minus vel minus diligendum quam sit 
+      pro<lb ed="#P" n="3" break="no"/>ximus et hoc si ly propter denotet causam praecise qua 
+      pos<lb ed="#P" n="4" break="no"/>ta ponitur effecto et qua remota remouetur effecto. hoc 
+      <lb ed="#P" n="5"/>probatur quia sicut incomparabiliter deus est plus diligend 
+      <lb ed="#P" n="6"/>quam proximus: Ita plus est diligendus proximus quam sit diligi. 
+      <lb ed="#P" n="7"/>dum aliquid quod sit minus dignum quam proximus. et potest 
+      pro<lb ed="#P" n="8" break="no"/>bari sicut secunda. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1103">
+                  <lb ed="#P" n="9"/>¶ Sexta propositio. alia dilectione est diligendus 
+      <lb ed="#P" n="10"/>deus propter se / et alia propter benficia. hoc patet cum vna 
+      <lb ed="#P" n="11"/>excedat aliam incomparabiliter (Non dico infinite 
+      contra<lb ed="#P" n="12" break="no"/>climeton qui dicit quod infinite) hoc autem in dilectionibus 
+      <lb ed="#P" n="13"/>eiusdem speciei esse non potest de potentia dei ordinata: quia 
+      <lb ed="#P" n="14"/>nulla species vnius grsnenis excedit aliam infinite 
+      perfectio<lb ed="#P" n="15" break="no"/>ne eiusdem gratis.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1121">
+      ¶ Sic ergo dici potest quod propter benficium 
+      <lb ed="#P" n="16"/>multiplicius diligendus est deus: non tamen amplius. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1126">
+                  <lb ed="#P" n="17"/>¶ Ubi notandum est quod dilectio dei propter 
+      benefi<lb ed="#P" n="18" break="no"/>cia: vel est complexa vel incomplexa. si complexa puta 
+      <lb ed="#P" n="19"/>qua placet michi deum redemisse mundum: ista 
+      duplici<lb ed="#P" n="20" break="no"/>potest reduci in causam priorem seu aliam dilectionem. scilicet in 
+      bo<lb ed="#P" n="21" break="no"/>nitatem essentialem dei: et sic est fruitio. quia est complacent 
+      <lb ed="#P" n="22"/>tia incomplexa diuine bonitatis. vel reducitur in 
+      commo<lb ed="#P" n="23" break="no"/>dum benficiati: vt diligo deum propter benficia / quia diligo 
+      <lb ed="#P" n="24"/>me redemptum: et si hic statur / illa non est fruitio. ymmo nec 
+      <lb ed="#P" n="25"/>fruitio nec vso: sed abusuo. Tunc ad argumentum cum diciter 
+      <lb ed="#P" n="26"/>deus est incompeabiliter plus diligendo quam proximus / concedo. et vel 
+      <lb ed="#P" n="27"/>terius dico quod non est possibile augere dilectionem dei 
+      pro<lb ed="#P" n="28" break="no"/>pter benficia: quamuis alia dilectione secundum speciem deus sit 
+      <lb ed="#P" n="29"/>diligendo propter benficia / licet secundum nullam proportione 
+      <lb ed="#P" n="30"/>amplius geometricam. Iste sunt conclusiones climeton
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1159">
+                  <lb ed="#P" n="31"/>¶ Pro responsione ad secundum principale praemitto vnam 
+      distin<lb ed="#P" n="32" break="no"/>ctionem / quod aliquem diligere plus se quam proximum / potest 
+      intelli<lb ed="#P" n="33" break="no"/>gi duplicitur: vno modo quod diligit se ad maius bonum haben 
+      <lb ed="#P" n="34"/>dum siue tale bonum sit incomplexe significabile creatum: 
+      <lb ed="#P" n="35"/>siue aliquid complexe sigabile. Alio modo quod diligit se ad 
+      <lb ed="#P" n="36"/>maiorem fugam alicuius per se mali sicut est peccatum et 
+      indigni<lb ed="#P" n="37" break="no"/>tas habendi deum. hac distinctione praemissa pono 
+      conclu<lb ed="#P" n="38" break="no"/>siones. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1179">
+                  <lb ed="#P" n="39"/>¶ Prima conclusio. licitum est alicui diligere 
+      proxi<lb ed="#P" n="40" break="no"/>mum plusquam seipsum / volendo proximo id est christo maius 
+      <lb ed="#P" n="41"/>bonum quam sibi ipsi: sumendo ly bonum primo modo. patet quia  
+      <lb ed="#P" n="42"/>libet tenetur velle proximo / illud bonum ineffabilis 
+      visio<lb ed="#P" n="43" break="no"/>nis / quae est summa gratia exhibita creatur rationali secundum augu 
+      <lb ed="#P" n="44"/>stinum: et tamen nulli licitum est hoc bonum sibi velle. prima pars 
+      <lb ed="#P" n="45"/>antecedentis patet per magistrum libro tertio distinctione 
+      <lb ed="#P" n="46"/>rs.
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1200">
+      ¶ Confirmatur conclusio. nam quilibet tenetur velle 
+      mai<lb ed="#P" n="47" break="no"/>bonum vt pote maius gaudium btem vrgini quam sibi ipsi. Non 
+      <lb ed="#P" n="48"/>enim licitum est / quod aliquis peccator vel qui parum meruit / habeat tantum 
+      <lb ed="#P" n="49"/>gradum btitudis: sicut anima christi vel btem vrginis. patet 
+      <lb ed="#P" n="50"/>et ex correlario secundo sexte conclusionis secundi articuli. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1211">
+                  <lb ed="#P" n="51"/>¶ Secunda conclusio. accipiendo diligere secundo 
+      <lb ed="#P" n="52"/>modo videlet ad maiorem fugam mali / quilibet debet plus in 
+      infi<lb ed="#P" n="53" break="no"/>nitum id est sine comperatione / diligere seipsut quam proximum. hoc pro 
+      <lb ed="#P" n="54"/>batur ex ordine charitatis quem ponit magister lib. 
+      ter<lb ed="#P" n="55" break="no"/>tio distinctione. 28. et. 2o 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1224">
+                  <lb ed="#P" n="56"/>¶ Tertia conclusio quilibet incomperabiliter plus habet 
+      <lb ed="#P" n="57"/>se diligere: quam proxim. hoc probatur quia quilibet se habet plus 
+      <lb ed="#P" n="58"/>diligere quam aliquod bonum finitum possibile. et habet se infinitus 
+      <lb ed="#P" n="59"/>poxis in fugam preccate praeponere. ergo.  
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1235">
+                  <lb ed="#P" n="60"/>¶ Quarta quicumque recte diligit proximum diligit 
+      <lb ed="#P" n="61"/>et deum. probatur quia qui recte diligit proximum di¬ 
+      <!--46.xml-->
+      <lb ed="#P" n="62"/>ligit ipsum propter dcum. vel quia iustus est / aut vt iustus sit
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1246">
+      ¶ Ex 
+      <lb ed="#P" n="63"/>ista conclusione patet qualiter quis expiri potest de amico vtrum 
+      <lb ed="#P" n="64"/>recte diligat et sit verus amicus. Attendat enim et videat 
+      <lb ed="#P" n="65"/>quid magis ipsum conturbat. an paupertas / an infirmitas / et 
+      <lb ed="#P" n="66"/>sic de ceteris defectibus qui non important culpam: an 
+      culpa<lb ed="#P" n="67" break="no"/>quia verum amicum maxime debet parturbare culpa. quia si 
+      di<lb ed="#P" n="68" break="no"/>ligo vere proximum diligo ipsum quia placet michi in eo 
+      iu<lb ed="#P" n="69" break="no"/>sticia: vel quia opto ipsum ee iustum sine culpa: qua opponi 
+      <lb ed="#P" n="70"/>tur iusticie de directo.  
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1266">
+                  <lb ed="#P" n="71"/>¶ Quinta. quilibet recte diligens dcum diligit 
+      se<lb ed="#P" n="72" break="no"/>et quanto plus diligit deum diligit se. Probatur quicumque 
+      <lb ed="#P" n="73"/>modo perfecto vult se diligere deum vult se aliqualiter esse 
+      <lb ed="#P" n="74"/>qualiter esse est de optimo gratioe bene essendi. ergo ille vult 
+      se<lb ed="#P" n="75" break="no"/>vere bene esse. et quanto perfectiori modo vult se taltier esse 
+      <lb ed="#P" n="76"/>tanto perfectius diligit se: sed quicumque diligit deum vt diet vult 
+      <lb ed="#P" n="77"/>se aliqualiter esse qualiter esse est optime / et vere bene esse / 
+      <lb ed="#P" n="78"/>quia vult se esse iustum et vertuosum tendentem amore in deum / 
+      <lb ed="#P" n="79"/>quo nichil est sibi melius: ergo.  
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1289">
+                  <lb ed="#P" n="80"/>¶ Sexta quicumque recte diligit deum occurente 
+      <lb ed="#P" n="81"/>oportunitate diligit proximum. probatur per illud prime iohis 
+      <lb ed="#P" n="82"/>4 mandatum habemus a deo vt qui diligit deum / diligat et 
+      fra<lb ed="#P" n="83" break="no"/>trem suum per ista potest patere quid dicendum ad secundum argantum
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1300">
+                  <lb ed="#P" n="84"/>Pro responsione ad secundum sit prima 
+      propositio<lb ed="#P" n="85" break="no"/>Peccatis et difformitatibus possumus licite vti. 
+      proba<lb ed="#P" n="86" break="no"/>nam secundum augustinum omnibus illis licite vtimur / per quae 
+      iuua<lb ed="#P" n="87" break="no"/>mur ad consequendum finem nostrum: sed per preccata iuuamur etc. 
+      <lb ed="#P" n="88"/>ergo. maior est nota. minor est apslim ad romanos octauo 
+      <lb ed="#P" n="89"/>scimus quandam diligentibus deum omnia cooperantur in bonum. bona scilice 
+      <lb ed="#P" n="90"/>per dilectionem: et mala per odium seu detestationem. 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1318">
+                  <lb ed="#P" n="91"/>¶ Secunda. non semper cuius vsus est licitus et bonus 
+      <lb ed="#P" n="92"/>pram est bonum et licitum. probatur de preccatis. nec semper cuius est 
+      <lb ed="#P" n="93"/>vsus malus ipsum est malum. patet de virtutibus 
+    </p>
+               <p xml:id="oooo3o-ke7402-d1e1327">
+                  <lb ed="#P" n="94"/>¶ Tertia. no quicumque vult consequentiam esse bonam: et vult 
+      <lb ed="#P" n="95"/>antecedens illius vult consequens. patet in eo qui se diligens propter deum / vult 
+      <lb ed="#P" n="96"/>polere de peccatis quae commisit: ex quo sequitur quod ipse 
+      pecca<lb ed="#P" n="97" break="no"/>uit. patet quod iste vult antecedens / et vult consequentiam esse bonam: et tamen non 
+      <lb ed="#P" n="98"/>vult consequens. per hoc patet quid decendum ad rtium argantum quia odio 
+      <lb ed="#P" n="99"/>dei possum licite vti ipsum nolendo et impediendo / et 
+      pec<lb ed="#P" n="100" break="no"/>catis: vt dictum est. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

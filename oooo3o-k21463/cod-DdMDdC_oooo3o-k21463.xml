@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="34-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k21463"><!--l1d22-26q1 -->
+            <head xml:id="oooo3o-k21463-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k21463-d1e101">
+               <lb ed="#P" n="111"/>CIrca materiam vicesime secunde 
+      di<lb ed="#P" n="112" break="no"/>stinctionis et consequeter aliarum vsque ad 
+      vi<lb ed="#P" n="113" break="no"/>cesimam sextam inclusiue vbi agitur de noi 
+      <lb ed="#P" n="114"/>bus deo attributis. Quero vtrum inter 
+      at<lb ed="#P" n="115" break="no"/> tributa diuina et essentiam vel etiam inter se 
+      in<lb ed="#P" n="116" break="no"/>et sit aliqua non vydemptitas vel distinctio ex 
+      <lb ed="#P" n="117"/>parte rei 
+    </p>
+            <p xml:id="oooo3o-k21463-d1e119">
+               <lb ed="#P" n="118"/>¶ Quod sic quia illa distinguntur quorum vnum 
+      <lb ed="#P" n="119"/>plurificatur alio non plurificato. sed sic est de essentia 
+      <!--87.xml-->
+      <pb ed="#P" n="34-v"/>
+               <lb ed="#P" n="1"/>que non plurificatur. attributa autem plurificantur, ergo. 
+      <lb ed="#P" n="2"/>Secundo probatur quod distinguntur inter se. 
+      <lb ed="#P" n="3"/>quia si non: sequeretur quod bonitas et iusticia essent spe 
+      <lb ed="#P" n="4"/>nonima. hoc autem est falsum. falsitas apparet: quia no 
+      <lb ed="#P" n="5"/>idem significant. 
+    </p>
+            <p xml:id="oooo3o-k21463-d1e141">
+               <lb ed="#P" n="6"/>¶ Confirmatur sapienta: iustitia: vel scientia. 
+      for<lb ed="#P" n="7" break="no"/>maliter distinguntur et ex rationibus eorum 
+      formali<lb ed="#P" n="8" break="no"/>bus in creaturis. ergo vbicumque inueniuntur eorum 
+      for<lb ed="#P" n="9" break="no"/>malitates ibi et distinctiones. quia infinitas non tolliter 
+      <lb ed="#P" n="10"/>formalitatem in re. 
+    </p>
+            <p xml:id="oooo3o-k21463-d1e154">
+               <lb ed="#P" n="11"/>¶ Tertio inter naturam diuinam. et voluntatem 
+      di<lb ed="#P" n="12" break="no"/>uinam: est quedam non ydemtitas. ergo questio 
+      ve<lb ed="#P" n="13" break="no"/>ra pro parte affirmatiua. antecedens probatur quia filius dei. est 
+      <lb ed="#P" n="14"/>filius natura. et non voluntate per magistrum libro 
+      pri<lb ed="#P" n="15" break="no"/>mo distinctione sexta capttulo primo vbi allegat 
+      au<lb ed="#P" n="16" break="no"/>gustinum. 1 de trinitate capitulo oct auo.
+    </p>
+            <p xml:id="oooo3o-k21463-d1e171">
+      ¶ Item 
+      fi<lb ed="#P" n="17" break="no"/>lius procedit per modum nature et intellectus: et spiritus 
+      <lb ed="#P" n="18"/>sanctus per modum voluntatis. quod non diceretur 
+      ve<lb ed="#P" n="19" break="no"/>rum: nisi inter voluntatem. intellectum et naturam: esset 
+      <lb ed="#P" n="20"/>aliqualis distinctio. 
+    </p>
+            <p xml:id="oooo3o-k21463-d1e182">
+               <lb ed="#P" n="21"/>¶ Oppositum probatur per dictum 
+      anselmi<lb ed="#P" n="22" break="no"/>mond. 1. Summa essentia diuina est quodlibet eorum quaie 
+      <lb ed="#P" n="23"/>bus est esse. vt esse vnientem: esse sapientem: esse 
+      pote<lb ed="#P" n="24" break="no"/>tem. etc. ergo essentia summa est realiter quodlibet 
+      at<lb ed="#P" n="25" break="no"/>tributum. Sed quod non distinguntur inter se probatur 
+      <lb ed="#P" n="26"/>quodlibet attributorum significax perfectionem in deo 
+      <lb ed="#P" n="27"/>infinitam. ergo si sunt inter se non idem: perfectiones 
+      in<lb ed="#P" n="28" break="no"/>finite sunt in deo non idem. ergo alie et alie quod est 
+      im<lb ed="#P" n="29" break="no"/>possibile. quia tunc essent plura simpliciter infinita 
+    </p>
+            <p xml:id="oooo3o-k21463-d1e204">
+               <lb ed="#P" n="30"/>¶ Primo ponam declarationes. Secundo conclusio 
+      <lb ed="#P" n="31"/>nes. Tertio soluam rationes. 
+    </p>
+            <div xml:id="oooo3o-k21463-Dd1e211">
+               <head xml:id="oooo3o-k21463-Hd1e213">Articulus 1</head>
+               <p xml:id="oooo3o-k21463-d1e215">
+                  <lb ed="#P" n="32"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e220">
+                  <lb ed="#P" n="33"/>QUantum ad primum declaratio 
+      at<lb ed="#P" n="34" break="no"/>tributi sit hec.
+    </p>
+               <p xml:id="oooo3o-k21463-d1e227">
+      ¶ Attributum diuinum est per 
+      <lb ed="#P" n="35"/>fectio in deo siue perfectio diuine essentie 
+      <lb ed="#P" n="36"/>quasi secundaria. idest habens se per modum 
+      <lb ed="#P" n="37"/>secundarie perfectionis reperte in creati 
+      <lb ed="#P" n="38"/>ris. et dicitur attributum quasi ab alio tributum siue 
+      al<lb ed="#P" n="39" break="no"/>teri tributum. hec descriptio colligitur ex dictis 
+      docto<lb ed="#P" n="40" break="no"/>ris sollemnis in summa articulo tricesimo secundo. 
+      que<lb ed="#P" n="41" break="no"/>stione prima 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e245">
+                  <lb ed="#P" n="42"/>¶  Unde sciendum quod secundum eum tria 
+      requi<lb ed="#P" n="43" break="no"/>runtur ad rationem attributi. Prima condicio est qued 
+      <lb ed="#P" n="44"/>sit quasi dispositio super rationem subiecti. et quasi 
+      perfe<lb ed="#P" n="45" break="no"/>ctio secunda. et sic sapientia iustitia. et similia. que se 
+      <lb ed="#P" n="46"/>gnificant in creaturis dispositiones. et perfectiones 
+      se<lb ed="#P" n="47" break="no"/>cundas distinctas dicuntur a tributa deo. 
+      Secun<lb ed="#P" n="48" break="no"/>da conditio est: quod sit perfectionis et nobilitatis. alias 
+      <lb ed="#P" n="49"/>enim non esset deo attribuendum. nichil enim imperfectum 
+      <lb ed="#P" n="50"/>vel non nobile in deo esse potest.
+    </p>
+               <p xml:id="oooo3o-k21463-d1e268">
+      ¶ Tertia 
+      conditio<lb ed="#P" n="51" break="no"/>requiritur quod tale atrributum isto modo in creaturis  
+      <lb ed="#P" n="52"/>inueniatur. Ex hiis conditionibus resultat dicta 
+      de<lb ed="#P" n="53" break="no"/>scriptio. vt apparet intuenti. ergo videtur sufficiens 
+      <lb ed="#P" n="54"/>et bona. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e279">
+                  <lb ed="#P" n="55"/>¶ Ex istis infero propositiones. Prima: isti 
+      ter<lb ed="#P" n="56" break="no"/>mini essentia vita. existentia. res. et generaliter omnis 
+      ter<lb ed="#P" n="57" break="no"/>miuus significans perfectionem primam non dicitur 
+      <lb ed="#P" n="58"/>attributum. patet quia hic deficit prima condicio. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e290">
+                  <lb ed="#P" n="59"/>¶ Secunda nulla relatio rationis tantum. vel ori¬ 
+      <!--87.xml-->
+      <lb ed="#P" n="60"/>ginis / formaliter est attributum patet quia deficit 
+      el<lb ed="#P" n="61" break="no"/>secunda condicio. quia non dicunt perfectionem 
+      simpli<lb ed="#P" n="62" break="no"/>titer licet etiam non dicant imperfectionem in deo 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e303">
+                  <lb ed="#P" n="63"/>¶ Tertia infinitas. immensitas eternitas. et 
+      consi<lb ed="#P" n="64" break="no"/>milia non sunt attributa. patet quia hic deficit tertia 
+      <lb ed="#P" n="65"/>conditio. cum nulla creatura sit vel esse possit 
+      infin<lb ed="#P" n="66" break="no"/>ta. eterna. immensa. etc. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e314">
+                  <lb ed="#P" n="67"/>¶ Quarta. quodlibet attributum est commune tri 
+      <lb ed="#P" n="68"/>bus personis. probatur. quia quelibet perfectio simpliciter 
+      <lb ed="#P" n="69"/>est communis tribus personis. quodlibet attributum est 
+      <lb ed="#P" n="70"/>erfectio simpliciter vt patet per secundam propositionem. 
+      <lb ed="#P" n="71"/>¶ Quinta quolibet attributum praedicatur de deo 
+      <lb ed="#P" n="72"/>in concreto et in abstracto probatur de omnibus inductiue. 
+      <lb ed="#P" n="73"/>dicimus enim deus est sapientia / deus est sapiens 
+      tu<lb ed="#P" n="74" break="no"/>stus. iusticia. bonus bonitas: ergo et cera. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e334">
+                  <lb ed="#P" n="75"/>¶ Sexta. nullum attributum praedicatur de creatura 
+      <lb ed="#P" n="76"/>substantiali in abstracto / sed solum in concreto. patet quia 
+      <lb ed="#P" n="77"/>bene dicimus sortes est sapiens / sed non dicimus sortes 
+      <lb ed="#P" n="78"/>est sapientia 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e346">
+                  <lb ed="#P" n="79"/>¶ Ex quo apparet quod quolibet attributum reper¬ 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e351">
+                  <lb ed="#P" n="80"/>¶ tum in creaturis / est accidens. probatur quia quodlibet  
+      <lb ed="#P" n="81"/>solum denominatiue predicatur de substantia creata 
+      <lb ed="#P" n="82"/>in deo autem non sic est sed omnia transeunt in substantiam.
+    </p>
+            </div>
+            <div xml:id="oooo3o-k21463-Dd1e361">
+               <head xml:id="oooo3o-k21463-Hd1e363">Articulus 2</head>
+               <p xml:id="oooo3o-k21463-d1e365">
+                  <lb ed="#P" n="83"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e370">
+                  <lb ed="#P" n="84"/>QUantum ad secundum articulum 
+      <lb ed="#P" n="85"/>¶ si qusta prima conclusio / quodlibet attributum / t 
+      <lb ed="#P" n="86"/>de deo praedicatur in quid et per se primo modo 
+      <lb ed="#P" n="87"/>probatur quando aliquod absolutu significat 
+      <lb ed="#P" n="88"/>essentiam vel partem essentie alicuius rei. 
+      <lb ed="#P" n="89"/>7. concretum illius absoluti praedicatur in quid 
+      <lb ed="#P" n="90"/>de pronomine demonstrante illam rem. sed sic est de quolibet 
+      <lb ed="#P" n="91"/>attributo: ergo quodlibet attributum predicatur in 
+      <lb ed="#P" n="92"/>quid et per se primo de deo maior probatur 
+      inductiue<lb ed="#P" n="93" break="no"/>quia ex hoc quod anima significat essentiam vel partem 
+      <lb ed="#P" n="94"/>essentie hominis. hec est per se homo est animatus hec 
+      <lb ed="#P" n="95"/>autem non est per se corpus est animatum eo quod anima non 
+      <lb ed="#P" n="96"/>est pars essentie corporis nec essentie quae est corpus. 
+      <lb ed="#P" n="97"/>sed est pars essentialis hominis. Similiter 
+      propter<lb ed="#P" n="98" break="no"/>eandem causam quelibet pars diffinitionis praedicatur 
+      <lb ed="#P" n="99"/>in quid vel in quale essentiale et per se primo de suo 
+      <lb ed="#P" n="100"/>diffinito quia quelibet pars significat essentiam vel 
+      pae<lb ed="#P" n="101" break="no"/>tem essentie minor nota est ex dictis in articulo 
+      pri<lb ed="#P" n="102" break="no"/>mo quia quodlibet attributum significat perfectionem in 
+      <lb ed="#P" n="103"/>finitam diuine essentie. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e416">
+                  <lb ed="#P" n="104"/>¶ Correlarium. quilibet conceptus affirmatiuus  
+      <lb ed="#P" n="105"/>indiuidualis specificus. cuiusmodi est iste conceptus in 
+      <lb ed="#P" n="106"/>sapientia. communis deo et creaturis est quidditatiuus 
+      <lb ed="#P" n="107"/>patet quia quilibet praedicatur in quid de deo per conclusionem 
+      <lb ed="#P" n="108"/>et per declarationem istius tarmini attributum positam in 
+      <lb ed="#P" n="109"/>precedenti articulo 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e432">
+                  <lb ed="#P" n="110"/>¶ Secunda conclusio. Attributa non sunt in deo 
+      <lb ed="#P" n="111"/>precise propter esse causam talium perfectionum in creatu est 
+      <lb ed="#P" n="112"/>ris. scilicet quod non ideo dicitur sapiens praecise. deus: 
+      quia<lb ed="#P" n="113" break="no"/>creat sapientiam in creaturis. probatur quia aliter 
+      seque<lb ed="#P" n="114" break="no"/>retur quod deus non esset formaliter sapiens. volens. 
+      <lb ed="#P" n="115"/>aut intelligens: sed virtualiter tantum. et per consequens non 
+      es<lb ed="#P" n="116" break="no"/>et summe perfectus. quod est impossibile.
+    </p>
+               <p xml:id="oooo3o-k21463-d1e451">
+      ¶ Confirmatur 
+      <lb ed="#P" n="117"/>illud quod sic ex sua formalitate. est ens 
+      eminentissimu<lb ed="#P" n="118" break="no"/>quod nullum potest eo perfectius vel eminentius cogitari¬ 
+      <!--88.xml-->
+      <pb ed="#P" n="35-r"/>
+                  <lb ed="#P" n="1"/>ex sua formalitate est intelligens sapiens et volens: 
+      <lb ed="#P" n="2"/>sed deus est huiusmodi. ergo.  
+    </p>
+               <p xml:id="oooo3o-k21463-d1e467">
+                  <lb ed="#P" n="3"/>¶ Tertia conclusio. Attributa non sunt in deo 
+      pecr<lb ed="#P" n="4" break="no"/>negationem: nec sunt in deo per relationem ad creatur 
+      <lb ed="#P" n="5"/>ras. Probatur primo quod non per negationem / sicul 
+      <lb ed="#P" n="6"/>sunt incorruptus / incorporeus / et similia. quia 
+      nul<lb ed="#P" n="7" break="no"/>la perfectio existit in pura negatione. sed quodlibet at 
+      <lb ed="#P" n="8"/>tributum significat perfectionem simpliciter (vt dictum est: 
+      <lb ed="#P" n="9"/>ergo nullum est in deo per negationem. Sed quod non sunt 
+      <lb ed="#P" n="10"/>ibi per relationem ad creaturas probatur. Nullum 
+      ne<lb ed="#P" n="11" break="no"/>cesse esse habet suum esse et perfectionem suam per 
+      respe<lb ed="#P" n="12" break="no"/>ctum ad aliquod quod potest non esse. sed quodlibet 
+      ar<lb ed="#P" n="13" break="no"/>tributum est necesse esse. ergo nullum habet perfectionem 
+      <lb ed="#P" n="14"/>suam per respectum ad aliquod quod potest non esse. 
+      <lb ed="#P" n="15"/>Ista videtur esse ratio anselmi mon. 16 capitulo. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e498">
+                  <lb ed="#P" n="16"/>¶ Confirmatur istud. quia de natura relationis est quod 
+      <lb ed="#P" n="17"/>deficit extremo deficiente quia relatiuam posita se 
+      po<lb ed="#P" n="18" break="no"/>nunt. etc. ergo si attributum esset in deo per relationem. 
+      <lb ed="#P" n="19"/>ad creaturas sequitur quod desinente creatura desineret 
+      <lb ed="#P" n="20"/>attributum. quod est impossibile. quia tunc aliqua perfectio in 
+      <lb ed="#P" n="21"/>diuinis posset deficere: quod non potest esse: ergo 
+      concli<lb ed="#P" n="22" break="no"/>sio vera 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e516">
+                  <lb ed="#P" n="23"/>¶ Ex ista conclusione infero quod quodlibet 
+      attri<lb ed="#P" n="24" break="no"/>putum est in deo. vel deus ex natura rei. patet ex dicte
+    </p>
+               <p xml:id="oooo3o-k21463-d1e523">
+                  <lb ed="#P" n="25"/>¶ Quarta conclusio inter diuinitatem et 
+      attri<lb ed="#P" n="26" break="no"/>buta diuina non est aliqua distinctio: vel non vdempti 
+      <lb ed="#P" n="27"/>tas formalis. probatur quia summe simplici et summe 
+      ydem<lb ed="#P" n="28" break="no"/>ptitati: repugnat quecunque non vdemptitas. notum est. 
+      <lb ed="#P" n="29"/>quia aliquo modo esse non idem: non est esse summe idem. sed 
+      <lb ed="#P" n="30"/>in diuinis est summa vdemptitas et simplicitas: ergo.   
+      <lb ed="#P" n="31"/>Ex qua correlarie sequitur quod diuinitas: 
+      volun<lb ed="#P" n="32" break="no"/>tas diuina: et intellectus diuinus: et sapientia diuina 
+      <lb ed="#P" n="33"/>etc. non sunt distincte formalitates eiusdem rei. probatur 
+      <lb ed="#P" n="34"/>quia alias esset processus in infinitum in formalitatibus 
+      <lb ed="#P" n="35"/>vt deductum fuit supra de paternitate et diuinitate. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e549">
+                  <lb ed="#P" n="36"/>¶ Quinta conclusio ipsa attributa diuina nul 
+      <lb ed="#P" n="37"/>lo modo inter se distinguntur vel non sunt idem formaliter 
+      <lb ed="#P" n="38"/>nec realiter. probatur. quodlibet infinite perfectum forma 
+      <lb ed="#P" n="39"/>liter: est idem formaliter cuilibet sibi copossibili. sed 
+      <lb ed="#P" n="40"/>quodlibet attributum in diuinis est infinita perfectio 
+      formali<lb ed="#P" n="41" break="no"/>ter ergo quodlicet est idem fortaliter cuilibet sibi compossibili. mino 
+      <lb ed="#P" n="42"/>nota est ex terminis. Maior probatur quia infinitum 
+      forali<lb ed="#P" n="43" break="no"/>includit one sibi compossibile. alias non esset infinitum 
+      for<lb ed="#P" n="44" break="no"/>maliter. Confirmatur sic. quaecunque dicunt aliam et aliam 
+      <lb ed="#P" n="45"/>formalitatem ex natura rei. sunt sigillatim 
+      intelligibi<lb ed="#P" n="46" break="no"/>lia ex natura rei vnum scilicet sande altero. sed attributa 
+      diuina<lb ed="#P" n="47" break="no"/>non sunt sigillatim intelligibilia ex natura rei. ergo 
+      <lb ed="#P" n="48"/>non dicunt aliam et aliam formalitatem. Maior nota. 
+      cum<lb ed="#P" n="49" break="no"/>vnumquodque possit intelligi sine alio quod non inest sibi in 
+      pri<lb ed="#P" n="50" break="no"/>mo modo dicendi per se. sed minor probatur quia non 
+      po<lb ed="#P" n="51" break="no"/>test intelligi infinitas bonitatis nisi quae includit infinitam 
+      <lb ed="#P" n="52"/>sapientiam et econuerso: et sic de omnibus attributis. 
+      per<lb ed="#P" n="53" break="no"/>fectio enim simpliciter infinita / includit omnem 
+      perfectio<lb ed="#P" n="54" break="no"/>nem simpliciter. ergo. etc. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e594">
+                  <lb ed="#P" n="55"/>¶ Sexta conclusio. licet nullum attributum sit 
+      <lb ed="#P" n="56"/>in deo propter operationem nostri intellectus: tamen non ha 
+      <lb ed="#P" n="57"/>petur eorum pluralitas siue distinctione rationis: siue 
+      ne<lb ed="#P" n="58" break="no"/>gotiatione est creati intellectus circaperfectionem diuine et 
+      <lb ed="#P" n="59"/>sentie. Prima pars probatur quia nulla perfectio 
+      simpli<lb ed="#P" n="60" break="no"/>citer causatur in deo propter nostrum intelligere. notum 
+      <lb ed="#P" n="61"/>cest. Secunda pars probatur per conclusionem praecedentem imme¬ 
+      <!--88.xml-->
+      <lb ed="#P" n="62"/>diate: quia attributa non distinguntur nec plurificantur 
+      <lb ed="#P" n="63"/>ad extra ex natura rei. opertet ergo. si debeat haberi eo 
+      <lb ed="#P" n="64"/>rum pluralitas: quod hoc fiat per comparationem eorum ad ex 
+      <lb ed="#P" n="65"/>tra. per distinctas conceptiones eorundem vt reperiuntur 
+      <lb ed="#P" n="66"/>in creaturis. in quibus aliud est intelligere et aliud 
+      <lb ed="#P" n="67"/>velle. et aliud esse iustum. et aliud sapientem. et aliud 
+      bo<lb ed="#P" n="68" break="no"/>num. etc. ergo cum tales conceptiones et compationes. 
+      <lb ed="#P" n="69"/>sunt negationes intellectus: sequitur propositum. In 
+      <lb ed="#P" n="70"/>hac secunda parte conclusionis concordant finaliter doctor. 
+      <lb ed="#P" n="71"/>sollemnis et sanctus doctor. et ones doctores nostri. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e636">
+                  <lb ed="#P" n="72"/>¶ Secundum magistrum hugolinum libro pri¬ 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e641">
+                  <lb ed="#P" n="73"/>¶ mo distinctione est octaua attributum est nomen vel nominia. 
+      <lb ed="#P" n="74"/>lis conceptus praedicabilis de deo. et de tribus 
+      perso<lb ed="#P" n="75" break="no"/>nis simul. et de qualibet illarum sigillatim. per cuius 
+      ve<lb ed="#P" n="76" break="no"/>rificationem denotatur aliqualiter esse quod esse est per 
+      <lb ed="#P" n="77"/>fectionis simpliciter. vt sunt ista nominia sapiens. iustus 
+      <lb ed="#P" n="78"/>verax. et eorum abstraota. vt sapientia veritas. iustitia 
+      <lb ed="#P" n="79"/>etc. Unde hoc nomen trinitas non est attributum. nec hoc 
+      <lb ed="#P" n="80"/>nomen pater nec hoc nomen creans. dominus. praesciens. etc. quia omnis 
+      <lb ed="#P" n="81"/>perfectio simpliciter necessario competit deo. sed esse 
+      <lb ed="#P" n="82"/>creantem vel prescium non necessario deo competunt nec 
+      <lb ed="#P" n="83"/>hoc nomen pater competit tribus personis. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e667">
+                  <lb ed="#P" n="84"/>¶ Perfectio attributalis est actualissima essentia 
+      <lb ed="#P" n="85"/>simpliciter infinite nobilitatis ens: quod esse estmelius 
+      <lb ed="#P" n="86"/>ipsum quam non ipsum. vel illud quo melius cogitari 
+      no<lb ed="#P" n="87" break="no"/>potest. potest tamen multis nomibus exprimi. vt infinita in 
+      <lb ed="#P" n="88"/>ticia. infinita bonitas. et c. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e680">
+                  <lb ed="#P" n="89"/>¶ Rationes attributales sunt quid nominis illo 
+      <lb ed="#P" n="90"/>rum terminorum. vt quid nominis iusticie est ratio 
+      <lb ed="#P" n="91"/>attributalis. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k21463-Dd1e690">
+               <head xml:id="oooo3o-k21463-Hd1e692">Articulus 3</head>
+               <p xml:id="oooo3o-k21463-d1e694">
+                  <lb ed="#P" n="92"/>¶ Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e699">
+                  <lb ed="#P" n="93"/>¶ Uantum ad tertium articulum 
+      re<lb ed="#P" n="94" break="no"/>spondeo ad rationes principales. Ad 
+      <lb ed="#P" n="95"/>primam cum dicitur illa distinguntur 
+      quor<lb ed="#P" n="96" break="no"/>vnum plurificatur alio non plurificato. etc. 
+      <lb ed="#P" n="97"/>Negatur mior. quia attributa non pluri 
+      <lb ed="#P" n="98"/>ficantur in diuinis realiter sicutnec 
+      essen<lb ed="#P" n="99" break="no"/>tia.
+    </p>
+               <p xml:id="oooo3o-k21463-d1e717">
+      ¶ Ad secundum cum infertur quod si non 
+      distingun<lb ed="#P" n="100" break="no"/>tur inter se sequitur quod nominia attributalia essent 
+      synoni<lb ed="#P" n="101" break="no"/>na. Negatur consequentia. ad probationem dico quod licet hec no 
+      <lb ed="#P" n="102"/>mina bonitas / iustitia / sapientia etc. significent penitus 
+      <lb ed="#P" n="103"/>idem in diuinis: non tamen significant idem in creatur 
+      <lb ed="#P" n="104"/>et hoc sufficit ad hoc quod non dicantur synonima. quia 
+      <lb ed="#P" n="105"/>synonima significant penitus idem / in quocumque eorum 
+      <lb ed="#P" n="106"/>signatum reperiatur 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e735">
+                  <lb ed="#P" n="107"/>¶ Ad confirmationem negatur consequentia 
+      <lb ed="#P" n="108"/>Ad probationem coneedo quod infiuitas dinina non 
+      <lb ed="#P" n="109"/>adimit formalitates attributorum: sed adimit 
+      distin<lb ed="#P" n="110" break="no"/>ctionem vel non vdemptitatem formalem ipsorum in 
+      <lb ed="#P" n="111"/>deo. cuius enim est formaliter iustitia: est formaliter 
+      sa<lb ed="#P" n="112" break="no"/>pientia: et formaliter bonus vel bonitas sed. vna et 
+      <lb ed="#P" n="113"/>eadem formalitate qua est deitas est bonitas sapien 
+      <lb ed="#P" n="114"/>tia etc. et non alia et alia formalitate est deus alia 
+      san<lb ed="#P" n="115" break="no"/>piens / alia iustus. 
+    </p>
+               <p xml:id="oooo3o-k21463-d1e758">
+                  <lb ed="#P" n="116"/>¶ Ad tertium negatur antecedens. ad probationem 
+      <lb ed="#P" n="117"/>dicendum quod intelligendum est per appropriationem tantum 
+      <lb ed="#P" n="118"/>quia aliud appropriatur intellectui sic quod non volun 
+      <lb ed="#P" n="119"/>tati: cum tamen intellectus ei voluntas / sunt idem ex natu¬ 
+      <!--89.xml-->
+      <pb ed="#P" n="35-v"/>
+                  <lb ed="#P" n="1"/>iti ei. Et in hoc videtur concordare magitr libro 
+      pri<lb ed="#P" n="2" break="no"/>mi distinctione sexta capitulo secundo. et sic finis questi. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaesito 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaesito 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="116-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k72051"><!--l4d8-13q2 -->
+            <head xml:id="oooo3o-k72051-Hd1e99">Quaesito 2</head>
+            <p xml:id="oooo3o-k72051-d1e101">
+               <lb ed="#P" n="89"/>¶ SEcundo circa eandem 
+      <lb ed="#P" n="90"/>nateriam. Quero vtrum corpus 
+      chri<lb ed="#P" n="91" break="no"/>sti contineatur sub speciebus panis et 
+      <lb ed="#P" n="92"/>vini. quae non secundum augustinum et 
+      <lb ed="#P" n="93"/>habetur de consecratione distinctione 
+      <lb ed="#P" n="94"/>er secunda donee finiatur subiectum 
+      sur<lb ed="#P" n="95" break="no"/>sum est dominus ergo si est sub speciebus que fuerunt 
+      <lb ed="#P" n="96"/>panis et vini sequitur prima difficultas scilicet quod 
+      <lb ed="#P" n="97"/>dem corpus esset in diuersis locis. Secunda quia ex 
+      <lb ed="#P" n="98"/>quo non semper fuit sub istis speciebus quomodo in 
+      <lb ed="#P" n="99"/>cepit esse ibi. An per mutationem localem. et hoc non 
+      <lb ed="#P" n="100"/>quo modo ergo. Tertia quo modo tanta grossicies 
+      cor<lb ed="#P" n="101" break="no"/>poris christi esset sub tam modica hostia et sub 
+      quali<lb ed="#P" n="102" break="no"/>bet parte eius. 
+    </p>
+            <p xml:id="oooo3o-k72051-d1e134">
+               <lb ed="#P" n="103"/>¶ Secundo aut estibi sub esse ex 
+      <lb ed="#P" n="104"/>genso habens partem extra partem. et tunc videtur 
+      difi<lb ed="#P" n="105" break="no"/>sicile quo modo sit sub qualibet particula totum. vel 
+      <lb ed="#P" n="106"/>est ibi secuudum esse inextensum et punctale et tuno 
+      <lb ed="#P" n="107"/>idetur difficilius. quo modo tota substantia 
+      corpo<lb ed="#P" n="108" break="no"/>rea redacta sit in inextensum siue in punctum cum 
+      chri<lb ed="#P" n="109" break="no"/>stus dicat hoc est corpus meum et non punctum. 
+    </p>
+            <p xml:id="oooo3o-k72051-d1e152">
+               <lb ed="#P" n="110"/>¶ Tertio aut christus secundum 
+      <lb ed="#P" n="111"/>quod ibi habet vel habere potest actiones corporales et 
+      <lb ed="#P" n="112"/>sensuales secundum naturam corpoream assumpta aut 
+      <lb ed="#P" n="113"/>non. Si potest difficile est videre quo modo oculus (
+      cum<lb ed="#P" n="114" break="no"/>sit sub quacunque parte parua non infinities) in 
+      infi<lb ed="#P" n="115" break="no"/>nitis sitibus videre possit. 
+      <!--252.xml-->
+      <pb ed="#P" n="117-r"/>
+               <lb ed="#P" n="1"/>Si autem non potest habere dictas operationes vide 
+      <lb ed="#P" n="2"/>tur. quod indigne taliter ibi ponatur. 
+    </p>
+            <p xml:id="oooo3o-k72051-d1e176">
+               <lb ed="#P" n="3"/>¶ Oppositum per fidem patet a 
+      <lb ed="#P" n="4"/>auctoritate ecclesie ymo ex dictis christi mathei. 26. 
+      <lb ed="#P" n="5"/>hoc est corpus meum et ne figuratiue loqui 
+      videre<lb ed="#P" n="6" break="no"/>tur addidit quod pro vobis tradetur patet hoc 
+      aucto<lb ed="#P" n="7" break="no"/>ritatibus multorum sanctorum quas allegat 
+      magi<lb ed="#P" n="8" break="no"/>ster libro quarto distinctione. S 
+    </p>
+            <p xml:id="oooo3o-k72051-d1e193">
+               <lb ed="#P" n="9"/>¶ Responsio Primo didendum est 
+      <lb ed="#P" n="10"/>vtrum vnum corpus simul esse possit in pluribus 
+      lo<lb ed="#P" n="11" break="no"/>cis et vtrum motu locali incipiat christus esse sub 
+      spe<lb ed="#P" n="12" break="no"/>ciebus sacramenti iuxta materiam et difficultates 
+      ta<lb ed="#P" n="13" break="no"/>ctas in primo argumento.
+    </p>
+            <p xml:id="oooo3o-k72051-d1e206">
+      ¶ Secundo vtrum corpus 
+      <lb ed="#P" n="14"/>christi sit vere extensum vt est sacramentaliter. et quo 
+      <lb ed="#P" n="15"/>modo tantum corpus sit sub tam modica quantitate 
+      ho<lb ed="#P" n="16" break="no"/>stie de quibus tactum est in secundo argumento et 
+      in<lb ed="#P" n="17" break="no"/>vltima parte primi argumenti. Tertio de difficultate 
+      <lb ed="#P" n="18"/>tertia vtrum corpus christi vt existens 
+      sacramentali<lb ed="#P" n="19" break="no"/>ter possit habere operationes sensuales secundum na 
+      <lb ed="#P" n="20"/>turam corpoream assumptam. 
+    </p>
+            <div xml:id="oooo3o-k72051-Dd1e224">
+               <head xml:id="oooo3o-k72051-Hd1e226">Articulus 1</head>
+               <p xml:id="oooo3o-k72051-d1e228">
+                  <lb ed="#P" n="21"/>¶ Primus articulus 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e233">
+                  <lb ed="#P" n="22"/>Quantum ad primam partem 
+      <lb ed="#P" n="23"/>primi articuli pono hanc conclusionem. 
+      <lb ed="#P" n="24"/>primam: quod christi corpus potest esse simul in 
+      <lb ed="#P" n="25"/>pluri bus locis distinctis vt est sacramentaliter. Pro 
+      <lb ed="#P" n="26"/>batur per idem corpus christi est sacramentaliter in 
+      plu<lb ed="#P" n="27" break="no"/>libus altaribus distinctis. ergo consequentia nota 
+      <lb ed="#P" n="28"/>antecedens tenemus ex fide.
+    </p>
+               <p xml:id="oooo3o-k72051-d1e251">
+      ¶ Dico autem corpus 
+      <lb ed="#P" n="29"/>esse sacramentaliter alicubi non excludendo eius 
+      pre<lb ed="#P" n="30" break="no"/>sentiam realem ab vbi in quo est sacramentaliter sed 
+      <lb ed="#P" n="31"/>condistingo sacramentaliter contra localiter vel 
+      con<lb ed="#P" n="32" break="no"/>mensuratiue esse in loco 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e262">
+                  <lb ed="#P" n="33"/>¶ Secunda conclusio Idem 
+      cor<lb ed="#P" n="34" break="no"/>pus potest simul esse in distinctis locis in vno 
+      sacra<lb ed="#P" n="35" break="no"/>mentaliter et in alio localiter seu commensuratiue 
+      cum<lb ed="#P" n="36" break="no"/>loco in quo est patet de eodem corpore christi quod 
+      <lb ed="#P" n="37"/>est in celo et in altari. ergo. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e276">
+                  <lb ed="#P" n="38"/>¶ Tertia conclusio Idem corpus 
+      <lb ed="#P" n="39"/>numero potest simul esse in pluribus locis distinctis 
+      <lb ed="#P" n="40"/>etiam localiter et commensuratiue. Probatur maius 
+      <lb ed="#P" n="41"/>videtur miraculum quod idem corpus sit in vno loco 
+      l<lb ed="#P" n="42" break="no"/>caliter et in alio sacramentaliter tantum quam sit in 
+      du<lb ed="#P" n="43" break="no"/>bus locis localitate naturali. sed primum est possibile 
+      <lb ed="#P" n="44"/>per secundum conclusionem ergo secundum. Preter 
+      <lb ed="#P" n="45"/>ea nulla contradictio est animam totam esse in 
+      pluri<lb ed="#P" n="46" break="no"/>bus partibus corporis situ et loco distinctis / puta 
+      in<lb ed="#P" n="47" break="no"/>pede et in brachio: ergo nulla impossibilitas vel 
+      con<lb ed="#P" n="48" break="no"/>tradictio sequitur ad idem corpus numero esse in 
+      plu<lb ed="#P" n="49" break="no"/>ribus locis. patet consequentia. quia quecunque 
+      im<lb ed="#P" n="50" break="no"/>possibilitas que consequitur ad secundum 
+      consequi<lb ed="#P" n="51" break="no"/>tur et ad primum.
+    </p>
+               <p xml:id="oooo3o-k72051-d1e309">
+      ¶ Item pedale corpus moneri vel 
+      <lb ed="#P" n="52"/>nutari in instanti per spacium decem pecum: nullam 
+      <lb ed="#P" n="53"/>claudit repugnantiam: ergo consequentia nota quia 
+      <lb ed="#P" n="54"/>positio antecedentis antecedit conclusionem: quia 
+      im<lb ed="#P" n="55" break="no"/>possibile est pedale corpus mutari ad decem pedes 
+      <lb ed="#P" n="56"/>in instanti: nisi simul sit in pluribus locis. vt patet ex 
+      <lb ed="#P" n="57"/>dictis in primo.
+    </p>
+               <p xml:id="oooo3o-k72051-d1e325">
+      ¶ Item nulla ratio in contrarium co 
+      <!--252.xml-->
+      <lb ed="#P" n="58"/>git concedere contradictoria simul vera. sicut quod idem 
+      <lb ed="#P" n="59"/>corpus rome calefieret et hic non calefieret. vel quia 
+      <lb ed="#P" n="60"/>obuiaret sibiipsi etc. Probatur quia omnes ille 
+      ratio<lb ed="#P" n="61" break="no"/>nes que fierent de corpore hic in altari et rome. 
+      simi<lb ed="#P" n="62" break="no"/>liter fieri possent de anima in manu et pede 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e341">
+                  <lb ed="#P" n="63"/>¶ De secunda parte huius 
+      articu<lb ed="#P" n="64" break="no"/>li sit conclulio quarta. corpus christi non incipit esse 
+      <lb ed="#P" n="65"/>sub speciebus mutatione locali deperditiua loci. 
+      pa<lb ed="#P" n="66" break="no"/>tet quia non est necesse quod corpus christi desinat esse 
+      <lb ed="#P" n="67"/>in celo. ergo non oportet deperdere locum priorem. 
+      <lb ed="#P" n="68"/>Quinta coclusio. Non est 
+      ne<lb ed="#P" n="69" break="no"/>cesse copus christi transire per media de celo ad 
+      ter<lb ed="#P" n="70" break="no"/>ram. Probatur quia si transiret aerem aut esset in 
+      aere<lb ed="#P" n="71" break="no"/>sacramentaliter et hoc non quia taliter est soluium 
+      sub<lb ed="#P" n="72" break="no"/>peciebus vel esset ibi localiter: et tunc post ascensio 
+      <lb ed="#P" n="73"/>nem corporalem christus localiter frequenter 
+      descen<lb ed="#P" n="74" break="no"/>deret et ascenderet quod non est concedendum 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e370">
+                  <lb ed="#P" n="75"/>¶ Item doctores communiter negant corpus christi 
+      <lb ed="#P" n="76"/>moueri localiter siue mutari in consecratione: sed si 
+      <lb ed="#P" n="77"/>transiret per omnia media vere mutaretur. Sed 
+      dice<lb ed="#P" n="78" break="no"/>res a quo ergo mouetur corpus christi dum eleno 
+      ho<lb ed="#P" n="79" break="no"/>stiam. fiespondeo quod a virtute diuina que facit illud 
+      <lb ed="#P" n="80"/>corpus etiam ibi sub speciebus. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e386">
+                  <lb ed="#P" n="81"/>¶ Sexta eclusumo possibile est 
+      cor<lb ed="#P" n="82" break="no"/>pus christi esse simul situaliter cum accedentibus illis 
+      <lb ed="#P" n="83"/>corporalibus. patet quia potest deus substantiam 
+      pa<lb ed="#P" n="84" break="no"/>nis reparare in eodem situ vbi panis erat preter hoc 
+      <lb ed="#P" n="85"/>per dicta accidentia ipsam substantiam panis informa  
+      <lb ed="#P" n="86"/>gent. quo facto panis esset si mul cum accidentibus 
+      <lb ed="#P" n="87"/>in eodem situ. ergo in proposito potest sic facere de 
+      cor<lb ed="#P" n="88" break="no"/>pore christi.
+    </p>
+               <p xml:id="oooo3o-k72051-d1e407">
+      ¶ Item de facto deus fecit duo 
+      corpora<lb ed="#P" n="89" break="no"/>simul absque penetratione discontinuatiua 
+      dimensio<lb ed="#P" n="90" break="no"/>num. quando christus intrauit ianuis clausis et 
+      exi<lb ed="#P" n="91" break="no"/>uit vterum matris. ergo. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e416">
+                  <lb ed="#P" n="92"/>¶ Septima conclusio facta 
+      con<lb ed="#P" n="93" break="no"/>uersione panis in altari corpus christi absque omni 
+      mu<lb ed="#P" n="94" break="no"/>atione locali vel substantiali / vel etiam qualitatiua. 
+      <lb ed="#P" n="95"/>ncipit esse ibi. Probatur primo quod absque matatibne 
+      <lb ed="#P" n="96"/>locali. quia si corpus christi nullibili esset ante 
+      conuer<lb ed="#P" n="97" break="no"/>sionem: tunc per conuersionem inciperet ibi absque 
+      mu<lb ed="#P" n="98" break="no"/>tatione locali et non minus nunc incipit esse ibi 
+      siue<lb ed="#P" n="99" break="no"/>mutatione locali: quia ante consecrationem est alibi et 
+      <lb ed="#P" n="100"/>manet ibi: ergo. Secunda pars patet quia corpus 
+      chri<lb ed="#P" n="101" break="no"/>sti substantialiter prefuit ergo non incipit esse 
+      substa<lb ed="#P" n="102" break="no"/>tialiter nec secundum totum nec secundum partem 
+      <lb ed="#P" n="103"/>per conuersionem. Tertia pars probatur quia virtum 
+      <lb ed="#P" n="104"/>te conuersionis nullam rem acquirit nec deperdit alio 
+      <lb ed="#P" n="105"/>quin nimis qualificaretur propter multiplicem 
+      con<lb ed="#P" n="106" break="no"/>secrationem et conuersionem panis in ipsum. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k72051-Dd1e452">
+               <head xml:id="oooo3o-k72051-Hd1e454">Articulus 2</head>
+               <p xml:id="oooo3o-k72051-d1e456">
+                  <lb ed="#P" n="107"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e461">
+                  <lb ed="#P" n="108"/>Quantum ad secundum. an 
+      <lb ed="#P" n="109"/>corpus christi existit sacramentaliter sic. 
+      <lb ed="#P" n="110"/> extensum Premitto suppositiones 
+      qua<lb ed="#P" n="111" break="no"/>rum Prima est Anima christi in sacramento informat 
+      <lb ed="#P" n="112"/>corporis partes organice distinctas. patet quia alias 
+      <lb ed="#P" n="113"/>christus sub sacramento non esset vere homo. 
+      <!--253.xml-->
+      <pb ed="#P" n="117-v"/>
+                  <lb ed="#P" n="1"/>Secunda suppositio Corpus 
+      <lb ed="#P" n="2"/>christi in sacramentb non est reductum ad esse punctum 
+      <lb ed="#P" n="3"/>ale totaliter inextensum: istam sequitur ex prima. ergo 
+      <lb ed="#P" n="4"/>si detur oppositum sequitur pro partes corporis non 
+      di<lb ed="#P" n="5" break="no"/>stinguuntur organice sed omnes essent vnum punctum 
+      <lb ed="#P" n="6"/>indiuisibile ad quod iterum sequeretur quod chr. stus 
+      v<lb ed="#P" n="7" break="no"/>sub sacramento non esset homo. et per consequens si 
+      <lb ed="#P" n="8"/>christus nullibi esset nisi sacramentaliter christus 
+      nul<lb ed="#P" n="9" break="no"/>libi esset homo quod est falsum immo non posset 
+      cor<lb ed="#P" n="10" break="no"/>pus cum tamen christus dicat hoc est corpus meum 
+      <lb ed="#P" n="11"/>Confirmatur secundo quia si 
+      pu<lb ed="#P" n="12" break="no"/>pilla oculi christi sacramentaliter existentis sit punctus 
+      <lb ed="#P" n="13"/>totaliter indiuisibilis et inextensus sequeretur quam ipsa 
+      <lb ed="#P" n="14"/>pupilla a qualibet parte specierum sacramenti 
+      dista<lb ed="#P" n="15" break="no"/>ret situaliter et sic non cotiueretur sub qualibet ymo 
+      <lb ed="#P" n="16"/>sub nulla quod est falsum patet consequentia quoni 
+      <lb ed="#P" n="17"/>am si ymaginaremur pro deus quamli det partem 
+      hostio<lb ed="#P" n="18" break="no"/>non distantem secundum quodlibet sui a paunctuali 
+      <lb ed="#P" n="19"/>substantia corporis anni. hi aret patet quod nichil 
+      anni<lb ed="#P" n="20" break="no"/>chilaret. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e524">
+                  <lb ed="#P" n="21"/>¶ Item tertio si impossibile est continuum componi ex 
+      <lb ed="#P" n="22"/>ludiuisibilibus tunc si deus aunichilaret sacramenta 
+      <lb ed="#P" n="23"/>lia acciden ia et dimittteret vacuum quo ad alia 
+      corpo<lb ed="#P" n="24" break="no"/>ra subintranea retento copore christi sicut prius erat 
+      <lb ed="#P" n="25"/>cum ipsis accidentibus. vtique intelligeremus situm cu 
+      <lb ed="#P" n="26"/>cularem ab aere circundatum continere corpus 
+      chri<lb ed="#P" n="27" break="no"/>sti. Sec si hoc non essent ibi nisi puncta vel psunctus idem 
+      <lb ed="#P" n="28"/>pluries replicatus per iuxta positionem non vi deretur 
+      <lb ed="#P" n="29"/>qualiter ibi fuerit circularis existentia per ymaginationem 
+      <lb ed="#P" n="30"/>Iem quarto repugnare videtur anime intellectiue informare 
+      <lb ed="#P" n="31"/>materiam punctualem precise et si solum in vno situ esset 
+      <lb ed="#P" n="32"/>nulla operatio humana corperis vt sic posset sioi 
+      ccomm<lb ed="#P" n="33" break="no"/>petere 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e555">
+                  <lb ed="#P" n="34"/>¶ Tertia suppositio sub 
+      qua<lb ed="#P" n="35" break="no"/>libet particula hostie manet integre corpus christi: ita 
+      <lb ed="#P" n="36"/>quod quelibet pars corporis sub qualibet parte 
+      hostio<lb ed="#P" n="37" break="no"/>continetur. paiet ex tra de reliquiis et veneratione sancto 
+      <lb ed="#P" n="38"/>rum Et probatur quia si non: ergo facta diuisione 
+      ho<lb ed="#P" n="39" break="no"/>stie aut nulla pars continet totum christum: sed quaelibet pars 
+      <lb ed="#P" n="40"/>partem et sic diuisus est christus corporaliter vel nichil 
+      <lb ed="#P" n="41"/>et tunc desinit esse corpus christi sacramentaliter facta 
+      <lb ed="#P" n="42"/>dinisione 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e578">
+                  <lb ed="#P" n="43"/>¶ Dis tribus perit atibus 
+      suppo<lb ed="#P" n="44" break="no"/>sitis quas oportet concedere de hoc benedicto 
+      sacra<lb ed="#P" n="45" break="no"/>mento. Pono aliquas conclusiones de modo existendi 
+      <lb ed="#P" n="46"/>quas reputo veras nisi aliter inueniatur de intentione 
+      <lb ed="#P" n="47"/>sanctorum Sic ergo conclusio prima 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e591">
+                  <lb ed="#P" n="48"/>¶ Possibile est corpis christi 
+      quan<lb ed="#P" n="49" break="no"/>libet partem esse ordinatam in suo toto vt prius 
+      sciul<lb ed="#P" n="50" break="no"/>ante consecrationem et cum hoc quamlibet esse in 
+      eo<lb ed="#P" n="51" break="no"/>dem situ simul cum qualibet sibi equali sui totius. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e602">
+                  <lb ed="#P" n="52"/>¶ Probatur quia non plus repugnat partibus corporis 
+      <lb ed="#P" n="53"/>christi seruato ordine in suo toto: omnes poni sumul 
+      <lb ed="#P" n="54"/>scilicet quamlibet cum qualibet quam ponere simul 
+      dua<lb ed="#P" n="55" break="no"/>sed secundum non est impossibile vt certum est. ergo 
+      con<lb ed="#P" n="56" break="no"/>clusio vera maior patet quia quecunque repugnantia 
+      <lb ed="#P" n="57"/>sequitur ad hoc quod partes omnes simul essent 
+      serua<lb ed="#P" n="58" break="no"/>to ordine in suo toto vt prins: Illa etiam sequitur ad 
+      <lb ed="#P" n="59"/>duas simul esse eodem ordine seruato. Secundo 
+      se<lb ed="#P" n="60" break="no"/>nato ordine partium in toto vt prius non repugnat 
+      <!--253.xml-->
+      <lb ed="#P" n="61"/>acentesimam partem corporis christi esse simul cum 
+      <lb ed="#P" n="62"/>b. centesima sibi equali et cum c. et d. vsque ad centum 
+      <lb ed="#P" n="63"/>et similiter non repugnat cuilibet subcentesiue illius 
+      <lb ed="#P" n="64"/>centesime esse simul cum sibi equali. et sic in 
+      infini<lb ed="#P" n="65" break="no"/>um. ergo. etc. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e637">
+                  <lb ed="#P" n="66"/>¶ Secunda conclusio si de aliquo 
+      <lb ed="#P" n="67"/>corpore cuiuscunque figure existat deus faceret hoc 
+      <lb ed="#P" n="68"/>miraculum quod facit de corpore christi: non ex hoc 
+      <lb ed="#P" n="69"/>esset materia vel forma vel figura illius corporis 
+      re<lb ed="#P" n="70" break="no"/>data ad esse innextensum. Patet quia remaneret materia 
+      <lb ed="#P" n="71"/>et forma et fignra et ordo parcium in toto vt prius. 
+      <lb ed="#P" n="72"/>It infieret condensatio nec deperditio aliqua: nec 
+      <lb ed="#P" n="73"/>alicuius esse aliqualis absoluti acquisitio. vt patet ex 
+      <lb ed="#P" n="74"/>articulo precedenti: ergo.  
+    </p>
+               <p xml:id="oooo3o-k72051-d1e659">
+                  <lb ed="#P" n="75"/>¶ Tertia conclusio stante 
+      ypote<lb ed="#P" n="76" break="no"/>si prime conclusionis hic posite de de simultate: et si 
+      <lb ed="#P" n="77"/>tuali parcium corporis christi ordine in toto seruato 
+      <lb ed="#P" n="78"/>tunc vere sub qualibet particula hostie totus 
+      integer<lb ed="#P" n="79" break="no"/>christus secundum totam substantiam eius 
+      contin<lb ed="#P" n="80" break="no"/>tur. Probatur de dextra et sinistra hostie. quia sit ita 
+      <lb ed="#P" n="81"/>quod dextra pars hostie sit equalis millesime parti 
+      ma<lb ed="#P" n="82" break="no"/>nus christi. que millesima sit b. tunc cum b. millesima 
+      <lb ed="#P" n="83"/>sunt omnes mille sime manus christi simul in eodem 
+      <lb ed="#P" n="84"/>situ. et sic tota manus erit. et si eadem millesima b. sit 
+      <lb ed="#P" n="85"/>equalis centerime parti oculi christi vel aliquante 
+      <lb ed="#P" n="86"/>parti capitis: similiter omnes sunt cum b. que sunt si 
+      <lb ed="#P" n="87"/>bi equales. ergo substantia manus et tota 
+      substann<lb ed="#P" n="88" break="no"/>tia oculi: et tota substantia capitis sunt simul cum b. 
+      <lb ed="#P" n="89"/>in eodem situ. et per consequens tota substantia 
+      cor<lb ed="#P" n="90" break="no"/>porea christi est cum b. et trerum tota substantia que 
+      <lb ed="#P" n="91"/>est .b. est cum qualibet mille sima b. e rgo si b. sit 
+      sub<lb ed="#P" n="92" break="no"/>dextra parte hostie patet quod illa dextra hostie continet 
+      <lb ed="#P" n="93"/>totum christum integraliter: et similiter quelibet pars 
+      <lb ed="#P" n="94"/>dexixe continet totum christum pari ratione est sicut 
+      <lb ed="#P" n="95"/>dicitur de dextra et eius partibus ita potest probari 
+      <lb ed="#P" n="96"/>de sinistra et eius partibus et per consequens de 
+      om<lb ed="#P" n="97" break="no"/>nibus partibus. patet ergo consequentia cuius 
+      de<lb ed="#P" n="98" break="no"/>clarationem bene intellige. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e714">
+                  <lb ed="#P" n="99"/>¶ Quarta conclusio ad 
+      saluan<lb ed="#P" n="100" break="no"/>dum corpus christi esse sacramentaliter sub 
+      specie<lb ed="#P" n="101" break="no"/>bus hostie precise et non extra stantibus predictis 
+      <lb ed="#P" n="102"/>conclusionibus in veritate necesse est corporis 
+      chri<lb ed="#P" n="103" break="no"/>sti partes solum equales quantitati hostie et 
+      equa<lb ed="#P" n="104" break="no"/>les partibus hostie cum hoc quod hal est ordinem in suo 
+      <lb ed="#P" n="105"/>toto quod quelibet sit cum cualibet sibi equali sui totius 
+      <lb ed="#P" n="106"/>Patet nam si caput christi retinet. ordinem in suo 
+      to<lb ed="#P" n="107" break="no"/>to quamnis esset sub qualibet parte equali sibi: oportet 
+      <lb ed="#P" n="108"/>quod esset extra continentiam hostie habentis 
+      quantita<lb ed="#P" n="109" break="no"/>tem paruam sicut communiter hostie fiunt oportet 
+      <lb ed="#P" n="110"/>ergo si non debeat extra hosti. in esse quod partes solum 
+      <lb ed="#P" n="111"/>equales hostie et minores quam equales partibus hostio 
+      <lb ed="#P" n="112"/>sint simul cum qualibet sibi equali et non partes 
+      ma<lb ed="#P" n="113" break="no"/>iores quantitate hostie Et apparet iste modus 
+      ratio<lb ed="#P" n="114" break="no"/>nabilis plusquam quod dicatur quod christus est extra hostiam 
+      <lb ed="#P" n="115"/>etiam totus et integre quamuis etiam sit totus intra 
+      ho<lb ed="#P" n="116" break="no"/>stiam vel sub hostia Primus modus saluat bene 
+      om<lb ed="#P" n="117" break="no"/>nes veritates quas ecclesia tenet in hoc sacramento 
+      <lb ed="#P" n="118"/>et nichil ponit inconueniens. Secundus vero habet 
+      <lb ed="#P" n="119"/>concedere quod christus est alicubi sacramentaliter non 
+      <lb ed="#P" n="120"/>sub speciebus hostie quod non dicitur.
+    </p>
+               <p xml:id="oooo3o-k72051-d1e765">
+      ¶ Item 
+      pos<lb ed="#P" n="121" break="no"/>ta veritate conclusionis huius quarte deus potest velle vt extra 
+      <lb ed="#P" n="122"/>species rotundas hostie non sit aliquid ipsius corpris christi et 
+      <!--254.xml-->
+      <pb ed="#P" n="118-r"/>
+                  <lb ed="#P" n="1"/>quod tameu eiusdem corporis partes habentes similem. 
+      <lb ed="#P" n="2"/>proportionem ad quantitatem equalem ipsi hostie. 
+      <lb ed="#P" n="3"/>qualem habent corporis christi partes in celo ad suum 
+      <lb ed="#P" n="4"/>totum remanebunt ordinem seruantes in suo toto. 
+      er<lb ed="#P" n="5" break="no"/>go etc. ad quod ymaginandum iuuat quod in speculo quam 
+      <lb ed="#P" n="6"/>nis paruo. apparet minor sed proportionalis facies 
+      <lb ed="#P" n="7"/>Item si b. lignum (quod sit figure quadrate) dispone 
+      <lb ed="#P" n="8"/>retur per diuinam potentiam vt haberet esse sicut 
+      di<lb ed="#P" n="9" break="no"/>cit prima conclusio: et tunc ymaginetur quantitas cu 
+      <lb ed="#P" n="10"/>cularis in medio b. cuius diameter sit digitalis et 
+      sub<lb ed="#P" n="11" break="no"/>isto medio circulo ponat deus quicquid est ligni b. 
+      <lb ed="#P" n="12"/>ta quod nichil b. maneat extra illum circulum) tunc patenttria 
+      <lb ed="#P" n="13"/>primum quod nihil b. ligni corrumpitur. secundum quod tota sbam b. erit rge 
+      <lb ed="#P" n="14"/>qualibet particula illius circuli digitalis. Tertium quod 
+      <lb ed="#P" n="15"/>partes habentes ordinem in toto vt prius vt scilicet 
+      <lb ed="#P" n="16"/>dextra sit dextra et sinistra sit sinistra: vtique sunt partes 
+      <lb ed="#P" n="17"/>equales medietati circuli diametri b. et minoris. hic 
+      <lb ed="#P" n="18"/>attende declarationem conclusionis tertie. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e815">
+                  <lb ed="#P" n="19"/>¶ Quinta conclusio non ex hoc 
+      <lb ed="#P" n="20"/>precise quod partes corporis christi retinent ordinem 
+      ip<lb ed="#P" n="21" break="no"/>suo toto (vt dicit prima pars prime conclusionis / 
+      ha<lb ed="#P" n="22" break="no"/>bet corpus esse sacramentaliter. patet ex dictis. quia 
+      <lb ed="#P" n="23"/>ad esse sacramentaliter oportet quod totus christus 
+      ine<lb ed="#P" n="24" break="no"/>teger sit sub qualibet particula hostie illud autem non 
+      <lb ed="#P" n="25"/>potest saluari ex isto precise. quia sic habet esse corpus 
+      <lb ed="#P" n="26"/>christi naturaliter 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e835">
+                  <lb ed="#P" n="27"/>¶ Sexta conclusio si partes 
+      cor<lb ed="#P" n="28" break="no"/>poris christi proportionales: vt sacramentaliter 
+      exi<lb ed="#P" n="29" break="no"/>stunt. non retiuerent ordinem ad suum totum: vt 
+      pri<lb ed="#P" n="30" break="no"/>us: et est quelibet pars cum qualibet. tunc esset 
+      me<lb ed="#P" n="31" break="no"/>re confusio partium. et non staret dispositio 
+      corpo<lb ed="#P" n="32" break="no"/>ris humaui: quam anima requirit. nec christus esset 
+      <lb ed="#P" n="33"/>vere homo modo quo alii sunt. Secundum quod ibi esset 
+      <lb ed="#P" n="34"/>corpus christi ymmo non esset tam magna dispositio 
+      <lb ed="#P" n="35"/>quam magna requireretur si christus esset longus solum 
+      <lb ed="#P" n="36"/>secundum longitudinem hostie. sed hoc est 
+      inconue<lb ed="#P" n="37" break="no"/>niens. ergo. Patet etiam conclusio per suppositiones 
+      <lb ed="#P" n="38"/>primas. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e864">
+                  <lb ed="#P" n="39"/>¶ Sed diceres ergo sub 
+      quali<lb ed="#P" n="40" break="no"/>bet particula ininima hostie contineretur figura co 
+      <lb ed="#P" n="41"/>poris humani: sicut in fractionibus speculi: patet 
+      con<lb ed="#P" n="42" break="no"/>sequentia quia secundum dicta oportet vt talis sit 
+      dis<lb ed="#P" n="43" break="no"/>positio corporis humani et figura que non repugne 
+      <lb ed="#P" n="44"/>anime. puta quod habeat partes organice distinctas 
+      se<lb ed="#P" n="45" break="no"/>consequens videtur super omnem humanum 
+      intell<lb ed="#P" n="46" break="no"/>ctum quod scilicet in particula tam parua quam parua est 
+      <lb ed="#P" n="47"/>centesima vel millesima pars graui milii: sit tota 
+      fi<lb ed="#P" n="48" break="no"/>gura corporis humani./ cum partibus organice 
+      dis<lb ed="#P" n="49" break="no"/>tiuctis: fesponsio. concedo consequens et 
+      consequen<lb ed="#P" n="50" break="no"/>tiam maxime de partibus mexistentibus toti et 
+      com<lb ed="#P" n="51" break="no"/>parcialibus. concedo etiam quod transcendit humanum 
+      <lb ed="#P" n="52"/>ingenium. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e897">
+                  <lb ed="#P" n="53"/>¶ Septima conclusio non potest 
+      <lb ed="#P" n="54"/>in sacramento taliter mutari hostia quin caput sit 
+      su<lb ed="#P" n="55" break="no"/>perius et supra collum et pedes inferius / patet quia 
+      <lb ed="#P" n="56"/>sub qualibet particula est totus christus integer et vbi 
+      <lb ed="#P" n="57"/>quod habet ordinem partium in toto. vnde si detur b. pars 
+      <lb ed="#P" n="58"/>hostie quanta tunc deus nouit in b. que est substantia 
+      <lb ed="#P" n="59"/>manus dextre et que substantia est manus sinistre et 
+      <lb ed="#P" n="60"/>illius dextre quis est talis digitus. et quis talis. 
+      ym<lb ed="#P" n="61" break="no"/>mo secundum esse tale dextre manus. substantia est 
+      <!--254.xml-->
+      <lb ed="#P" n="62"/>sub dextra parte illius b. et sinistre manus substantia 
+      <lb ed="#P" n="63"/>est sub sinistra parte ipsius b. et similiter sic est quod 
+      su<lb ed="#P" n="64" break="no"/>perioris digiti substantia sit sub superiori parte b. et 
+      <lb ed="#P" n="65"/>inferioris digiti substantia sit sub inferiori parte b. et 
+      <lb ed="#P" n="66"/>sic procedendo de reliquis. ita vt si deus. velit 
+      coage<lb ed="#P" n="67" break="no"/>re ad videri apparebit. figura corporis humaini et sic si 
+      <lb ed="#P" n="68"/>voluas accidentia non mutatur corpus christi 
+      situa<lb ed="#P" n="69" break="no"/>liter nisi a virtute infinita et ab ista stat caput supra 
+      <lb ed="#P" n="70"/>et pedes iufra ista est ymaginatio substantialis 
+      ma<lb ed="#P" n="71" break="no"/>gistri hugolini in hac materia et hoc de secundo articulo 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k72051-Dd1e944">
+               <head xml:id="oooo3o-k72051-Hd1e946">Articulus 3</head>
+               <p xml:id="oooo3o-k72051-d1e948">
+                  <lb ed="#P" n="72"/>Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e953">
+                  <lb ed="#P" n="73"/>Quantum ad tertium 
+      <lb ed="#P" n="74"/>articulum videndum est / vtrum 
+      chri<lb ed="#P" n="75" break="no"/>stus vt est sacramentaliter habeat 
+      om<lb ed="#P" n="76" break="no"/>nes operationes et cetera. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e964">
+                  <lb ed="#P" n="77"/>¶ Pono conclusiones. 
+      <lb ed="#P" n="78"/>Prima christus secundum quod corporaliter est sub 
+      spe<lb ed="#P" n="79" break="no"/>ciebus sacramenti. dato quod non esset in celo corpora 
+      <lb ed="#P" n="80"/>itur sicut foret possibile / potest videre corporali 
+      ocu<lb ed="#P" n="81" break="no"/>lo rem corporalem: scilicet per speciem pyramidalem 
+      <lb ed="#P" n="82"/>cuius conus est in oculo et basis in re visa patet quia 
+      <lb ed="#P" n="83"/>oculus esset vere quantus et haberet omnia media 
+      re<lb ed="#P" n="84" break="no"/>misita tam intrinseca quam extrinseca. et similiter 
+      pro<lb ed="#P" n="85" break="no"/>batur de aliis operationibus sensualibus sicut de 
+      au<lb ed="#P" n="86" break="no"/>ditu et cetera 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e988">
+                  <lb ed="#P" n="87"/>¶ Secunda conclusio. Christus 
+      <lb ed="#P" n="88"/>huiusmodi operationes sensuales non haberet vt est 
+      <lb ed="#P" n="89"/>ibi sacramentaliter: sed vt quelibet pars remanet 
+      or<lb ed="#P" n="90" break="no"/>dinata in suo toto vt prius modo supra posito in 
+      ar<lb ed="#P" n="91" break="no"/>ticulo precedenti. Probatur quia vt existit sacramen 
+      <lb ed="#P" n="92"/>taliter. vbi est oculus ibi est quelibet centesima pars 
+      <lb ed="#P" n="93"/>manus in quibus centesunis non fit impressio specie i 
+      <lb ed="#P" n="94"/>visibilis rei. sed solum in oculo igitur. Item secundo 
+      <lb ed="#P" n="95"/>si oculus vbicumque est recipit visionem. ergo 
+      infini<lb ed="#P" n="96" break="no"/>ties recipit infinitas visiones quod de facto non 
+      da<lb ed="#P" n="97" break="no"/>tur que non sic operatur christus vt est 
+      sacrameuta<lb ed="#P" n="98" break="no"/>itur sed sicut predictum est. Et forte hoc inteudebat 
+      <lb ed="#P" n="99"/>quidam quando dixit quotlibeto primo questione 
+      sex<lb ed="#P" n="100" break="no"/>ta quod christus vt est sacramentaliter nec videt se nec 
+      <lb ed="#P" n="101"/>aliud oculo corporali. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e1024">
+                  <lb ed="#P" n="102"/>¶ Tertia conclusio omnes 
+      ope<lb ed="#P" n="103" break="no"/>rationes intellectuales quas christus habet in celo. 
+      <lb ed="#P" n="104"/>habet in altari vt ibi existit sacramentaliter vt puta 
+      ha<lb ed="#P" n="105" break="no"/>bet operationem intnitiuam naturalem de rebus ad ex 
+      <lb ed="#P" n="106"/>tra et volitiones creatas secundum animam. et 
+      cogno<lb ed="#P" n="107" break="no"/>scit secreta cordis et cetera et omnia sibi presentia. 
+    </p>
+               <p xml:id="oooo3o-k72051-d1e1040">
+                  <lb ed="#P" n="108"/>¶ Ex dictis patet responsio ad rationes principales et 
+      <lb ed="#P" n="109"/>sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="114-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k70906"><!--l4d8-13q1 -->
+            <head xml:id="oooo3o-k70906-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k70906-d1e101">
+               <lb ed="#P" n="103"/>¶ CIrca materiam octaue 
+      <lb ed="#P" n="104"/>distinctionis et sequentiuim quinque in 
+      qui<lb ed="#P" n="105" break="no"/> bus magister tractat de sacramento 
+      euch<lb ed="#P" n="106" break="no"/>ristie.
+    </p>
+            <p xml:id="oooo3o-k70906-d1e112">
+      ¶ Quero primo. Utrum substantia panis 
+      transe<lb ed="#P" n="107" break="no"/>substantatietur in substantiam carnis christi.
+    </p>
+            <p xml:id="oooo3o-k70906-d1e117">
+      ¶ quod non 
+      <lb ed="#P" n="108"/>impossibile est vnam substantiam verti 
+      substantia<lb ed="#P" n="109" break="no"/>liter vel transsubstantiari igitur. consequentia 
+      nota<lb ed="#P" n="110" break="no"/>antecedens probatur. Si a substantia transsubstantietur in i 
+      <lb ed="#P" n="111"/>vel sic est quod a. manebit a. et hoc non potest sane 
+      dici<lb ed="#P" n="112" break="no"/>vel a. non manebit a. et tunc a. annichilatur et per consequent 
+      <!--248.xml-->
+      <pb ed="#P" n="115-r"/>
+               <lb ed="#P" n="1"/>a. non transsubstantiabatur. 
+    </p>
+            <p xml:id="oooo3o-k70906-d1e137">
+               <lb ed="#P" n="2"/>¶ Secundo facta 
+      transsubstan<lb ed="#P" n="3" break="no"/>tatione panis in carnem christi aut caro christi quae sit b. 
+      <lb ed="#P" n="4"/>tuit panis qui sit c. aut b. nunquam fuit c. Si b. quando quod 
+      <lb ed="#P" n="5"/>fuit c. ergo b. quandoque fuit illud quod fuit in 
+      furne<lb ed="#P" n="6" break="no"/>et per consequens b. fuit in furno. quia omnem quod fuit 
+      <lb ed="#P" n="7"/>c. fuit in furno Si b nunquam fuitc. et c. fuit. et modo 
+      <lb ed="#P" n="8"/>non est: quia nec in se est. quia modo c. non est c. nec 
+      <lb ed="#P" n="9"/>c. in b. est: quia modo c. non est b. ergo c. vere est 
+      an<lb ed="#P" n="10" break="no"/>nichilatum. 
+    </p>
+            <p xml:id="oooo3o-k70906-d1e160">
+               <lb ed="#P" n="11"/>¶ Tertio impossibile est aliquam 
+      <lb ed="#P" n="12"/>vnam essentiam verti simul in plures specifice 
+      distin<lb ed="#P" n="13" break="no"/>ctas. ergo impossibile est essentiam panis verti in corpus 
+      <lb ed="#P" n="14"/>christi. patet consequentia: quia corpus christi est 
+      con<lb ed="#P" n="15" break="no"/>stans ex pluribus essentiis specifice distinctis 
+      cuius<lb ed="#P" n="16" break="no"/>modi sunt os caro etc. quarum quelibet habet formam 
+      <lb ed="#P" n="17"/>essentialem distinctam specifice vel per quam 
+      differ<lb ed="#P" n="18" break="no"/>ret specifice ab alia. vt dictum est in secundo. 
+      antece<lb ed="#P" n="19" break="no"/>dens probatur. quia quelibet vna essentia est vnus 
+      <lb ed="#P" n="20"/>gradus specificus essentialis no capax plurium 
+      gra<lb ed="#P" n="21" break="no"/>duum essentialium. 
+    </p>
+            <p xml:id="oooo3o-k70906-d1e186">
+               <lb ed="#P" n="22"/>¶ Oppositum patet ex side et 
+      ha<lb ed="#P" n="23" break="no"/>betur de celebratione missarum. Cum matrthe. Quia 
+      <lb ed="#P" n="24"/>veritas questionis huus est circa fidem et ex diuersis 
+      <lb ed="#P" n="25"/>testimoniis doctorum et sauctorum ideo in ista 
+      que<lb ed="#P" n="26" break="no"/>stione solum opportet inuestigare transsubstantatio 
+      <lb ed="#P" n="27"/>nis modum igitur primo circa hanc premitto 
+      decla<lb ed="#P" n="28" break="no"/>rationes cum propositionibus 
+    </p>
+            <p xml:id="oooo3o-k70906-d1e204">
+               <lb ed="#P" n="29"/>¶ Secundo ponam recita. 
+      <lb ed="#P" n="30"/>tiue falsas opiniones cum earum in probationibus
+    </p>
+            <p xml:id="oooo3o-k70906-d1e211">
+               <lb ed="#P" n="31"/>¶ Tertio ponam veritatem michi apparentem 
+      sub<lb ed="#P" n="32" break="no"/>aliquibus conclusionibus 
+    </p>
+            <div xml:id="oooo3o-k70906-Dd1e218">
+               <head xml:id="oooo3o-k70906-Hd1e220">Articulus 1</head>
+               <p xml:id="oooo3o-k70906-d1e222">
+                  <lb ed="#P" n="33"/>¶  Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e227">
+                  <lb ed="#P" n="34"/>Quantum ad primum 
+      hi<lb ed="#P" n="35" break="no"/>dendum est quid sit transsubstantiari vna 
+      <lb ed="#P" n="36"/>essentiam vel substantialiter verti in aliam 
+      <lb ed="#P" n="37"/>vnde non est idem conuertibiliter transsubstantiatio 
+      <lb ed="#P" n="38"/>et substantialis versio.et 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e240">
+                  <lb ed="#P" n="39"/>¶ Describo igitur transubssantia 
+      <lb ed="#P" n="40"/>tionem sic. Transsubstantiatio vel transubstantiari in 
+      <lb ed="#P" n="41"/>rem essentialiter et intrinsece mutari tali mutatione 
+      <lb ed="#P" n="42"/>qua desinit res esse secundum se et quolibet sui 
+      essen<lb ed="#P" n="43" break="no"/>tiale et intrinsecum cuius terminus ad quem est 
+      ali<lb ed="#P" n="44" break="no"/>quod actualiter prefuit 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e256">
+                  <lb ed="#P" n="45"/>¶ Per lyessentialiter et 
+      intrin<lb ed="#P" n="46" break="no"/>secemutari excluduntur omnes mutationes 
+      deper<lb ed="#P" n="47" break="no"/>ditiue rerum accidentalium iilius quod 
+      transsubstan<lb ed="#P" n="48" break="no"/>tiatur. Per ly tali mutatione qua desinit res esse 
+      <lb ed="#P" n="49"/>secundum se et quolibet sui essentiale et 
+      extrinsecum<lb ed="#P" n="50" break="no"/>excluditu naturalis corruptio qua res non desinit et 
+      <lb ed="#P" n="51"/>se secundum quodlibet sui essentiale quia non 
+      secun<lb ed="#P" n="52" break="no"/>dum materiam. hic inde aduerte melius si materia 
+      <lb ed="#P" n="53"/>panis sic mutaturtunc opatet concedere quom quotidie ali 
+      <lb ed="#P" n="54"/>qua portio materie prime desinit esse ymo multe 
+      por<lb ed="#P" n="55" break="no"/>tiones etc. 
+      <!--248.xml-->
+      <lb ed="#P" n="56"/>Per illud quod sequitur 
+      exclu<lb ed="#P" n="57" break="no"/>ditur annichilatio cuius terminus ad quem non est 
+      <lb ed="#P" n="58"/>iliquid positiuum sed pura negatio esse.
+    </p>
+               <p xml:id="oooo3o-k70906-d1e292">
+      ¶ 
+      Substan<lb ed="#P" n="59" break="no"/>tialis versio secundum aliquos distinguitur a. 
+      transsubstan<lb ed="#P" n="60" break="no"/>tione sicut superius ab inferiori vnde omnis 
+      transub<lb ed="#P" n="61" break="no"/>stantatio dicitur substantie vertio sed non econtra et 
+      <lb ed="#P" n="62"/>hec est diferentia quia substantialis versio suum 
+      ter<lb ed="#P" n="63" break="no"/>minum ad quem non necessario presupponit 
+      actua<lb ed="#P" n="64" break="no"/>liter preexistentem sed quandoque ipsius vertionis 
+      ter<lb ed="#P" n="65" break="no"/>minus capit esse de nouo. Transsubstantio vero 
+      ter<lb ed="#P" n="66" break="no"/>minum ad quem necessario presupponit actualiter 
+      <lb ed="#P" n="67"/>preexistere 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e314">
+                  <lb ed="#P" n="68"/>¶ Ex his sibera sint sequitur pro 
+      <lb ed="#P" n="69"/>positiones quarum prima est rem presentem in 
+      rem<lb ed="#P" n="70" break="no"/>actualiter existentem transsustantiari est impossibile 
+      pa<lb ed="#P" n="71" break="no"/>tet ex 3. membro descriptionis qua dicitur quam terminus 
+      <lb ed="#P" n="72"/>ad quem est aliquid quod prefuit 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e327">
+                  <lb ed="#P" n="73"/>¶ Secunda propositio quod res 
+      pre<lb ed="#P" n="74" break="no"/>sens in preteritam vel futuram non potest 
+      transsubstan<lb ed="#P" n="75" break="no"/>tiari. patet ex precedente 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e336">
+                  <lb ed="#P" n="76"/>¶ Tertia propositio res presens 
+      <lb ed="#P" n="77"/>potest substantialiter verti in rem preteritam et 
+      futu<lb ed="#P" n="78" break="no"/>ram. patet de vxore lothqui versa fiit in rem non 
+      exi<lb ed="#P" n="79" break="no"/>stentem ante eius conuersionem futuram scilicet in statuam 
+      <lb ed="#P" n="80"/>salis Similiter de virga moysi conuersa in columbrum quai 
+      <lb ed="#P" n="81"/>ante vrge conuersionem fuit futurus. Sed quod res 
+      pre<lb ed="#P" n="82" break="no"/>sens substantialiter verti possit in preteritam. patet de 
+      <lb ed="#P" n="83"/>conuersione colubri in virgam nunc non existentem 
+      <lb ed="#P" n="84"/>sed preteritam. 
+      <lb ed="#P" n="85"/>re¬ 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e360">
+                  <lb ed="#P" n="86"/>¶ Quarta proposit io rem 
+      prete<lb ed="#P" n="87" break="no"/>ritam vel futuram in alterutram vel in rem presentem 
+      <lb ed="#P" n="88"/>transsubstantiari vel etiam substantialiter verti est 
+      im<lb ed="#P" n="89" break="no"/>possibile: patet quia quelibet talis versio necessario 
+      <lb ed="#P" n="90"/>presupponit terminum a quo positum. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e373">
+                  <lb ed="#P" n="91"/>¶ Quinta propositio licetur res 
+      <lb ed="#P" n="92"/>que fuit in a. instanti possit fieri res que nunquam fuit in 
+      <lb ed="#P" n="93"/>cinstanti: tamen rem que fuit in a. instanti nunquam 
+      fuis<lb ed="#P" n="94" break="no"/>se ina. instanti implicat contradictionem. Patet prima 
+      <lb ed="#P" n="95"/>pars. Si b. res nunc existens substantialiter vertatur 
+      <lb ed="#P" n="96"/>inc. lapidem qui nunquam fuit in a. quod possibile est esse 
+      <lb ed="#P" n="97"/>vt dicit propositio tertia 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e392">
+                  <lb ed="#P" n="98"/>¶ Secunda vero pars est nota 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e397">
+                  <lb ed="#P" n="99"/>¶ Sexta propositio: licetur res 
+      que<lb ed="#P" n="100" break="no"/>non est proprie preterita possit fieri res proprie 
+      prete<lb ed="#P" n="101" break="no"/>rita tamen non preteritum fuisse preteritum implicat 
+      <lb ed="#P" n="102"/>contradictionem: patet ex tertia sicut precedens. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k70906-Dd1e409">
+               <head xml:id="oooo3o-k70906-Hd1e411">Articulus 2</head>
+               <p xml:id="oooo3o-k70906-d1e413">
+                  <lb ed="#P" n="103"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e418">
+                  <lb ed="#P" n="104"/>Quantum ad 
+      secun<lb ed="#P" n="105" break="no"/>dum articulum sunt diuerse opinio 
+      <lb ed="#P" n="106"/>ines circa modum conuersionis. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e427">
+                  <lb ed="#P" n="107"/>¶ Prima ponit quam substantia panis 
+      <lb ed="#P" n="108"/>annichilatur ita quod per se terminus est 
+      <!--249.xml-->
+      <pb ed="#P" n="115-v"/>
+                  <lb ed="#P" n="1"/>non esse panis et remanent accidentia et vltra quod ibi 
+      <lb ed="#P" n="2"/>non est sola annichilatio ymo deus vult corpus suum 
+      <lb ed="#P" n="3"/>esse ibi cum illis accidentibus et realiter ita vult quod 
+      <lb ed="#P" n="4"/>quotiens annichilat substantiam panis facit nonam 
+      <lb ed="#P" n="5"/>presentiam corporis sui sub illis accidentibus panis 
+      <lb ed="#P" n="6"/>Et ideo duo possunt concendi Primum est quod 
+      transub<lb ed="#P" n="7" break="no"/>stanciatio est annichilatio substancie panis et 
+      reserua<lb ed="#P" n="8" break="no"/>tio specierum eius accidentium sensibilium 
+      natura<lb ed="#P" n="9" break="no"/>liter significantium substantiam panis Secundum quod 
+      <lb ed="#P" n="10"/>ex tali panis annichilatione est ibi nouiter presentia 
+      <lb ed="#P" n="11"/>alterius substantie sub eiusdem speciebus non tamen est 
+      <lb ed="#P" n="12"/>informantibus ipsam substantiam de nouo 
+      presen<lb ed="#P" n="13" break="no"/>tem inherenter. Ideo sequitur quod non est ibi pura 
+      an<lb ed="#P" n="14" break="no"/>nichilatio solum sed plusquam pura annichilatio que 
+      di<lb ed="#P" n="15" break="no"/>ci potest conuersio. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e471">
+                  <lb ed="#P" n="16"/>¶ Pro ista opinione sunt rationes 
+      <lb ed="#P" n="17"/>facte pro parte negatiua conclusionis sed quamuis ista 
+      <lb ed="#P" n="18"/>positio non sit impossibilis tamen non consonat 
+      di<lb ed="#P" n="19" break="no"/>ctis sanctorum ecclesie.
+    </p>
+               <p xml:id="oooo3o-k70906-d1e483">
+      ¶ Arguo ergo contra ipsam 
+      <lb ed="#P" n="20"/>sicut magister hugo. arguit in quarto questione prima 
+      <lb ed="#P" n="21"/>de sacramento eucharistie articulo secundo. Primo 
+      <lb ed="#P" n="22"/>sic. si sic esset vt dicit dicta opinio non plus deberet 
+      di<lb ed="#P" n="23" break="no"/>ci panis conuerti in carnem christi quam in animam vel quam 
+      <lb ed="#P" n="24"/>in sanguine: cum ita bene substantie panis ibi succedat 
+      <lb ed="#P" n="25"/>anima et sanguis sicut caro: consequens videtur esse 
+      <lb ed="#P" n="26"/>falsum et contra hylarium: vt habetur distin. 41 
+      capi<lb ed="#P" n="27" break="no"/>tulo quinto Et licet inquit sub vtraque specie sumatur 
+      <lb ed="#P" n="28"/>totus christus scilicet panis et vini: tamen non fit 
+      con<lb ed="#P" n="29" break="no"/>uersio panis nisi in carnem et vini nisi in sanguine 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e507">
+                  <lb ed="#P" n="30"/>¶ Secundo si post 
+      annichilatio<lb ed="#P" n="31" break="no"/>nem mora interponatur antequam sit presens christus 
+      to<lb ed="#P" n="32" break="no"/>tum quod ponit illa opinio esset: et tamen non debet 
+      <lb ed="#P" n="33"/>dici conuersio: et nec caro christi esset terminus ad 
+      <lb ed="#P" n="34"/>quem conuersionis / quod probatur: quia ille non est 
+      <lb ed="#P" n="35"/>terminus conuersionis qui poni potest interposita 
+      <lb ed="#P" n="36"/>quantacunque mora post talem versionem: sed presentia 
+      <lb ed="#P" n="37"/>christi est huiusmodi vt patet: quare sequitur per istam 
+      <lb ed="#P" n="38"/>positionem quod christus non erat ibi per istam 
+      conuersio<lb ed="#P" n="39" break="no"/>nem ex vi conuersionis. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e531">
+                  <lb ed="#P" n="40"/>¶ Tertio per se terminus quem 
+      <lb ed="#P" n="41"/>ponit hec positio haberi potest sine omni 
+      transubstan<lb ed="#P" n="42" break="no"/>tiatione: ergo christus no est per se terminus conuersio 
+      <lb ed="#P" n="43"/>nis. antecedens patet quia presentia illa christi 
+      habe<lb ed="#P" n="44" break="no"/>ri potest sub illis accidentibus sine conuersione 
+      ali<lb ed="#P" n="45" break="no"/>qua. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e547">
+                  <lb ed="#P" n="46"/>¶ Quarto: illa positio non 
+      po<lb ed="#P" n="47" break="no"/>test saluare transubstantationem id est transitionem 
+      essen<lb ed="#P" n="48" break="no"/>tialem panis in carnem. Sed potius esset transitus 
+      <lb ed="#P" n="49"/>substantie in panis nichil: ergo non est ponenda: 
+      conse<lb ed="#P" n="50" break="no"/>quentia est nota quia ecclesia ponit huiusmodi 
+      tran<lb ed="#P" n="51" break="no"/>substantiationem extra de summa trinitate et fide 
+      catho<lb ed="#P" n="52" break="no"/>ica capitulo firmiter crendimus dicit papa et sunt 
+      ver<lb ed="#P" n="53" break="no"/>pa consili lateranensis sub innocentio 3. christus sacer 
+      <lb ed="#P" n="54"/>dos est et sacrificium cuius corpus et sanguis in 
+      sacra<lb ed="#P" n="55" break="no"/>mento altaris panis et vini continetur veraciter 
+      tran<lb ed="#P" n="56" break="no"/>substantiatis in corpus pane et vino in sanguinem 
+      <lb ed="#P" n="57"/>potestate diuina Ecce quod potestas diuina non solum 
+      <lb ed="#P" n="58"/>terminum quo destruit sed in meliorem substantiam 
+      <lb ed="#P" n="59"/>conuertit.
+    </p>
+               <p xml:id="oooo3o-k70906-d1e580">
+      ¶ Consimilem sententiam habes extra de 
+      <lb ed="#P" n="60"/>hereticis. c. ad abolendam sed probatur antecedens principale. 
+      <!--249.xml-->
+      <lb ed="#P" n="61"/>quia si in eodem loco in quo annichilatur b. angelus 
+      <lb ed="#P" n="62"/>adesset tunc primo quis diceret quod substantia b. esset 
+      <lb ed="#P" n="63"/>conuersa in substantiam a puto quod nullus cum illud 
+      <lb ed="#P" n="64"/>sine conuersione fieri possit. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e596">
+                  <lb ed="#P" n="65"/>¶ Quinto impossibile est a 
+      mu<lb ed="#P" n="66" break="no"/>tari in b dum a. annichilatur et in b. non vertitur sed 
+      <lb ed="#P" n="67"/>qui dicit quod hic sit pura annichilatio dicit et quod non est 
+      <lb ed="#P" n="68"/>conmuntatio. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e608">
+                  <lb ed="#P" n="69"/>¶ Sed contra dicitur eusebius 
+      <lb ed="#P" n="70"/>emissenus sacerdos inuisibilis visibile in creaturam 
+      <lb ed="#P" n="71"/>substantiam sui corporis verbo suo secreta 
+      potesta<lb ed="#P" n="72" break="no"/>et commutat. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e619">
+                  <lb ed="#P" n="73"/>¶ Item ambrosius libro de 
+      sa<lb ed="#P" n="74" break="no"/>cramentis contra ista positionem numquam dicit quod de 
+      <lb ed="#P" n="75"/>pane nichil fit aut quod annichilatur. dicit enim panis in 
+      <lb ed="#P" n="76"/>altari vsitatus ante verba sacra / vbi accidit 
+      consecra<lb ed="#P" n="77" break="no"/>tio de pane fit christi caro. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e632">
+                  <lb ed="#P" n="78"/>¶ Secunda opinio falsa est que 
+      <lb ed="#P" n="79"/>ponit quod essentia panis quae sit a. est essentialiter b. 
+      essen<lb ed="#P" n="80" break="no"/>tia corporis christi: et quod esse panis sine gradus ille 
+      <lb ed="#P" n="81"/>specificus siue talis perfectio talis generis vel talis 
+      <lb ed="#P" n="82"/>hoc diuina virtute mutari potest remanente eadem 
+      <lb ed="#P" n="83"/>essentia a. essentialiter Similiter de essentia que est 
+      ho<lb ed="#P" n="84" break="no"/>mo dici potest etc. Idcirco potest conuerti in gradum 
+      <lb ed="#P" n="85"/>alium protuucunque creatum vel creabilem Probatur 
+      <lb ed="#P" n="86"/>ista positio. quia a. esse essentiam non est formaliter 
+      <lb ed="#P" n="87"/>idem cum a. esse panem per prius enim et 
+      inconuer<lb ed="#P" n="88" break="no"/>tibiliter est esse a. siue esse essentiam a. quae esse panem. 
+      <lb ed="#P" n="89"/>ergo potest poni sine posteriori per diuinam 
+      poten<lb ed="#P" n="90" break="no"/>tiam. Non enim est consequentia formalis a. est essentia 
+      <lb ed="#P" n="91"/>ergo a. est panis alioquin omnis essentia esset. quod 
+      <lb ed="#P" n="92"/>est falsum.
+    </p>
+               <p xml:id="oooo3o-k70906-d1e667">
+      ¶ Secundo si a. desinit esse essentia sicut 
+      <lb ed="#P" n="93"/>desinit esse panis igitur vere transibit de essentia in 
+      <lb ed="#P" n="94"/>non essentiam et in negationem totius entitatis. et sic 
+      <lb ed="#P" n="95"/>erit vera annichilatio quod non dicitur ergo.  
+    </p>
+               <p xml:id="oooo3o-k70906-d1e676">
+                  <lb ed="#P" n="96"/>¶ Sed contra eam arguitur a 
+      <lb ed="#P" n="97"/>essentia panis non est nunc (scilicet ante 
+      consecratio<lb ed="#P" n="98" break="no"/>nem) essentia que est caro christi que sit b. et a. 
+      essen<lb ed="#P" n="99" break="no"/>tia est eadem essentialiter essentiam post 
+      consecratio<lb ed="#P" n="100" break="no"/>nem: ergo et tunc non est b. essentia post consecratio 
+      <lb ed="#P" n="101"/>nem. Probatur consequentia quia si a. est b. essentia 
+      <lb ed="#P" n="102"/>que essentia b. est essentialiter repugnans ipsi a. 
+      essen<lb ed="#P" n="103" break="no"/>tie. iam patet quod a. essentia non est essentialiterque 
+      pri<lb ed="#P" n="104" break="no"/>us sed citra: ergo per oppositum si manet a. in sua 
+      essen<lb ed="#P" n="105" break="no"/>tiali perfectione non est essentia. versa in b. ergo non 
+      <lb ed="#P" n="106"/>est b. et sic quot ponantur panes. tot oportet ponere 
+      <lb ed="#P" n="107"/>essentias. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e705">
+                  <lb ed="#P" n="108"/>¶ Secundo. si esse panem 
+      com<lb ed="#P" n="109" break="no"/>petit conuertibiliter a essentie: ergo si a. perdit illud 
+      <lb ed="#P" n="110"/>esse non sit transubstantiatio ipsius a. per predicta in 
+      <lb ed="#P" n="111"/>articulo primo in descriptione transubstantiationis 
+      <lb ed="#P" n="112"/>Non enim plus transubstantiaretur a. quam si plumbum 
+      <lb ed="#P" n="113"/>fieret alterius figure quod contradicit ecclesie. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e722">
+                  <lb ed="#P" n="114"/>¶ Tertio arguitur. si esse panem 
+      <lb ed="#P" n="115"/>non est ipsi a. perfectio essentialis: aut ergo a. nulla 
+      <lb ed="#P" n="116"/>est essentialis perfectio / et tunc esset contradictio quod 
+      <lb ed="#P" n="117"/>a. sit essentia: aut est aliqua essentialis perfectior 
+      <!--250.xml-->
+      <pb ed="#P" n="116-r"/>
+                  <lb ed="#P" n="1"/>vt non vacca nec deus nec latitudinis perfectionalis 
+      <lb ed="#P" n="2"/>ergo est alicuius generis: et per consequens 
+      alicui<lb ed="#P" n="3" break="no"/>speciei illius generis cum nichil sit in ali quo 
+      gene<lb ed="#P" n="4" break="no"/>re: quod non est in aliqua illius generis specie 
+      qua<lb ed="#P" n="5" break="no"/>re sequitur quod impossibile est illam perfectionem de 
+      <lb ed="#P" n="6"/>suiere esse quin a. desinat esse. et econuerso 
+      impossi<lb ed="#P" n="7" break="no"/>bile est manere a. quin maneat illius speciei 
+      perfectio<lb ed="#P" n="8" break="no"/>ergo post consecrationem manebit natura panis. quod 
+      <lb ed="#P" n="9"/>est falsum. Ad rationes illius oppinionis. Ad primam 
+      <lb ed="#P" n="10"/>nego ans sumpto proprio nomine alicuius essentie 
+      <lb ed="#P" n="11"/>licet enim non de quolibet de quo dicitur essentia 
+      di<lb ed="#P" n="12" break="no"/>catur panis tamen a quocumque dicitur a essentia dicitur 
+      <lb ed="#P" n="13"/>et panis Ad secundam nego consequentiam quia a. 
+      <lb ed="#P" n="14"/>non transitin non essentiam sed in aliam essentiam. Et 
+      <lb ed="#P" n="15"/>licet facta conuersione non sit amplius a. essentia non 
+      <lb ed="#P" n="16"/>tamen est annichilatio. et hoc de secundo. Ad 
+      ratio<lb ed="#P" n="17" break="no"/>nes prime opinionis patebit in solutione 
+      principali<lb ed="#P" n="18" break="no"/>uim rationum 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e777">
+                  <lb ed="#P" n="19"/>¶ . Tertia opinio quam 
+      <lb ed="#P" n="20"/> autor approbat. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e784">
+                  <lb ed="#P" n="21"/>¶ One ertio pono 
+      opinio<lb ed="#P" n="22" break="no"/>nem quam reputo veriorem et magis con 
+      <lb ed="#P" n="23"/>et sonam veritati et dictis sanctorum et 
+      ec<lb ed="#P" n="24" break="no"/>clesiastice sanctioni sub aliquibus conclusionibus 
+      qua<lb ed="#P" n="25" break="no"/>rum prima sit ista deus vnica mutatione potest verte 
+      <lb ed="#P" n="26"/>re a. essentiam in b. carnem. 
+      <lb ed="#P" n="27"/>
+                  <!-- line coord error -->
+               </p>
+               <p xml:id="oooo3o-k70906-d1e804">
+                  <lb ed="#P" n="28"/>¶ nd eo cuius conclusionis 
+      decla<lb ed="#P" n="29" break="no"/>ratione premitto quod a substantia panis desinere vel 
+      qua<lb ed="#P" n="30" break="no"/>cunquem aliam desinere esse substantialiter potest 
+      duplici<lb ed="#P" n="31" break="no"/>ter ymaginari preter corruptionem naturalem puta 
+      <lb ed="#P" n="32"/>si a non foret substantia composita et cetera: vnomo 
+      <lb ed="#P" n="33"/>do per solam cessationem conseruationis siue 
+      omn<lb ed="#P" n="34" break="no"/>agere positiue vtsi deus solum non actuaret vel 
+      de<lb ed="#P" n="35" break="no"/>sineret conseruare senu actuare a non agendo 
+      positi<lb ed="#P" n="36" break="no"/>ue sed solum negatiue a desineret esse et hic est 
+      modu<lb ed="#P" n="37" break="no"/>annichilationis proprie. cuius terminus a quo est 
+      es<lb ed="#P" n="38" break="no"/>sentia a incoiuplexa. sine eius esse affirmatioterminus 
+      <lb ed="#P" n="39"/>autem ad quem est simplex et pura negatio eius. aliquae 
+      <lb ed="#P" n="40"/>modo sic quod deus non cesset simpliciter ab actuatione 
+      <lb ed="#P" n="41"/>sed continuando suam conspuationem vertat a. in b 
+      <lb ed="#P" n="42"/>ita quod non sit ibi nisi vnica mutatio et duo termini 
+      posi<lb ed="#P" n="43" break="no"/>tum. et non quattuor termini. que mutatio dicitur 
+      ver<lb ed="#P" n="44" break="no"/>sio substantialis vel essentialis cuius terminus a quo 
+      <lb ed="#P" n="45"/>erat a. essentia que post versionem nec est essentia a nec 
+      <lb ed="#P" n="46"/>gradus specificus et terminus ad quem est b. essentia 
+      <lb ed="#P" n="47"/>alius gradus specificus et a. etb. sunt per se termini 
+      <lb ed="#P" n="48"/>illius vnice mutationis. vnde si deberet esse 
+      aninichi<lb ed="#P" n="49" break="no"/>atio et creatio oporteret hic esse quattuor terminos et 
+      <lb ed="#P" n="50"/>duas mutationes termini annichilationis essent 
+      ter<lb ed="#P" n="51" break="no"/>minus aquo realis scilicet affirmatio esse a. Secundus 
+      te<lb ed="#P" n="52" break="no"/>mius esset negatio simplex opposita que esset 
+      termi<lb ed="#P" n="53" break="no"/>nus ad quem Et terminus a quo creationis que esset 
+      <lb ed="#P" n="54"/>alia mutatio distiucta a priori esset realis negatio. et 
+      <lb ed="#P" n="55"/>terminus ad quem affirmatio opposita instantanea 
+      <lb ed="#P" n="56"/>incomplexa realis vnde patet quod vna illarum mutatio 
+      <lb ed="#P" n="57"/>num nullam habet colligantiam cum alia necessario 
+      <lb ed="#P" n="58"/>ymo mora temporis potest intercipere ipsas et vna¬ 
+      <!--250.xml-->
+      <lb ed="#P" n="59"/>potest complete esse sine alia et econuerso.
+    </p>
+               <p xml:id="oooo3o-k70906-d1e878">
+      ¶ Sed in 
+      <lb ed="#P" n="60"/>mutatione que est versio essentialis impossibile est 
+      ip<lb ed="#P" n="61" break="no"/>sam esse quin incipiat ab aliquo positiuo termino et 
+      <lb ed="#P" n="62"/>terminetur vltimate ad positiuum terminum patet er 
+      <lb ed="#P" n="63"/>go quod in ea non sunt due mutationes et quattuor 
+      ter<lb ed="#P" n="64" break="no"/>mini sed ipsa est vnica mutatio habens duos prerce 
+      ter<lb ed="#P" n="65" break="no"/>minos positiuos et in hoc perpenditur falsitas prime 
+      <lb ed="#P" n="66"/>opinionis quia in conuersione a. essentie in b. essentia 
+      <lb ed="#P" n="67"/>non fit annichilatio ipsius a. quia tunc essent plures 
+      <lb ed="#P" n="68"/>termini quam duo. vel non esset conuersio a. in b. 
+      Simili<lb ed="#P" n="69" break="no"/>ter perpenditur falcitas secunde opinionis quia a de 
+      <lb ed="#P" n="70"/>sinit esse a totaliter et total imutatione qua terminus a. 
+      <lb ed="#P" n="71"/>quo et terminus ad quem transubstantiales omnis vel 
+      <lb ed="#P" n="72"/>etiam substantialis vel essantialis versionis sunt in 
+      con<lb ed="#P" n="73" break="no"/>possibiles. sis pro intellectu conclusionis premissis 
+      <lb ed="#P" n="74"/>probo conclusionem sic Si a. ingredo vertitur in b 
+      al<lb ed="#P" n="75" break="no"/>bedinem a non transiret ad non gradum coloris qui 
+      <lb ed="#P" n="76"/>immo ad gradum b. inciperet a non gradum immo 
+      agra<lb ed="#P" n="77" break="no"/>du et tamen ibi esset vnica mutatio Sic dum panis 
+      con<lb ed="#P" n="78" break="no"/>vertitur in carnem nec panis transit in non gradum en 
+      <lb ed="#P" n="79"/>titatis vel substantie immo transibit in alium 
+      gradum<lb ed="#P" n="80" break="no"/>licet per accidens fiat verificatio quod a. non est a. idest quod 
+      <lb ed="#P" n="81"/>panis non est panis nec caro incipit a non gradum quia 
+      <lb ed="#P" n="82"/>prius erat et dato quod ante non fuisset adhuc incepisset. 
+      <lb ed="#P" n="83"/>a gradum scilicet a. pane ergo est ibi vnica mutatio Pro ista 
+      <lb ed="#P" n="84"/>conclusione faciunt rationes ambrosum quas recitat 
+      <lb ed="#P" n="85"/>magister libro quid. distinctione decima capitulo vltimo 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e937">
+                  <lb ed="#P" n="86"/>¶ Correlarium quod a essentia 
+      po<lb ed="#P" n="87" break="no"/>test conuerti indifferenter in substantiam preexistentem 
+      <lb ed="#P" n="88"/>vt puta in carnem christi et in substantiam non 
+      pre<lb ed="#P" n="89" break="no"/>existentem nec in vn quod prius preteritam sicut si huno 
+      <lb ed="#P" n="90"/>lapidem conuerteret deus in panem qui ex vi 
+      conuer<lb ed="#P" n="91" break="no"/>sionis habet nunc primo esse sicut petebat diabolus 
+      di<lb ed="#P" n="92" break="no"/>cens dic vt lapides isti panes fiant et cetera. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e956">
+                  <lb ed="#P" n="93"/>¶ Secundum correlarium non 
+      <lb ed="#P" n="94"/>est bona consequentia a nunc primo est ergo a. est 
+      ge<lb ed="#P" n="95" break="no"/>nitum vel creatum patet de a. si habei et nunc primo 
+      <lb ed="#P" n="96"/>esse tanquam terminus conuertionis essentialis vnde nec 
+      <lb ed="#P" n="97"/>terminus a quo mutationis eius nec terminus ad 
+      quem<lb ed="#P" n="98" break="no"/>esset pura negatio entitatis quorum inde primum 
+      re<lb ed="#P" n="99" break="no"/>quiritur ad creatum esse 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e974">
+                  <lb ed="#P" n="100"/>¶ Secunda conclusio. Numquam 
+           se<lb ed="#P" n="101" break="no"/>quitur aliqua mutatio in termino ad quem 
+      preexistem<lb ed="#P" n="102" break="no"/>tem ex vi substantialis vel essentialis versionis 
+      alte<lb ed="#P" n="103" break="no"/>rius rei in ipsam. Probatur inductiue quia nec 
+      muta<lb ed="#P" n="104" break="no"/>tio essentialis accidit termino preexistenti: quia hoc 
+      <lb ed="#P" n="105"/>esset contradictio. quia tunc non maneret preexistens 
+      <lb ed="#P" n="106"/>terminus ad quem illius mutationis: et quia alias 
+      <lb ed="#P" n="107"/>corpus christi mutaretur assentialiter propter conuersionem 
+      <lb ed="#P" n="108"/>panis in ipsum quod est falsum nec terminus dictus 
+      <lb ed="#P" n="109"/>scilicet ad quem conuersionis propter conuertionem 
+      <lb ed="#P" n="110"/>rei in ipsum augetur. quia augmentatio notat none 
+      <lb ed="#P" n="111"/>rei aduentum et per consequens non esset mutatio 
+      in<lb ed="#P" n="112" break="no"/>preexistentem terminum simpliciter. nec fit ibi 
+      muta<lb ed="#P" n="113" break="no"/>tio diminutionis quod notum est nec alterationis quia 
+      <lb ed="#P" n="114"/>nsec deperditur aliqua forma nec acquiritur in 
+      termi<lb ed="#P" n="115" break="no"/>no conuersionis ad quem preexistente. ergo hoc totum 
+      <lb ed="#P" n="116"/>confirmatur alias enim sic fieret de corpore christiq 
+      <lb ed="#P" n="117"/>ipsum mutaretur per conuersionem etc. quod non datur 
+         </p>
+               <p xml:id="oooo3o-k70906-d1e1016">
+                  <lb ed="#P" n="118"/>Tertia coclusio terminus ad  
+      <!--251.xml-->
+      <pb ed="#P" n="116-v"/>
+                  <lb ed="#P" n="1"/>quem preexistens transubstantatoni non fuit essentiam 
+      <lb ed="#P" n="2"/>que in ipsum versa est nec habuit proprietates eius. 
+      <lb ed="#P" n="3"/>patet quia tunc non esset alia res versa in ipsam. sed 
+      <lb ed="#P" n="4"/>esset continuatio vnius essentialis perfectionis nisi 
+      <lb ed="#P" n="5"/>interueniret transitio perfectionalis vel substantialis 
+      <lb ed="#P" n="6"/>vtputa si a. verteretur in b. et b. iterum verteretur 
+      econ<lb ed="#P" n="7" break="no"/>uerso in a. et iteramem alternando a. verteretur in b. et tamen 
+      <lb ed="#P" n="8"/>adhuc staret quod a. nun quam fuit b. nec econuerso sed ben 
+      <lb ed="#P" n="9"/>n. esset pluries conuersum in b. et econuerso. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1045">
+                  <lb ed="#P" n="10"/>¶ Quarta conclusio. Nisi 
+      sub<lb ed="#P" n="11" break="no"/>stantia panis vere vertatur in substantiuam 
+      corpo<lb ed="#P" n="12" break="no"/>ris christi: non erit caro christi sub speciebus panis 
+      <lb ed="#P" n="13"/>di conuersionis sacramentalis. patet quia solum esset 
+      <lb ed="#P" n="14"/>ibi presentia christi vt noua presentia. Et totum sic esse 
+      <lb ed="#P" n="15"/>scilicet panem desinere esse panem esset per accidens 
+      <lb ed="#P" n="16"/>omnino ad carnem esse ibi. Si vero panis 
+      verti<lb ed="#P" n="17" break="no"/>tur tunc ideo precise est: quia ibi vertitur in illam: eri 
+      <lb ed="#P" n="18"/>go esse de nouo carnem christi vt sacramentalis 
+      con<lb ed="#P" n="19" break="no"/>secrationis non est precise incipere ibi esse. sed est 
+      ip<lb ed="#P" n="20" break="no"/>sam esse terminum versionis hic nouiter. vnde 
+      concer<lb ed="#P" n="21" break="no"/>nit simul nunc hic esse et rem ipsam versam esse: siue res 
+      <lb ed="#P" n="22"/>preexistat siue non res scilitet qua est terminus ad quem 
+      <lb ed="#P" n="23"/>Correlarium primu quam modo ille 
+      <lb ed="#P" n="24"/>salubriter credi potest inuestigari ad plenum salubrim 
+      <lb ed="#P" n="25"/>ter non potest. ymo meritorium est crendere. et hoc ipsum 
+      <lb ed="#P" n="26"/>bonum fidelium / verba sunt augustini de vera noticia. 
+      <lb ed="#P" n="27"/>Secundum correlarium 
+      Ca<lb ed="#P" n="28" break="no"/>ro christi non mutatur ex vi conuersionis substantie 
+      <lb ed="#P" n="29"/>panis in ipsam vt sit maior. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1091">
+                  <lb ed="#P" n="30"/>¶ Tertium quod nulla essentia 
+      po<lb ed="#P" n="31" break="no"/>test esse terminus versionis / quam deus non potest 
+      fa<lb ed="#P" n="32" break="no"/>cere ex alio: sed sola essentia diuina est huiusmodi quam 
+      <lb ed="#P" n="33"/>libet enim aliam deus potest facere ex nichilo vel ex 
+      <lb ed="#P" n="34"/>alio verso 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1104">
+                  <lb ed="#P" n="35"/>¶ Quartum correlarium. QNi 
+            <lb ed="#P" n="36"/>¶ omne quod erat et modo nichil est: est annichilatum 
+      <lb ed="#P" n="37"/>patet de substantia conuersa etc. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1114">
+                  <lb ed="#P" n="38"/>¶ Quinta conclusio. Rem 
+      con<lb ed="#P" n="39" break="no"/>uersam essentialiter in aliam resumi ab ea in quam est 
+      <lb ed="#P" n="40"/>conuersa. sine deperditiua mutatione rei ipsius a 
+      qua<lb ed="#P" n="41" break="no"/>resumitur est possibile. probatur quia per 
+      conuersio<lb ed="#P" n="42" break="no"/>nem ipsi termiuo ad quem nichil acquiritur: ergo per 
+      re<lb ed="#P" n="43" break="no"/>sumptionem ab eodem nichil deperditur. Nota quod non 
+      <lb ed="#P" n="44"/>est idem resumere rem connersam a termino ad 
+      quem<lb ed="#P" n="45" break="no"/>conuersionis et terminum ipsummet verti essentialiter 
+      <lb ed="#P" n="46"/>in terminum priorem a quo exemplum non est idem 
+      pa<lb ed="#P" n="47" break="no"/>nem resumi a corpore christi: et corpus christi 
+      conuer<lb ed="#P" n="48" break="no"/>ti in panem hoc patet (si predicta vera sint) quia impossi 
+      <lb ed="#P" n="49"/>bile est conuerti corpus christi in panem non existen 
+      <lb ed="#P" n="50"/>tem sine mutatione essentiali corporis christi: sicunt patet 
+      <lb ed="#P" n="51"/>ex dictis: resumi autem panem abi praeo (per conclusio 
+      <lb ed="#P" n="52"/>nem hic positam possibile est sine mutatione hoc 
+      ta<lb ed="#P" n="53" break="no"/>uen difficile est intelligi sicut et primum et cetera hic. 
+      <lb ed="#P" n="54"/>Sed nota correlarium primum quartem conclusionis. vnde 
+      <lb ed="#P" n="55"/>conclusiones negatiue in hac materia vere certiores 
+      <lb ed="#P" n="56"/>sunt et euidentiores affirmatiuis. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1158">
+                  <lb ed="#P" n="57"/>¶ Correlarium primum nullo 
+      bo<lb ed="#P" n="58" break="no"/>mine corrupto nec proprie annichilato / possibile est 
+      <!--251.xml-->
+      <lb ed="#P" n="59"/>omns homines qui sunt fieri vnum hominum. ymo nulla 
+      <lb ed="#P" n="60"/>essentia corrupla nec annichilata possibise est / omnes 
+      <lb ed="#P" n="61"/>essentias creatas fieri vnam essentiam. patet quia ones 
+      <lb ed="#P" n="62"/>est possibile conuerti in vnam. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1176">
+                  <lb ed="#P" n="63"/>¶ Secundum correlarium. 
+      Nui<lb ed="#P" n="64" break="no"/>a essentia genita nec proprie creata possibile est esse 
+      <lb ed="#P" n="65"/>tot essentiam quot modo sunt Intelligo quod preter et sine gratia 
+      <lb ed="#P" n="66"/>tione et creatione etc. quod patet si vna essentia omns 
+      <lb ed="#P" n="67"/>resumantur modo dicto in conclusione: tunc ita esset 
+      <lb ed="#P" n="68"/>de facto sicut correlarium dicit esse possibile. sed pro 
+      <lb ed="#P" n="69"/>fecto hoc est mirabile. Unde ista sint solum 
+      inquisiti<lb ed="#P" n="70" break="no"/>ue dicta siue assertione temeraria et cum 
+      correctio<lb ed="#P" n="71" break="no"/>ne aliorum. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1198">
+                  <lb ed="#P" n="72"/>¶ Ad rationes principales que 
+      <lb ed="#P" n="73"/>fauent prime opinioni. stespondeo ad primam nego 
+      an<lb ed="#P" n="74" break="no"/>tecedens ad probationem concedo quod a non manebit 
+      <lb ed="#P" n="75"/>a et nego consequentiam vt patet per quartum 
+      correla<lb ed="#P" n="76" break="no"/>ium quartem conclusionis. 
+    </p>
+               <p xml:id="oooo3o-k70906-d1e1211">
+                  <lb ed="#P" n="77"/>¶ Ad secundam dico quod b. nunquam 
+      <lb ed="#P" n="78"/>fuit c. nec modo est c. et c. nec est in sec. nec in alio. et 
+      <lb ed="#P" n="79"/>nego consequentiam sicut prius: ergo est annichilatum. 
+      <lb ed="#P" n="80"/>Ad tertiam nego antecedens 
+      <lb ed="#P" n="81"/>ymo dioo quod a. anima potest verti in duos angelos. 
+      <lb ed="#P" n="82"/>ymo in infinitos seu in infinitum multos anima potest 
+      <lb ed="#P" n="83"/>verti quorum tamen nullus creabitur proprie. et tamen 
+      <lb ed="#P" n="84"/>etiam nullus eorum anteerat: sed quilibet nunc primo 
+      <lb ed="#P" n="85"/>est. et non ex nichilo: sed ex aliquo non tanquam ex 
+      mate<lb ed="#P" n="86" break="no"/>ria: sed ex termino versionis. et sic patet defectus 
+      ma<lb ed="#P" n="87" break="no"/>cime hec solutio vera est vbi vnum mutatur in plures 
+      <lb ed="#P" n="88"/>Et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

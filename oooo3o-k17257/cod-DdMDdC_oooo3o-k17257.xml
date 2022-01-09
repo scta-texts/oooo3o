@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="27-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k17257"><!--l1d14-16q1 -->
+            <head xml:id="oooo3o-k17257-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k17257-d1e101">
+               <lb ed="#P" n="51"/>CIrca missionem spiritus sancti Que 
+      <lb ed="#P" n="52"/>ro vtrum spiritus sancti missione 
+      tempo<lb ed="#P" n="53" break="no"/>rali / detur ipsa persona spiritus sancti 
+      <lb ed="#P" n="54"/>creature rationali: vel solum dona eius
+    </p>
+            <p xml:id="oooo3o-k17257-d1e112">
+               <lb ed="#P" n="55"/> quod non: quia spiritus sanctus est deus 
+      sin<lb ed="#P" n="56" break="no"/>pliciter immuta bilis: ergo non est possibile ipsum eose 
+      <lb ed="#P" n="57"/>alicubi vbi prius non fuerit. nec aliqualiter esse qua 
+      <lb ed="#P" n="58"/>liter prius non fuerit. ergo non potest mitti. 
+      Ante<lb ed="#P" n="59" break="no"/>cedens et prima consequentia patent. Secunda 
+      con<lb ed="#P" n="60" break="no"/>sequentia probatur. quia muti temporaliter est ed 
+      <lb ed="#P" n="61"/>alicubi vbi prius non fuit. vel aliqualiter qualiter prius 
+      <lb ed="#P" n="62"/>non fuit. sed ista sunt impossibilia deo ratione sue 
+      <!--73.xml-->
+      <lb ed="#P" n="63"/>immutabilitatis et perfectionis: ergo.  
+    </p>
+            <p xml:id="oooo3o-k17257-d1e136">
+               <lb ed="#P" n="64"/>Preterea si spiritus sanctus posset dari vel 
+      <lb ed="#P" n="65"/>mitti temporaliter sequeretur (dicit magister grego¬ S 
+      <lb ed="#P" n="66"/>rius libro primo distinctione. 14. quod possibile essetscon 
+      ar<lb ed="#P" n="67" break="no"/>tradictoria successiue verificari absque motu 
+      local<lb ed="#P" n="68" break="no"/>et positione noue rei vel positione preexistentis vei 
+      <lb ed="#P" n="69"/>presentis: consequens est error parisius 
+      condemnali<lb ed="#P" n="70" break="no"/>tus. consequentia patet quia si spiritus sanctus posset 
+      <lb ed="#P" n="71"/>dari sine donis: possibile esset quod aliquis non habens 
+      <lb ed="#P" n="72"/>spiritum sanctum / habeat ipsum eo non mutato localiter / nec 
+      <lb ed="#P" n="73"/>aliqua re noua facta / vel priori destructa. vt patet 
+      de<lb ed="#P" n="74" break="no"/>se. et constat quod in spiritum sancto nulla est mutatio: ergo.  
+      <lb ed="#P" n="75"/>¶ Preterea quod tantum dentur dona eius / arguitur 
+      aucto<lb ed="#P" n="76" break="no"/>ritate bede / quam magist. ponit in distinctione. 14. que 
+      <lb ed="#P" n="77"/>ait cum spiritus sancti gratia detur hominibus perfectis 
+      mite<lb ed="#P" n="78" break="no"/>titur spiritus sanctuns a patre mittitur et a filio / ex quo patet quod spiritum 
+      <lb ed="#P" n="79"/>mitti idem est quod eius gratiam (qua non est ipse) sed eius donum 
+      <lb ed="#P" n="80"/>hominibus dari.
+    </p>
+            <p xml:id="oooo3o-k17257-d1e175">
+      ¶ In oppositum est magister in. 13 
+      distin<lb ed="#P" n="81" break="no"/>ctione qui per auctoritates ambrosii et Augustini 
+      pro<lb ed="#P" n="82" break="no"/>bat efficaciter non solum dona sed ipsius spiritus 
+      sancti<lb ed="#P" n="83" break="no"/>bonari personam.
+    </p>
+            <p xml:id="oooo3o-k17257-d1e185">
+      ¶ Potest etiam probari singulariter 
+      <lb ed="#P" n="84"/>auctoritate Augustini decimo quinto de trinitate 
+      ca<lb ed="#P" n="85" break="no"/>173. vbi plane concedit quod spiritus sanctus secundum 
+      se<lb ed="#P" n="86" break="no"/>de nouo procedit ad sanctificandum creaturam. Unde 
+      <lb ed="#P" n="87"/>infine illius. cap. dicit / spiritus sctuns qui procedit ex 
+      <lb ed="#P" n="88"/>deo cum datus fuerit homin accendit dilectionem dei et 
+      <lb ed="#P" n="89"/>proximi: et ipse dilectio est: non habet homo vnde 
+      dil<lb ed="#P" n="90" break="no"/>gat deum nisi ex deo. Et ideo apostolus dicebat / 
+      Tha<lb ed="#P" n="91" break="no"/>ritas dei diffusa est in cordibus nostris per spiritum 
+      <lb ed="#P" n="92"/>sanctum qui datus est nobis. Primo ponam descriptio 3 
+      <lb ed="#P" n="93"/>nes / deinde conclusiones. Tertio soluam rationes. 
+    </p>
+            <div xml:id="oooo3o-k17257-Dd1e209">
+               <head xml:id="oooo3o-k17257-Hd1e211">Articulus 1</head>
+               <p xml:id="oooo3o-k17257-d1e213">
+                  <lb ed="#P" n="94"/>Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e218">
+                  <lb ed="#P" n="95"/>QUantum ad primum describo hoc con
+      <lb ed="#P" n="96" break="no"/>plexum missio temporalis dei sic missio 
+      s<lb ed="#P" n="97" break="no"/>est persone emanantis per effectum ei appro¬m 
+      <lb ed="#P" n="98"/>priatum / de nouo in creatura rationali pro 
+      pe<lb ed="#P" n="99" break="no"/>ductum / habitualis vel actualis 
+      manife<lb ed="#P" n="100" break="no"/>istatio. Istam descriptionem innuit 
+      egidi<lb ed="#P" n="101" break="no"/>libro primo distinctione. 14 et declaratur per singula 
+      me<lb ed="#P" n="102" break="no"/>bra. Per hoc canm quod dicitur persone emanantis / excludi 
+      <lb ed="#P" n="103"/>tur pater qui non est persona emanans / et per consequens 
+      <lb ed="#P" n="104"/>non dicitur mitti. per hoc quod dicitur per effectum ei 
+      appre<lb ed="#P" n="105" break="no"/>priatum. excludumntur effectus communes qui non sunt 
+      ap<lb ed="#P" n="106" break="no"/>propriati alicui persone specialiter vt sunt creatio gubet 
+      <lb ed="#P" n="107"/>natio et similes. per hoc quod dicitur de nouo productum: excludit 
+      <lb ed="#P" n="108"/>mansio spiritus sancti in hominibus iustis. Per hoc quodr in 
+      crea<lb ed="#P" n="109" break="no"/>tura rationali: excluduntur inanimate et irrationales creature 
+      <lb ed="#P" n="110"/>in quibus (licet sit vestigium appropriate persone 
+      <lb ed="#P" n="111"/>cilicet quando de nouo producuntur) non tamen dicitur ad eas aliqua 
+      per<lb ed="#P" n="112" break="no"/>sona mitti. Sed vltima scilicet actualis vel habitualis 
+      <lb ed="#P" n="113"/>manifestatio / patet per beatum augustinum. 4 de 
+      trinita<lb ed="#P" n="114" break="no"/>te capitulo secundo. dicentem. sicut spiritum sanctum donum dei est 
+      <lb ed="#P" n="115"/>se est a patre procedem: ita mitti est cognosci quod ab illo 
+      <lb ed="#P" n="116"/>procedat. Modo certum est quod non opertet quod mitt sitsemper 
+      <lb ed="#P" n="117"/>actualiter cognosci: ergo. Dixi habitualis vel actualis 
+      <lb ed="#P" n="118"/>manifestatio. pueri enim actualiter non cognoscunt. 
+      <lb ed="#P" n="119"/>spiritum sacitntum mitti / et tamen mnittitur ad eos. Unde apostolus 
+      <lb ed="#P" n="120"/>ad titum tertio. per lauacrum regenerationis et renom 
+      <lb ed="#P" n="121"/>ruationis spiritus secicti quem effudit in nobis abunde. et 
+      <lb ed="#P" n="122"/>iohamnis tertio / nisi quis renatus fuit ex aqua: et spiritus 
+      <lb ed="#P" n="123"/>sancto. etc. et per binm augustinum in epistola ad dardanum 
+      <!--74.xml-->
+      <pb ed="#P" n="28-r"/>
+                  <lb ed="#P" n="1"/>et ponitur libro primo sententiarum. distinctione. 3.7.  
+      <lb ed="#P" n="2"/>Sic ad templum dei pertinent paruuli sanctificati 
+      sacra<lb ed="#P" n="3" break="no"/>mento christi et / remunerati spiritu sancto qui nondum valent 
+      <lb ed="#P" n="4"/>cognoscere deum, etc. Sic ergo patet descriptio quae 
+      te<lb ed="#P" n="5" break="no"/>net de facto secundum legem dei ordinatam et legem 
+      curren<lb ed="#P" n="6" break="no"/>tem / quamuis possit aliter esse (sicut inferius patebit) 
+      <lb ed="#P" n="7"/>secundum potentiam dei absolute consideratam. Ex 
+      <lb ed="#P" n="8"/>ista descriptione infero propositiones. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e305">
+                  <lb ed="#P" n="9"/>¶ Prima: licet quelibet persona mittat non 
+      ta<lb ed="#P" n="10" break="no"/>men quaelibet mittitur. Prima pars patet satis ex textu. 15 
+      <lb ed="#P" n="11"/>et 16 distinctione. Secunda pars patet ex primo 
+      mem<lb ed="#P" n="12" break="no"/>bro descriptionis. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e316">
+                  <lb ed="#P" n="13"/>¶ Secunda propositio. Licet spiritus sanctus sit 
+      <lb ed="#P" n="14"/>presens et intimus cuilibet creature: non tamen quelibet 
+      <lb ed="#P" n="15"/>creatura habet spiritum sanctum ei missum / prima pars patet 
+      <lb ed="#P" n="16"/>quia spiritus domini repleuit orbem terrarum / secunda pars 
+      pa<lb ed="#P" n="17" break="no"/>tet / de diabolo et iniustis / qui non habent spiritum sanctum 
+      <lb ed="#P" n="18"/>in eis missum. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e333">
+                  <lb ed="#P" n="19"/>¶ Tertia propositio. Non est idem spiritum 
+      san<lb ed="#P" n="20" break="no"/>ctum nobis mitti et ipsum spiritum facere nos actualiter 
+      <lb ed="#P" n="21"/>vel habitualiter deum cognoscere et diligere siue 
+      me<lb ed="#P" n="22" break="no"/>reri. Patet ista propositio per illam particulam descriptio 
+      <lb ed="#P" n="23"/>nis / que dicit de nouo / spiritus enim sanctus actualiter 
+      fa<lb ed="#P" n="24" break="no"/>cit bonos et iustos diligere sine mereri / et ad eos tunc 
+      <lb ed="#P" n="25"/>non mittitur cum iam habeant ipsum. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e351">
+                  <lb ed="#P" n="26"/>¶ Quarta propositio Cum spiritus sanctus facit 
+      <lb ed="#P" n="27"/>nos diligere sine mereri profecto nobis mittitur vel 
+      <lb ed="#P" n="28"/>ipsum habemus missum / patet ista / quia iste est effectus 
+      <lb ed="#P" n="29"/>appropiatus ei / ergo. ex isto membro descriptionis 
+      pa<lb ed="#P" n="30" break="no"/>tet propositio / antecedens est apostoli dicentis. Charitas dei 
+      dif<lb ed="#P" n="31" break="no"/>fusa est in cordibus nostris per spiritum sanctum qui 
+      da<lb ed="#P" n="32" break="no"/>tus est nobis. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e369">
+                  <lb ed="#P" n="33"/>¶ Quinta propositio. Spiritus sanctus non datur 
+      <lb ed="#P" n="34"/>cum quolibet eius dono / nec omnis habens donum spiritus  
+      <lb ed="#P" n="35"/>sancti habet proprie spiritum sanctum. Patet ista propositio 
+      <lb ed="#P" n="36"/>de caypha et de iuda. Item patet propositio de fide que est 
+      <lb ed="#P" n="37"/>in aliquo absque hoc quod detur spiritus sanctus secundum 
+      bea<lb ed="#P" n="38" break="no"/>tum Augustinum. 15 de trinitate ca. 18. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e385">
+                  <lb ed="#P" n="39"/>¶ Sexta propositio Ex vi donationis spiritus 
+      san<lb ed="#P" n="40" break="no"/>ctum vel etiam filii tota trinitas in sanctificatione 
+      men<lb ed="#P" n="41" break="no"/>tis praesens redditur. et ei illabitur. Patet ista propositio per 
+      <lb ed="#P" n="42"/>illud quod dicit christus iohannis. 14. ad eum veniemus 
+      <lb ed="#P" n="43"/>et mansionem apud cum faciemus. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e398">
+                  <lb ed="#P" n="44"/>¶ Septima propositio / menti illabi competit 
+      cui<lb ed="#P" n="45" break="no"/>libet persone / licet non cuilibet competit mitti / ista 
+      pa<lb ed="#P" n="46" break="no"/>tet ex dictis quia patri non competit mitti et cuilibet 
+      per<lb ed="#P" n="47" break="no"/>sone competit illabi menti vt dicit precedens propositio. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e409">
+                  <lb ed="#P" n="48"/>¶ Octaua propositio sit de dono spiritus sancti 
+      <lb ed="#P" n="49"/>vel de donis. Licet quaelibet virtus naturaliter sit donum 
+      <lb ed="#P" n="50"/>spiritus sancti: tantum precipuum eius donum est charitas / siue 
+      <lb ed="#P" n="51"/>gratia gratificans / probatur. quia illud donum pre 
+      cete<lb ed="#P" n="52" break="no"/>ris repraesentat spiritum sanctum et eidem est appropriatum sicut 
+      <lb ed="#P" n="53"/>patet per magistrum distinetione. 17. Etiam sicut ipse 
+      <lb ed="#P" n="54"/>spiritus sanctus est amor et charitas patris et filii. ita 
+      <lb ed="#P" n="55"/>facit nos diligere deum et proximum per donum quod est 
+      cha<lb ed="#P" n="56" break="no"/>ritas. Dicuntur tamen septem dona spiritus sancti / per que 
+      suf<lb ed="#P" n="57" break="no"/>ficienter regitur vita spiritualis / que sunt quasi 
+      radi<lb ed="#P" n="58" break="no"/>ces omnium virtutum / quia ad ipsa dona ipse virtutes 
+      redu<lb ed="#P" n="59" break="no"/>cuntur / vnde gregorius super iob. Cum spiritus san¬ 
+      <!--74.xml-->
+      <lb ed="#P" n="60"/>ctus mentem fecunde plenitudo spiritu alium virtutum 
+      <lb ed="#P" n="61"/>intrat. Sunt autem dona de quibus ait ysaias / 
+      requie<lb ed="#P" n="62" break="no"/>scet super eum spiritus sapientie et intellectus. spiritus 
+      con<lb ed="#P" n="63" break="no"/>silii et fortitudini spiritus scientie et pietatis et repleuit eum 
+      <lb ed="#P" n="64"/>spiritus timoris dicunt ysaie vndecimo. Duo prima 
+      suffi<lb ed="#P" n="65" break="no"/>cienter regunt vitam contemplatiuam. Intellectu enim 
+      con<lb ed="#P" n="66" break="no"/>templando cognoscimus bona eterna / sapientia 
+      ve<lb ed="#P" n="67" break="no"/>ro cognitis delectamur. Alia vero quinque regunt 
+      acti<lb ed="#P" n="68" break="no"/>uam vitam / timore declinamus a malo / quia timor domini 
+      ex<lb ed="#P" n="69" break="no"/>pellit peccatum / sicut dicit ecclesiasticos. pietate facimus 
+      bo<lb ed="#P" n="70" break="no"/>na. quia pietas ad omnia valet. scientia vero apponit 
+      pie<lb ed="#P" n="71" break="no"/>tati discretionem. fortitudine digne patimur que 
+      pa<lb ed="#P" n="72" break="no"/>tientia sunt / consilium apponitur discretioni. ergo videtur quod 
+      <lb ed="#P" n="73"/>dicta septem dona sufficienter regunt vitam humanam 
+      <lb ed="#P" n="74"/>hec dominus altissiodorensis libro tertio tractatu 
+      octa<lb ed="#P" n="75" break="no"/>uo in principio. et hec de primo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k17257-Dd1e475">
+               <head xml:id="oooo3o-k17257-Hd1e477">Articulus 2</head>
+               <p xml:id="oooo3o-k17257-d1e479">
+                  <lb ed="#P" n="76"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e484">
+                  <lb ed="#P" n="77"/>QUantum ad secundum articulum sit prima 
+      <lb ed="#P" n="78"/>conclusio ista. Spiritus sanctus mittit filium 
+      <lb ed="#P" n="79"/>et mittitur a filio / probatur prima pars aucto 
+      <lb ed="#P" n="80"/>ritate beati augustini. 2. de trinitate ca. 5. 
+      <lb ed="#P" n="81"/>vbi dicit / mitti a patre filius sine spiritu sancto 
+      <lb ed="#P" n="82"/>non potuit. Nam pater intelligitur. eum 
+      mi<lb ed="#P" n="83" break="no"/>sisse / quia ex femina eum fecit. quod non vtique sine spiritu sancto 
+      fe<lb ed="#P" n="84" break="no"/>cit. Et beatus ambrosius in secundo libro de spiritu sancto 
+      ex<lb ed="#P" n="85" break="no"/>ponens illud esaie. 48. nunc misit me dominus et spiritus 
+      <lb ed="#P" n="86"/>eius / dicit / quis est qui dicit misit me dominus et spiritus eius 
+      <lb ed="#P" n="87"/>nisi qui venit a patre vt saluos faceret peccatores id est 
+      <lb ed="#P" n="88"/>christus ergo pater misit filium et spiritus sanctus. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e513">
+                  <lb ed="#P" n="89"/>¶ Pro ista conclusione adducit magister plures 
+      aucto<lb ed="#P" n="90" break="no"/>ritates distinctione. 5.
+    </p>
+               <p xml:id="oooo3o-k17257-d1e520">
+      ¶ Quantum ad secundam / partem / 
+      <lb ed="#P" n="91"/>questio nulli est dubia. quia omnis persona procedens ab 
+      <lb ed="#P" n="92"/>alia potest mitti ab illa. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e528">
+                  <lb ed="#P" n="93"/>¶ Correlarium. Omnis persona missa ab alia mitti 
+      <lb ed="#P" n="94"/>tur a seipsa. Istud correlarium patet / de spiritu sancto per beatum 
+      <lb ed="#P" n="95"/>augustinum. 15. de trinitate capitulo pax / vbi dicit expresse 
+      <lb ed="#P" n="96"/>quod spiritus sanctus dat et mittit seipsum. Ex quo sequitur quod 
+      <lb ed="#P" n="97"/>mittem competit cuilibet persone diuiue / probatio quia opera 
+      <lb ed="#P" n="98"/>trinitatis ad extra sunt indiuisa sed misso est opus ad  
+      <lb ed="#P" n="99"/>extra ergo. Notandum tamen secundum alfonsum quod mittem actiue 
+      <lb ed="#P" n="100"/>potest. intelligi dupliciter. vno modo principaliter et 
+      <lb ed="#P" n="101"/>autoritoritative / alio modo consequenter et determinative. 
+      <lb ed="#P" n="102"/>Primo modo / mittere solet ille qui tribuit potestatem legato 
+      <lb ed="#P" n="103"/>siue misso. Secundo modo / mittunt omnes illi qui talem 
+      lega<lb ed="#P" n="104" break="no"/>tum ad vsum siue executionem accepte potestatis determinant. 
+      <lb ed="#P" n="105"/>Si primo modo accipiatur misso. verum est quod soli producen 
+      <lb ed="#P" n="106"/>ti competit mittere in diuinis. quia mittere sic sumptum nichil 
+      <lb ed="#P" n="107"/>aliud est / quam auctoritatem dare / quod solum conuenit persone 
+      <lb ed="#P" n="108"/>producenti. sed sic de missione non loquitur corelarium secundum 
+      <lb ed="#P" n="109"/>quia talis missio non est temporalis sed aeterna. Pater enim ab 
+      <lb ed="#P" n="110"/>eterno auctoritatem dedit filio et spiritui sancto ipsum 
+      produ<lb ed="#P" n="111" break="no"/>cendo. Si vero accipitur secundo modo: sic mitttur conuenit 
+      <lb ed="#P" n="112"/>toti trinitati quia auctoritas illa data ab aeterno / non 
+      po<lb ed="#P" n="113" break="no"/>nitur in executione ad extra: nisi de communi voluntate et 
+      de<lb ed="#P" n="114" break="no"/>terminatione omnium trium personarum. cum opera trinitatis  
+      <lb ed="#P" n="115"/>ad extra sint indiuisa. et sic loquor in praesenti doctor autem 
+      <lb ed="#P" n="116"/>subtilis libro primo distinctione. 14, 15, 16 questione  
+      <lb ed="#P" n="117"/>vnica articulo secundo / tenens oppositum correlarii / lo 
+      <lb ed="#P" n="118"/>quebatur de missione primo modo sumpta.
+    </p>
+               <p xml:id="oooo3o-k17257-d1e587">
+      <!--75.xml-->
+                  <pb ed="#P" n="28-v"/>
+                  <lb ed="#P" n="1"/>Secunda conclusio: Tum qualicum que esse creatu 
+      <lb ed="#P" n="2"/>re conferibili per informationem vel assistentiam creati 
+      <lb ed="#P" n="3"/>esse stat spirstum sanctum non donari creature. probatur 
+      <lb ed="#P" n="4"/>ad nullum efficem terminatum ad esse creatum praecise / 
+      sequi<lb ed="#P" n="5" break="no"/>tur spiritum sanctantum donari. ergo conclusio vera. Antecedens proba 
+      <lb ed="#P" n="6"/>tur quia spiritum sanctum donari / non est idem cum tali efficere: 
+      di<lb ed="#P" n="7" break="no"/>cente leone in sermone de spiritu sancto. Affuit ergo in 
+      <lb ed="#P" n="8"/>hac die spiritus sanctus fidelibus suis non iam per gratiam 
+      <lb ed="#P" n="9"/>visitationis et operationis: sed per ipsam praesentiam maiestatis 
+      <lb ed="#P" n="10"/>Ex quo sequitur correlarie: quod stat quodcumque 
+      <lb ed="#P" n="11"/>donum creatum conferri creature: et tamen spiecium sanctum 
+      <lb ed="#P" n="12"/>eidem non donari. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e620">
+                  <lb ed="#P" n="13"/>¶ Secundum correlarium Non semper datur 
+      spi<lb ed="#P" n="14" break="no"/>ritus sanctus creature rationali in qua benum operatur 
+      <lb ed="#P" n="15"/>Tertium correlarium. Stat quancunque virtutem 
+      <lb ed="#P" n="16"/>creatam boni dari: et tamen ipsum non esse acceptum 
+      <lb ed="#P" n="17"/>ad vitam eternam. patet quia potest dari bonum creatum 
+      <lb ed="#P" n="18"/>quodcumque sine dono increato / nullus autem sine 
+      do<lb ed="#P" n="19" break="no"/>no increato saluari potest. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e638">
+                  <lb ed="#P" n="20"/>¶ Quartum correlarium. Esse filium regis 
+      eter<lb ed="#P" n="21" break="no"/>ni non est effectus formalis charitatis create. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e645">
+                  <lb ed="#P" n="22"/>¶ Tertia conclusio. Cum datur spiritus 
+      sanci<lb ed="#P" n="23" break="no"/>sona / charitas datur: et econuerso. Probatur. prima 
+      <lb ed="#P" n="24"/>pars sic. Cuicunque datur spiritus sanctus est in 
+      sta<lb ed="#P" n="25" break="no"/>tu salutis et de numero filiorum dei. sed nullus carens 
+      <lb ed="#P" n="26"/>gratia est huiusmodi: ergo nullus carens gratia habet spicium 
+      <lb ed="#P" n="27"/>sanctum: et per consequens omnis habens spiritum sanctum habet 
+      <lb ed="#P" n="28"/>gratiam. Ex quo sequitur quod quandocumque datur spiritus 
+      <lb ed="#P" n="29"/>sanctus homini: etiam et gratia ei datur. maior patet per 
+      <lb ed="#P" n="30"/>apostolum ad romanos octauo. Quicumque spiritum dei aguntu 
+      <lb ed="#P" n="31"/>filii dei sunt (et infra) ipse spiritus testimonium reddit 
+      spi<lb ed="#P" n="32" break="no"/>ritui nostro idest menti nostre quod filii dei sumus. si 
+      au<lb ed="#P" n="33" break="no"/>tem filii: et heredes (supple secundum speie) minor patet per 
+      <lb ed="#P" n="34"/>eundem ad galathas quito vbi ait. Euacuati estis 
+      <lb ed="#P" n="35"/>a chistro qui in lege iustificamini: a gratia excidisis. 
+      <lb ed="#P" n="36"/>et est sensus vos qui in lege iustificamini (idest 
+      cre<lb ed="#P" n="37" break="no"/>ditis iustificari per opera cerimonialia quae nomine legis 
+      <lb ed="#P" n="38"/>significat apitulus) excidistis a gratia: idest privati estis 
+      <lb ed="#P" n="39"/>gratia habita: et ex hoc estis euacuati a chaistro: idest 
+      <lb ed="#P" n="40"/>non pertinetis ad consortium membrorum vel filiorum chaisetri 
+      <lb ed="#P" n="41"/>Alteram partem probo sic Quicunque habet gratiam est 
+      <lb ed="#P" n="42"/>de numero filiorum dei: nullus non habens spiecitum sactatum 
+      <lb ed="#P" n="43"/>habet gratiam: et per consequens omnis habens gratiam 
+      ha<lb ed="#P" n="44" break="no"/>bet spiritum sanctum. Ex quo etiam sequitur / quod quando 
+      da<lb ed="#P" n="45" break="no"/>tur gratia etiam datur spiritus sciuns. maior patet per 
+      <lb ed="#P" n="46"/>apostolum ad titum tertio. dicentem: vt iustificati gratis 
+      <lb ed="#P" n="47"/>psius heredes simus secundum spem vite eterne / minor 
+      <lb ed="#P" n="48"/>patet per eundem ad remanos. 8 dicentem si quis 
+      spi<lb ed="#P" n="49" break="no"/>ritum christi non habet hic non est eius. idest membrum 
+      <lb ed="#P" n="50"/>christi. per spiritum christi intelligitur spiritus sacituns secundum 
+      glo<lb ed="#P" n="51" break="no"/>sam magistri. hec conclusio totalis potest probari auctoritate 
+      <lb ed="#P" n="52"/>ambrosit super lucam libro primo. super isto verbo 
+      an<lb ed="#P" n="53" break="no"/>geli. ipse precedet ante illum in spiritu et virtute helie 
+      <lb ed="#P" n="54"/>bene (inquit ambrosius) ista iunguntur. Numquam enim 
+      <lb ed="#P" n="55"/>sine viriute spiritus / nec sine spiritu est virtus. et 
+      in<lb ed="#P" n="56" break="no"/>fra dicit / quod alterum sne altero esse non potest. sic etiam 
+      <lb ed="#P" n="57"/>et in consequentibus reperitur super illo alio verbo 
+      <lb ed="#P" n="58"/>spiritus sanctus superueniet in te et virtus altissimi 
+      <lb ed="#P" n="59"/>obumbrabit tibi (et loquitur de potentia ordinata 
+      <lb ed="#P" n="60"/>non autem absoluta) virtutis autem nomine gratia 
+      <lb ed="#P" n="61"/>intelligitur. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e734">
+      <!--75.xml-->
+                  <lb ed="#P" n="62"/>¶ Quarta conclusio est. quod multis datur spiriius 8 
+      <lb ed="#P" n="63"/>sanctus / quibus non dantur omnia et singula dona ip 
+      ta<lb ed="#P" n="64" break="no"/>sius. hoc probatur per apostolum dicentem quod alii datur per 
+      <lb ed="#P" n="65"/>spiritum sermo sapientie. etc. et concludit: hec autem diuidit 
+      <lb ed="#P" n="66"/>vnus atet idem spiritus sctuns. patet etiam ista in pueris no 
+      <lb ed="#P" n="67"/>uiter bapiisatis et in adultis resurgentibus a 
+      peccato<lb ed="#P" n="68" break="no"/>quibus datur spiritus sancius: et tamen non dantur eis 
+      <lb ed="#P" n="69"/>dona ipsius omnia. Dicit etiam apostolus quod diuisiones gratiarum 
+      <lb ed="#P" n="70"/>sunt. etc. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e759">
+                  <lb ed="#P" n="71"/>¶ Quinta conclusio Q possibile est quod dentur 
+      <lb ed="#P" n="72"/>alicui omnia et singula dona spiritus sancti creata cui non 
+      <lb ed="#P" n="73"/>detur spiritus sciuns. lc quendo de potentia dei 
+      absoluta<lb ed="#P" n="74" break="no"/>hoc probatur primo sic. Omne quod est dabile 
+      ali<lb ed="#P" n="75" break="no"/>cui ab aliquo / potest alicui dari non dato aliquo alio / 
+      <lb ed="#P" n="76"/>quod non sit essentialiter idem cum primo / nec aliquid de 
+      <lb ed="#P" n="77"/>essentia illius: ergo possibile est quodlibet donum 
+      crea<lb ed="#P" n="78" break="no"/>tum / tari non dato spiritus sacio./ consequentia nota est de se. antecedens 
+      <lb ed="#P" n="79"/>probatur. tum quia eo aomisso non sequitur contradictio. 
+      <lb ed="#P" n="80"/>tum etiam quia non plus repugnat quam aliquid factibile 
+      <lb ed="#P" n="81"/>fieri ab aliquo / nullo alio factibili facto quod non est 
+      <lb ed="#P" n="82"/>ipsum essentialiter nec pars essentialis ipsius. sed hoc 
+      <lb ed="#P" n="83"/>est possibile et commiter concessum: quia nullam implicat 
+      con<lb ed="#P" n="84" break="no"/>tradictionem: igitur.
+    </p>
+               <p xml:id="oooo3o-k17257-d1e792">
+      ¶ Confirmatur quia si ad dationem 
+      <lb ed="#P" n="85"/>talium donorum sequatur spiritum sanctnum esse datorem illorum 
+      <lb ed="#P" n="86"/>non tamen est necessarium ipsum dari. sicut ad productionem. 
+      <lb ed="#P" n="87"/>effectiuam licet necessarium sit causam producere / non 
+      ta<lb ed="#P" n="88" break="no"/>men est necessarium ipsam produci. sicut patet de 
+      cau<lb ed="#P" n="89" break="no"/>sa prima: que semper facit et nunquam fit. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e805">
+                  <lb ed="#P" n="90"/>¶ Sexta conclusio est ista. quod possibile est 
+      confor<lb ed="#P" n="91" break="no"/>miter de potentia dei absoluta / quod alicui detur spiritus 
+      <lb ed="#P" n="92"/>sanctus / cui non detur aliquod. donum creatum 
+      absolu<lb ed="#P" n="93" break="no"/>tum et incomplexe significabile. hoc probatur sic / quodliem 
+      <lb ed="#P" n="94"/>pabile creature potest deus dare et potest nullo alio 
+      condo<lb ed="#P" n="95" break="no"/>nante dare / et nullum tale potest eo non donante tari: 
+      et<lb ed="#P" n="96" break="no"/>go quodle dabile creature deus potest nullo alio 
+      dan<lb ed="#P" n="97" break="no"/>te dare. Antecedens commniter conceditur. sed probatur consequentia quia 
+      <lb ed="#P" n="98"/>um aliquod dabile verbi gratia. a. non potest dari a deo / 
+      <lb ed="#P" n="99"/>non dato essentialiter ab co distincio nec in eo sic 
+      in<lb ed="#P" n="100" break="no"/>cluso vt pote b hoc non esset nisi quia vel a datum 
+      ne<lb ed="#P" n="101" break="no"/>cessario daret b vel quia b necessario requireretur ad 
+      <lb ed="#P" n="102"/>ponandum a: et sic ipsum a non posset deus nullo alio 
+      con<lb ed="#P" n="103" break="no"/>donante dare quod est contra secundam partem antecedentus 
+      <lb ed="#P" n="104"/>assumpti. Si detur primum: vel ergo a potest dare b 
+      <lb ed="#P" n="105"/>deo non dante b et hoc repugnat tertie parti 
+      anteceden<lb ed="#P" n="106" break="no"/>tis: vel non potest dare deo non condonante et tunc vel 
+      <lb ed="#P" n="107"/>dabit necessario b contra primam partem antecedentis: vel 
+      pote<lb ed="#P" n="108" break="no"/>rit non dare et sic a erit datum non dato b.
+    </p>
+               <p xml:id="oooo3o-k17257-d1e849">
+      ¶ 
+      Confir<lb ed="#P" n="109" break="no"/>natur sic speciali ratione. nullum donum creatum vel 
+      crea<lb ed="#P" n="110" break="no"/>bile requiritur necessario vt dator vel condonator / ad 
+      <lb ed="#P" n="111"/>hoc vt spiritus sanctus detur: et nullum tale donum neces 
+      <lb ed="#P" n="112"/>ario datur a spiritum sancto: ergo spiritus sanctus potest 
+      da<lb ed="#P" n="113" break="no"/>ri non dato aliquo dono tali de quibus loquitur conclusio: et 
+      <lb ed="#P" n="114"/>go. Ex ista conclusione magister gregorius intulit 
+      <lb ed="#P" n="115"/>vnum correlarium de quo facius est praesens articulus / et quia 
+      <lb ed="#P" n="116"/>non videtur magistris nostris quod totum correlarium 
+      su<lb ed="#P" n="117" break="no"/>sineatur. Item ponam aliam conclusionem: ex qua inferam oper 
+      <lb ed="#P" n="118"/>positum sui correlarii / et soluam rationem suam. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e873">
+                  <lb ed="#P" n="119"/>¶ Septima conclusio. Qi impossibile est 
+      dari<lb ed="#P" n="120" break="no"/>alicui creature spiecium sanctum: qui sibi detur aliquod 
+      <lb ed="#P" n="121"/>donum absolutum vel respectiuum complexe vel 
+      incom<lb ed="#P" n="122" break="no"/>plexe significabile. et loquor hic de dari illo modo 
+      <lb ed="#P" n="123"/>speciali et ineffabili / quo spiritus sanctus solummodo 
+      da<lb ed="#P" n="124" break="no"/>tur rationalibus creaturis iustis: nen autem peccatoribus 
+      <!--76.xml-->
+      <pb ed="#P" n="29-r"/>
+                  <lb ed="#P" n="1"/>et peruersis. hec conclusio probatur sic. Impossibile est 
+      <lb ed="#P" n="2"/>spiecium sanctum dari sic alicui qui talis habeat esse iustum 
+      <lb ed="#P" n="3"/>et vere sit iustus: sed quodliet tale est maius bonum quam sit 
+      <lb ed="#P" n="4"/>quelibet prophetia vel scia viatoris: que tamen sunt quedam 
+      <lb ed="#P" n="5"/>vel absoluta vel respectiua sine quibus nemo 
+      pro<lb ed="#P" n="6" break="no"/>pheta potest esse / vel sciens: igitur neque quis iustus 
+      <lb ed="#P" n="7"/>potest esse (quod fit per dationem spiritus sacti) sine eo quod 
+      <lb ed="#P" n="8"/>detur. etc. consequentia est nota et patet antecedens quo ad primam partem scilicet 
+      ma<lb ed="#P" n="9" break="no"/>iorem quia non apparet quale esse iste consequeretur. ex 
+      ha<lb ed="#P" n="10" break="no"/>bitudine tali spiritus sancti: plusquam ille cui non sic datur 
+      <lb ed="#P" n="11"/>spiritus sactuns. Tum etiam quia omnes doctores fatentur 
+      <lb ed="#P" n="12"/>ex tali habitatione spiritus sancti istum esse gratum deo et 
+      <lb ed="#P" n="13"/>dignum esse vita eterna: ergo et esse iustum. etc. Secunda 
+      <lb ed="#P" n="14"/>pars antecedentis patet quia multi possunt decedere cum magna 
+      <lb ed="#P" n="15"/>fide et scinia: et intellectu: et similibus donis spiritus 
+      <lb ed="#P" n="16"/>sancti: qui tamen de facto damnantur velut deo indigni et 
+      ip<lb ed="#P" n="17" break="no"/>sius inimici. sed non est possibile decedentem in esse 
+      iu<lb ed="#P" n="18" break="no"/>sti per habitantem spiecium sanctum / sic damnari de potentia 
+      <lb ed="#P" n="19"/>ordinata sicut de primis: ergo esse iustum per habitantem 
+      <lb ed="#P" n="20"/>spiritum est maius donum quam aliquod donorum aliorum. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e936">
+                  <lb ed="#P" n="21"/>¶ Ex hoc infero correlarium quod est impossibile 
+      tran<lb ed="#P" n="22" break="no"/>sire de contradictorio in contradictorium / seu contradictoria 
+      <lb ed="#P" n="23"/>successiue verificari: sine mutatione rei cui datur 
+      il<lb ed="#P" n="24" break="no"/>lo modo spiritus sctuns. Probatur quia impossibile est 
+      ali<lb ed="#P" n="25" break="no"/>quem transire de esse iniusto in esse iustum / et de sinistro 
+      <lb ed="#P" n="26"/>in dextrum (saltem secundum praesentem iusticiam) et de membro 
+      <lb ed="#P" n="27"/>diaboli fieri membrum christi et similia: sine miraculosa et 
+      <lb ed="#P" n="28"/>ymaxime vtili mutatione eius qui sic mutatur. Sed 
+      <lb ed="#P" n="29"/>cuicumque datur spiritus sactuns illo modo ineffabili necessario 
+      <lb ed="#P" n="30"/>nutatur et transit de contradictoriis in contradictoria 
+      supra<lb ed="#P" n="31" break="no"/>dicta. igitur. Preterea nonne augustinus et ones doctores 
+      <lb ed="#P" n="32"/>clamant: quod maius miraculum est vnius peccatoris iu 
+      <lb ed="#P" n="33"/>tificatio: quam totius mundi de nichilo creatior et qudo 
+      <lb ed="#P" n="34"/>dicitur circa aliquam rem fieri miraculum que penitus 
+      <lb ed="#P" n="35"/>i nullo mutatur: credo quod ille pater mallet illam mutationem 
+      <lb ed="#P" n="36"/>in se ineffabilem: quam potentiam actiuam mouendi totum mundum
+    </p>
+               <p xml:id="oooo3o-k17257-d1e974">
+                  <lb ed="#P" n="37"/>Ad rationem qua probat correlarium: dico quod sicut rerm 
+      <lb ed="#P" n="38"/>et entitatum incomplexe significabilium quedam sunt 
+      ali<lb ed="#P" n="39" break="no"/>quid / et quedam ad aliquid: idest quedam absolute et 
+      <lb ed="#P" n="40"/>quedam praecise respectiue: ita etiam mutationes acqui 
+      <lb ed="#P" n="41"/>sitiue et deperditiue quaedam sunt noui absoluti / quaedam 
+      <lb ed="#P" n="42"/>noui praecise respectiui. Et ideo cum dicit ille doctor quod 
+      <lb ed="#P" n="43"/>possibile est quod aliquis non habens spirium sanctum illo 
+      <lb ed="#P" n="44"/>modo speciali de quo hic agitur: habeat postea 
+      spi<lb ed="#P" n="45" break="no"/>ritum sanctum eo non mutato localiter. nec aliqua rei 
+      <lb ed="#P" n="46"/>noua facta. vel priori destructa. Respondeo et 
+      dico<lb ed="#P" n="47" break="no"/>quod cum dicit / eo non mutato localiter. si intelligit de 
+      <lb ed="#P" n="48"/>motu corporali et loco quo mouetur lapis: concedo. 
+      <lb ed="#P" n="49"/>Si autem spiritualiter localiter intelligat: quo mutatur 
+      <lb ed="#P" n="50"/>de sinistro in dextrum excelsi: sic nego. Et declaro. Nam 
+      <lb ed="#P" n="51"/>si christus nunc iudicaret mundum: statueret istum a dextris 
+      <lb ed="#P" n="52"/>cius cum bendictis patris sui quem ante habitationem 
+      <lb ed="#P" n="53"/>vel habitionem spiritus scti statuisset a sinistris. Cum dicit 
+      <lb ed="#P" n="54"/>vlterius quod non est ibi acquisitio noue rei: nego. nam 
+      <lb ed="#P" n="55"/>illi est acquisitio noui esse iusti (quod saltem est noua res 
+      <lb ed="#P" n="56"/>tespectiua seu nouum ad aliquid) et talis res est 
+      eligi<lb ed="#P" n="57" break="no"/>bilior quam omnis albedo vel qualitas corporalis. et per 
+      <lb ed="#P" n="58"/>eius acquisitionem sequitur melior et maior 
+      mutatio<lb ed="#P" n="59" break="no"/>quam per acquisitionem cuiuscunque accidentis 
+      corpo<lb ed="#P" n="60" break="no"/>ralis. et ideo non est simile de his et similibus de 
+      qui<lb ed="#P" n="61" break="no"/>pus consequenter arguit predicto magister. Si 
+      autem<lb ed="#P" n="62" break="no"/>queratur a me: Quid est illud esse respectiuum: dico 
+      <!--76.xml-->
+      <lb ed="#P" n="63"/>quod est quidam modus perfectus essendi ipsius 
+      anime<lb ed="#P" n="64" break="no"/>iustificate Et hec de secundo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k17257-Dd1e1040">
+               <head xml:id="oooo3o-k17257-Hd1e1042">Articulus 3</head>
+               <p xml:id="oooo3o-k17257-d1e1044">
+                  <lb ed="#P" n="65"/>Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e1049">
+                  <lb ed="#P" n="66"/>QUantum ad tertium articulum 
+      re<lb ed="#P" n="67" break="no"/>spondeo ad argumenta. Ad primum ar. 
+      <lb ed="#P" n="68"/>gumentum. deus est simpliciter immut abilis 
+      <lb ed="#P" n="69"/>concedo. loquendo de mutatione que fit 
+      <lb ed="#P" n="70"/>per acquisitionem alicuius noui absoluti 
+      <lb ed="#P" n="71"/>aliter non: et nego consequentiam. et dico quod non omnis modo 
+      <lb ed="#P" n="72"/>nouiter essendi (per modum videlicet spriualem quo deus 
+      <lb ed="#P" n="73"/>inhabitat animam pueri nouiter baptisati) dicit 
+      imperfe<lb ed="#P" n="74" break="no"/>ctionem. et per consequens non repugnat deo. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e1071">
+                  <lb ed="#P" n="75"/>¶ Ad secundum argumentum negatur 
+      consequen<lb ed="#P" n="76" break="no"/>tia salua reuerentia tanti doctoris: sicut ostensum est 
+      su<lb ed="#P" n="77" break="no"/>perius in correlario vltime conclusionis. 
+    </p>
+               <p xml:id="oooo3o-k17257-d1e1080">
+                  <lb ed="#P" n="78"/>¶ Ad tertium quod est dictum bede dicendum 
+      <lb ed="#P" n="79"/>est quod debet intelligi per concomitantiam: non autem per 
+      <lb ed="#P" n="80"/>idemptitatem. Ita quod sit sensus / quod simul datur gratia 
+      <lb ed="#P" n="81"/>et mittitur spiritus sanctus. sicut patet per magistrum 
+      <lb ed="#P" n="82"/>gregorium decima quarta distinctione primi. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

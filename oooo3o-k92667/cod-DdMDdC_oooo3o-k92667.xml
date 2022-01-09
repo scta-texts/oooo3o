@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="150-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k92667"><!--l4d43-50q2 -->
+            <head xml:id="oooo3o-k92667-Hd1e99">Quaestio 2</head>
+            <p xml:id="oooo3o-k92667-d1e101">
+               <lb ed="#P" n="124"/>¶ Secundo circa praedictas distinctiones quaero vtrum 
+      <lb ed="#P" n="125"/>deus pro operibus meritoriis praemiet infite vltra condignum.
+    </p>
+            <p xml:id="oooo3o-k92667-d1e108">
+      quod non 
+      <lb ed="#P" n="126"/>quia si sic ergo habere per horam gloriam praecise esset eligibilius quam 
+      cru<lb ed="#P" n="127" break="no"/>ciari perpetuo esset fugibile: consequens fatlum viditur quia tunc 
+      aggre<lb ed="#P" n="128" break="no"/>gatum ex vtroque esset magis eligibile quam fugibile et per 
+      <lb ed="#P" n="129"/>oaens foret absolute eligibile quod non videtur verum. et probatur 
+      <lb ed="#P" n="130"/>consequentia primcipalteus quia b. meritum est melius quam a mortale si 
+      <!--319.xml-->
+      <pb ed="#P" n="150-v"/>
+               <lb ed="#P" n="1"/>tra a est peius et fugibilius quam cruciari perpetuo sit malum 
+      <lb ed="#P" n="2"/>ergo b. est melius et eligibilius quam cruciari sit sugibile patet 
+      <lb ed="#P" n="3"/>ista consequentia quia b. est melius quam a sit malum quod est peius quam crucia 
+      <lb ed="#P" n="4"/>tus sit malum igitur gloriia est melior quam in infinitum. ergo gloria per 
+      <lb ed="#P" n="5"/>poram praecise est melior quod b. alioquin non infiniteglria 
+      exce<lb ed="#P" n="6" break="no"/>lerer b. Ex quo vlterius sequitur quod gloria horaria praecise 
+      <lb ed="#P" n="7"/>vel momentaneam est eligibilior et melior quam cruciato 
+      per<lb ed="#P" n="8" break="no"/>etuus sit malus.
+    </p>
+            <p xml:id="oooo3o-k92667-d1e143">
+      ¶ Secundo si quaestio esset vera: sequeretur 
+      <lb ed="#P" n="9"/>quod praemium esset infinite bonum et infinitum bonum: consequens non videiur 
+      <lb ed="#P" n="10"/>propter duo primum est. quia nichil citra deum est infinitum bonum 
+      <lb ed="#P" n="11"/>premium vero est citra deum eo quod est 
+      augmentabi<lb ed="#P" n="12" break="no"/>le et remissibile Secundum est quia tunc omnes esset 
+      <lb ed="#P" n="13"/>etestitia eque beti quod falsum est. Patet consequentia quia infinite non potest 
+      <lb ed="#P" n="14"/>dari maius. sed probatur consequentia primcipalis quia meritum est aliquam 
+      <lb ed="#P" n="15"/>le bonitatis: si ergo praemium sit infinite maioris bonitatis 
+      <lb ed="#P" n="16"/>oportet quod excessus sit infinitus et per consequens oportet quod totum 
+      <lb ed="#P" n="17"/>praemium sit in se infinitum. quia nihil est aliquo bono infinite 
+      me<lb ed="#P" n="18" break="no"/>lius nisi ipsum sit infinitum bonum sicut nihil est aliquo 
+      ma<lb ed="#P" n="19" break="no"/>gno in infinitum maius nisi ipsm sit infinite magnum. 
+      </p>
+            <p xml:id="oooo3o-k92667-d1e169">
+               <lb ed="#P" n="20"/>Tertio nullum bonum commodi est premium vel esse 
+      <lb ed="#P" n="21"/>potest infinite melius quam opus meritorium nec aliquod bonum 
+      <lb ed="#P" n="22"/>iustitie quod probatur. quia hoc videtur de iustitia patrie sed hoc 
+      <lb ed="#P" n="23"/>non. quia eadem est charitas vie et patrie: bonum autem iustitie. 
+      <lb ed="#P" n="24"/>patriese charitas. ergo nullum bonum priuatorium est infinite 
+      me<lb ed="#P" n="25" break="no"/>lius quam meritum sit bonum
+    </p>
+            <p xml:id="oooo3o-k92667-d1e186">
+      ¶ Oppositum nullum praemium 
+      distin<lb ed="#P" n="26" break="no"/>ctum a merito debetur merito ex condigno si ergo deus dat 
+      <lb ed="#P" n="27"/>p. praemium alicuius btitudinis: tunc medietas istius 
+      latitu<lb ed="#P" n="28" break="no"/>dinis est vltra condignum. ergo totum b in duplo vltra condignum 
+      <lb ed="#P" n="29"/>et quarta patrs b est vltra condignum: ergo b. tantum est in 
+      qua<lb ed="#P" n="30" break="no"/>druplo vltra condignum: et sub centupla patrus b est vltra condi 
+      <lb ed="#P" n="31"/>gnum et sub millecupla et sic in infinitum: ergo totum b est 
+      infini<lb ed="#P" n="32" break="no"/>te vltra condignum. quod fuit probandum antecedens probabitur 
+      infra<lb ed="#P" n="33" break="no"/>. 
+      </p>
+            <p xml:id="oooo3o-k92667-d1e206">
+        Primus articulus erit de compeatione eligibilium et fugi 
+      <lb ed="#P" n="34"/>lilium duratione adiecta scilicet taprali vel perpetua: de quo 
+      <lb ed="#P" n="35"/>tractum est in argumento primo. secundus arti. erit videre quod 
+      <lb ed="#P" n="36"/>modois deus praemiat vltra condignum et tertius erit responsiuus 
+      <lb ed="#P" n="37"/>ad quesitum. 
+    </p>
+            <div xml:id="oooo3o-k92667-Dd1e217">
+               <head xml:id="oooo3o-k92667-Hd1e219">Articulus 1</head>
+               <p xml:id="oooo3o-k92667-d1e221">
+                  <lb ed="#P" n="38"/>QUantum ad primum premitto 
+      propo<lb ed="#P" n="39" break="no"/>sitiones quarum prima est: quod hec consequentia non est 
+      for<lb ed="#P" n="40" break="no"/>malis per a eligibile melioraris et per b eli 
+      <lb ed="#P" n="41"/>gibile non melioraris: igitura est tibi melius 
+      <lb ed="#P" n="42"/>si tu praecise per meritum haberes a quam b. probatur quia 
+      <lb ed="#P" n="43"/>Uin casu antecedens est verum et consequens falsum igitur 
+      pro<lb ed="#P" n="44" break="no"/>po assumptum in tali casu. Sit a praecise te inherere deo pr 
+      <lb ed="#P" n="45"/>momentum et sit b. te absolui praecise totaliter a pena eterni 
+      <lb ed="#P" n="46"/>cruciato tunc antecedens est verum quantum ad ambas partes. quod 
+      <lb ed="#P" n="47"/>patet de prima: quia omni inherere deo est ipsum inherentem melio 
+      <lb ed="#P" n="48"/>rari: ergo inherere permomentum est meliorari: quia est ipsum 
+      in<lb ed="#P" n="49" break="no"/>perentem iustificari. Secunda pars antecedentis: similiter patet: quia per 
+      <lb ed="#P" n="50"/>absolui a pena eterna praecise non melioraris. nec iusti 
+      <lb ed="#P" n="51"/>ficaris. sed quod consequens sit falsum probo. quia ad hbere a per momen 
+      <lb ed="#P" n="52"/>tum praecise: sequitur te perpetuo esse priuatum de iustificante: quod 
+      <lb ed="#P" n="53"/>est malum. et per b non sequitur illud: sed sequitur te careroe 
+      <lb ed="#P" n="54"/>maximo incommodo. quod est bonum igitur. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e260">
+                  <lb ed="#P" n="55"/>¶ Secunda propositio nec ista consequentia 
+      va<lb ed="#P" n="56" break="no"/>et per hoc percise quod per momentum inheres deo melioraris  
+      <lb ed="#P" n="57"/>simpliciter: ergo per hoc quod precise per momentum inheres deo eris 
+      <lb ed="#P" n="58"/>melior aut melioraris sipliciter probatur. Nam posito quod nunc 
+      <lb ed="#P" n="59"/>sis viator: tunc antecedens est verum et consequens falsum. quod antecedens sit 
+      ve<lb ed="#P" n="60" break="no"/>rum probatur ne prius: quia inherere deo per momentum est bonum 
+      <lb ed="#P" n="61"/>ergo praecise ex hoc quam inheres deo per momentum meliora 
+      <lb ed="#P" n="62"/>ris Sed quod consequens sit falsum: patet: quia per hoc quod praecise 
+      <lb ed="#P" n="63"/>per momentum non amplius et numquam plus inheres non meliora¬ 
+      <!--319.xml-->
+      <lb ed="#P" n="64"/>ris sed deterioraris sipliciter. ergo non est tibi eligibile nec 
+      bo<lb ed="#P" n="65" break="no"/>num patet ergo quod licet hec sit concedenda per hoc praecise quod per 
+      <lb ed="#P" n="66"/>momentum inheres deo melioraris: tamen per hoc quod praecise 
+      <lb ed="#P" n="67"/>per momentum inheres deo melioraris est neganda. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e293">
+                  <lb ed="#P" n="68"/>¶ Tertia propositio propositis duobus stati 
+      <lb ed="#P" n="69"/>pus a et b non sequitur non recte praeligere habes statum a ipsi 
+      <lb ed="#P" n="70"/>b igitur astato praecise sumptus non est tibi melior quam b praecise 
+      <lb ed="#P" n="71"/>sumptus: patet. sic a te esse perpetuo cum bonus natre et bon¬s commoni 
+      <lb ed="#P" n="72"/>et sit b te per momentum inherere deo quod est bonum iustitio 
+      <lb ed="#P" n="73"/>tunc patet quod melius esset a praecise quam status b cum praecisione: quia 
+      <lb ed="#P" n="74"/>b cum praecisione includit te numquam plus inherere deo: sed 
+      perpe<lb ed="#P" n="75" break="no"/>tuo carere deo quod vtique malum est: et non eligibile. sed quod 
+      <lb ed="#P" n="76"/>non debeas praeligere a contempto b: patet: quia peccares sic 
+      <lb ed="#P" n="77"/>eligendo: quia preligeres bonum commodi bono iustitie. 
+      <lb ed="#P" n="78"/>¶ Quarta propositio non semper quod esset tibi 
+      fu<lb ed="#P" n="79" break="no"/>gibilius secundum leges statutas: esset tibi peius hoc habere 
+      <lb ed="#P" n="80"/>probatur in hoc casu: sit a te mentiri venialiter: et b te 
+      chrea<lb ed="#P" n="81" break="no"/>tum annihilari vel perpetuo conciari: tunc patet quod a est fugibilitir 
+      <lb ed="#P" n="82"/>us quam b iuxta modum arguendi Ansel. primo cur deus homo 
+      <lb ed="#P" n="83"/>c. 22. et tamen peius esset tibi per hbere b. quia perderes plura 
+      <lb ed="#P" n="84"/>pona quam per habere a quod meretur penam modicam tpralem ergo.  
+      <lb ed="#P" n="85"/>¶ Quinta propotio non omne quod est tibi vel esset eli 
+      <lb ed="#P" n="86"/>gibilius est tibi vel esset melius. probatur quia vitatur b mendacium 
+      <lb ed="#P" n="87"/>veniale esset tibi eligibilius: quam absolui a cruciatu mille 
+      <lb ed="#P" n="88"/>puorum ad quod obligaris: et tamen non esset tibi melius vitatur b 
+      <lb ed="#P" n="89"/>quam absoli a cruciatu. Quod autem recte eligibilius sit vitatur 
+      <lb ed="#P" n="90"/>b mendacium probatur quia. praeligendo absolutionem pene ipsi 
+      <lb ed="#P" n="91"/>vitationi b. peccares: praeligere autem vitare b. non 
+      pecca<lb ed="#P" n="92" break="no"/>res ergo rectius eligitur vitare bquam absolui cruciatu 
+      praedicto<lb ed="#P" n="93" break="no"/>Sexta propositio sit a miserum esse miscra 
+      culpe<lb ed="#P" n="94" break="no"/>et b perpetuo cruciari: tunc sit propotio hec: quamuis a sit in 
+      <lb ed="#P" n="95"/>compabiliter fugibilius quam b: non tamen fugibilius est hbere: 
+      <lb ed="#P" n="96"/>a praecise per diem et numquam vltra: quam habere b: patet prima pars quia 
+      pe<lb ed="#P" n="97" break="no"/>nis est in proportionabiliter miserum esse miseria cluspe: quam 
+      perpe<lb ed="#P" n="98" break="no"/>tuo cruciari quantumlicet intenso cruciatu: sicut ex praecedente 
+      <lb ed="#P" n="99"/>uastione patet. Sed secunda patrus probatur. quia te esse in culpa praecise per 
+      <lb ed="#P" n="100"/>diem et non amplius includit te perpetuo esse bonum post dien si 
+      ta<lb ed="#P" n="101" break="no"/>men perpetuo durabis igitur. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e369">
+                  <lb ed="#P" n="102"/>¶ Nunc pro conclusionibus probandis primo 
+      suppo<lb ed="#P" n="103" break="no"/>no quod latitudo eligibilitatis in bene esse (qua dicitur latitudo in 
+      <lb ed="#P" n="104"/>tensiua incipiens scilicet a non gradu et procedens versus intensius 
+      <lb ed="#P" n="105"/>bene esse) et alia specie distincta a latitudine eligibilitatis 
+      <lb ed="#P" n="106"/>extensiua vel duratia quae scilicet concipitur penes extensius vel 
+      <lb ed="#P" n="107"/>diuturnius bene esse prime Nam quod concludit plures 
+      perfe<lb ed="#P" n="108" break="no"/>ctiones et maiores hoc est eligibilius primo modo scilicet 
+      latitu<lb ed="#P" n="109" break="no"/>line eligibilitatis intensiue hec ei mensuratur penes boni 
+      <lb ed="#P" n="110"/>tatem perfectionalem intrisecam rei isto modo dicimus quod b 
+      eligi<lb ed="#P" n="111" break="no"/>bile bonum bonitate centum graduum est eligibilius quam c: quod est 
+      <lb ed="#P" n="112"/>ponum praecise bonitate decem graduum equalium decio par 
+      <lb ed="#P" n="113"/>ti bonitatis siue perfectionis in b. Secundo autem modo (scilicet 
+      lati<lb ed="#P" n="114" break="no"/>tudine eligibiliteratis extensiua bene esse. c latitudine 
+      be<lb ed="#P" n="115" break="no"/>ne essendi intensiua per mille dies est eligibilius quam bene esse 
+      <lb ed="#P" n="116"/>eiusdem per eundem latitudinem praecise per diem Qnde hoc modo ali 
+      <lb ed="#P" n="117"/>quid dicitur esse melius vel eligibilius quod est extensius vel 
+      lon<lb ed="#P" n="118" break="no"/>gius durat. probatur suppo sic quia in casusi latitudo eligi. 
+      <lb ed="#P" n="119"/>bilitatis in bene esse intem siua cresceret ininfinitum: non eque 
+      <lb ed="#P" n="120"/>ri posse eligibilitati siue latitudini eligibilitatis 
+      extem<lb ed="#P" n="121" break="no"/>siue: ergo iste latitudines sunt alterius et alterius rationis 
+      <lb ed="#P" n="122"/>omiuntanota: sed antecedens patebit infra. quanda: a angelum 
+      quantum<lb ed="#P" n="123" break="no"/>uis perfectum esse per diem praecise: non videtur tam eligibile quam eligi. 
+      <lb ed="#P" n="124"/>bile est per. animam esse perpetuo. Unde non onem quod plus ponit 
+      <lb ed="#P" n="125"/>de bono est a te magis eligibile. 
+      <!--320.xml-->
+      <pb ed="#P" n="151-r"/>
+                  <lb ed="#P" n="1"/>Secunda suppotio quod hec tria fugibilia puta 
+      pec<lb ed="#P" n="2" break="no"/>care actualiter seu contempnen deum et demereri et iniustum esse non 
+      <lb ed="#P" n="3"/>sunt inter se conuntibila nec vnum conuentibiliter se habet ad alterum 
+      re<lb ed="#P" n="4" break="no"/>liquorum quod patet quia nion onem peccare est demereri vt patet in 
+      damp<lb ed="#P" n="5" break="no"/>natis / nec oe iniustum esse est demereri vel peccare. patet de 
+      <lb ed="#P" n="6"/>dormiente quae tamen est in culpa mortali sed econuerso 
+      omni<lb ed="#P" n="7" break="no"/>qui demeretur peccat et est iniustus vnde iniustum esse est genus ad 
+      <lb ed="#P" n="8"/>reliqua duo et peccare est genus ad demereri Similiter 
+      <lb ed="#P" n="9"/>dico de istis tribus eligibilibus mereri et iuste operari: et 
+      <lb ed="#P" n="10"/>iustum esse: non enim omnis iustus actualiter iuste operatur 
+      <lb ed="#P" n="11"/>quamuis econtra ominis iuste operans sit iusta. Item non omnis 
+      <lb ed="#P" n="12"/>iuste operans meretur saltem de nouo et praemium essentiale 
+      <lb ed="#P" n="13"/>vt patet de btis: quamuis omnis qui meretur operetur 
+      iuste<lb ed="#P" n="14" break="no"/>Ex quo patet quod non eodem modo sed varie dicendum est si fiat 
+      con<lb ed="#P" n="15" break="no"/>paratio inter praedicta fugibilia et eligibilia adiecta si 
+      <lb ed="#P" n="16"/>duratione tpsali vel perpetua compensando etiam intensionem 
+      <lb ed="#P" n="17"/>cum extensione tipsali vel perpetua in casu enim fugibilius est 
+      praec<lb ed="#P" n="18" break="no"/>se per diem demereri et nunquam amplius quam sit fugibile praecise per 
+      <lb ed="#P" n="19"/>diem et non amplius peccare vel iiustum esse vt infra patebit. quia in 
+      <lb ed="#P" n="20"/>casu prim est infinite fugibile et secundum est magius bonum et eligi 
+      <lb ed="#P" n="21"/>bile. quod ipsm sit eligibile. nata hic propositionem sextam praemissam 
+      <lb ed="#P" n="22"/>his suppositis sit hec prima conclusio. 
+      </p>
+               <p xml:id="oooo3o-k92667-d1e477">
+      Uligibi<lb ed="#P" n="23" break="no"/>ius est quantumlicet remisse esse btentum: quam quantunlet intense et 
+      praecis<lb ed="#P" n="24" break="no"/>paetialiter frui deo. probatur perpetuo frui deo quantunlicet 
+      remisse<lb ed="#P" n="25" break="no"/>btinfice est eligibililius: quam in infinitum intense fri: i deo praeci 
+      <lb ed="#P" n="26"/>se ipsaliter. igitur consequentia nota: quia btunm esse estfrui deo perpetuo: 
+      <lb ed="#P" n="27"/>sed antecedens probatur / quia frui deo c. gradum praecise per mille annos 
+      <lb ed="#P" n="28"/>est proportionabile ad quantunliet gradum remissiorem fruitionis 
+      <lb ed="#P" n="29"/>per mille annos: sit ergo d gradus in decuplo remissior quam  
+      <lb ed="#P" n="30"/>et sit c. ita intensus gradus sicut scias numeraliter exprime 
+      <lb ed="#P" n="31"/>re tunc frui deo d gradu per centum milia annorum erit in 
+      de<lb ed="#P" n="32" break="no"/>cuplo eligibilius. quod frui c. praecise per mille annos. ergo 
+      fru<lb ed="#P" n="33" break="no"/>deo perpetuo d gradus est incomperabiliter melius. et sicut 
+      ar<lb ed="#P" n="34" break="no"/>guo de d. ita de quolet remissiori gradu beatifico 
+      ar<lb ed="#P" n="35" break="no"/>guere: quia sua duratio perpetua reddit ips meliorem quam  
+      <lb ed="#P" n="36"/>praecise per mille annos vel quotquod finitos quibus 
+      termi<lb ed="#P" n="37" break="no"/>ietur finaliter fruitio per c iagitur 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e512">
+                  <lb ed="#P" n="38"/>¶ Core. prim tam bona circunstancia est perpetuatio in 
+      <lb ed="#P" n="39"/>bene esse vt reddat in infinitum illud bene esse eligibilius 
+      quol<lb ed="#P" n="40" break="no"/>alio bene esse eiusdem rationis praecise tpsuali et terminando ceris 
+      <lb ed="#P" n="41"/>pibus sola hac circunstancia variata scilicet quod vnum sit 
+      ipsale<lb ed="#P" n="42" break="no"/>reliquum vero perpetuo. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e525">
+                  <lb ed="#P" n="43"/>¶ Secundum corre. licet purum et nudum esse non sit 
+      mu<lb ed="#P" n="44" break="no"/>tum eligibile circumscripto totaliter bene esse (vt in alia quaestio 
+      <lb ed="#P" n="45"/>ne visum est) tamen ipsius esse continuatio cum bene esse coniunctum: est 
+      tam<lb ed="#P" n="46" break="no"/>bona et eligibilis: quod quanto fuerit maior extensiue: tanto 
+      <lb ed="#P" n="47"/>redditur eligibilius sic esse secundum rectam rationem quod patet quia si 
+      <lb ed="#P" n="48"/>gaudere c. gaudio per diet est aliquante eligibilitatis tund 
+      <lb ed="#P" n="49"/>gaudere c. gaudio per duos dies est duple eligibititat 
+      <lb ed="#P" n="50"/>quia duplatur tota ratio eligibilitatis puta ipsa duratio es 
+      <lb ed="#P" n="51"/>iuncta cum bene esse. Non sic autem vbi bene esse praecise duplaret 
+      <lb ed="#P" n="52"/>intensiue vt puta quasi esset duplex gaudium: sed non 
+      du<lb ed="#P" n="53" break="no"/>plex duratio. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e551">
+                  <lb ed="#P" n="54"/>¶ Tertium corre. possibile est sortem recipere 
+      perfectio<lb ed="#P" n="55" break="no"/>rem gratiam vel entitatem benficii a deo in infinitum: quam platit 
+      <lb ed="#P" n="56"/>et tamen ex modo possidendi benficium platonis (quod est minus que 
+      <lb ed="#P" n="57"/>ad essentiam quam benficium sortis) erit incomperabiliter eligibu 
+      <lb ed="#P" n="58"/>lius: quam benficium sortis. patet vbi benficium sortis duraret 
+      <lb ed="#P" n="59"/>per ipsus finitum et benficium platonis minus (eiusd tamen rationis) 
+      <lb ed="#P" n="60"/>puraret per infinitum chripus hoc patet ex conclusione et probatione. 
+      <lb ed="#P" n="61"/>¶ Quartum corre. quod si deus b. angelo daret fruitio 
+      <lb ed="#P" n="62"/>nemn infitam per diem cuius tamen partes equales possent taliter extemdi¬ 
+      <!--320.xml-->
+      <lb ed="#P" n="63"/>adeo quod b. continue esset infite fruens et si tamen ison nisi prae diem sic 
+      <lb ed="#P" n="64"/>esset et c. anima fineretur perpetuo d gradu finito eligibilius 
+      <lb ed="#P" n="65"/>benficium b. habere c. anima quam b angelus. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e582">
+                  <lb ed="#P" n="66"/>¶ Quitum correlarium in infinitum intense quod tamen 
+      ipsta<lb ed="#P" n="67" break="no"/>li temio finiatur frui deo est in infinitum minus eligibile / quam per 
+      <lb ed="#P" n="68"/>dien esse quantumlicetre misse beatus patet ex praedictis Nam sequitur per 
+      <lb ed="#P" n="69"/>dien es beatus ergoperpetuo eris beatus 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e593">
+                  <lb ed="#P" n="70"/>¶ Secunda conclusio in infinitum cruciari solum 
+      ipstali<lb ed="#P" n="71" break="no"/>ter id est dato certo termino quo cruciato fiatur est in infinitum in 
+      <lb ed="#P" n="72"/>mis fugibile quam perpetuo miserum esse misia pene quantuml: 
+      <lb ed="#P" n="73"/>remisse secundum gradum dum modo sit latitudo pene quod sit prerce 
+      <lb ed="#P" n="74"/>ptibiliter afflictiua quia alias patiens nion esset miser. patet 
+      con<lb ed="#P" n="75" break="no"/>clusio ista per eandem rationem per quam probatur conclusio prima: ex 
+      <lb ed="#P" n="76"/>qua similia correlaria poteris inferre scilicet quod perpetuatio 
+      <lb ed="#P" n="77"/>reddit cruciatum tantum fugibilem: quod nullus cruciatos praecise 
+      <lb ed="#P" n="78"/>paimalis quantumlicet intensus erit tam fugibilis ceris peribus. Item 
+      <lb ed="#P" n="79"/>quod possibile est sortem minus male esse per penam infinite 
+      inten<lb ed="#P" n="80" break="no"/>sam quam male esset platoni per cruciatum quantumlicet remissum: patet 
+      <lb ed="#P" n="81"/>vbi cruciato platonis esset perpetuis et sortis praecise 
+      tpa<lb ed="#P" n="82" break="no"/>lis et finem habens. etc. sicut prius de eligibili dictu fuit. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e625">
+                  <lb ed="#P" n="83"/>¶ Tertia conclusio probabis Nullum praecise crataliter 
+      <lb ed="#P" n="84"/>efinito tipse iniustum esse est tantum fugile quantum est fugibile 
+      perpe<lb ed="#P" n="85" break="no"/>tuo cruciari gradum equali cum iuda subductio totaliter 
+      <lb ed="#P" n="86"/>bono commodi supponita perpetuatione creatre in vtroque 
+      ca<lb ed="#P" n="87" break="no"/>su: cum hoc tamen stat quod si quis cogeretur committere a 
+      culpan<lb ed="#P" n="88" break="no"/>tipsualem aut perpetuum cruciatum perpetuum. deret potius 
+      fuge<lb ed="#P" n="89" break="no"/>re a culpam percise tipsalem incidere: quam perpetuo cruciari sid 
+      <lb ed="#P" n="90"/>culpa et ratio est quia ex ipso quo quis in culpam incidit mortalem 
+      <lb ed="#P" n="91"/>meretur perpetuari in culpa ista. Item quia nullus dent peccare 
+      <lb ed="#P" n="92"/>etiam sub spe refurgendi: quia secundum apostolum non sunt facienda 
+      <lb ed="#P" n="93"/>mala vt eueniant bona. Ideo quamuis eligibilius esset per 
+      tem<lb ed="#P" n="94" break="no"/>pus finitum esse iniustum et post perpetuum iustum esse (quod 
+      conclu<lb ed="#P" n="95" break="no"/>sio iam dicta comprehendit quia in toto sic est magius est de eligibi 
+      <lb ed="#P" n="96"/>li quam de fugibili / eligibilius enim est perpetuo iustum esse quam 
+      <lb ed="#P" n="97"/>fuisse in culpa praerita sit fugibile ergo hoc totum sili non est tantum 
+      <lb ed="#P" n="98"/>fugibile quantum perpetuo cruciari e fugibile) tamen plus tenetur 
+      <lb ed="#P" n="99"/>vitare culpam etiam per instans duraturam: quam eternum crucia 
+      <lb ed="#P" n="100"/>um absque culpa propter causam dictam. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e667">
+                  <lb ed="#P" n="101"/>¶ Ex quo patet quod non sper illud quo perpetuo esset 
+      <lb ed="#P" n="102"/>tibi melius est praeligendum illi quod est tibi habitum perpetuo penis. 
+      <lb ed="#P" n="103"/>nota quod in conclusione hoc totum scilicet me iniustum esse mortaliter 
+      <lb ed="#P" n="104"/>raecise per diem vel per aliud thripsus finitum capitur pro obiecto in 
+      <lb ed="#P" n="105"/>quo claudtur me perpetuo carere iniusticia mortali post 
+      <lb ed="#P" n="106"/>diem vel aliud ipss finitum ratione huius sequele vel annexi seu 
+      <lb ed="#P" n="107"/>impliciti hoc totum non viditur magne fugibilitatis. Sic ergo 
+      <lb ed="#P" n="108"/>pclusione intellecta probatur sic Si conclusio non foret vera 
+      se<lb ed="#P" n="109" break="no"/>quatetur quod toto stato bti petri esset fugibilior quam foret statuo 
+      <lb ed="#P" n="110"/>cruciati perpetuo sane culpa quod est absurdum et consequentia patet quia 
+      <lb ed="#P" n="111"/>stato petri totalis in casu conclusionis includit petrum per 
+      <lb ed="#P" n="112"/>tripstus fuisse iniustum et ips perpetuo iniusticia carere. Secundo 
+      <lb ed="#P" n="113"/>sit hoc totum praecisetpraeore finito iniustum esse ad intellectum 
+      con<lb ed="#P" n="114" break="no"/>clusionis b. et perpetuo cruciari sane culpa sit c. tunc sic qui 
+      <lb ed="#P" n="115"/>libet habens b. est predestinatus et non prestitus 
+      se<lb ed="#P" n="116" break="no"/>cundum leges statutas: et nulli dubium quin esse praede 
+      <lb ed="#P" n="117"/>stinatum sit eligibile ergo Non tamen dico qui in b sit aliquid fugi 
+      <lb ed="#P" n="118"/>bile quia hominem praedestinatum esse per diem in culpa est sibi electo 
+      <lb ed="#P" n="119"/>fugibile eo quod pro tunc non edificat ad latitudinem iusticie 
+      <lb ed="#P" n="120"/>Tertio ideo ratio recta indicat c. fugibilius quam b. quia 
+      appre<lb ed="#P" n="121" break="no"/>dendit b. quasi cum indiuisibili vel puctali malicia rei 
+      <lb ed="#P" n="122"/>pectu infinite extensionis bene esse consequentes. et ideo non 
+      comprehen<lb ed="#P" n="123" break="no"/>dit ibi sufficientem rationem fugibilitatis maioris quam in 
+      c<lb ed="#P" n="124" break="no"/>¶Quarta conclusio aliquod demereri praecise ipsa 
+      <!--321.xml-->
+      <pb ed="#P" n="151-v"/>
+                  <lb ed="#P" n="1"/>liter est magis fugibile quam perpetuo cruciatri sine 
+      culpa<lb ed="#P" n="2" break="no"/>patet de demerito luciferi herodis / et neronis et si milium 
+      <lb ed="#P" n="3"/>reproborum quorum demereri iungitur cum morte 
+      obstina<lb ed="#P" n="4" break="no"/>tionis in culpa. quae est mors pessima de qua in psalmo 
+      <lb ed="#P" n="5"/>mors peccatorum pessima et de maximo gratioe fugibilium Et 
+      <lb ed="#P" n="6"/>hic patet illud quod dictum est in secunda suppositione videlicet 
+      <lb ed="#P" n="7"/>quod non idem est conuertibiliter deriereri et iniustum esse. quia 
+      pe<lb ed="#P" n="8" break="no"/>terciam conclusionem nullum praecise tipsalitter per diem iniustum esse: 
+      <lb ed="#P" n="9"/>est tam fugibile sicut perpetuo cruciari. et per quartam hic 
+      <lb ed="#P" n="10"/>positam aliquod praecise per diem demereri est fugibilius: quam cru 
+      <lb ed="#P" n="11"/>ciari perpetuo. igitur. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e750">
+                  <lb ed="#P" n="12"/>¶ Ex quo vl terius infertur quod nullum praecise per 
+      dien<lb ed="#P" n="13" break="no"/>et numque amplius iniustum esse: est tam fugibile sicut aliquod praecise per 
+      <lb ed="#P" n="14"/>dien demereri et numquam amplius: est fugibile et ideo 
+      cessatio<lb ed="#P" n="15" break="no"/>spei non est cessatio grsnteis quia non quilitet cessans demereri 
+      ces<lb ed="#P" n="16" break="no"/>sat peccare nec quilet cessans demereri cessat iniustus esse
+    </p>
+               <p xml:id="oooo3o-k92667-d1e763">
+                  <lb ed="#P" n="17"/>¶ Quita conclusio cuilet creatura perpetuende est 
+      <lb ed="#P" n="18"/>quelet latitudo diuini contemptus etiam momentanea 
+      infi<lb ed="#P" n="19" break="no"/>nite magis fugibilis: quam praecise per annum iniustam esse 
+      mor<lb ed="#P" n="20" break="no"/>taliter probatur quandam quaelicet latitudo contemptus quantumcumque 
+      bre<lb ed="#P" n="21" break="no"/>uis durationis reddit contemptorem dignum perpetuo esse 
+      <lb ed="#P" n="22"/>iiustum perpetuo et cruciatu: nec reddit dignum vt aliquando 
+      <lb ed="#P" n="23"/>resurgat: nec in taliter esse (quod est praecise per momentum 
+      con<lb ed="#P" n="24" break="no"/>tempnere quandoque includiter quod contemptor resurgat licet enim tantum per 
+      <lb ed="#P" n="25"/>momentum actualiter contempnat: tamen postea remam et iniustus habi 
+      <lb ed="#P" n="26"/>tualiter iniusticia mortali iperpetuum nisi deus conuertat ipsm 
+      <lb ed="#P" n="27"/>contemptorem. et in taliter esse (de quo dictum est in tercia 
+      con<lb ed="#P" n="28" break="no"/>clusione) includitur optimum eligibile. ergo. conclusio patet pro 
+      <lb ed="#P" n="29"/>babilis. nichil tamen assero hic. sed valeat quantum potest. 
+      <lb ed="#P" n="30"/>¶ Confirmatur tamen praesens conclusio per conclusionem terciam sic 
+      <lb ed="#P" n="31"/>nullum iniustum esse per diem percise vel per annum / est fugibilius 
+      <lb ed="#P" n="32"/>vel tantum fugibile sicut perpetuo sin culpa cruciari. et quaeltua 
+      <lb ed="#P" n="33"/>actualis contemptus (etiam momentaneus) est fugibilior 
+      <lb ed="#P" n="34"/>quantolicet eterno cucia tu subducta culpa. ergo maior est 
+      con<lb ed="#P" n="35" break="no"/>clusio tertia et minor patet per predicta. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e807">
+                  <lb ed="#P" n="36"/>¶ Sexta conclusio quodlem iniustum esse per dien est 
+      fu<lb ed="#P" n="37" break="no"/>gibilius quam iniustum praecise esse per annum ad sensum tertie conclusio 
+      <lb ed="#P" n="38"/>nis. et capio iniustum esse per diem absolute non vt sit pars illi 
+      <lb ed="#P" n="39"/>quaidam est iniustum esse per annum: praecise ita quod dies qui ponitur in 
+      pri<lb ed="#P" n="40" break="no"/>mo extremo non computetur inter dies anni per quos praecise 
+      <lb ed="#P" n="41"/>etc. probatur sic ad iiustum esse per diem non sequitur iustum esse 
+      per<lb ed="#P" n="42" break="no"/>petuo: nec clauditur in eo sed ad iniustum esse praecise per annum 
+      <lb ed="#P" n="43"/>sequitur iustum esse perpetuo et clauditur eo supposita 
+      perpetui<lb ed="#P" n="44" break="no"/>tate persone quod semper in simili dicto praesuppono vel 
+      pre<lb ed="#P" n="45" break="no"/>supponi debet. Potest etiam confirmari hec conclusio per 
+      <lb ed="#P" n="46"/>rationes conclusionis praecedentis immediate. Quod vero dix 
+      <lb ed="#P" n="47"/>infinite fugibilius etc. patet esse verum quia iniustum esse per medict 
+      <lb ed="#P" n="48"/>tatem diei est fugibilius quam iniustum esse praecise per annum et per 
+      quat<lb ed="#P" n="49" break="no"/>tam partem dici et sic in infinitum similiter est fugibilius quam iniustum esse 
+      <lb ed="#P" n="50"/>recise per annum. et quam praecise per duos annos. et quae praecise per 
+      <lb ed="#P" n="51"/>quattuor. et sic in infinitum. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e844">
+                  <lb ed="#P" n="52"/>¶ Septia conclusio tantum probabilis Quodle 
+      <lb ed="#P" n="53"/>mereri de praemio btifico est tibi eligibilius quam te frui deo 
+      <lb ed="#P" n="54"/>praecise per dien probatur quia per taliter mereri acquiritur de lege 
+      <lb ed="#P" n="55"/>communi praemium quod est infinite melius tibi et eligibilius quam te praecise 
+      <lb ed="#P" n="56"/>per diem frui deo vt patet in pri. conclu. principali huius articul 
+      <lb ed="#P" n="57"/>Sed diceres contra: quia in a mereri sunt infinite partes 
+      <lb ed="#P" n="58"/>proportionabiles quarum qualet quoddam mereri: si ergo quaecet 
+      <lb ed="#P" n="59"/>latitudo meriti ipsius a sit eligibilior: quam te frui deo 
+      prae<lb ed="#P" n="60" break="no"/>cise per diem: ergo totum a est eligibilius quam te frui de per 
+      infini<lb ed="#P" n="61" break="no"/>tas dies (quod est perpetuum et beatum esse) consequens est falsum ergo 
+      <lb ed="#P" n="62"/>Responsio concedo quod in a sunt infinite partes proportiona¬ 
+      <!--321.xml-->
+      <lb ed="#P" n="63"/>biles quarum qualcet est eligibiliorquam per diemt praecise te frui deo 
+      <lb ed="#P" n="64"/>sic quod vlterius non fruaris sed nego consequentiam ergo totum a est 
+      <lb ed="#P" n="65"/>eligibilius quam frui deo per infinitos dies. Ratio est quia 
+      <lb ed="#P" n="66"/>antecedens ideo verum quia in sic esse (quod est deo frui praecise per diem 
+      <lb ed="#P" n="67"/>includitur perpetua privatio fruitionis et ido modicam 
+      habe<lb ed="#P" n="68" break="no"/>eligibilitatem respectu praemii beatifice. sed infiniti dies 
+      <lb ed="#P" n="69"/>hoc excludunt puta privari perpetua fruitione ergo. Sed 
+      con<lb ed="#P" n="70" break="no"/>tra quia prima pars a est melior quam praecise te frui deo per 
+      dien<lb ed="#P" n="71" break="no"/>ergo totum a est melius quam te frui praecise per duos dies et quam 
+      <lb ed="#P" n="72"/>frui per tres et sic a infinitis. ergo melius quante frui 
+      perpe<lb ed="#P" n="73" break="no"/>tuo. quod fuit probandum. Responsio concedo antecedens et quamlicet 
+      <lb ed="#P" n="74"/>partem ipsius suppono ei quod pro a dabitur latitudo beitudi 
+      <lb ed="#P" n="75"/>nis quae habet infinitas partes itesiuas perpetuas quarum qualiet 
+      <lb ed="#P" n="76"/>est melior quantalet finita duratione fruitionis sed 
+      ne<lb ed="#P" n="77" break="no"/>go consequentiam ergo melius quam perpetuo. Sic ei hec consequentia 
+      si<lb ed="#P" n="78" break="no"/>milis non valet ininfinitum potest a durare praecise ipraliter non 
+      <lb ed="#P" n="79"/>perpetualiter essendo. ergo potest per infinitos dies vel 
+      per<lb ed="#P" n="80" break="no"/>petuo esse non in perpetuum vel non perpetualiter. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e912">
+                  <lb ed="#P" n="81"/>¶ Conclusio octaua nullum iustum esse precise per 
+      <lb ed="#P" n="82"/>diem est tam eligibile rationali creature perpetuande: sicut 
+      <lb ed="#P" n="83"/>perpetuum bene esse bono commodi subducto totaliter 
+      <lb ed="#P" n="84"/>liusto esse est eligibile. patet quia praemium claudit cadere a 
+      iu<lb ed="#P" n="85" break="no"/>stitia et perpetuo carere ea: secundum vero hoc non 
+      clau<lb ed="#P" n="86" break="no"/>dit: et illud inclusum est ininfinitum peius quam iustum esse prae 
+      <lb ed="#P" n="87"/>cise per diem et vlterius numquam sit bonum. Confirmatio quia 
+      <lb ed="#P" n="88"/>ecedens primum perpetuo erit miser miseria iniustitie et dignus 
+      <lb ed="#P" n="89"/>opetuo cruciatu. ergo hoc est infinite peius: quam bonum sit 
+      ha<lb ed="#P" n="90" break="no"/>huisse iustitiam percise per die. et tamen secundum includit 
+      latitudi<lb ed="#P" n="91" break="no"/>nem infinitam de bn esse tali scilicet in specie bene esse commodoi licet 
+      <lb ed="#P" n="92"/>non simpliciter 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e941">
+                  <lb ed="#P" n="93"/>¶ Nona conclusio tantum probabilis nullum sic esse 
+      <lb ed="#P" n="94"/>quod est creatram perpetuendam frui deo praecise per dien est tam eligi. 
+      <lb ed="#P" n="95"/>gile quam fugibile est perpetuo cruciari subducto vtrobique 
+      <lb ed="#P" n="96"/>tot aliter ilusto esse probatur sic quia nullum sic esse etc. est pars ibes 
+      <lb ed="#P" n="97"/>titudins et concernit perpetuam privationem fruitionis in 
+      perso<lb ed="#P" n="98" break="no"/>na privata sed perpetuum cruciari infinitum malum incommodi: 
+      <lb ed="#P" n="99"/>rimfinite extensionis malum quo caretr est eligibilius quam sit / 
+      e<lb ed="#P" n="100" break="no"/>ligibile praecise per diem frui deo et non amplius. Unde non tam 
+      <lb ed="#P" n="101"/>bene esset tibi per diem istam et perpetuam priuatioem illius bene esse sicut 
+      <lb ed="#P" n="102"/>male esset tibi per cruciatum perpetuum dato quod vtrobique 
+      <lb ed="#P" n="103"/>non esset culpa ergo.  
+    </p>
+               <p xml:id="oooo3o-k92667-d1e967">
+                  <lb ed="#P" n="104"/>¶ Sed contra conclusionem istam arguo sic si esset 
+      a<lb ed="#P" n="105" break="no"/>vnum perpetuum bene esse bono commodi praecise: quod esset ita 
+      bo<lb ed="#P" n="106" break="no"/>rum vel melius sic perpetuo cruciari: sine culpa quod sit b 
+      <lb ed="#P" n="107"/>est malum: tunc quicquid esset eligibilius quam a illud esset 
+      eligi<lb ed="#P" n="108" break="no"/>bilius quod b esset fugibile. hoc patet: sed potest dari tale bene 
+      <lb ed="#P" n="109"/>esse: puta frui deo praecise per diem et non vlterius quod sit d hoc 
+      <lb ed="#P" n="110"/>ei bene esse est eligibilius quam b sit fugibile quod est 
+      op<lb ed="#P" n="111" break="no"/>positum conclusionis. Sed quod hoc scilicet d sit eligibilius quam a pro 
+      <lb ed="#P" n="112"/>po per aug. 3 de libero ar. ca. 56. vbi alegando illud 
+      <lb ed="#P" n="113"/>psalmiste melior est dies vna in atriis super milia: sic 
+      di<lb ed="#P" n="114" break="no"/>cit tanta est plenitudo iustitie tanta iocunditas lucis 
+      eter<lb ed="#P" n="115" break="no"/>ne vt si in ea non nisi per diem tantum quis esset: seu pro vnius dei 
+      <lb ed="#P" n="116"/>antum fruitione eiusdem contemnanda esset innumerabilium an 
+      <lb ed="#P" n="117"/>iorum huius vite: omnim delictarum et bonorum taperalium 
+      afflu<lb ed="#P" n="118" break="no"/>intia. Ex hac sententia sequitur quod d est eligibilius a quia 
+      <lb ed="#P" n="119"/>a tantum claudit innumerabilium annorum affluentiam 
+      bono<lb ed="#P" n="120" break="no"/>rum tperalium. Secundo si tu haberes a et postea tum haberes 
+      <lb ed="#P" n="121"/>b. tunc semper esses creatura iusta nec b pena esset tibi 
+      <lb ed="#P" n="122"/>punitio: nec propire secundum rectam rationem fugibilis: eo quod 
+      <lb ed="#P" n="123"/>olum esset ex placito diuino sed per d esset tibi 
+      aliquam<lb ed="#P" n="124" break="no"/>diu summe bene cuius summe bene esse menoria sper 
+      es<lb ed="#P" n="125" break="no"/>sedt tibi delectabilis: quiaex culpa non careres. Exemplum 
+      <!--322.xml-->
+      <pb ed="#P" n="152-r"/>
+                  <lb ed="#P" n="1"/>est de paulo in raptu) cum ergo perpetua carentia annexa 
+      <lb ed="#P" n="2"/>cum d. non sit penalis nec fugibilis ex quo non habet 
+      la<lb ed="#P" n="3" break="no"/>titudinem indignitatis habendi fruitionem: et per diem videre 
+      <lb ed="#P" n="4"/>deum ac voluptosissia iusticia delectari / sit aliquam te 
+      eli<lb ed="#P" n="5" break="no"/>gibilitatis cui non equantur alia delectabilia: sequitur quod 
+      <lb ed="#P" n="6"/>d. plus habet de eligibili quam b. de fugibili: et per consequens de est eli 
+      <lb ed="#P" n="7"/>bilius quam b. sit fugibile quod est contra conclusionem. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1037">
+                  <lb ed="#P" n="8"/>¶ Ad primum suppono quod per . b. penam intelligas 
+      <lb ed="#P" n="9"/>cruciare igne. sicut cruciatur dampnatus aut etiam sicut 
+      <lb ed="#P" n="10"/>qua in purgatorio cruciatur. Et tunc propter solutionem ratio 
+      <lb ed="#P" n="11"/>nis dico propositiones. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1048">
+                  <lb ed="#P" n="12"/>¶ Prima quod b. est multo maior pena per horam quam 
+      <lb ed="#P" n="13"/>aliquod tormentum huius vite vnquam fuit in martiribus patet per 
+      au<lb ed="#P" n="14" break="no"/>super. psal. 36. Grauior est (inquit) ignis purgatorii quam quic 
+      <lb ed="#P" n="15"/>quid potest homo in hac vita. et allegat magitur libro. 4 di. 22. 
+      <lb ed="#P" n="16"/>Secunda propitio nulla de rebus creatis delecta 
+      <lb ed="#P" n="17"/>tio (id i citra delectationem de deo) quantuncunque magne 
+      <lb ed="#P" n="18"/>latitudinis intensimue quae sit ac. est ita eligibilis per diem sicul 
+      <lb ed="#P" n="19"/>cruciato inferni vel purgatorii (qui sit. b) est fugibilis 
+      <lb ed="#P" n="20"/>Probatur primo sic quia per delectationem a. diurnam non ita 
+      <lb ed="#P" n="21"/>intenditur natralis quies anime nec ita melioratur stratus 
+      <lb ed="#P" n="22"/>eius quo ad bene sicut per b destituitur quies nateraleus molestatur 
+      <lb ed="#P" n="23"/>et detioratur etiam si b sit diurnus cruciato et equalis 
+      lati<lb ed="#P" n="24" break="no"/>tudis cum a in sua specie ita quod b sit ita intenso cruciatus sicut 
+      <lb ed="#P" n="25"/>a. est delectatio. hoc experiuntur in nobis ipsiis. plus 
+      <lb ed="#P" n="26"/>etiam alteratur et afficitur corpus hominis ex vehementi 
+      tri<lb ed="#P" n="27" break="no"/>sticia anime quam reficiatur ex equali leticia et multo amplius 
+      <lb ed="#P" n="28"/>ex egritudine diurna / quam ex totius anni sospitate 
+      va<lb ed="#P" n="29" break="no"/>lida Item bestie plus horrent et timent tristicias quam ali 
+      <lb ed="#P" n="30"/>ciantur per equales delectationes. Secundo probatur sic 
+      lap<lb ed="#P" n="31" break="no"/>sus hpipsis est multo perceptibilior in cruciatu: quam in dele 
+      <lb ed="#P" n="32"/>ctatione et quanto delectatio est intensior: tanto minus 
+      <lb ed="#P" n="33"/>perceptibiliter tipsus transit: et videtur mora breuior: et 
+      econ<lb ed="#P" n="34" break="no"/>tra: quanto penosior est cruciato: tanto mora thpnoris 
+      ve<lb ed="#P" n="35" break="no"/>detur prolixior et tardior et magis praecipitur successio tipso 
+      <lb ed="#P" n="36"/>ris quasisit lenta et tarda: cum ergo bene esse et male esse 
+      <lb ed="#P" n="37"/>in comparatione attendatur penes esse praeceptum: id circo si 
+      <lb ed="#P" n="38"/>delectatio a. et b. cruciato debeant adequari: non 
+      solun<lb ed="#P" n="39" break="no"/>b. excedit a. quia fortius mouet dolor quam delectatio / sed 
+      <lb ed="#P" n="40"/>quia etiam prolix ius praeciditur labi duratio per b. quam per a. in 
+      <lb ed="#P" n="41"/>tantum quod quattuorore de delectatione / non equiualent vni 
+      <lb ed="#P" n="42"/>hore decruciatu quo ad percipi / et hoc tam in mora quam 
+      <lb ed="#P" n="43"/>in acutie lesionis et ademptionis quietis et bene esse. Tertio 
+      <lb ed="#P" n="44"/>patet idem quia si mile partes corporis sunt quibus anima 
+      dele<lb ed="#P" n="45" break="no"/>lectatur viuat et operatur: et nulleua sit qua cruciatur (vt in 
+      <lb ed="#P" n="46"/>vno dente) praeualet dolor vti bene esse residuo / et plus est 
+      <lb ed="#P" n="47"/>de fugibili quam de eligibili et prouide status ille totos fugi. 
+      <lb ed="#P" n="48"/>bilis est. Per hoc ad formam dico quod nullum c. est 
+      tan<lb ed="#P" n="49" break="no"/>eligibile sicut b. est fugibile nec esse potest: quia ex quo b. 
+      <lb ed="#P" n="50"/>est perpetuum non potest dari millecuplunc. nec quantumlicet multum 
+      <lb ed="#P" n="51"/>plicatum quodc. equatur fugibilitati b. pene perpetue licet 
+      <lb ed="#P" n="52"/>b. diurnum praecise possit forte recompensari perc. aliquotiens 
+      <lb ed="#P" n="53"/>milistiplicatum extensiue. vnde hic dico tres propositiones. Prima 
+      <lb ed="#P" n="54"/>stato perpetuis in altatione dierum tali modo quod vno die esses 
+      <lb ed="#P" n="55"/>et gaudo fruitionis et reliquo in penss inferni: non est 
+      eligibi<lb ed="#P" n="56" break="no"/>lis sed magis fugibilus. Secunda propoti stato perpetuus compositus 
+      <lb ed="#P" n="57"/>ex gaudio fruitionis et cruciatu equali cum cruciatu amen 
+      <lb ed="#P" n="58"/>non est eligibilis quo ad esse commodi sed potius fugibilis. 
+      <lb ed="#P" n="59"/>Tertia propotistatos perpetuus cum priuatione vtriusque praedictorum 
+      <lb ed="#P" n="60"/>subducta iniusticia est eligibilior vel minus fugibilis 
+      <lb ed="#P" n="61"/>quolicet praedictorum duorum statuum. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1159">
+                  <lb ed="#P" n="62"/>¶ Ad secundum patet quod si fiat comparatio inter a. et b 
+      <!--322.xml-->
+      <lb ed="#P" n="63"/>quo ad esse commodi vel delectabilis: vel quo ad esse 
+      in<lb ed="#P" n="64" break="no"/>commodi vel tristabilus subductio esse culpe et a est tpsale b 
+      <lb ed="#P" n="65"/>vro perpetum tunc compositum est magis fugibile quam eligibile 
+      <lb ed="#P" n="66"/>vt patet per propositiones iam dictas et sic sufficiant hec pro articlo 
+      <lb ed="#P" n="67"/>rexxOr 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k92667-Dd1e1178">
+               <head xml:id="oooo3o-k92667-Hd1e1180">Articulus 2</head>
+               <p xml:id="oooo3o-k92667-d1e1182">
+                  <lb ed="#P" n="68"/>DE secundo articulo quibus 
+      mo<lb ed="#P" n="69" break="no"/>dis scilicet deus praemiat vltra condignum 
+      <lb ed="#P" n="70"/>Sit hec distinctio quod deum 
+      pro<lb ed="#P" n="71" break="no"/>miare ad condignum potest dupliciter 
+      <lb ed="#P" n="72"/>intelligi. vnomodo stricte et proprie: et 
+      <lb ed="#P" n="73"/>sic deum esse praemiatorem ad condignum est 
+      <lb ed="#P" n="74"/>ex valore operis seu meriti viribus 
+      <lb ed="#P" n="75"/>vel virtuti vel labori merentis vel 
+      <lb ed="#P" n="76"/>operantis primcipaliter imputandi deum obligari ad redden 
+      <lb ed="#P" n="77"/>dum equiualens de mercede / secundum proportionem 
+      equalita<lb ed="#P" n="78" break="no"/>tis quae est medium iusticie distributiue. Alio modo improprie 
+      <lb ed="#P" n="79"/>dicitur praemiator excondigno ille qua ex propria bonitate efficiente 
+      <lb ed="#P" n="80"/>et gratuite promittente ita ordinat vt pro valore operis pro 
+      <lb ed="#P" n="81"/>portionabiliter (quod tamen opus est donu ipsius scilicet praemian 
+      <lb ed="#P" n="82"/>tis vel praemiatoris) ipsi operanti (qui ex debito operari 
+      te<lb ed="#P" n="83" break="no"/>ietur) vlterius praemium debeat cundonari: et sic esset deus 
+      <lb ed="#P" n="84"/>praemiator ex promisso suo / quia verax est et seipsum negare non 
+      <lb ed="#P" n="85"/>potest cum sit iusticia bonitatis infinite. ergo cum deus ex infini 
+      <lb ed="#P" n="86"/>ta bonitate vult a opis imputari homin / vult se esse 
+      debi<lb ed="#P" n="87" break="no"/>torem vlterioris mercedis et voluntas eius seu velle eius 
+      <lb ed="#P" n="88"/>non potest non esse iusticia: ideo iusticie conuenit vt reddat 
+      <lb ed="#P" n="89"/>mercedem operanti et hoc proprie vocatur debitum ex 
+      congruo<lb ed="#P" n="90" break="no"/>vel ex gratuito vel ex promisso vt dictum est: 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1234">
+                  <lb ed="#P" n="91"/>¶ Prima conclusio cum deus dat se beatificantem non 
+      <lb ed="#P" n="92"/>praemiat ad condignum primo modo dicte distinctionis. patet quia 
+      va<lb ed="#P" n="93" break="no"/>lor meriti non equalet tante mercedi: nec meritum pro 
+      <lb ed="#P" n="94"/>priis viribus ipsius merentis primcipaliter attribuitur nec 
+      <lb ed="#P" n="95"/>deus alicui obligatur sed omnia econuerso debent esse vbi fieret 
+      <lb ed="#P" n="96"/>praemiatio dicto modo condigna. vt patet ex prima parte 
+      distinctio<lb ed="#P" n="97" break="no"/>nis. ergo conclusio vera. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1252">
+                  <lb ed="#P" n="98"/>¶ Secunda conclusio aliquod esse potest tanti valoris  
+      <lb ed="#P" n="99"/>meritum quod impossibile est ips permiari ad condignum capiendo 
+      <lb ed="#P" n="100"/>praemi ari ad condignum. primo modo probatur de sufferentia 
+      mar<lb ed="#P" n="101" break="no"/>tirii propter christum quod est meritum tanti valoris quod non potest a deo 
+      <lb ed="#P" n="102"/>praemiari de condiguo primo modo. vt patet per praecedentem conclusio 
+      <lb ed="#P" n="103"/>nem quia isto modo (scilicet stricte et proprie loquendo de condigno) 
+      <lb ed="#P" n="104"/>deus nullum potest praemiare ex condigno: sed nec aliqua 
+      crea<lb ed="#P" n="105" break="no"/>tura potest exhibem condignum praemium pro actu martirii quia omnem 
+      <lb ed="#P" n="106"/>pabile a creatura est vilius et despiciendum respectu valoris  
+      <lb ed="#P" n="107"/>nartirii ergo. hic nota quod opera quedam sunt quorum 
+      va<lb ed="#P" n="108" break="no"/>lor excedit omne quod a creatura dari potest cuiusmoni est 
+      mari<lb ed="#P" n="109" break="no"/>rium et forte quodlicet opus stricte meritorium scilicet pro quo dabitur 
+      <lb ed="#P" n="110"/>certa latitudo praemi eterni. Qued vro sunt quorum valor 
+      <lb ed="#P" n="111"/>one a creatura dabile non excedit cuiusmoni sunt opera bon¬a 
+      <lb ed="#P" n="112"/>de griastie non meritoria: quae deus nion praemiat eterno praemio melio 
+      <lb ed="#P" n="113"/>re loquendo ergo de operibus praemii gnis (scaietde illis quorum 
+      va<lb ed="#P" n="114" break="no"/>lor oe a creatura dabile) excedit: et de praemiari ex condi 
+      <lb ed="#P" n="115"/>gno secundo modo praemisse diuisionis: 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1294">
+                  <lb ed="#P" n="116"/>¶ Pono tertiam conclusionem et deus quelicet electum 
+      <lb ed="#P" n="117"/>prmiat in via vltra condignum probatur: sit a meritum tuum (quod tamen 
+      <lb ed="#P" n="118"/>e donum dei et tibi gratis imputatum) quo facto es bonus a 
+      <lb ed="#P" n="119"/>deo gratis: tunc sic pro a melioraris aliqua latitudine 
+      me<lb ed="#P" n="120" break="no"/>liorationis (qua sit b) quae est melior tibi quam sit a. ergo pro a. 
+      pre<lb ed="#P" n="121" break="no"/>miaris vltra condignum. consequentia tenet ex duobus quorum prim 
+      <lb ed="#P" n="122"/>est quia ex a. melioraris per totam latitudinem eius: ideo tibi nn 
+      <lb ed="#P" n="123"/>debetur vltior praemiatio quandam non a te ipso sed a do meliora 
+      <lb ed="#P" n="124"/>ris. Secundum est quia si b est melius quam a. et deus dat b. patet quod est 
+      <lb ed="#P" n="125"/>vltra condignum praemians ergo consequentia fuit bona. sed nunc 
+      <!--323.xml-->
+      <pb ed="#P" n="152-v"/>
+                  <lb ed="#P" n="1"/>probo antecedens per a. deus dat gratie latitudinem qua 
+      for<lb ed="#P" n="2" break="no"/>maliter et deo assistente specialiter et agente: tu efficie 
+      <lb ed="#P" n="3"/>ris perfectiori modo inherens deo pro b. et perfectiori 
+      iu<lb ed="#P" n="4" break="no"/>sticia iustus: quam per a. et per b. efficieris potens ad 
+      perfe<lb ed="#P" n="5" break="no"/>ctius meritum / et dignus ad melius praemium ergo antecedens verum
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1334">
+                  <lb ed="#P" n="6"/>¶ Quarta conclusio deus quemlet electum premiat 
+      <lb ed="#P" n="7"/>in patria vltra condignum. probatur quia ibi reddittur 
+      no<lb ed="#P" n="8" break="no"/>bis corona iusticie / qua perfecte diligemus deum ex 
+      toto<lb ed="#P" n="9" break="no"/>corde id est quia implebimus totam legem: et respectu talis 
+      <lb ed="#P" n="10"/>iusticie anima beata erit partiale eliciens et hec iusticia 
+      <lb ed="#P" n="11"/>non est iusticie vie de proxio comparabilis: sicut bene probat 
+      <lb ed="#P" n="12"/>Augu. circa finem libelli de spiritu et littera ad 
+      mar<lb ed="#P" n="13" break="no"/>cellinum. Item ibi erit praemi atrix iusticia reddita non .a. 
+      <lb ed="#P" n="14"/>nobis elicita sed a. sola de causata et consequenter a voluntate 
+      <lb ed="#P" n="15"/>nostra cum aliis concausis partialiter conseruata quae erit 
+      <lb ed="#P" n="16"/>habitus alterius speti a iusticia praedicta Et ideo 
+      multi<lb ed="#P" n="17" break="no"/>pliciter vltra condignum ibi deus praemiat. Item ibi eritact 
+      <lb ed="#P" n="18"/>duplex dilectionis dei: scilicet secundum charitatem quam ex 
+      via<lb ed="#P" n="19" break="no"/>reportauit et secundum charitatem alterius spei et quiliet istorum 
+      <lb ed="#P" n="20"/>actuum erit delectabilissim gaudium de deo infinite bono 
+      <lb ed="#P" n="21"/>sed impossibile est aliquod meritum vie ad taliter bene esse 
+      for<lb ed="#P" n="22" break="no"/>maliter perficere suam causationem: igitur. etc. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k92667-Dd1e1374">
+               <head xml:id="oooo3o-k92667-Hd1e1376">Articulus 3</head>
+               <p xml:id="oooo3o-k92667-d1e1378">
+                  <lb ed="#P" n="23"/>¶ Mo tertio articulo quaestionis 
+      <lb ed="#P" n="24"/>sit quinta conclusio. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1385">
+                  <lb ed="#P" n="25"/>¶ Deus improportionabiliter 
+      <lb ed="#P" n="26"/>praemiat vltra condignum. probatur quia pro 
+      <lb ed="#P" n="27"/>merito fidei dat optimam visionem 
+      <lb ed="#P" n="28"/>eterne veritatis / quae sufficit redde 
+      <lb ed="#P" n="29"/>re creaturam perfecte sapientem: sed 
+      <lb ed="#P" n="30"/>actus fidei non potest proportionari 
+      <lb ed="#P" n="31"/>nec in bonitate nec in claritate nec in delec tatione 
+      <lb ed="#P" n="32"/>cum dicta visione. Item secundo dat pro momenta nes 
+      <lb ed="#P" n="33"/>dilectione contingenter elicita confirmatam et indeficiem 
+      <lb ed="#P" n="34"/>tem charitatem quae sunt improportionabilia secundum 
+      <lb ed="#P" n="35"/>esse eligibile Item dat tertio pro amore inhiante 
+      con<lb ed="#P" n="36" break="no"/>lacentiam rei praesentis alterius spei et improportiona 
+      <lb ed="#P" n="37"/>bilis in bene esse amori praedicto. vt arguatur sic. Nec 
+      <lb ed="#P" n="38"/>pculus vidit nec auris audiuit nec in cor hominis 
+      ascen<lb ed="#P" n="39" break="no"/>dit nec cogitabile est praemium quo deus premiat etc. et 
+      <lb ed="#P" n="40"/>go excessus praemii est improportionabilis./ consequentia nota. 
+      <lb ed="#P" n="41"/>Nam latitudines meritorum et capiuntur et cogitantur 
+      <lb ed="#P" n="42"/>secundum quod dicit augustinus super psalmum. 36. et si 
+      <lb ed="#P" n="43"/>cogitari ex aliqua parte potest et in enigmate: dici tamen 
+      <lb ed="#P" n="44"/>nullo modo potest pulchritudo illius dilectionis 
+      quan<lb ed="#P" n="45" break="no"/>seruat deus timentibus se¬ 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1433">
+                  <lb ed="#P" n="46"/>¶ Sexta conclusio quod deus non solum improportiona 
+      <lb ed="#P" n="47"/>iliter sed etiam infinite vltra condignum premiat 
+      ele<lb ed="#P" n="48" break="no"/>ctos. Ista conclusio est expraesse de mente augustini su 
+      <lb ed="#P" n="49"/>per psalmos. 36. et. 13 et probatur primo. sit a meritum 
+      <lb ed="#P" n="50"/>die per horam / et sit b perpetuo esse beatum de deo clare 
+      <lb ed="#P" n="51"/>viso: tunc sic in duratione diurna ipsius b. sunt 
+      lati<lb ed="#P" n="52" break="no"/>tudines infinite secundum quarum quelet per diem habita 
+      <lb ed="#P" n="53"/>esset melior in se et habenti: quam totum a. per horam. ergo diurna 
+      <lb ed="#P" n="54"/>latitudo totalis ipsius b est infinite vltra condignum 
+      respe<lb ed="#P" n="55" break="no"/>ctu a. si detur pro a. patet consequentia quia quaecunque pars de b. tibi 
+      da<lb ed="#P" n="56" break="no"/>etur per diem plus de bono haberes et in 
+      proportionabi<lb ed="#P" n="57" break="no"/>liter plus de meliori: quam fuerit a. quid ergo de infinitis 
+      <lb ed="#P" n="58"/>diebus. Nota hic duo in hoc articulo. Primum quodlem 
+      <lb ed="#P" n="59"/>b. diurnum / licet sit quid finitum: est tamen infinite vltra 
+      condi<lb ed="#P" n="60" break="no"/>gnum respectu a. et non sequitur b. est infinite vltra condignum 
+      <lb ed="#P" n="61"/>respectu a. ergo b. est infinitum sipliciter. Et in hoc patet in parte 
+      <lb ed="#P" n="62"/>solutio secundi principalis argumenti in propnendo questionem. 
+      <!--323.xml-->
+      <lb ed="#P" n="63"/>Secundum est quod b per infinitos dies captum: est 
+      infi<lb ed="#P" n="64" break="no"/>nitum secundum latitudinem duratiuam et sic infinite excedit 
+      <lb ed="#P" n="65"/>se vt captum per diem. Secundo probatur predicta conclusio 
+      <lb ed="#P" n="66"/>sic in b perpetuo duraturo sunt infinite latitudines 
+      <lb ed="#P" n="67"/>quarum quelibet est perpetua: quelibet est melior quam in 
+      <lb ed="#P" n="68"/>finita a equali a et quelibet est tibi melior quam si haberes 
+      <lb ed="#P" n="69"/>a infinita equalia: ergo: quelibet latitudinum partiali 
+      <lb ed="#P" n="70"/>um de b infinite excedit eligibilitatem a meriti quid 
+      <lb ed="#P" n="71"/>ergo erit de omnibus latitudinibus simul. de toto b 
+      <lb ed="#P" n="72"/>perpetuo has rationes tangit augustinus. vbi super. 
+      <lb ed="#P" n="73"/>Mirabilis res: inquit aug. eternum dari pro parui 
+      tem<lb ed="#P" n="74" break="no"/>oris labore. Nam vtique fratres pro eterna requie 
+      la<lb ed="#P" n="75" break="no"/>por eternus subeundus erat nec tamen fuisset ad tan 
+      <lb ed="#P" n="76"/>tum. vnde felicitatem eternam accepturus eternalis 
+      <lb ed="#P" n="77"/>ter passiones sustinere deberes: sed tunc non 
+      perue<lb ed="#P" n="78" break="no"/>nires ad requiem et ita fit necessario temporalis 
+      tri<lb ed="#P" n="79" break="no"/>bulatio qua finita venias ad felicitatem infinitam sed 
+      <lb ed="#P" n="80"/>finitum quodlibet quantumlibet extendatur expende ad 
+      <lb ed="#P" n="81"/>infinitum si milia milium annorum que finem habent 
+      <lb ed="#P" n="82"/>cum eternitate comparari non possunt etc. Item 
+      su<lb ed="#P" n="83" break="no"/>per prim. 43 ecce inquit meritum ecce quantum praecium 
+      da<lb ed="#P" n="84" break="no"/>mus quodammodo vnam siliquam temporalem accipientes 
+      <lb ed="#P" n="85"/>thesauros sempiternos etc. patet ergo. quod deus infinite 
+      praemi<lb ed="#P" n="86" break="no"/>at quemlibei talem vltra condignum. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1526">
+                  <lb ed="#P" n="87"/>¶ Ad rationes principales ad primam neganda est 
+      <lb ed="#P" n="88"/>prima consequentia sicut patet ex primo articulo quanda sic est est scilicet per 
+      mo<lb ed="#P" n="89" break="no"/>mentum praecise claudit perpetuam carentiam glorie ad probationem 
+      <lb ed="#P" n="90"/>cedo quod ita potest esse quod b: sit melius quam a sit malum et 
+      conce<lb ed="#P" n="91" break="no"/>do quod a est peius quam concinari perpetuo siue clus pa esset malum 
+      <lb ed="#P" n="92"/>et consequenter quod b est melius quam cruciari perpetuo sit 
+      fugibi<lb ed="#P" n="93" break="no"/>le subducta iniustitia: et cum dicitur gloria est melio quam b in 
+      infi<lb ed="#P" n="94" break="no"/>nitum: dico quod sic per conclusionem sextam tertii articuli et 
+      ne<lb ed="#P" n="95" break="no"/>go vlterius illam consequentiam. ergogloria praecise per horam et non 
+      am<lb ed="#P" n="96" break="no"/>ilius duratura est melior quam b: quia licet momentaneum meritum 
+      <lb ed="#P" n="97"/>simplicitur non sit ita bonum sicut momentaneum praemium. tame 
+      <lb ed="#P" n="98"/>nomen tamneum meritum pro quae dabitur eternum praemium est melius et eli 
+      <lb ed="#P" n="99"/>tibilius quam praemium praecise per momentum duraturum et non vltra 
+      <lb ed="#P" n="100"/>t hoc est propter praemium eternum consequens ipsum meritum Ex 
+      <lb ed="#P" n="101"/>quo patet quod b ratione eterni praemii melius et eligibilius est quam esse 
+      <lb ed="#P" n="102"/>in gloria preciseper horam et nonplus. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1564">
+                  <lb ed="#P" n="103"/>¶ Ad secundam cum dicitur tunc premissum est 
+      <lb ed="#P" n="104"/>set infinitum bonum. patet quod consequentia non 
+      va<lb ed="#P" n="105" break="no"/>let per notabile positum in probatione sexte 
+      conclu<lb ed="#P" n="106" break="no"/>sionis: dico tamen quod est infinite bonum idest habet 
+      la<lb ed="#P" n="107" break="no"/>titudinem infinitam secundum durationem cuius non 
+      <lb ed="#P" n="108"/>erit finis: concedo etiam quod premium diurnum 
+      par<lb ed="#P" n="109" break="no"/>tiale est infinitum bonum: quia est deus: licet non sit 
+      <lb ed="#P" n="110"/>infinitum bonum habenti: et ideo probatio falsitatis 
+      con<lb ed="#P" n="111" break="no"/>sequentis non valet: qua dicitur: quod tunc omnes 
+      equa<lb ed="#P" n="112" break="no"/>liter essent beati patet quod non quia per idem infinitum 
+      <lb ed="#P" n="113"/>bonum est melius petro quam lino beato vterque tamen 
+      <lb ed="#P" n="114"/>habet in premio bonum quod est in se infinitum quia 
+      vter<lb ed="#P" n="115" break="no"/>que habet deum beatificantem. 
+    </p>
+               <p xml:id="oooo3o-k92667-d1e1595">
+                  <lb ed="#P" n="116"/>¶ Ad tertiam nego antecedens quantum ad vtram 
+      <lb ed="#P" n="117"/>quem partem eius: ymmo dico quod idem premium est 
+      vtrum<lb ed="#P" n="118" break="no"/>que bonum: et cum probatur: quia eadem est iustitia vie 
+      <lb ed="#P" n="119"/>et patrie: ergo iustitia patrie non infinite excedit etc. 
+      <lb ed="#P" n="120"/>concedo quo ad intentionem et quo ad durationem 
+      <lb ed="#P" n="121"/>recise diurnam: tamen quo ad durationem perpetuam 
+      infi<lb ed="#P" n="122" break="no"/>nite excedit et hoc sufficit: recurre hic ad sensum 
+      di<lb ed="#P" n="123" break="no"/>cum in notabili posito superius in probatione 
+      sexte<lb ed="#P" n="124" break="no"/>conclusionis. Item alia est iustitia in patria premium 
+      <lb ed="#P" n="125"/>que iustitie vie non est de proxmo comparanda se¬ 
+      <!--324.xml-->
+      <pb ed="#P" n="153-r"/>
+                  <lb ed="#P" n="1"/>cundum Augustinum vt super ius dixi. Unde patet 
+      <lb ed="#P" n="2"/>quod non sequitur b diurnum est infinite eligibilius a diurno. ergo in b 
+      <lb ed="#P" n="3"/>aliqua essentia infinite melior et perfectior essentialiter 
+      <lb ed="#P" n="4"/>a entitate vt dictum est quia alia est latitudo extensiua que 
+      <lb ed="#P" n="5"/>reddit rem eligibiliorem quae est si remissior esset quam eadem res 
+      <lb ed="#P" n="6"/>intensior amplius tamen duraret: esset eligibilior. vnde 
+      eligibi<lb ed="#P" n="7" break="no"/>lius esset per mille annos frui deo per millesiam partem 
+      lati<lb ed="#P" n="8" break="no"/>tudinis b et per alios mille per millesimam illius millesie 
+      <lb ed="#P" n="9"/>et sic continuando sine fine quam praecise frui per mille annos per 
+      <lb ed="#P" n="10"/>totam latitudinem b ista omnia patent ex correlariis prime 
+      <lb ed="#P" n="11"/>propositionis primi articuli: Et sic est finis quastionis.
+      
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

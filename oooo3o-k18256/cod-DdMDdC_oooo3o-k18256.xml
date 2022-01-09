@@ -1,0 +1,811 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="29-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k18256"><!--l1d17q1 -->
+            <head xml:id="oooo3o-k18256-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k18256-d1e101">
+               <lb ed="#P" n="83"/>CIrca decimam septimam distinctionem 
+      <lb ed="#P" n="84"/>Quero vtrum charitas vel gratia sit 
+      via<lb ed="#P" n="85" break="no"/>tori ad salutem necessaria. arguitur. prime 
+      <lb ed="#P" n="86"/>quod non / sic. nulla charitas vel gratia est 
+      <lb ed="#P" n="87"/>viatori ad salutem necessaria: ergo etc. 
+      <lb ed="#P" n="88"/>Antecedens patet inductiue arguendo. 
+    </p>
+            <p xml:id="oooo3o-k18256-d1e117">
+               <lb ed="#P" n="89"/>¶ Secundo sic. Obseruatio mandatorum sufficit. 
+      <lb ed="#P" n="90"/>ad salutem Mathei. 1o. Si vis ad vitam ingredi etc. sed 
+      <lb ed="#P" n="91"/>talis obseruatio est creature rationali possibilis 
+      sine<lb ed="#P" n="92" break="no"/>charitate vel gratia (dicente hieronimo in 
+      explana<lb ed="#P" n="93" break="no"/>tione fidei catholice) Execramus eorum blasphemias 
+      <lb ed="#P" n="94"/>qui dicunt deum aliquid impossibile praecepisse. ex 
+      quo<lb ed="#P" n="95" break="no"/>arguitur. vel quis potest sine charitate et gratia implere 
+      <lb ed="#P" n="96"/>precepta vel non / si primum habetur intentum / si non ergo.  
+      <lb ed="#P" n="97"/>non est peccatum non facere quia nullus peccat in eo 
+      <lb ed="#P" n="98"/>mod vitare non potest. vt patet per Augustinum de 
+      <lb ed="#P" n="99"/>duabus animabus. 
+    </p>
+            <p xml:id="oooo3o-k18256-d1e143">
+               <lb ed="#P" n="100"/>¶ Tertio ad idem arguitur sic. Rectitudo 
+      volun<lb ed="#P" n="101" break="no"/>tatis (que auferri non potest) sufficit ad salutem: sed 
+      <lb ed="#P" n="102"/>charitas non est rectitudo voluntatis / nec eius pars: 
+      <lb ed="#P" n="103"/>ergo. antecedens quo ad primam partem videtur esse 
+      <lb ed="#P" n="104"/>ntentio augustini in libro de libero arbitrio dicentis / 
+      <lb ed="#P" n="105"/>pod deus non potest auferre rectitudinem voluntatis 
+      <lb ed="#P" n="106"/>charitatem vero sepe auferti 
+    </p>
+            <p xml:id="oooo3o-k18256-d1e161">
+               <lb ed="#P" n="107"/>¶ In oppositum arguo sic nullus potest saluari et 
+      <lb ed="#P" n="108"/>nisi sit deo gratus vel charus: sed nullus potest esse pae 
+      <lb ed="#P" n="109"/>charus sine charitate / nec gratus sine gratia: ergo.  
+    </p>
+            <p xml:id="oooo3o-k18256-d1e171">
+               <lb ed="#P" n="110"/>¶ Primo premittam distinctiones declaratiuas. ergo 
+      <lb ed="#P" n="111"/>Secundo ponam conclusiones responsiuas. Tertio 
+      <lb ed="#P" n="112"/>respondebo ad instantias 
+    </p>
+            <div xml:id="oooo3o-k18256-Dd1e180">
+               <head xml:id="oooo3o-k18256-Hd1e182">Articulus 1</head>
+               <p xml:id="oooo3o-k18256-d1e184">
+                  <lb ed="#P" n="113"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e189">
+                  <lb ed="#P" n="114"/>QUantum ad sit prima distinctio ista et 
+      <lb ed="#P" n="115"/>quod charitas vel gratia in scriptura sacra 
+      di<lb ed="#P" n="116" break="no"/>ccipitur dupliciter vno modo / pro cha¬v 
+      <lb ed="#P" n="117"/>ritate increata: alio modo pro charitate 
+      ta<lb ed="#P" n="118" break="no"/>creata. Charitas increata quandoque capitur ergo 
+      <!--77.xml-->
+      <pb ed="#P" n="29-v"/>
+                  <lb ed="#P" n="1"/>communiter et essentialiter. et sic conuenit toti trinitati. 
+      <lb ed="#P" n="2"/>et cuilibet personarum / et isto modo loquebatur in 
+      cano<lb ed="#P" n="3" break="no"/>nica sua iohannes quando dicebat deus charitas est. Alio 
+      <lb ed="#P" n="4"/>modo accipitur partialiter et sic appropriatur spiritu 
+      <lb ed="#P" n="5"/>sancto. qui est charitas patris et filii. Charitas charum 
+      <lb ed="#P" n="6"/>faciens est habitus infusus a charitate increata 
+      qua<lb ed="#P" n="7" break="no"/>diligimus deum et proximum meritorie de qua dicebat 
+      <lb ed="#P" n="8"/>apistulus ad romanos quinto Tharitas dei. etc. Consi 
+      <lb ed="#P" n="9"/>milis distinctio potest esse de gratia / scilicet quod est gratia 
+      <lb ed="#P" n="10"/>increata que est deus gratificans et gratum dans. et est 
+      <lb ed="#P" n="11"/>gratia gratis data que est effectus gratie increate. de 
+      pri<lb ed="#P" n="12" break="no"/>ma dicebat apitolus ad ephesios prim. obndictus deus 
+      <lb ed="#P" n="13"/>et pater. etc. qui predestinanit nos in adoptionem 
+      fi<lb ed="#P" n="14" break="no"/>liorum per iesum christum in ipsum secundum propositum voluntatis 
+      <lb ed="#P" n="15"/>sue. in laudem glore gratie sue in qua gratificauit nos in 
+      di<lb ed="#P" n="16" break="no"/>lecto filio suo. in quo habemus redemptionem per 
+      sangui<lb ed="#P" n="17" break="no"/>nem eius. remissionem peccatorum secundum diuitias 
+      gratie<lb ed="#P" n="18" break="no"/>eius. vbi glosa supra. Sola gratia praedestinauit nos: 
+      <lb ed="#P" n="19"/>idest voluntate gratuita de hac gratia que est 
+      volun<lb ed="#P" n="20" break="no"/>tas diuina dicit augustinus nouo super genesim 
+      capri<lb ed="#P" n="21" break="no"/>16. iu voluntate dei est gratia qua salui fiunt 
+      pecca<lb ed="#P" n="22" break="no"/>tores. etc.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e254">
+      ¶ Iterum notandum quod charitas aliquando 
+      acci<lb ed="#P" n="23" break="no"/>pitur improprie pro affectione morali vel passione 
+      <lb ed="#P" n="24"/>quam habet aliquis ad alium propter virtutem: et isto 
+      mo<lb ed="#P" n="25" break="no"/>do sumitur secundo machabeorum cap. 14. vbi dicitur 
+      al<lb ed="#P" n="26" break="no"/>chimus videns charitatem illorum. etc. Similiter gratia 
+      <lb ed="#P" n="27"/>sumitur quandoque minus proprie pro quolibet gratioso 
+      ob<lb ed="#P" n="28" break="no"/>sequio: quod deo pro beneficiis exhibemus. vt ibi: 
+      <lb ed="#P" n="29"/>gratias agamus domino deo nostro.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e272">
+      ¶ Similiter notam 
+      <lb ed="#P" n="30"/>dum quod gratia seu charitas aliquando dicitur dilectio: qua 
+      <lb ed="#P" n="31"/>actualiter diligimus. qui est actus procedens ab 
+      habi<lb ed="#P" n="32" break="no"/>tu: et est increate gratie effectus. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e282">
+                  <lb ed="#P" n="33"/>¶ Secunda distinctio de necessario. quod potest 
+      <lb ed="#P" n="34"/>capi simpliciter vel secundum quid scilicet secundum potentiam de 
+      <lb ed="#P" n="35"/>ordinatam vel absolutam: qudo distingunt. doctores de 
+      <lb ed="#P" n="36"/>potentia dei. et secundum istum duplicem sensum variatur 
+      <lb ed="#P" n="37"/>questio. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e295">
+                  <lb ed="#P" n="38"/>¶ his premissis sit prima propositio: ista: preter 
+      <lb ed="#P" n="39"/>charitatem que deus est opertet de communi lege ponere 
+      cha<lb ed="#P" n="40" break="no"/>ritatem creatam in anima viatoris qua diligit deum et pro 
+      <lb ed="#P" n="41"/>ximum que est vertus. Probatur auctoritate eccleie 
+      ex<lb ed="#P" n="42" break="no"/>tra de summa trinitate libro. 6. Firmiter crendimus. etc. 
+      <lb ed="#P" n="43"/>vbi opinio ponens gratiam informantem dari: probatur 
+      <lb ed="#P" n="44"/>ex dictis sanctoru.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e313">
+      ¶ Preterea nichil potest 
+      suscipe<lb ed="#P" n="45" break="no"/>re denominationem aliquam formaliter et intrincec 
+      <lb ed="#P" n="46"/>nisi per formam habitam formaliter. ergo nullus sic 
+      de<lb ed="#P" n="47" break="no"/>nominari charus deo nisi per charitatem 
+      formali<lb ed="#P" n="48" break="no"/>ter inexistentem. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e324">
+                  <lb ed="#P" n="49"/>¶ Secunda propositio. Sola gratia increata 
+      distin<lb ed="#P" n="50" break="no"/>guit filios regni a filiis perditionis eterne. probatur 
+      <lb ed="#P" n="51"/>quia sola voluntas diuina acceptans et ab eterno 
+      pre<lb ed="#P" n="52" break="no"/>destinans: elegit eternaliter et distinxit electos a 
+      re<lb ed="#P" n="53" break="no"/>probis quod videtur sentire apostolus prime ad 
+      co<lb ed="#P" n="54" break="no"/>rinthios quarto. cum quod erit quis cntim te discernit. et 
+      <lb ed="#P" n="55"/>videtur mnuere quod solus deus sic exponit augustinus 
+      <lb ed="#P" n="56"/>de correctione et gratia. et habetur in glosa cum dicit 
+      <lb ed="#P" n="57"/>quis enim te discernit a massa perditionis: nullus nisi 
+      <lb ed="#P" n="58"/>deus ipse te separat a perditis. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e348">
+                  <lb ed="#P" n="59"/>¶ Tertia propositio. Tharitas vel gratia creata: 
+      <lb ed="#P" n="60"/>solius increate charitatis est effecto. probatur per 
+      aplistl<lb ed="#P" n="61" break="no"/>Tharitas dei diffusa est in cordibus nostris per spiritum 
+      <lb ed="#P" n="62"/>sactum qui datus est nobis. et per augustinum de perfectione 
+      <lb ed="#P" n="63"/>iusticie cap. 22. vbi ait non autem per aliquam creaturam ) 
+      <!--77.xml-->
+      <lb ed="#P" n="64"/>sed per spiritum sanctum / qui datuos est uobis 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e366">
+                  <lb ed="#P" n="65"/>¶ Quarta propositio. CTharitas infusa cuiuslibet:  
+      <lb ed="#P" n="66"/>meritorie actionis est effectiua. probatur: per augustinum 
+      ta<lb ed="#P" n="67" break="no"/>inde predestinatione sactorum et allegat cum 
+      magi<lb ed="#P" n="68" break="no"/>ster distinctione. et 6. Ex qua sequitur quod gratia non datur 
+      <lb ed="#P" n="69"/>secundum aliqua vel propter aliqua merita: sed efficit 
+      <lb ed="#P" n="70"/>omne meritum. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e383">
+                  <lb ed="#P" n="71"/>¶ Quinta propositio. Tharitas creata est signum et 
+      <lb ed="#P" n="72"/>distinctionis filiorum dei / a filiis damnationis secundum praesentem 
+      <lb ed="#P" n="73"/>iusticiam: quamuis non semper sit signum distinctionis secundum 
+      <lb ed="#P" n="74"/>eternam dei prouidentiam. prima pars patet per beatum 
+      <lb ed="#P" n="75"/>Augustinum de correctione et gratia capistuolis. 28. et. 26. 
+      <lb ed="#P" n="76"/>dicentem / quidam sunt filii secundum prescientiam et 
+      praedesti<lb ed="#P" n="77" break="no"/>nationem / quaedam secundum susceptam temporaliter gratiam. 
+      <lb ed="#P" n="78"/>Item alii sunt filii deo / alii nobis / id est. alii secundum 
+      <lb ed="#P" n="79"/>ludicium diuinum. alii secundum humanum / et habetur hec 
+      <lb ed="#P" n="80"/>distinctio in decretis de penitentia distinctione. 4 
+      ca<lb ed="#P" n="81" break="no"/>pitulo. 6. si ex bono.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e409">
+      ¶ Secunda pars probatur quia 
+      <lb ed="#P" n="82"/>multi sunt modo in charitate qui finaliter damnantur vel 
+      <lb ed="#P" n="83"/>saltem quandoquam fuit sicut patuit in iuda. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e416">
+                  <lb ed="#P" n="84"/>¶ Sexta propositio. Ticet viator nichil boni t 
+      <lb ed="#P" n="85"/>possit facere sine dei speciali gratia potest tamen in par 
+      <lb ed="#P" n="86"/>aliquod bonum velle sine charitate creata. Prima 
+      <lb ed="#P" n="87"/>pars patet per beatum augustinum in multis locis preci 
+      <lb ed="#P" n="88"/>pue decimo octauo de ciuitate dei. vbi probat quod 
+      pri<lb ed="#P" n="89" break="no"/>mus angelus non potuit se ex se facere meliorem. 
+      Se<lb ed="#P" n="90" break="no"/>cunda dars probatur quia entis in in peccato 
+      morta<lb ed="#P" n="91" break="no"/>li potest velle esse iustus. et velle habere cor 
+      contri<lb ed="#P" n="92" break="no"/>tum et humiliatum et similia. que velle est actus bonus 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e438">
+                  <lb ed="#P" n="93"/>¶ Ex qua sequitur septima propositio quod gratia 
+      <lb ed="#P" n="94"/>dei operatur bonum etiam in malis. non sit creata 
+      cha<lb ed="#P" n="95" break="no"/>ritas. et hec de primo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k18256-Dd1e448">
+               <head xml:id="oooo3o-k18256-Hd1e450">Articulus 2</head>
+               <p xml:id="oooo3o-k18256-d1e452">
+                  <lb ed="#P" n="96"/>¶ Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e457">
+                  <lb ed="#P" n="97"/>QUantum ad secundum articulum sit. 
+      <lb ed="#P" n="98"/>prima conclusio ista Per prius viator ac  
+      <lb ed="#P" n="99"/>ceptatur ad vitam quam habeat charitatem 
+      <lb ed="#P" n="100"/>infusam creatam. probatur quia ideo deus 
+      <lb ed="#P" n="101"/>infundit sorti charitatem creatam. quia 
+      ac<lb ed="#P" n="102" break="no"/>ceptus est ei. et non econuerso. ergo conclusio vera. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e473">
+                  <lb ed="#P" n="103"/>¶ Ex ista conclusione infero duo correlaria. 
+      Pri<lb ed="#P" n="104" break="no"/>mum stat aliquid esse acceptum ad vitam eternam et tamen 
+      <lb ed="#P" n="105"/>non habere charitatem creatam. patet de praedestinato 
+      exi<lb ed="#P" n="106" break="no"/>stente in peccato mortali. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e484">
+                  <lb ed="#P" n="107"/>¶ Secundum correlarium. Stat aliquemhabere 
+      <lb ed="#P" n="108"/>charitatem creatam et non esse acceptum ad vitam 
+      eter<lb ed="#P" n="109" break="no"/>nam. patet de prescito existente actualiter in charitate. 
+      <lb ed="#P" n="110"/>Secuda conclusio de potentia dei absoluta 
+      via<lb ed="#P" n="111" break="no"/>tori non est necessaria ad salutem charitas creata. 
+      <lb ed="#P" n="112"/>probatur quia aliquis potest esse acceptus ad vitam 
+      eter<lb ed="#P" n="113" break="no"/>nam sine tali charitate vt dicit prima conclusio. ergo de 
+      <lb ed="#P" n="114"/>potententia dei absoluta non esset viatori necessaria 
+      <lb ed="#P" n="115"/>ad salutem charitas creata.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e507">
+      ¶ Preterea nuda 
+      po<lb ed="#P" n="116" break="no"/>tentia anime: cum obiecto scilicet diuina essentia: sufficit ad 
+      <lb ed="#P" n="117"/>beatitudinem anime. ergo non est necessaria charitas 
+      <lb ed="#P" n="118"/>creata de potentia dei absoluta. Antecedens patet quia anima est 
+      <lb ed="#P" n="119"/>sufficiens receptiuum beatitudinis. et deus sufficiens 
+      <lb ed="#P" n="120"/>primcipium potens supplere efficiam cuiuslicet creature. ergo 
+      <lb ed="#P" n="121"/>Primum correlarium De potentia dei absoluta 
+      <lb ed="#P" n="122"/>potest viator mereri sine charitate creata. Patet quia 
+      <!--78.xml-->
+      <pb ed="#P" n="30-r"/>
+                  <lb ed="#P" n="1"/>dicta charitas effectiue concurrit ad meritum. ergo deus 
+      <lb ed="#P" n="2"/>potest efficaciam supplere coagendo voluntati. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e533">
+                  <lb ed="#P" n="3"/>¶ Secundum correlarium sine dicta charitate 
+      se<lb ed="#P" n="4" break="no"/>cundum potentiam absolutam dei potest viator diligere 
+      <lb ed="#P" n="5"/>deum super omnia: patet vt precedens 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e542">
+                  <lb ed="#P" n="6"/>¶ Tertia conclusio Secundum potentiam absolutam 
+      <lb ed="#P" n="7"/>dei: simul stat aliquem viatorem habere charitatem 
+      crea<lb ed="#P" n="8" break="no"/>tam et damnari. Probatur quia nulla creatura 
+      necessi<lb ed="#P" n="9" break="no"/>tat deum ad saluandum aliquam. ergo. etc. Item de facto ali 
+      <lb ed="#P" n="10"/>quis habens charitatem damnabitur. et deus non neces 
+      <lb ed="#P" n="11"/>sario aufert. ab eo istam charitatem. ergo. etc. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e558">
+                  <lb ed="#P" n="12"/>¶ Primum correlarium Sicut libere contingenter 
+      <lb ed="#P" n="13"/>deus proposuit dare vitam eternam omnibus predestinata 
+      <lb ed="#P" n="14"/>Ita potest nunquam proposuisse et sic eis non conferre. et 
+      <lb ed="#P" n="15"/>ipsam conferre omnibus prescitis patet quia liberrime in 
+      <lb ed="#P" n="16"/>destinat deus. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e571">
+                  <lb ed="#P" n="17"/>¶ Secundum correlarium Actus noster quantum 
+      <lb ed="#P" n="18"/>cunque sctuns non meretur vitam eternam ex valore 
+      iu<lb ed="#P" n="19" break="no"/>sticie. Patet quia bonum glorie quod est bonum vite eterne 
+      <lb ed="#P" n="20"/>est infinitum. actus noster est solumfinite bonus: ergo. 
+      <lb ed="#P" n="21"/>¶ Quarta conclusio. Secundum legem ordinatam 
+      <lb ed="#P" n="22"/>nullus saluabitur sine charitate quae est qualitas. 
+      Pe<lb ed="#P" n="23" break="no"/>tet quia nullus exesens in peccato mortali. et finaliter 
+      <lb ed="#P" n="24"/>decedens in ipso: saluabitur secundum legem ordinatam. sed 
+      <lb ed="#P" n="25"/>quilibet non habens charitatem creatam actum vel 
+      hab<lb ed="#P" n="26" break="no"/>tum est huiusmodi: ergo. etc. Maior patet per illud 
+      spalmi<lb ed="#P" n="27" break="no"/>ste conuertantur in infernum ones gentes que 
+      obliuiscum<lb ed="#P" n="28" break="no"/>tur deum. Et in multis aliis locis. minor conceditur 
+      ab<lb ed="#P" n="29" break="no"/>omnibus. quia non est actus melior post baptismum. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e602">
+                  <lb ed="#P" n="30"/>¶ Correlarium si aliquis debceat saluari: est sibi 
+      no<lb ed="#P" n="31" break="no"/>cessaria de communi lege charitas creata. Patet ex 
+      <lb ed="#P" n="32"/>conclsione. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e612">
+                  <lb ed="#P" n="33"/>¶ Secundum correlarium Preter charitatem 
+      crea<lb ed="#P" n="34" break="no"/>tam habitualem: requiritur charitas actualis in 
+      adup<lb ed="#P" n="35" break="no"/>tis ad salutem consequendam. Probatur quia de poter 
+      <lb ed="#P" n="36"/>tia dei ordinata in adultis requiritur dilectio 
+      actua<lb ed="#P" n="37" break="no"/>lis quam voco charitatem actualem. Pro quo est ad  
+      <lb ed="#P" n="38"/>uertendum quod secundum legem stantem / in anima recipitur pri 
+      <lb ed="#P" n="39"/>mo charitas increata specialiter existens et secundario 
+      chari<lb ed="#P" n="40" break="no"/>tas creata quae est habitus infuso ab increata charita 
+      <lb ed="#P" n="41"/>te essentia. Tertio charitas que est actus vel 
+      actua<lb ed="#P" n="42" break="no"/>lis: ab istis et a voluntate productus. Et ordo istorum 
+      <lb ed="#P" n="43"/>est. quia charitas actualis non potest esse sine charita 
+      <lb ed="#P" n="44"/>te habituali creata: et charitate increata in creatum 
+      <lb ed="#P" n="45"/>ra rationali. Sed charitas habitualis creata bene potest 
+      <lb ed="#P" n="46"/>esse sine actuali. vt in pueris et dormientibus. sed non 
+      <lb ed="#P" n="47"/>potest esse sine charitate increta. et voco hic 
+      chari<lb ed="#P" n="48" break="no"/>tatem actualem actum secundum. habitualem autem habitum 
+      <lb ed="#P" n="49"/>infusum per spiritum sanctum: non autem acquisitum ex actibus 
+      <lb ed="#P" n="50"/>Tharitas autem increata non potest esse in anima sub 
+      ra<lb ed="#P" n="51" break="no"/>tione vel modo essendi charitatis sine charitate que 
+      <lb ed="#P" n="52"/>est habitus infusus. et hoc de potentia ordinata 
+      v<lb ed="#P" n="53" break="no"/>dictum est 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e660">
+                  <lb ed="#P" n="54"/>¶ Quinta conclusio Nulla creata charitas est 
+      <lb ed="#P" n="55"/>sorti ad salutem necessaria. probatur quia quelibet 
+      sin<lb ed="#P" n="56" break="no"/>gularis est vera vt patet inductiue. ergo conclusio 
+      ve<lb ed="#P" n="57" break="no"/>ra. non obstante tamen hac conclusione dico. quod hec est 
+      ne<lb ed="#P" n="58" break="no"/>ganda secundum legem ordinatam: nullam charitatem 
+      <lb ed="#P" n="59"/>habendo sortes saluabitur. patet quia ista est falsa. 
+      <!--78.xml-->
+      <lb ed="#P" n="60"/>Ex qua infero correlarium. Q non sequitur 
+      <lb ed="#P" n="61"/>nulla charitas. etc. ergo nullam charitatem habendo. etc. 
+      <lb ed="#P" n="62"/>antecedens est verum et consequens falsum.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e684">
+      ¶ Secundo infero q 
+      <lb ed="#P" n="63"/>sub nullo certo gradu quim minor illo sufficeret 
+      re<lb ed="#P" n="64" break="no"/>quiritur creata charitas necessa rio ad salutem 
+      con<lb ed="#P" n="65" break="no"/>sequendam. sumpto ly necessario secundum quid. idest 
+      se<lb ed="#P" n="66" break="no"/>cundum legem dei ordinatam. patet ista quia 
+      queli<lb ed="#P" n="67" break="no"/>bet singularum est vera. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e697">
+                  <lb ed="#P" n="68"/>¶ Sexta conclusio et vltima. Nullus potest esse 
+      <lb ed="#P" n="69"/>charus deo secundum potentiam etiam dei absolutam 
+      si<lb ed="#P" n="70" break="no"/>ne charitate dei increata. Probatur quia nullus 
+      <lb ed="#P" n="71"/>potest esse charus deo nec amicus sine gratuita 
+      vo<lb ed="#P" n="72" break="no"/>luntate dei ipsum gratis amante / idest misericorditer ad 
+      <lb ed="#P" n="73"/>cepante. cum ipsa sola discernat amicos ab impiis vt 
+      <lb ed="#P" n="74"/>dictum est supra. ergo conclusio vera. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e715">
+                  <lb ed="#P" n="75"/>¶ Correlatium primum: dicta charitas siue 
+      gra<lb ed="#P" n="76" break="no"/>tia increata est viatori simpliciter ad salntem 
+      necessa<lb ed="#P" n="77" break="no"/>ria. patet ex conclusione cum nullus potest esse saluus 
+      ni<lb ed="#P" n="78" break="no"/>si deo charus. ergo correlarium verum. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e726">
+                  <lb ed="#P" n="79"/>¶ Secundum correlarium. Ex dictis omnibus 
+      se<lb ed="#P" n="80" break="no"/>quitur opinionem magistri non esse veram qui dicit quod 
+      <lb ed="#P" n="81"/>ad eliciendum actum dilectionis dei et proximi 
+      me<lb ed="#P" n="82" break="no"/>ritorie: non requiritur aliquis habitus creatus. 
+      pa<lb ed="#P" n="83" break="no"/>tet enim hoc esse falsum per supra dicta. et hoc de 
+      ar<lb ed="#P" n="84" break="no"/>ticulo secundo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k18256-Dd1e743">
+               <head xml:id="oooo3o-k18256-Hd1e745">Articulus 3</head>
+               <p xml:id="oooo3o-k18256-d1e747">
+                  <lb ed="#P" n="85"/>¶ Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e752">
+                  <lb ed="#P" n="86"/>QUantum ad tertium articulum pro 
+      <lb ed="#P" n="87"/>solutione argumentorum occurrunt tria 
+      <lb ed="#P" n="88"/>dubia. Primum vtrum sine charitate / se 
+      ser<lb ed="#P" n="89" break="no"/>uari possunt praecepta de communi lege. 
+      <lb ed="#P" n="90"/>¶ Secundum. vtrum deus possit auferre 
+      <lb ed="#P" n="91"/>rectitudinem voluntatis a voluntate 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e768">
+                  <lb ed="#P" n="92"/>¶ Tertium. An sit possibile. rationalem creaturaium non 
+      <lb ed="#P" n="93"/>delchara charam fieri sine charitate creata 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e775">
+                  <lb ed="#P" n="94"/>¶ Quantum ad primum dubium quidam 
+      sin<lb ed="#P" n="95" break="no"/>assertione dicit istam conclusionem: quod multa precepta 
+      <lb ed="#P" n="96"/>potest quis implere sine charitate de communi lege / probat 
+      <lb ed="#P" n="97"/>quia non requiritur ad impletionem preceptorum quod aliquis 
+      im<lb ed="#P" n="98" break="no"/>pleat ea ex charitate: ergo etc. antecedens probat quia 
+      sirequi<lb ed="#P" n="99" break="no"/>ritur charitas sequuntur multa inconuenientia / primum quod 
+      <lb ed="#P" n="100"/>subueniens proximo in extrema necessitate / et non ex 
+      <lb ed="#P" n="101"/>charitate / peccaret quia non faceret praeceptum et 
+      dilexio<lb ed="#P" n="102" break="no"/>ne proximi secundum quod tenetur quia tenetur subuenire 
+      proxi<lb ed="#P" n="103" break="no"/>mo in charitate / et cum ipse sit in mortali: ergo 
+      subue<lb ed="#P" n="104" break="no"/>nit proximo non vt tenetur. Secundo sequitur quod conformans 
+      <lb ed="#P" n="105"/>se negatiuo precepto sine charitate: peccaret. probatur 
+      <lb ed="#P" n="106"/>quia non obseruaret preceptum secundum quod tenetur / et per consequens 
+      <lb ed="#P" n="107"/>quicumque incidisset in peccato mortali / obseruando perceptum 
+      <lb ed="#P" n="108"/>negatiuum videlicet non occides non megaberis / non 
+      <lb ed="#P" n="109"/>furtum facies / extra statum eharitatis peccarei. quod 
+      <lb ed="#P" n="110"/>est falsum. Tertio sequitur quod tentatus per illecebra 
+      ca<lb ed="#P" n="111" break="no"/>rius non posset resistere tentationi sine peccato 
+      conse<lb ed="#P" n="112" break="no"/>quens est falsum consequentia probatur quia talis onsset sine 
+      cha<lb ed="#P" n="113" break="no"/>ritate. Quario sequitur quod honorans parentes tunc cum tene 
+      <lb ed="#P" n="114"/>et sine charitate peccaret. 5. sequitur quod patiens 
+      suppli<lb ed="#P" n="115" break="no"/>cium ne neget christum sine charitate peccaret 
+      contra<lb ed="#P" n="116" break="no"/>augustinum de vera patientia / et ponitur a magistro libro 
+      <lb ed="#P" n="117"/>quarto sententiarum distinctione. 5. capitulo. 6. sequere 
+      <lb ed="#P" n="118"/>tur quod legens horas suas sine charitate peccaret. 
+      <lb ed="#P" n="119"/>hec autem omnia videntur sequi ex hoc quod faciens non fal 
+      <lb ed="#P" n="120"/>cit precepta ex charitate / cum tamen teneatur sic facere 
+      <!--79.xml-->
+      <pb ed="#P" n="30-v"/>
+                  <lb ed="#P" n="1"/>per aduersarium: ergo multa praecepta potest quis 
+      imple<lb ed="#P" n="2" break="no"/>re sine charitate 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e846">
+                  <lb ed="#P" n="3"/>¶ Secundo ad idem arguitur. si aliquis sine 
+      cha<lb ed="#P" n="4" break="no"/>ritate vel gratia potest vitare peccatum: vitet ergo. 
+      <lb ed="#P" n="5"/>tunc quaro vel facit quod tenetur / et habeo intentum. vel non 
+      <lb ed="#P" n="6"/>facit quod tenetur / et illud implicat.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e857">
+      ¶ Oppositum 
+      dubi<lb ed="#P" n="7" break="no"/>patet per magistrum libro secundo distinctione 
+      vicesim<lb ed="#P" n="8" break="no"/>capitulo primo: et sequentibus. Item per augustinum in 
+      li<lb ed="#P" n="9" break="no"/>pro de heresibus. qui dicit hoc partinere ad errorem 
+      pe<lb ed="#P" n="10" break="no"/>agii vt credatur hominem sine charitate implere omnia 
+      <lb ed="#P" n="11"/>mandata posse.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e870">
+      ¶ Pro isto dubio aliqua breuiter 
+      <lb ed="#P" n="12"/>dicendo (quia alias materia ista diffusius tractabitur 
+      <lb ed="#P" n="13"/>in secundo) pono breuiter quattuor conclusiones. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e877">
+                  <lb ed="#P" n="14"/>¶ Prima. Nullus sine charitate creata potest 
+      se<lb ed="#P" n="15" break="no"/>cundum legem communem implere omnia legis praecepta. Ista 
+      <lb ed="#P" n="16"/>conclusio patet ex determinatione ecclesie in decretis. 
+      <lb ed="#P" n="17"/>et quia est certa: ideo non probo eam. Sed dubium est vtrum 
+      <lb ed="#P" n="18"/>aliquod praeceptum possit aliquis adimplere sine charitate 
+      <lb ed="#P" n="19"/>creata. Et licet praedictus doctor videatur dicere quod sic 
+      <lb ed="#P" n="20"/>sine assertione tamen michi videtur dicendum (etiam sine 
+      prae<lb ed="#P" n="21" break="no"/>udicio aliorum) quod non. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e897">
+                  <lb ed="#P" n="22"/>¶ Pro quo sit ista regula. et secunda conclusio q 
+      <lb ed="#P" n="23"/>lullus implet praeceptum nisi impleat opus precepti ad 
+      <lb ed="#P" n="24"/>voluntatem praecipientis. probatur quia si aliter impleatur 
+      <lb ed="#P" n="25"/>opus quam velit impleri praecipiens non seruatur vel 
+      im<lb ed="#P" n="26" break="no"/>pletur plenarie praeceptum. e rgo nullus implet praeceptum 
+      <lb ed="#P" n="27"/>nisi impleatur opus praecepti ad voluntatem 
+      precipien<lb ed="#P" n="28" break="no"/>tis. Exemplum si precipiatur tibi quod comedas in .b. ho 
+      <lb ed="#P" n="29"/>ra esto quod commedas et tum non commedas in b. hora: ceteris 
+      <lb ed="#P" n="30"/>obseruatis paribus: nulli dubium qui priuariceris. nec 
+      <lb ed="#P" n="31"/>facis opus precepti ad voluntatem praecipientis. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e921">
+                  <lb ed="#P" n="32"/>¶ Tertia conclusio. cuiuslibet precepti opus et 
+      <lb ed="#P" n="33"/>similiter cuiuslibet negati obseruantia. non fit sicut 
+      <lb ed="#P" n="34"/>fieri debet sine charitate. probatur auctoritate 
+      grego<lb ed="#P" n="35" break="no"/>rii dicentis in omelia quicquid praecipitur in sola 
+      cha<lb ed="#P" n="36" break="no"/>ritate solidatur. Item btuns cornithi. 16 praepaulus. e 
+      <lb ed="#P" n="37"/>cepit dicens: omnia opera vestra in charitate fiant. 
+      Se<lb ed="#P" n="38" break="no"/>cundo probatur eadem conclusio ratione sic. praecepta 
+      <lb ed="#P" n="39"/>ad hoc facta sunt: et a deo ordinata. vt per ea ad 
+      sa<lb ed="#P" n="40" break="no"/>lutem pergamus et curramus sicut dicit psalmista viam 
+      <lb ed="#P" n="41"/>mandatorum tuorum cucurri. etc. ergo qui non sic currit 
+      <lb ed="#P" n="42"/>non seruat precepta ad intentionem mandant / sed sine 
+      cha<lb ed="#P" n="43" break="no"/>ritate nemo currit viam mandatorum (hoc constat) er 
+      <lb ed="#P" n="44"/>go non facit sicut debet. et per consequens non seruat. 
+      Ter<lb ed="#P" n="45" break="no"/>tio ad idem sic. Non est possibile quod sortes faciat ad 
+      <lb ed="#P" n="46"/>actum eiusdem speciei omnino. cum b actu: et tamen 
+      me<lb ed="#P" n="47" break="no"/>reatur per a et non per b. patet quia tunc actus 
+      merito<lb ed="#P" n="48" break="no"/>rius esset eiusdem speciei omnino cum actu non meri 
+      <lb ed="#P" n="49"/>torio quod non reputo verum. et tamen hoc sequitur euidentur 
+      <lb ed="#P" n="50"/>ad oppositum conclusionis. ergo conclusio vera. 
+      pro<lb ed="#P" n="51" break="no"/>bo quod hoc sequatur quia si sortes impleat sine charita 
+      <lb ed="#P" n="52"/>te a preceptum puta de subueniendo proximo / et 
+      po<lb ed="#P" n="53" break="no"/>stea impleat idem praeceptum cum charitate. sit opus. 
+      pri<lb ed="#P" n="54" break="no"/>mum b secundum c. tunc sic vel b et c sunt eiusdem speciei et 
+      <lb ed="#P" n="55"/>habetur propositum. vel non sunt eiusdem speciei et tunc 
+      <lb ed="#P" n="56"/>sequitur quod per alterum istorum actuum non implebit a 
+      pre<lb ed="#P" n="57" break="no"/>ceptum. quia quodlibet distinctum praeceptum est alicuius 
+      distin<lb ed="#P" n="58" break="no"/>cti operis et determinati. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e983">
+                  <lb ed="#P" n="59"/>¶ Ex istis sequitur quarta conclusio. quod nullum 
+      <lb ed="#P" n="60"/>preceptum potest impleri sine charitate creata de 
+      le<lb ed="#P" n="61" break="no"/>ge communi probatur ex secunda et tertia conclusionibus 
+      suffi<lb ed="#P" n="62" break="no"/>cienter. Et confirmo auctoritate augustini. et habetur 
+      <lb ed="#P" n="63"/>in glosa super illo verbo ad galatas vltimo. neque qui 
+      <!--79.xml-->
+      <lb ed="#P" n="64"/>circuncidunt / legem custodiunt. vbi dicit augustinus 
+      cu<lb ed="#P" n="65" break="no"/>stodibus legis: dicit apostolus Non occidere. non 
+      <lb ed="#P" n="66"/>mechari: et alia huiusmodi ad bonos mores 
+      perti<lb ed="#P" n="67" break="no"/>tentia. quae sine charitate fide et spe impleri non possunt. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1007">
+                  <lb ed="#P" n="68"/>¶ Ex istis conclusionibus infero istud correlarium et 
+      <lb ed="#P" n="69"/>quod quicumque implet praeceptum meretur. et quicumque non me 
+      la<lb ed="#P" n="70" break="no"/>returnon plene seruat praeceptum. quia non implet: idest non 
+      ple<lb ed="#P" n="71" break="no"/>ne seruat. patet quia non facit ad intentionem 
+      praecipien<lb ed="#P" n="72" break="no"/>tis: ergo non facit mandatum mandatis. vt patet per 
+      se<lb ed="#P" n="73" break="no"/>cundam conclusionem. Ex hoc refellitur solutio 
+      pre<lb ed="#P" n="74" break="no"/>dicti doctoris. et aliorum qui concedunt quod sine charitate 
+      <lb ed="#P" n="75"/>nullum preceptum potest iiupleri aa intentionem manda 
+      <lb ed="#P" n="76"/>tis. et cum hoc concedunt quod multa precepta possunt 
+      <lb ed="#P" n="77"/>dimpleri secundum exercitium operis sine charitate. et 
+      con<lb ed="#P" n="78" break="no"/>cedunt quod nullum praeceptum potest seruari meritorie sine 
+      <lb ed="#P" n="79"/>haritate licet posset seruarinon meritorie charitate. 
+      <lb ed="#P" n="80"/>¶ Patet enim hoc esse falsum. quia quodlibet preceptum. 
+      <lb ed="#P" n="81"/>obligat ad intentionem mandantis. non minus quam ad 
+      <lb ed="#P" n="82"/>exertium operis equaliter. ergo est contradictio dicere 
+      <lb ed="#P" n="83"/>mplet preceptum et non implet voluntatem praecipientis 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1044">
+                  <lb ed="#P" n="84"/>¶ Pro solutione igitur rationum doctoris aduer et 
+      <lb ed="#P" n="85"/>si dico tres propositiones Prima. non omnis qui facit 
+      li<lb ed="#P" n="86" break="no"/>quod tenetur implet preceptum. probatur quia prece¬ a 
+      <lb ed="#P" n="87"/>ptum non solum obligat ad operis exercitum vt est in 
+      ti<lb ed="#P" n="88" break="no"/>specie nature actus precise: sed cum hoc vt est in spe 
+      pe<lb ed="#P" n="89" break="no"/>tie moris vt dictum est. sicut non dicitr implere iusticiam qui 
+      fra<lb ed="#P" n="90" break="no"/>cit iustum nisi cum hoc faciat iuste: ita ille non implet praece 
+      <lb ed="#P" n="91"/>tum qui facit quod debet: nisi faciat faciat siut. debet. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1064">
+                  <lb ed="#P" n="92"/>¶ Secunda propositio quilibet actus est alterius 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1069">
+                  <lb ed="#P" n="93"/>¶ pei quo impletur preceptum et in genere moris et in ge est 
+      <lb ed="#P" n="94"/>nere nature actus / quam quicumque actus quo non impletur 
+      par<lb ed="#P" n="95" break="no"/>preceptum. patet ista propoti cum vnus sit meritorius / et a prim 
+      <lb ed="#P" n="96"/>cipio essentiali effectiuo alterius spei / quam alius. quia 
+      <lb ed="#P" n="97"/>vnus est a charitate et alius non / vt dictum est. ergo propoti vera. 
+      <lb ed="#P" n="98"/>Tertia propositio. aliquis ex precepto tenetur et 
+      <lb ed="#P" n="99"/>ad aliquid quod tamen faciendo non implet preceptum. patet 
+      <lb ed="#P" n="100"/>ex duabus praemissis: talis enim obligatur ad tria scilicet ad  
+      <lb ed="#P" n="101"/>pabendmu charitatem. ad faciendum opus. et ad 
+      fa<lb ed="#P" n="102" break="no"/>cinedum ex charitate. sed si faciat opus non 
+      pro<lb ed="#P" n="103" break="no"/>pterhoc implet preceptum. ergo.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1095">
+      ¶ Per hoc patet 
+      <lb ed="#P" n="104"/>resolutio ad ones consequentias / quia omnes ambulant pari 
+      <lb ed="#P" n="105"/>assu: ideo vna sit responsio omnium / videliet quod quilibet 
+      <lb ed="#P" n="106"/> subuenit necessitatem patienti / vel qui legit horas / vel 
+      <lb ed="#P" n="107"/>honorat parentes / sinecharitate: tunc (cum tenetur ista 
+      <lb ed="#P" n="108"/>racere in charitate) peccat sed non peccat. talia bona 
+      <lb ed="#P" n="109"/>ppera faciendo quia tenetur ad ea: sed omittendo peccat 
+      <lb ed="#P" n="110"/>quia omissio est qua minus implet praeceptum minus et 
+      <lb ed="#P" n="111"/>go peccat orans sine charitate quam non orans inquantum 
+      <lb ed="#P" n="112"/>minus omittit. et sic dicitur de aliis. Et hoc primo dubio. 
+      <lb ed="#P" n="113"/>Secundum dubium est ratione terti argumenti 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1120">
+                  <lb ed="#P" n="114"/>¶ facti ad oppositum vtrum deus possit auferre rectitudi S 
+      <lb ed="#P" n="115"/>dinem voluntatis a voluntate. Et arguitur quod non aucto 
+      di<lb ed="#P" n="116" break="no"/>ritate beati anselmi de libero arbitrio capitulo. 4 
+      <lb ed="#P" n="117"/>ibi ponit descriptionem rectitudinis voluntatis 
+      dicen<lb ed="#P" n="118" break="no"/>tis. Obseruare rectitudinem voluntatis est velle quod 
+      <lb ed="#P" n="119"/>deus vult illam velle. Ex qua arguitur sic: si deus 
+      sepa<lb ed="#P" n="120" break="no"/>raret rectitudinem voluntatis ab aliqua creatura 
+      ra<lb ed="#P" n="121" break="no"/>tionali aut hoc faceret nolens: aut volens. primum deo 
+      <lb ed="#P" n="122"/>non est attribuendum. quia nolens non potest aliquid facere. 
+      <lb ed="#P" n="123"/>nec etiam volens quia tunc posset velle voluntatem non 
+      <lb ed="#P" n="124"/>velle illud quod vult eam velle. consequens est impossibile 
+      <lb ed="#P" n="125"/>et concludit ibi anselmus quia nichil magis impossibile 
+      <lb ed="#P" n="126"/>est quam deum auferre rectitudinem voluntatis.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1151">
+      ¶ Sed 
+      <!--80.xml-->
+      <pb ed="#P" n="31-r"/>
+                  <lb ed="#P" n="1"/>oppositum huius dubii arguitur sic. nichil est in voluntate 
+      <lb ed="#P" n="2"/>causatum vel creabile a solo deo. vel a deo et aliis 
+      con<lb ed="#P" n="3" break="no"/>currentibus agentibus: quin ipsum sit anichilabile. etiam 
+      vo<lb ed="#P" n="4" break="no"/>luntate manente. sed rectitudo voluntatis est aliquid 
+      <lb ed="#P" n="5"/>causatum vel creabile a deo in ipsa voluntate: ergo 
+      <lb ed="#P" n="6"/>rectitudinem voluntatis deus potest auferre. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1171">
+                  <lb ed="#P" n="7"/>¶ Pro responsione ad istud dubium pono quattuorum 
+      <lb ed="#P" n="8"/>conclusiones. Prima rectitudo voluntatis simpliciter 
+      <lb ed="#P" n="9"/>et non secundum quid / de communi lege includit gratiam. Proba 
+      <lb ed="#P" n="10"/>tur. voluntas carens rectitudine / non potest eam habere 
+      <lb ed="#P" n="11"/>a se: nec ab aliqua creatura: ergo habet a gra. antecedens 
+      <lb ed="#P" n="12"/>est anselmi vbi supra. capitulo decimo quarto dicentis 
+      <lb ed="#P" n="13"/>nullo modo potest creatura non habens rectitudinem 
+      <lb ed="#P" n="14"/>habere ipsam a se. sed neque creatura valet eam habere 
+      <lb ed="#P" n="15"/>ab alia creatura. quia sicut nequit saluari ab ea: ita 
+      no<lb ed="#P" n="16" break="no"/>potest illi dare / propter quod debeat saluari. sequitur vtique 
+      <lb ed="#P" n="17"/>quod nulla creatura rectitudinem voluntatis habet nisi 
+      <lb ed="#P" n="18"/>per gratiam dei et infra. deo ergo largiente inuenimus 
+      <lb ed="#P" n="19"/>ad saluandum hominem cum libero arbitrio / gratiam 
+      concor<lb ed="#P" n="20" break="no"/>dare. ita vt gratia sola possit hominem saluare nichil eius 
+      <lb ed="#P" n="21"/>libertate arbitrii agente. sicut in infantibus et in intelligentibus 
+      <lb ed="#P" n="22"/>qpeia enim sper iuuat liberum arbitrium naturale ita quod 
+      sine<lb ed="#P" n="23" break="no"/>illa nichil valet ad saluandum / dando voluntati 
+      recti<lb ed="#P" n="24" break="no"/>tudinem: ergo videtur quod rectitudo includat gratiam 
+      <lb ed="#P" n="25"/>Secunda conclusio. deus potest velle voluntatem 
+      <lb ed="#P" n="26"/>non velle quod vult eam velle / in sensu diuiso. 
+      Pro<lb ed="#P" n="27" break="no"/>batur quia deus potest velle voluntatem cras non velle 
+      <lb ed="#P" n="28"/>quod nuno vult eam velle: ergo potest voluntatem 
+      non<lb ed="#P" n="29" break="no"/>velle quod vult eam velle. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1223">
+                  <lb ed="#P" n="30"/>¶ Tertia conclusio. lhec est possibilis deus non vult 
+      <lb ed="#P" n="31"/>poluntatem velle quod vult eam velle. Probatur quia 
+      <lb ed="#P" n="32"/>potest velle voluntatem nichil velle et ipsam ab omni 
+      <lb ed="#P" n="33"/>actu suo suspendere: ergo. et cera. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1234">
+                  <lb ed="#P" n="34"/>¶ Quarta conclusio. deus potest rectitudinem. 
+      <lb ed="#P" n="35"/>voluntatis auferre ab ea. Patet ex dictis.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1241">
+      ¶ Tunc 
+      <lb ed="#P" n="36"/>ad anselmum potest dici primo quod dictum anselmi. 
+      intel<lb ed="#P" n="37" break="no"/>ligendum est de potentia dei ordinata. et secundum legen num 
+      <lb ed="#P" n="38"/>currentem. quia sic loquendo deus non potest auferre 
+      re<lb ed="#P" n="39" break="no"/>ctitudinem voluntatis sine eius demerito. Nam 
+      quamdiu<lb ed="#P" n="40" break="no"/>voluntas vult illud quod deus vult eam velle / ipse 
+      <lb ed="#P" n="41"/>non demeretur: ergo quamdiu sic vult non potest sibi 
+      au<lb ed="#P" n="42" break="no"/>ferri rectitudo a deo. sed ipsa pottest suam rectitur 
+      <lb ed="#P" n="43"/>dinem deserere deformiter volendo a seipsa. Uelssecundo 
+      <lb ed="#P" n="44"/>potest glosari dictum anselmi sicut ipsemet exponit in 
+      <lb ed="#P" n="45"/>libro de concordia capitulo. 6. quod non potest auferri inuito 
+      <lb ed="#P" n="46"/>etiam a deo. sic (inquit ansclimus) ostensum est quo modo 
+      <lb ed="#P" n="47"/>naturaliter et inseparabiliter si: in homine hec libertas 
+      <lb ed="#P" n="48"/>quamuis non ea semper vtatur / et quod ita sit fortis quod nulla 
+      <lb ed="#P" n="49"/>res homini rectitudinem predictam idest iusticiam quam 
+      <lb ed="#P" n="50"/>habet / quamdiu hac licite vti voluerit auferre potest et 
+      <lb ed="#P" n="51"/>quibusdam interpositis subdit concludendo. Ex que 
+      <lb ed="#P" n="52"/>patet quod deus non potest illam eandem rectitudinem 
+      aufer<lb ed="#P" n="53" break="no"/>re inuito quand non potest hoc velle. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1284">
+                  <lb ed="#P" n="54"/>¶ Tertium dubium contra conclusionem secunda 
+      <lb ed="#P" n="55"/>quia videtur quod impossibile sit simpliciter de non 
+      cha<lb ed="#P" n="56" break="no"/>ro fieri charum sine charitate creata. quod probatur 
+      <lb ed="#P" n="57"/>primo sic. si aliqua propositio verificabilis est de 
+      re<lb ed="#P" n="58" break="no"/>bus et ad eius veritatem non suffictunt due res: 
+      neces<lb ed="#P" n="59" break="no"/>se est ponere rem tertiam vel plures / ad hoc quod sit ve¬ 
+      <!--80.xml-->
+      <lb ed="#P" n="60"/>ra. sed hec propositio sortes est charus deo est 
+      hu<lb ed="#P" n="61" break="no"/>iusmodi / ergo etc. Minor patet quia ad ipsam esse 
+      <lb ed="#P" n="62"/>veram / non sufficit quod deus sit / et quod sortes sit: ergo 
+      requi<lb ed="#P" n="63" break="no"/>ritur aliquod tertium. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1310">
+                  <lb ed="#P" n="64"/>¶ Secundo sic. nichil potest esseoditum a deo S 
+      <lb ed="#P" n="65"/>nisi voluntas diuina repperiat in eo aliquod 
+      odibi<lb ed="#P" n="66" break="no"/>le ex natura rei. Igitur per oppositum nichil potest 
+      <lb ed="#P" n="67"/>esse charum deo / nisi in quo est charitas. sed nichil alipe 
+      <lb ed="#P" n="68"/>est dilectum a deo ex natura rei nisi sit charitas loquin 
+      <lb ed="#P" n="69"/>do de dilectione speciali / ergo etc. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1326">
+                  <lb ed="#P" n="70"/>¶ Tertio. nullus actus eternus et immutabilis 
+      <lb ed="#P" n="71"/>de nouo transit super aliquod obiectum / nisi eius obiectum 
+      <lb ed="#P" n="72"/>eternum et immutabile de nouo participetur ab eodem 
+      ob<lb ed="#P" n="73" break="no"/>ecto super quod de nouo transit. sed actus dilectionis vel 
+      <lb ed="#P" n="74"/>cceptationis diuine voluntatis nunc acceptat istum. 
+      <lb ed="#P" n="75"/>modo non acceptat / scilicet dum est in peccato mortali / en 
+      <lb ed="#P" n="76"/>necesse est quod ab ipso participetur formaliter aliquod 
+      <lb ed="#P" n="77"/>obieotum eternaliter dilectum / hoc autem non potest esse 
+      <lb ed="#P" n="78"/>diuina essentia / nec aliqua substantia creata / cum 
+      nu<lb ed="#P" n="79" break="no"/>li accidat. ergo illud est forma accidentalis que est 
+      <lb ed="#P" n="80"/>charitas. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1352">
+                  <lb ed="#P" n="81"/>¶ Istis non obstantibus teneo conclusionem supra  
+      <lb ed="#P" n="82"/>positam videlicet: quod aliquis potest esse acceptus ad 
+      vi<lb ed="#P" n="83" break="no"/>tam eternam de potentia dei absoluta sine charitate 
+      <lb ed="#P" n="84"/>creata. Et ideo pro solutione primi argumenti pono  
+      <lb ed="#P" n="85"/>quattuor conclusiones. Prima stat aliquam 
+      proposi<lb ed="#P" n="86" break="no"/>tionem posse verificari de rebus / et ad eius veritatem non 
+      <lb ed="#P" n="87"/>ufficere esse res qui numo sunt: et tamen ad hoc quod sit vera / nul 
+      <lb ed="#P" n="88"/>am rem oportet esse de nouo. probatur de ista sortes habet 
+      <lb ed="#P" n="89"/>spiritum sanctsi. ad cuius veritatem non sufficit sortem esse. et 
+      <lb ed="#P" n="90"/>pum esse: et tamen nulla alia res requiritur ad hoc quod sit vera. 
+      <lb ed="#P" n="91"/>similiter de ista humaina natura sortis est vnita deo. 
+      <lb ed="#P" n="92"/>Item de ista sortes est indutus cappa¬ 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1381">
+                  <lb ed="#P" n="93"/>¶ Secunda conclusio. Si aliquot res non sint  
+      <lb ed="#P" n="94"/>tot quoti sufficiunt ad veritatem alicuius date proposit 
+      <lb ed="#P" n="95"/>tionis: tunc ad hoc quod ipsa propositio sit vera requiruntur 
+      <lb ed="#P" n="96"/>plures res. verbi gratia si ad veritatem istius sortes 
+      ha<lb ed="#P" n="97" break="no"/>bet oappam in ecclesia / non sufficiunt due res scilicet sortes 
+      <lb ed="#P" n="98"/>et ecclesia / vel sortes et cappa: necessario redritur. 
+      <lb ed="#P" n="99"/>Tertia / si debet esse vera. patet ista de se. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1399">
+                  <lb ed="#P" n="100"/>¶ Tertia conclusio. licet ad veritatem istius 
+      sor<lb ed="#P" n="101" break="no"/>tes est charus deo non sufficiat deum esse / et sortem esse: 
+      <lb ed="#P" n="102"/>tamen deus et sortes sunt tot res quot sufficiunt ad dicte 
+      <lb ed="#P" n="103"/>propositionis veritatem / Prima pars patet ex prima 
+      concli<lb ed="#P" n="104" break="no"/>sione et eiusdem mrobatione. Secunda probatur quia 
+      <lb ed="#P" n="105"/>sufficit deus ad acceptandum et sortes ad esse 
+      acce<lb ed="#P" n="106" break="no"/>ptum. ergo etc. assumpium probatur in conclusione prima. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1418">
+                  <lb ed="#P" n="107"/>¶ Ex quibus sequitur quarta videlicet quod 
+      nul<lb ed="#P" n="108" break="no"/>la res de necessitate requiritur ad hoc quod sortes sit charus 
+      <lb ed="#P" n="109"/>deo nisi deus et sortes. Tunc per hoc ad 
+      argumen<lb ed="#P" n="110" break="no"/>tum respondetur. quod maior potest habere sensum 
+      con<lb ed="#P" n="111" break="no"/>clusionis prime et tunc est falsa. vel habet sensum 
+      scilica<lb ed="#P" n="112" break="no"/>cunde et tunc concedenda. et neganda est minor. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1434">
+                  <lb ed="#P" n="113"/>¶ Quantum ad secundum argumentum sit prima 
+      <lb ed="#P" n="114"/>propositio ista Nulla entitas de sui natura est 
+      odi<lb ed="#P" n="115" break="no"/>bilis. probatur quia quelibet entitas ex sui 
+      natura<lb ed="#P" n="116" break="no"/>est bona secundum augustinum de natura boni. ergo etc. 
+      <lb ed="#P" n="117"/>Secunda propositio. Nullam entitatem deus odit 
+      <!--81.xml-->
+      <pb ed="#P" n="31-v"/>
+                  <lb ed="#P" n="1"/>sic quod ipsa natura sit obiectum oditum: probatur ex praecedente 
+      <lb ed="#P" n="2"/>Item in scriptura. nichil odisti eorum que fecisti. 
+      sapieu<lb ed="#P" n="3" break="no"/>tie. 5. et per magistrum libro. 3. distinctione. 3. vbi 
+      notan<lb ed="#P" n="4" break="no"/>dum quod deus quando dicitur odire / istud vocabulum odire 
+      <lb ed="#P" n="5"/>capitur valde large scilicet pro non diligere speciali mode 
+      <lb ed="#P" n="6"/>dilectionis ad glortam / et ita dicitur ad romanos nono 
+      <lb ed="#P" n="7"/>Iacob dilexi esau autem odio habut 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1467">
+                  <lb ed="#P" n="8"/>¶ Tertia propositio. Ticet quelibet entitas sit 
+      di<lb ed="#P" n="9" break="no"/>igibilis et a deo dilecta: nulla tamen ex sui natura est odim 
+      <lb ed="#P" n="10"/>bilis vel a deo odita / eo modo quo dicit propositio 
+      prae<lb ed="#P" n="11" break="no"/>cedens. patet per scripturam sapientie vbi supra dicente 
+      <lb ed="#P" n="12"/>diligis enim omnia nichil odis etc. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1480">
+                  <lb ed="#P" n="13"/>¶ Quarta propositio. ad rem esse oditam aliquae 
+      <lb ed="#P" n="14"/>modo a deo / large capiendo odire (sicut expositum est 
+      <lb ed="#P" n="15"/>prius) non oportet aliquam rem odibilem esse formaliter 
+      <lb ed="#P" n="16"/>in ipsa re. patet quia quandoque aliquis est sic oditus id est 
+      <lb ed="#P" n="17"/>in tali statu in quo si decesserit damnabitur / proper solam 
+      <lb ed="#P" n="18"/>carentiam actus debiti. vel propter actum transeuntem. quam 
+      <lb ed="#P" n="19"/>non relinquit aliquem habitum in anima vel formaliter 
+      inheren<lb ed="#P" n="20" break="no"/>tem odibilem ergo etc.
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1500">
+      ¶ Per hoc ad formam negatur 
+      <lb ed="#P" n="21"/>antecedens et consequentia et consequens sicut neganda 
+      appa<lb ed="#P" n="22" break="no"/>rent ex propositionibus dictis. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1507">
+                  <lb ed="#P" n="23"/>¶ Quantum ad tertium argumentum premitto istam 
+      <lb ed="#P" n="24"/>distinctionem: quod acceptatio vel dilectio potest capi 
+      tripl<lb ed="#P" n="25" break="no"/>citer / vno modo grentialiter et illo modo deus omnia diligit 
+      <lb ed="#P" n="26"/>Alio modo specialiter modo quo praedestinatos tantum 
+      dili<lb ed="#P" n="27" break="no"/>git. Tertio modo prout vltra primum modum 
+      cognota<lb ed="#P" n="28" break="no"/>dilectum esse in tali dispositioe vel statu in quo si per 
+      <lb ed="#P" n="29"/>seuerauerit saluabitur. et illo modo diligit indifferenter 
+      <lb ed="#P" n="30"/>omines qui sunt in gratia. 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1528">
+                  <lb ed="#P" n="31"/>¶ hoc premisso sit prima propositio ista. Actus 
+      <lb ed="#P" n="32"/>diuine / acceptionis primo modo dicte vel dilectionis 
+      <lb ed="#P" n="33"/>super nullam rem transit de nouo. patet quia omnia entia isto 
+      med<lb ed="#P" n="34" break="no"/>diligit et eternaliter dilexit / nec transit iste actos modo 
+      <lb ed="#P" n="35"/>super vnum obiectum modo vero super illud vel super alide. 
+      <lb ed="#P" n="36"/>vt notum est: ergo propositio vera 
+    </p>
+               <p xml:id="oooo3o-k18256-d1e1544">
+                  <lb ed="#P" n="37"/>¶ Secunda. actus dilectionis secudo modo 
+      dicte<lb ed="#P" n="38" break="no"/>diuine non transit super alquod obiectum de nouo. patet 
+      <lb ed="#P" n="39"/>sicut praecedens / cum deus nullum de nouo predestinet 
+      <lb ed="#P" n="40"/>Tertia propositio. loquendo de diuina accepta 
+      <lb ed="#P" n="41"/>tione tertio modo (scilicet pro vt cognotat dilectum esse 
+      ip<lb ed="#P" n="42" break="no"/>tali dispositione / in qua si perseuerauerit saluabitu) tunc 
+      <lb ed="#P" n="43"/>bene potest concedi transire super aliquod obiectum de nouo Pius 
+      <lb ed="#P" n="44"/>quia aliquis non est modo in tali dispone et potest esse cras 
+      <lb ed="#P" n="45"/>quia hodie est in mortali cras erit in gratia vel charitate. 
+      <lb ed="#P" n="46"/>¶ Quarta propositio. Imposibile est intrinseca 
+      <lb ed="#P" n="47"/>denominatione / quempiam esse acceptum deo acceptatione 
+      <lb ed="#P" n="48"/>perfecte amicicie / siue habituvlfactu charitatis infuse 
+      <lb ed="#P" n="49"/>probatur ista / quia impossibile est deum supplere vicem causi 
+      <lb ed="#P" n="50"/>formalis. et eque impossibile est vnam formam supplere 
+      <lb ed="#P" n="51"/>vicem alterius specifice distincte. ergo propotio vera. Tunc ad  
+      <lb ed="#P" n="52"/>formam argumenti negatur minor in sensum prime et secundi 
+      <lb ed="#P" n="53"/>propositionum. et conceditur in sensu tertie sed tunc non 
+      su<lb ed="#P" n="54" break="no"/>mitur bene sub maiore: ergo nichil concluditur etc. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

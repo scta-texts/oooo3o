@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="25-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k16021"><!--l1d9-13q2 -->
+            <head xml:id="oooo3o-k16021-Hd1e99">Quaestio 2</head>
+            <p xml:id="oooo3o-k16021-d1e101">
+               <lb ed="#P" n="56"/>SEcundo circa materiam 
+      distinctio<lb ed="#P" n="57" break="no"/>num predictarum Quero vtrum hec 
+      con<lb ed="#P" n="58" break="no"/>sequentia sit bona / spiritus sanctus non 
+      <lb ed="#P" n="59"/>procedit a filio erdo non distinguitur. ab 
+      <lb ed="#P" n="60"/>eodem 
+    </p>
+            <p xml:id="oooo3o-k16021-d1e114">
+               <lb ed="#P" n="61"/>¶ Et arguo quod sic. quia oppositum consequentis 
+      <!--69.xml-->
+      <lb ed="#P" n="62"/>repugnat antecedenti ergo. consequentia bona 
+      as<lb ed="#P" n="63" break="no"/>sumptum probatur primo sic spiritus sancto distingui 
+      <lb ed="#P" n="64"/>a filio (quod est oppositum consequentis) ergo vnus 
+      <lb ed="#P" n="65"/>est ab alio. sed filius non est a spiritum sancto. ergo 
+      econuer<lb ed="#P" n="66" break="no"/>so spiritus sctuns est a filio / quodem oppositum antecedentis. 
+      con<lb ed="#P" n="67" break="no"/>sequentia patet quia distinctio personarum infert 
+      relatio<lb ed="#P" n="68" break="no"/>nes originis oppositas et distinctas quod patet 
+      aucto<lb ed="#P" n="69" break="no"/>riiate boecii in libro de trinitate circa finem. relatio 
+      <lb ed="#P" n="70"/>multiplicat trinitatem et substantia continet vnitatem 
+      <lb ed="#P" n="71"/>ergo consequentia bona videlicet ista filius non est 
+      <lb ed="#P" n="72"/>a spiritu sancto. ergo spiritus sanctus est a filio. et precc 
+      <lb ed="#P" n="73"/>consequens prima consequentia fuit bona. 
+    </p>
+            <p xml:id="oooo3o-k16021-d1e147">
+               <lb ed="#P" n="74"/>¶ Secudo spiritus sanct distinguitur a filio ergo.  
+      <lb ed="#P" n="75"/>spiritus sanctus est: ergo spiratio passiua est / et vltra se in 
+      <lb ed="#P" n="76"/>quitur: spiratio passiua est: ergo spiratio actiua est. sed 
+      <lb ed="#P" n="77"/>ista est a filio: ergo de primo ad vltimum si spiritus sactuns 
+      <lb ed="#P" n="78"/>non procedit a filio non distinguitur etc. 
+    </p>
+            <p xml:id="oooo3o-k16021-d1e160">
+               <lb ed="#P" n="79"/>¶ Tertio spiritus sanctus et filius distinguntur. ergo.  
+      <lb ed="#P" n="80"/>filius est et vltra: ergo filius potest spirare et vltra: ergo 
+      <lb ed="#P" n="81"/>spirat: quia posse et esse in diuinis sunt idem. Secunda 
+      con<lb ed="#P" n="82" break="no"/>sequentia probatur. quia eo ipso quo est filius communicatur 
+      <lb ed="#P" n="83"/>ei natura diuina siue voluntas perfecte tanquam principium 
+      <lb ed="#P" n="84"/>quo potest spirare: ergo.  
+    </p>
+            <p xml:id="oooo3o-k16021-d1e177">
+               <lb ed="#P" n="85"/>¶ In oppositum arguitur si esset bona predicta  
+      <lb ed="#P" n="86"/>consequentia filius non procedit a spiritus sancto: ergo spiritus 
+      <lb ed="#P" n="87"/>sctuns procedit a filio: faciliter conuinci possent greci ad 
+      <lb ed="#P" n="88"/>concedendum spiritum sanctum procedere a filio per 
+      di<lb ed="#P" n="89" break="no"/>ctam consequentiam. sed istud consequens est falsum. quia 
+      <lb ed="#P" n="90"/>frustra videretur laborasse anselmus faciendo librum 
+      <lb ed="#P" n="91"/>de processione spiritus sancti contra grecos: si possent 
+      <lb ed="#P" n="92"/>per dictam consequentiam conuerti. et cunsequentia 
+      proba<lb ed="#P" n="93" break="no"/>tur: pa ipsi concedunt oppositum consequentis stare cum 
+      <lb ed="#P" n="94"/>quia antecedente: ergo videtur quod consequentia ista non sit bona. 
+      <lb ed="#P" n="95"/>Primo premittam propositiones de supposito. secundo. 
+      <lb ed="#P" n="96"/>ponam conclusiones de quasito. tertio ad rationes respondeba. 
+    </p>
+            <div xml:id="oooo3o-k16021-Dd1e206">
+               <head xml:id="oooo3o-k16021-Hd1e208">Articulus 1</head>
+               <p xml:id="oooo3o-k16021-d1e210">
+                  <lb ed="#P" n="97"/>Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e215">
+                  <lb ed="#P" n="98"/>QUantum ad primum sit prima 
+      proposi<lb ed="#P" n="99" break="no"/>tio ista: omnis distinctio realis est 
+      inter<lb ed="#P" n="100" break="no"/>extrema positiua.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e224">
+      ¶ Ista patetsatis quia 
+      <lb ed="#P" n="101"/>sicut entis sunt differentie. ita etc. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e229">
+                  <lb ed="#P" n="102"/>¶ Secunda. quod nichil est: nulla 
+      di<lb ed="#P" n="103" break="no"/>stinguitur. patet ex precedente. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e237">
+                  <lb ed="#P" n="104"/>¶ Tertia. si solum sit vna res nulla erit 
+      distinctio<lb ed="#P" n="105" break="no"/>patet quia non erunt extrema. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e244">
+                  <lb ed="#P" n="106"/>¶ Quarta. Aliqua conditionalis est dubia. vel 
+      du<lb ed="#P" n="107" break="no"/>ditabilis: cuius quelet pars est impossibilis. Patet de consequentia i 
+      <lb ed="#P" n="108"/>pposita quae est vna conditionalis et quaelicet pars impossibilis 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e253">
+                  <lb ed="#P" n="109"/>¶ Quinta propons. salsi vel impossibilis no impedit  
+      <lb ed="#P" n="110"/>puenientiam quastionis suppotio probatur nam si per se impossibile homo n 
+      <lb ed="#P" n="111"/>esset irrationalis posset esse conueniens quastio vtrum distingueretur 
+      <lb ed="#P" n="112"/>ab asino. et dicta supponfli non sper impedit veritatem proponis 
+      <lb ed="#P" n="113"/>Patet per beatum augustinum. 1 de trinitate cap. 6 dicentem 
+      <lb ed="#P" n="114"/>si pater non esset innascibilis nichous genuisset filium / certum 
+      <lb ed="#P" n="115"/>est autem quod condifio supponita est impossibilis: et tamen propotie est 
+      <lb ed="#P" n="116"/>vera.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e273">
+      ¶ Confirmatur per richardum. 3 de trini. cap. 16. vbi 
+      <lb ed="#P" n="117"/>dicit quod si tantum esset ipsa persona ipsa haberet plenitudinem 
+      sa<lb ed="#P" n="118" break="no"/>pientie: ergo videtur quod suppoti falsi vel impossibilis non impedit 
+      <lb ed="#P" n="119"/>vritatem propositionis.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e282">
+      ¶ Ex quibus sequitur. Sexta propotio quod quaestio 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e284">
+                  <lb ed="#P" n="120"/>¶ propomnita non est irrationalis sicut quidam dicunt quod probatur quia licet 
+      <!--70.xml-->
+      <pb ed="#P" n="26-r"/>
+                  <lb ed="#P" n="1"/>supponat impossibile tamen. ex isto supposito non 
+      <lb ed="#P" n="2"/>sequuntur contradictoria in consequentia simplici. 
+      <lb ed="#P" n="3"/>nec infertur formaliter ex ea negatio subiecti. ergo. 
+      <lb ed="#P" n="4"/>non est irrationabilis. consequentia nota cum dicte 
+      <lb ed="#P" n="5"/>conditiones sufficiant ad hoc vt quaestio sit rationabilis. 
+      <lb ed="#P" n="6"/>Pro quo est notandum quod tres conditiones 
+      <lb ed="#P" n="7"/>precipue requiruntur ad questionem esse rationabilem 
+      <lb ed="#P" n="8"/>Prima quod suppositum questionis in 
+      consequen<lb ed="#P" n="9" break="no"/>tia essentiali et simplici non inferat contradictoria. 
+      <lb ed="#P" n="10"/>et ideo propter defectum istius conditionis hec est 
+      <lb ed="#P" n="11"/>nconueniens questio. vtrum si tusc is te esse lapidem 
+      <lb ed="#P" n="12"/>escias te esse lapidem. quia sequitur tum scis te esse 
+      <lb ed="#P" n="13"/>apidem ergo tu es lapis / et sequitur iterum tu es 
+      la<lb ed="#P" n="14" break="no"/>pis ergo nichil scis. ergo si tu scis te esse lapidem 
+      tu<lb ed="#P" n="15" break="no"/>nichil scis que sunt contradictoria. Et dico 
+      notan<lb ed="#P" n="16" break="no"/>ter in consequentia essentiali et simplici. quia si ex 
+      <lb ed="#P" n="17"/>accidentali consequentia / ex suppositio infertur vnum et 
+      <lb ed="#P" n="18"/>ex essentiali consequentia / ex supposito infertur aliud 
+      <lb ed="#P" n="19"/>non impedit idoneitatem questionis: sicut hic. si 
+      ho<lb ed="#P" n="20" break="no"/>mo non sit risibilis nunquam esset homo / hic 
+      essentiali<lb ed="#P" n="21" break="no"/>ter sequitur quod homo sit homo ex supposito. Sed per 
+      <lb ed="#P" n="22"/>accidens: siue accidentaliter infertur quod homo non 
+      <lb ed="#P" n="23"/>est homo: quia homo non potest esse non risibilis. hec 
+      <lb ed="#P" n="24"/>paulus de perusio libro primo distinctione. 41. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e346">
+                  <lb ed="#P" n="25"/>¶ Secunda conditio. quod suppositum vel 
+      condi<lb ed="#P" n="26" break="no"/>tio fundetur super aliquo vero. verbi gratia ista si 
+      <lb ed="#P" n="27"/>asinus volat asinus habet alas. fundatur super isto 
+      <lb ed="#P" n="28"/>vero: esse volans habet alas. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e357">
+                  <lb ed="#P" n="29"/>¶ Tertia conditio. quod suppositum non inferat 
+      <lb ed="#P" n="30"/>negationem subiecti vt si dicerem si homo non esset 
+      <lb ed="#P" n="31"/>rationalis nunquam esset homo. ista conditio esset 
+      im<lb ed="#P" n="32" break="no"/>possibilis. quia sequitur hoc non est rationale ergo 
+      <lb ed="#P" n="33"/>non est homo. Secundo supponit questio spiritum 
+      <lb ed="#P" n="34"/>sanctum procedere: a filio: et quia etiam procedit a 
+      <lb ed="#P" n="35"/>patre a quo procedit et filius: ideo vt videatur vtrum 
+      <lb ed="#P" n="36"/>productio filii in diuinis sit prior productione spiritus 
+      <lb ed="#P" n="37"/>sancti: et vtrum aliqua prioritas sit ponenda ibi: 
+      prae<lb ed="#P" n="38" break="no"/>mitto aliquas declarationes: ex quibus inferam pro 
+      <lb ed="#P" n="39"/>positiones.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e383">
+      ¶ Quantum ad primum sciendum quod 
+      queli<lb ed="#P" n="40" break="no"/>bet prioritas vel posterioritas presupponit aliquam 
+      <lb ed="#P" n="41"/>habentia ordinem inter se secundum prius et 
+      posto<lb ed="#P" n="42" break="no"/>tius ide primo videndum est quid sit ordo. Describo 
+      <lb ed="#P" n="43"/>ergo ordinem sic. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e394">
+                  <lb ed="#P" n="44"/>¶ Ordo est habitudo aliquorum distinctorum 
+      <lb ed="#P" n="45"/>inter se habentium se aliquo modo similiter. et 
+      ali<lb ed="#P" n="46" break="no"/>quo modo dissimiliter / terminata ad aliquod vnum 
+      <lb ed="#P" n="47"/>primum / et si est ordo originis oportet quod istud primum 
+      <lb ed="#P" n="48"/>sit originatiuum. Prima pars huius descriptionis 
+      <lb ed="#P" n="49"/>patet. quia vbi nulla est habitudo nullus est ordo. 
+      <lb ed="#P" n="50"/>et secunda similiter quia eiusdem ad seipsum (vt sic 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e412">
+                  <lb ed="#P" n="51"/>¶ non est aliquis ordo. oportet ergo ea esse distincta in 
+      <lb ed="#P" n="52"/>ter se. Tertia pars videlicet quod in aliquo sint similia 
+      <lb ed="#P" n="53"/>et in aliquo dissimilia. Patet nam illa que nullam 
+      <lb ed="#P" n="54"/>similitudinem habent. non sunt (vt sic) adinuicem 
+      or<lb ed="#P" n="55" break="no"/>dinata. quia qua ratione vnum ordinaretur ad aliude 
+      <lb ed="#P" n="56"/>eadem ratione formaliter / esset econtra et sic 
+      tollere<lb ed="#P" n="57" break="no"/>tur ordo / et poneretur confusio. vnde beatus 
+      au<lb ed="#P" n="58" break="no"/>gustinus. 19 de ciuitate ca. ii. ordo est parium d 
+      spea<lb ed="#P" n="59" break="no"/>riumque rerum in sua cuique tribuens loca: optima 
+      di<lb ed="#P" n="60" break="no"/>positio. Quarta quod ille ordo terminetur ad aliquod 
+      <lb ed="#P" n="61"/>primum / quia sicut habetur secundo methapstisice 
+      <!--70.xml-->
+      <lb ed="#P" n="62"/>ablato primo / tolletur omnis ordo. Requiritur 
+      vl<lb ed="#P" n="63" break="no"/>timo quod illud primum sit originatiuum si debet ibi 
+      <lb ed="#P" n="64"/>esse ordo originis. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e447">
+                  <lb ed="#P" n="65"/>¶ Ex istis infero quod in diuinis est ordo originis 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e453">
+                  <lb ed="#P" n="66"/>¶ atet. quia in diuinis est talis habitudo cum 
+      omni<lb ed="#P" n="67" break="no"/>pus circunstantiis requisitis predictis: sicut potest 
+      <lb ed="#P" n="68"/>faciliter declarari. et ipsam declarat michael de 
+      mas<lb ed="#P" n="69" break="no"/>sa distinctione. 13. questione prima.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e464">
+      ¶ habito quod in 
+      <lb ed="#P" n="70"/>diuinis sit ordo originis: videndum est qualiter in 
+      di<lb ed="#P" n="71" break="no"/>tinis sit prius et posterius. vbi sciendum quod 
+      aristo<lb ed="#P" n="72" break="no"/>teles. 5. methaphice distinguit: modos prioris et 
+      po<lb ed="#P" n="73" break="no"/>sterioris penes modos ordinis: et ponit septem 
+      mo<lb ed="#P" n="74" break="no"/>dos ordinis et per consequens prioris et 
+      posterio<lb ed="#P" n="75" break="no"/>ris. Primus est ordo durationis. secundus ordo 
+      lo<lb ed="#P" n="76" break="no"/>calis vel secundum locum. tertius ordo secundum 
+      <lb ed="#P" n="77"/>motum causalis. quartus ordo secundum potentiam. 
+      <lb ed="#P" n="78"/>Quintus ordo dignitatis. Sextus ordo 
+      cognitio<lb ed="#P" n="79" break="no"/>nis. Septimus ordo secundum naturam. Nam si 
+      in<lb ed="#P" n="80" break="no"/>ter aliqua est ordo durationis inter illa est primus 
+      <lb ed="#P" n="81"/>modus prioris et posterioris / qui dicitur secundum 
+      <lb ed="#P" n="82"/>tempus / aliter tamen est in preteritis et futuris. quia 
+      <lb ed="#P" n="83"/>in preteritis / illud est prius / quod plus distat a nunc 
+      <lb ed="#P" n="84"/>siue a presenti. sed in futuris est oppositum. quia 
+      il<lb ed="#P" n="85" break="no"/>lud est prius futurum quod minus distat a nunc. 
+      <lb ed="#P" n="86"/>Si autem sit ordo distinctorum secundum locum: sic est 
+      <lb ed="#P" n="87"/>secundus modo prioris / et hoc modo ignis est praeor terra/ 
+      <lb ed="#P" n="88"/>quia est propinquior primo locanti scilicet celo. Si 
+      <lb ed="#P" n="89"/>autem inter aliqua sit ordo secundum motum: sic est 
+      ter<lb ed="#P" n="90" break="no"/>lius modus prioritatis. Et isto modo illud est prius 
+      <lb ed="#P" n="91"/>quod primo motori / est propinquius. Si autem inter ali 
+      <lb ed="#P" n="92"/>qua sit ordo secundum potentiam. sic quod vnum aliud 
+      <lb ed="#P" n="93"/>excedat: sic est quartus modus et sic mouens prius 
+      <lb ed="#P" n="94"/>est moto. Si autem sit ordo secundum dignitatem. sic 
+      <lb ed="#P" n="95"/>est quintus modus quem aristoteles vocat secundum 
+      <lb ed="#P" n="96"/>ordinem / quia in tali priori et posteriori patenter est 
+      <lb ed="#P" n="97"/>prdo hoc modo miles est prior seruo secundum 
+      di<lb ed="#P" n="98" break="no"/>gnitatem: quia secundum hunc ordinem est 
+      propin<lb ed="#P" n="99" break="no"/>quior regi. Si autem sit ordo secundum cognitionem. 
+      <lb ed="#P" n="100"/>sic confusa sunt priora / quam distincta: inesse 
+      cognito<lb ed="#P" n="101" break="no"/>o patet primo physicorum. et iste est sextus modus. 
+      <lb ed="#P" n="102"/>Si autem inter aliqua duo sit ordo secundum naturam 
+      <lb ed="#P" n="103"/>sic est. Septimus modus. et isto modo illud est prius 
+      <lb ed="#P" n="104"/>uod potest esse sine alio et non econuerso / et a que 
+      <lb ed="#P" n="105"/>aliud est dependens in suo esse et non econuerso. et 
+      <lb ed="#P" n="106"/>hoc modo vnum est prius duobus. et subiectum prius 
+      <lb ed="#P" n="107"/>est accidente. septimo methaphisice. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e549">
+                  <lb ed="#P" n="108"/>¶ Preterhos modos a philosopho positos 
+      po<lb ed="#P" n="109" break="no"/>nitur a theologis prioritas originis: et causalitatis  
+      <lb ed="#P" n="110"/>que non est aliud quam aliquid esse ab alio. hoc autem 
+      con<lb ed="#P" n="111" break="no"/>ingit duplicitex aut per modum causalitatis sicut 
+      ra<lb ed="#P" n="112" break="no"/>dius causatur a sole: et est effectus eius. et hec 
+      car<lb ed="#P" n="113" break="no"/>salitas non reperitur in diuinis. quia sicut nichil est 
+      <lb ed="#P" n="114"/>ibi factum ita nichil est ibi faciens. et per consequens 
+      <lb ed="#P" n="115"/>sec causalitas proprie dicta.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e569">
+      ¶ Secundo modo 
+      ali<lb ed="#P" n="116" break="no"/>uid est ab alio per modum originis large sumendo 
+      <lb ed="#P" n="117"/>originem prout extenditur ad omnem modum 
+      quo<lb ed="#P" n="118" break="no"/>aliquid procedit ab alio et non stricte prout 
+      signifi<lb ed="#P" n="119" break="no"/>tat idem cum natiuitate. et secundum hanc viam 
+      conce<lb ed="#P" n="120" break="no"/>ditur quod in diuinis est prioritas originis.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e582">
+      ¶ Annecte 
+      <lb ed="#P" n="121"/>quod in diuinis non est prioritas in quo: sed tantum. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e587">
+                  <lb ed="#P" n="122"/>¶ st ibi prioritas a quo que potest appellari originis 
+      <lb ed="#P" n="123"/>hoc secundo modo. 
+      <!--71.xml-->
+      <pb ed="#P" n="26-v"/>
+                  <lb ed="#P" n="1"/>his premissis sit prima propositio. Genera 
+      <lb ed="#P" n="2"/>tio actiua vt est in patre precedit spirationem 
+      acti<lb ed="#P" n="3" break="no"/>uam vt est in filio. probatur quia filius per genera 
+      <lb ed="#P" n="4"/>ri constituitur in esse filiali et generari precedit 
+      infi<lb ed="#P" n="5" break="no"/>lio spirationem actiuam / cum omne producere 
+      presup<lb ed="#P" n="6" break="no"/>ponit esse: ergo generatio actiua in patre praecedit 
+      spira<lb ed="#P" n="7" break="no"/>tionem actiuam vt est in filio 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e614">
+                  <lb ed="#P" n="8"/>¶ Secunda. Generatio actiua in patre precedit 
+      <lb ed="#P" n="9"/>in ipso spirationem actiuam. prout spiratio dicit actum. 
+      <lb ed="#P" n="10"/>probatur quia spiratio actiua vt dicit actum: est eadem 
+      <lb ed="#P" n="11"/>in patre et filio. sed generatio actiua precedit spira 
+      <lb ed="#P" n="12"/>tionem actiuam: vt est actus in filio. vt patet per 
+      prae<lb ed="#P" n="13" break="no"/>mam propositionem: ergo. etc. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e630">
+                  <lb ed="#P" n="14"/>¶ Tertia. Generatio passiua in filio precedit sper 
+      <lb ed="#P" n="15"/>rationem actiuam in eodem. Probatur quia omnis 
+      <lb ed="#P" n="16"/>actus elicitus a filio presupponit filium: sed filium 
+      <lb ed="#P" n="17"/>habet esse per generationem passiuam: ergo gene 
+      <lb ed="#P" n="18"/>ratio passiua in filio precedit spirationem actiuam 
+      <lb ed="#P" n="19"/>in eodem. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e646">
+                  <lb ed="#P" n="20"/>¶ Quarta. Generatio passiua in filio 
+      precedi<lb ed="#P" n="21" break="no"/>spirationem actiuam in patre. prout spiratio notat 
+      a<lb ed="#P" n="22" break="no"/>ctum non proprietatem. probatur quia idemest actus 
+      <lb ed="#P" n="23"/>spirationis elicitus a patre et filio. sed ganeiatio passi 
+      <lb ed="#P" n="24"/>ua filii precedit actum spirationis in ipso: ergo et 
+      in<lb ed="#P" n="25" break="no"/>patre. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e662">
+                  <lb ed="#P" n="26"/>¶ Ex quibus potest inferri quod omnis 
+      genera<lb ed="#P" n="27" break="no"/>tio vel productio verbi: spirationem spiritus 
+      sancti<lb ed="#P" n="28" break="no"/>originaliter antecedit. probatur quia generatio 
+      pate<lb ed="#P" n="29" break="no"/>siua precedit omnem spirationem actiuam ergo et 
+      om<lb ed="#P" n="30" break="no"/>nem passiuam / et per consequens omnem spirationem. 
+      <lb ed="#P" n="31"/>assumptum probatum est / et consequentie patent de 
+      se<lb ed="#P" n="32" break="no"/>Concludo ergo quod sicut est ordo in personis ita et 
+      <lb ed="#P" n="33"/>in emanationibus ordo scilicet originis. vnde 
+      au<lb ed="#P" n="34" break="no"/>gustinus de triplici habitaculo / dicit quod cum iusti erunt 
+      <lb ed="#P" n="35"/>in patria quid interest inter generationem et spiratio 
+      <lb ed="#P" n="36"/>nem seu processionem: cognoscent et videbut quod 
+      pa<lb ed="#P" n="37" break="no"/>ter precedit filium: non natura sed origine. et hec 
+      sub<lb ed="#P" n="38" break="no"/>ficiant de primo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k16021-Dd1e694">
+               <head xml:id="oooo3o-k16021-Hd1e696">Articulus 2</head>
+               <p xml:id="oooo3o-k16021-d1e698">
+                  <lb ed="#P" n="39"/>¶ Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e703">
+                  <lb ed="#P" n="40"/>QUantum ad secundum articul 
+      <lb ed="#P" n="41" break="no"/>lum sit prima conclusio. Licet repugnet 
+      <lb ed="#P" n="42"/>eidem producibili simul produci 
+      pluri<lb ed="#P" n="43" break="no"/>bus productionibus totalibus: non tame 
+      <lb ed="#P" n="44"/>repugnat eidem producenti / sic produce 
+      <lb ed="#P" n="45"/>re diuersis productionibus. Prima pars probatur 
+      <lb ed="#P" n="46"/>quia quod per vnam productionem habet esse illa stam 
+      <lb ed="#P" n="47"/>te / si produceretur per aliam: haberet bis esse / 
+      ve<lb ed="#P" n="48" break="no"/>idem numero necessario esset plura numero: quod est 
+      <lb ed="#P" n="49"/>impossibile. consequentia faciliter potest probari. 
+      Se<lb ed="#P" n="50" break="no"/>cunda pars patet. quia sol producit muscam et 
+      ra<lb ed="#P" n="51" break="no"/>nam productionibus distinctis specie: ergo non 
+      re<lb ed="#P" n="52" break="no"/>pugnat eidem producenti producere diuersis productionibus 
+      <lb ed="#P" n="53"/>Correlarium. Distinctio effectuum non 
+      ar<lb ed="#P" n="54" break="no"/>guit distinctionem causarum. licet econuerso distinctio 
+      ca<lb ed="#P" n="55" break="no"/>parum totalium arguit distinctionem effectuum numero 
+      ve<lb ed="#P" n="56" break="no"/>specie. patet ex conclusione 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e742">
+                  <lb ed="#P" n="57"/>¶ Secundum correlarium. Non oportet tantam 
+      <lb ed="#P" n="58"/>esse distinctionem in principiis / quanta est in principia 
+      <lb ed="#P" n="59"/>tis. patet ex dictis. 
+      <!--71.xml-->
+      <lb ed="#P" n="60"/>Secunda conclusio. Ticet pater et filius sint a 
+      <lb ed="#P" n="61"/>due persone diuine: spirant tamen spiritu sctum tamquam vnicum prim s 
+      <lb ed="#P" n="62"/>cipium. prima pars non est dubia. et secunda probatur / quia 
+      que<lb ed="#P" n="63" break="no"/>cumque persone producunt personam summe simplicem / omino 
+      <lb ed="#P" n="64"/>vniformiter: ille producunt tamquam vnum principium. idest 
+      <lb ed="#P" n="65"/>ac si vnum produceret. patet ista quia si tanquam plures cause 
+      <lb ed="#P" n="66"/>ergo ibi esset aliqua difformitas vel inequalitas in 
+      cau<lb ed="#P" n="67" break="no"/>sis illis: vel effectu respectu causarum. sed sic non est in pro 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e771">
+                  <lb ed="#P" n="68"/>¶ posito. id ille due persone producunt personam summe 
+      simpli<lb ed="#P" n="69" break="no"/>cesm omnino vniformitur: et vna non perfectius alia nec citius. qui 
+      <lb ed="#P" n="70"/>ymo secundum magistrum hugolinum / si per impossibile sola vna 
+      <lb ed="#P" n="71"/>produceret / eque perfecte produceret sicut et anbe: ergo etc. qu 
+      <lb ed="#P" n="72"/>nulla sit varietas practicat idem magistr hugolinus quia 
+      <lb ed="#P" n="73"/>non secundum causam principalem et instrumentalem / nec secundum media 
+      <lb ed="#P" n="74"/>tam et immediatam / nec secundum vniuersalem et particularem / nec 
+      <lb ed="#P" n="75"/>secundum dependentem et independentem / nec secundum causam totalem et 
+      per<lb ed="#P" n="76" break="no"/>tialem / nec liberam et naturalem / nec secundum plenius et effi 
+      <lb ed="#P" n="77"/>cacius agentem / nec secundum necessario causam et 
+      contige<lb ed="#P" n="78" break="no"/>ter / nec secundumcamm per se et per accidens / nec secundum cas 
+      <lb ed="#P" n="79"/>dissimilium naturalium / id est inequalium 
+      perfectio<lb ed="#P" n="80" break="no"/>num: ergo non nisi vniformiter. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e803">
+                  <lb ed="#P" n="81"/>¶ Potest etiam confirmari per beatum Augustinum 
+      <lb ed="#P" n="82"/>lib. 6 de trinitate capitulo. 13. Fatendum est patrem et 
+      <lb ed="#P" n="83"/>filium vnum principium esse spiritus sancti / non duo 
+      <lb ed="#P" n="84"/>principia. et loquitur Augustinus ad intellectum 
+      con<lb ed="#P" n="85" break="no"/>clusionis.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e816">
+      ¶ Ista conclusio est etiam per 
+      ec<lb ed="#P" n="86" break="no"/>clesiam extra de summa trinitate. et fide catholica. 
+      <lb ed="#P" n="87"/>libro sexto. vbi sic dicitur. Fatemur quod spiritus 
+      san<lb ed="#P" n="88" break="no"/>ctus eternaliter ex patre et filio non tanquam ex duobus 
+      <lb ed="#P" n="89"/>principiis / sed tanquam ex vno principio non duabus 
+      spi<lb ed="#P" n="90" break="no"/>rationibus sed vnica ratione procedit 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e829">
+                  <lb ed="#P" n="91"/>¶ Correlarium. Ticet pater et filius possunt 
+      dici<lb ed="#P" n="92" break="no"/>duo spirantes: non tamen debent dici duo spiratores 
+      <lb ed="#P" n="93"/>Ratio primi est quia adiectiuum scilicet spirans 
+      nume<lb ed="#P" n="94" break="no"/>ratur a suppositis. Sed secunda pars probatur ex 
+      se<lb ed="#P" n="95" break="no"/>cunda conclusione: quia producunt tanquam vnicum 
+      prin<lb ed="#P" n="96" break="no"/>cipium: ergo non sunt duo spiratores.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e845">
+      ¶ Preterea 
+      <lb ed="#P" n="97"/>tantum est ibi vnus actus spirandi / et vnica vis / et vni 
+      <lb ed="#P" n="98"/>ca spiratio: ergo tantum vnus spirator. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e852">
+                  <lb ed="#P" n="99"/>¶ Secundum correlarium. Spiritus sctuns non 
+      <lb ed="#P" n="100"/>prius procedit a patre quam a filio: nec econuerso. patet 
+      <lb ed="#P" n="101"/>per magistrum. libro primo. distinctione. 12. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e861">
+                  <lb ed="#P" n="102"/>¶ Tertia conclusio. Spiritus sanctus procedit 
+      <lb ed="#P" n="103"/>per modum voluntatis vt amor vtriusque communis 
+      <lb ed="#P" n="104"/>Ista conclusio. patet multis auctoritatibus 
+      distin<lb ed="#P" n="105" break="no"/>ctione vndecima primi 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e873">
+                  <lb ed="#P" n="106"/>¶ Correlarium. Non repugnat summe necesse 
+      <lb ed="#P" n="107"/>esse / produci per modum libere voluntatis. Patet 
+      <lb ed="#P" n="108"/>de spiritu sancto¬ 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e882">
+                  <lb ed="#P" n="109"/>¶ Secundum. Spiritus sanctus non producitur 
+      <lb ed="#P" n="110"/>libere prout libere distinguitur contra naturale. 
+      pro<lb ed="#P" n="111" break="no"/>batur: quia impossibile est spiritum sanctum non 
+      pro<lb ed="#P" n="112" break="no"/>duci: ergo spiritus sanctus naturaliter producitur. 
+      <lb ed="#P" n="113"/>Antecedens patet / quia impossibile est spiritum 
+      san<lb ed="#P" n="114" break="no"/>ctum non esse: cum sit verus deus: ergo impossibile 
+      <lb ed="#P" n="115"/>est ipsum non produci. consequentia patet quia spiri 
+      <lb ed="#P" n="116"/>tus sanctus non habet esse nisi quia producitur. 
+      v<lb ed="#P" n="117" break="no"/>vult Augustinus. libro. de trinitate capitulo. 13 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e904">
+                  <lb ed="#P" n="118"/>¶ Quarta conclusio. Spiritus sanctos distingui 
+      <lb ed="#P" n="119"/>tur a filio quia ille scilicet filius / procedit a patre in 
+      <!--72.xml-->
+      <pb ed="#P" n="27-r"/>
+                  <lb ed="#P" n="1"/>modum gratiationis: spiritus sctuns autem per modum spirationis 
+      <lb ed="#P" n="2"/>vnus quomodo natus: alter quo modo datus: vnus 
+      <lb ed="#P" n="3"/>per modum intellectus alter per modum voluntatis. 
+      <lb ed="#P" n="4"/>Ista questio est expresse augustini. 5. de trinitate 
+      ca<lb ed="#P" n="5" break="no"/>ditulo. 19 vbi dicit ideo spiritus sanctus non est filius 
+      <lb ed="#P" n="6"/>cum vterque tamen a patre exeat. quia ipse exit non 
+      quo<lb ed="#P" n="7" break="no"/>modo natus sed quomodo datus. id est donum. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e930">
+                  <lb ed="#P" n="8"/>¶ Correlarium. Si spiritus sanctus non procederet 
+      <lb ed="#P" n="9"/>a filio: non procederet a patre. patet quia si aliqua 
+      crea<lb ed="#P" n="10" break="no"/>tura non producitur a filio non produceretur a patre: 
+      <lb ed="#P" n="11"/>ergo si spiritus sanctus non produceretur a filio non pro 
+      <lb ed="#P" n="12"/>duceretur a patre. consequentia patet. quia non minus 
+      <lb ed="#P" n="13"/>inseparabiliter pater et filius producuntur spiritum sanctum 
+      <lb ed="#P" n="14"/>quam producunt creaturas. Antecedens patet per verbum 
+      <lb ed="#P" n="15"/>saluatoris iohamnis quinto dicens. non potest filius a 
+      <lb ed="#P" n="16"/>se facere quicquam nisi quod viderit patrem facientem. 
+      <lb ed="#P" n="17"/>Quecumque enim ille fecerit: hec et filius similiter facit. Ex 
+      <lb ed="#P" n="18"/>quo infert Augustinus quod indiuisa sunt opera 
+      trini<lb ed="#P" n="19" break="no"/>tatis ad extra 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e959">
+                  <lb ed="#P" n="20"/>¶ Secundum correlarium. Qui hec consequentia 
+      <lb ed="#P" n="21"/>ist necessaria. si hoc non facit filius hoc non facit 
+      pa<lb ed="#P" n="22" break="no"/>ter. et per consequens ista consequentia est 
+      necessa<lb ed="#P" n="23" break="no"/>ria / si spiritus sanctus non procedit a filio non 
+      pro<lb ed="#P" n="24" break="no"/>cedit a patre. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e972">
+                  <lb ed="#P" n="25"/>¶ Quinta conclusio. Si spiritus sanctuns non procederet 
+      <lb ed="#P" n="26"/>a filio: non distingueretur ab eo. probatur quia si spiritus 
+      <lb ed="#P" n="27"/>sciuns non procederet a filio spiritus sctuns non esset: 
+      <lb ed="#P" n="28"/>ergo si spiritus sctuns non procederet a filio spiritus 
+      <lb ed="#P" n="29"/>sctuns no distingueretur a filio. consequentia patet quia 
+      <lb ed="#P" n="30"/>vtrumque distinctorum oportet esse ens. Antecedens 
+      pro<lb ed="#P" n="31" break="no"/>batur sic. si spiritus sanctus non procederet a filio / spiritus 
+      <lb ed="#P" n="32"/>sanctus non esset spiritus seu donum patris et filii. et vltra 
+      <lb ed="#P" n="33"/>ergo spiritus sctuns non esset spiritus sanctus. Prima 
+      com<lb ed="#P" n="34" break="no"/>sequentia patet ex eo quod spiritus sanctus non est donum 
+      <lb ed="#P" n="35"/>filii (vt dicit apostolus) nisi quia procedit a filio. nec 
+      <lb ed="#P" n="36"/>aliud est spiritum sanctum esse filii: quam ipsum esse a filio 
+      <lb ed="#P" n="37"/>(vt dicit magister distinctione. 1. Secunda vero consequentia 
+      pro<lb ed="#P" n="38" break="no"/>batur. quia hoc est esse spiritum sanctum vt sumitur 
+      vo<lb ed="#P" n="39" break="no"/>cabulum pro tertia in trinitate persona tantum / quod est esse 
+      <lb ed="#P" n="40"/>donum patris et filii vt videtur innuem Augustinus. 5 de 
+      <lb ed="#P" n="41"/>trinitate capitulo. 5. Ista conclusio est doctoris sanct 
+      <lb ed="#P" n="42"/>quarto contra gentiles capitulo. 3 4. domini egidii 
+      distin<lb ed="#P" n="43" break="no"/>ctione vndecima primi et magistri thome de 
+      argen<lb ed="#P" n="44" break="no"/>tia. libro id est distin. 1i. q. 2. et doctoris auctentici magistri 
+      <lb ed="#P" n="45"/>gregorii libro primo distinctione. 11 quaestione vnica 
+      arti<lb ed="#P" n="46" break="no"/>culo. 3. ex qua sequitur sexta conclusio quod hec consequentia 
+      <lb ed="#P" n="47"/>ist bona spiritus scuns etc. vt dicit questio. probatur: quia 
+      <lb ed="#P" n="48"/>pppositum consequentis repugnat antecedenti vt dicit ratio ad 
+      <lb ed="#P" n="49"/>oppositum. ergo. Ex istis possunt inferri multa 
+      corre<lb ed="#P" n="50" break="no"/>laria sed pertranseo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k16021-Dd1e1032">
+               <head xml:id="oooo3o-k16021-Hd1e1034">Articulus 3</head>
+               <p xml:id="oooo3o-k16021-d1e1036">
+                  <lb ed="#P" n="51"/>¶ Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1041">
+                  <lb ed="#P" n="52"/>¶ d¶ Ontrasuppositum questionis est 
+      opi<lb ed="#P" n="53" break="no"/>nio grecorum qui arguunt sic / nichil est 
+      at<lb ed="#P" n="54" break="no"/>tribuendum diuinis personis nisi habeatur 
+      <lb ed="#P" n="55"/>in euangelio / vel saltem in scriptura noui 
+      <lb ed="#P" n="56"/>testamenti. quia secundum beatum dionysium 
+      <lb ed="#P" n="57"/>primo de diuinis nominibus non est audendum 
+      <lb ed="#P" n="58"/>dicere aliquid de supersubstantiali diuinitate / preter ea 
+      <lb ed="#P" n="59"/>que diuinitus nobis ex sacris eloquiis sunt expraessa: 
+      <lb ed="#P" n="60"/>sed non videtur esse expressum in nouo testamento quod 
+      <!--72.xml-->
+      <lb ed="#P" n="61"/>spiritus sanctus procedat a filio: ergo.  
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1067">
+                  <lb ed="#P" n="62"/>¶ Preterea illa conclusio non videtur velut 
+      arti<lb ed="#P" n="63" break="no"/>culus fidei tenenda / cuius oppositum asseritur a 
+      mul<lb ed="#P" n="64" break="no"/>lis / quorum doctrina admituitur et vita commendatur 
+      ab<lb ed="#P" n="65" break="no"/>ecclesia. hoc patet / quia si sit articulus fidei quicumque 
+      <lb ed="#P" n="66"/>isserit oppositum est hereticus. doctrina autemheretici 
+      <lb ed="#P" n="67"/>non debet admitti: nec eius vita commendari ab 
+      eccle<lb ed="#P" n="68" break="no"/>sia. sed spiritum sanctum non procedere a filio asserunt multi 
+      <lb ed="#P" n="69"/>quorum doctrina admittitur et vita ab eccleia commendatur 
+      <lb ed="#P" n="70"/>ergo. minor probatur. primo a iohanne damasceno qui 
+      <lb ed="#P" n="71"/>dicit libro primo capitulo. 4 crendimus in vnum spiritum scilicet 
+      <lb ed="#P" n="72"/>deum et viuificantem ex patre procedentem / et in filio 
+      requi<lb ed="#P" n="73" break="no"/>escentem. et capitulo. 11 patrem non dicimus ex aliquo / 
+      di<lb ed="#P" n="74" break="no"/>cimus autem eum filii patrem / filium autem dicimus ex 
+      pa<lb ed="#P" n="75" break="no"/>tre et filium patris nominiamus / ex filio vero spiritum non 
+      <lb ed="#P" n="76"/>dicimus sed spiritum filii nominiamus. ergo
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1102">
+      ¶ Item btuns 
+      <lb ed="#P" n="77"/>andreas praedicauit in asia spiritum sanctum procedere a 
+      <lb ed="#P" n="78"/>patre et in filio permanere / sicut dicunt greci. Et in 
+      le<lb ed="#P" n="79" break="no"/>genda sua dicitur pax vobis et vniuersis qui credunt in 
+      <lb ed="#P" n="80"/>vnum deum patrem / et in vnum filium eius dominum nostrum 
+      <lb ed="#P" n="81"/>iesum christum. et in vnum spiritum sanctum procedentem 
+      <lb ed="#P" n="82"/>ex patre et in filio permanentem. Et posset ex istis arguit 
+      <lb ed="#P" n="83"/>sic. nichil procedit ab eo in quo permanet. sed spiritus 
+      <lb ed="#P" n="84"/>sanctus permanet in filio. ergo. Item in symbolo 
+      com<lb ed="#P" n="85" break="no"/>stantinopolitane synodi sic legitur: crendimus in spiritum 
+      <lb ed="#P" n="86"/>sanctum et viuificantem: ex patre procedentem: cum patre et 
+      <lb ed="#P" n="87"/>filio adorandum et glorifieandum. et in symbolo quod 
+      <lb ed="#P" n="88"/>cantatur. in missa / quod fuit editum in nicena synodo: 
+      <lb ed="#P" n="89"/>non continetur quod spiritus sanctus procedit a filio. quod 
+      <lb ed="#P" n="90"/>enim ibi secundum nos dicitur: qui ex patre filioque procedit 
+      <lb ed="#P" n="91"/>alterum a latinis est aditum scilicet filioque. et tamen infine 
+      <lb ed="#P" n="92"/>illius symboli subiunctum est / quod qui aliud docuerit vel 
+      <lb ed="#P" n="93"/>qui aliter predicauerit. anathema sit. non ergo debet 
+      <lb ed="#P" n="94"/>dici quod procedit a filio. / 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1145">
+                  <lb ed="#P" n="95"/>¶ Ad primam rationem grecorum dico quod licet non 
+      <lb ed="#P" n="96"/>sit expressum in nouo test amento / quod spiritus sanctus 
+      pro<lb ed="#P" n="97" break="no"/>cedat a filio: deducitur tamen ex contentis in eo. sicut de 
+      <lb ed="#P" n="98"/>ducit btuns Augustinus libro. 4 de trinitate cap. 133. 
+      <lb ed="#P" n="99"/>de puis / dicens: nec possumus dicere. quod spiritus sactuns 
+      <lb ed="#P" n="100"/>a filio non procedat (nec enim frustra et patris et filii 
+      spi<lb ed="#P" n="101" break="no"/>ritus dicitur) nec video quid aliud voluit significare 
+      <lb ed="#P" n="102"/>filius / cum sufflans ait / accipite spiritum sanctum (nec 
+      <lb ed="#P" n="103"/>enim flatus ille corporeus cum sensu corporaliter 
+      tan<lb ed="#P" n="104" break="no"/>gendi procedens ex corpore / substantia spiritus sancti fuit) 
+      <lb ed="#P" n="105"/>sed demonstratio per congruam significationem / non 
+      <lb ed="#P" n="106"/>tantum a patre sed a filio procedere spiritum sactum. Et subdit 
+      <lb ed="#P" n="107"/>quod ergo ait dominus / quem ego mittam vobis a patre /
+      ostem<lb ed="#P" n="108" break="no"/>dit spiritum sanctum esse patris et filii. quia etiam cum dixisset / 
+      <lb ed="#P" n="109"/>quem mittetr pater / addit in nomine meo. non tantum dicit 
+      <lb ed="#P" n="110"/>quem mittet pater ante / quemadmodum dixit quem mittam 
+      <lb ed="#P" n="111"/>vobis a patre: videlicet ostendens quod totius diuinita 
+      <lb ed="#P" n="112"/>tis (vel si melius dicitur deitatis) principium pater est. 
+      <lb ed="#P" n="113"/>¶ Preterea quicquid non repugnat filio pater. communicat 
+      <lb ed="#P" n="114"/>filio: sed spirare spiritum sanctum non repugnat filio: ergo.  
+      <lb ed="#P" n="115"/>Ad secundam rationem diuersimode respondetur 
+      <lb ed="#P" n="116"/>Aliqui enim dicunt vt sanctus doctor prima parte sum 
+      <lb ed="#P" n="117"/>me. q. 26 articulo secundo / quod spiritum sanctum non proce 
+      <lb ed="#P" n="118"/>dere etc. fuit a nestorianis introductum. sicut patet in quodam 
+      <lb ed="#P" n="119"/>ymbolo damnato in ephesina synodo. quem errorem 
+      po<lb ed="#P" n="120" break="no"/>stea sequutus est iohannes damascenus / iod in hoc eius 
+      sen<lb ed="#P" n="121" break="no"/>tentie non est standum. Alii autem dicunt vt doctor subtilis 
+      li<lb ed="#P" n="122" break="no"/>bro primo distinctione. 16 questione prima / quod inter¬ 
+      <!--73.xml-->
+      <pb ed="#P" n="27-v"/>
+                  <lb ed="#P" n="1"/>grecos et latinos non est realis contradictio / sed 
+      <lb ed="#P" n="2"/>vocalis tantum. vnde si duo sapientes vnus grecus / et 
+      <lb ed="#P" n="3"/>alter latinus / vterque verus amator veritatis / de hac 
+      <lb ed="#P" n="4"/>contrarietate disquirerent. pateret vt dicunt ipsam 
+      <lb ed="#P" n="5"/>contrarietatem non esse veraciter realem / sicut est 
+      voca<lb ed="#P" n="6" break="no"/>lis. Alioquin vel ipsi greci vel nos latini sumus ha 
+      <lb ed="#P" n="7"/>retici. sed quis audeat dicere Iohannem 
+      damasci<lb ed="#P" n="8" break="no"/>num / gregorium namam enum / basilium emilium / et similes 
+      <lb ed="#P" n="9"/>patres grecos hereticos: quis etiam hereticos 
+      di<lb ed="#P" n="10" break="no"/>cet beons Augustinum: hylarium: hieronymum: et 
+      cete<lb ed="#P" n="11" break="no"/>ros doctores latinos: verisimile est ergo / quod non 
+      sub<lb ed="#P" n="12" break="no"/>est dictis verbis in sanctorum sententia contrarietam 
+      <lb ed="#P" n="13"/>multipliciter enim dicitur sicut hoc huius. Ita hoc 
+      <lb ed="#P" n="14"/>illo. qua multiplicate intellecta forte pateret 
+      dicto<lb ed="#P" n="15" break="no"/>rum verborum sententia non discors.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1245">
+      ¶ Nulla istarum 
+      <lb ed="#P" n="16"/>solutionum sufficit / non prima / quia sequitur quod 
+      iohan<lb ed="#P" n="17" break="no"/>nes fuerit hereticus. quod est falsum / Cum papa 
+      eu<lb ed="#P" n="18" break="no"/>genius receperit eius librum. nec secunda que dicit 
+      <lb ed="#P" n="19"/>absolute / quod inter grecos et latinos non est realis 
+      con<lb ed="#P" n="20" break="no"/>tradictio. oppositum patet per anselmum de 
+      processio<lb ed="#P" n="21" break="no"/>ne spiritus sancti capitulo. 4 
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1261">
+                  <lb ed="#P" n="22"/>¶ Dico igitur quod doctores grecorum et omens qui 
+      <lb ed="#P" n="23"/>precesserunt diuisionem et separatione in eorum ab ecclesia / 
+      <lb ed="#P" n="24"/>veri simile crediderunt / spiritum sanctum a patre filioque 
+      pro<lb ed="#P" n="25" break="no"/>cedere. et inter istos et nos non est realis 
+      contradictio<lb ed="#P" n="26" break="no"/>sed vocalis. Aliquando tamen greci qui fuerunt post 
+      diuisio<lb ed="#P" n="27" break="no"/>nem non crediderunt ipsum ab vtroque procedere sed 
+      <lb ed="#P" n="28"/>solo patre. et inter istos et nos est realis contradictio. 
+      <lb ed="#P" n="29"/>Et si queratur. cur greci nunc in tantam heresim sun 
+      <lb ed="#P" n="30"/>prolapsi: dicitur communiter quod thpipse quo transiatum est imperium 
+      <lb ed="#P" n="31"/>de grecis ad germanos thripse caroli magni: greci in 
+      <lb ed="#P" n="32"/>dignati / inobedientes facti sunt ecclesie et impeatori / et 
+      <lb ed="#P" n="33"/>vt viderentur rationaliter recedere ab obedientia ecclie 
+      <lb ed="#P" n="34"/>imposuerunt latinis heresim dicentes esse heresim quod 
+      spi<lb ed="#P" n="35" break="no"/>ritus sanctus procedit a filio. et sic acceperunt non causan 
+      <lb ed="#P" n="36"/>pro causa.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1296">
+      ¶ Ad rationem igitur negatur minor. ad primam 
+      <lb ed="#P" n="37"/>probationem de iohamne damasceno dicendum quod iste 
+      prae<lb ed="#P" n="38" break="no"/>positiones. a. et. ex. non solum denotant apodi grecos 
+      ori<lb ed="#P" n="39" break="no"/>ginem: sed etiam principalitatem. Ideo quando dicitur spirit 
+      <lb ed="#P" n="40"/>sancius non procedere a filio vel ex filio / sed a solo 
+      <lb ed="#P" n="41"/>patre: doctores greci intelligunt: quod principaliter 
+      pro<lb ed="#P" n="42" break="no"/>cedit a patre / quia quod spiret habet a se non ab alio. non 
+      <lb ed="#P" n="43"/>sic filius. Ad secundam probationem de beato 
+      Andrea<lb ed="#P" n="44" break="no"/>ex verbis illis non habetur spiritum sanctum non procede 
+      <lb ed="#P" n="45"/>re a filio nec a patre solo.
+    </p>
+               <p xml:id="oooo3o-k16021-d1e1318">
+      ¶ Ad tertiam respondet 
+      ma<lb ed="#P" n="46" break="no"/>gister dicens quod qui aliud docuerit vel aliter praedicat 
+      <lb ed="#P" n="47"/>uerit anathema sit / sicut loquebatur apitulus ad gala 
+      <lb ed="#P" n="48"/>thas. Si quis aliud praedicauerit euangelium 
+      anathema<lb ed="#P" n="49" break="no"/>sit: idest contrarium. non dicit / si quis addiderit: quia si sic. 
+      <lb ed="#P" n="50"/>dixisset sibiipsi contradixise. sic finis huius questionis
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

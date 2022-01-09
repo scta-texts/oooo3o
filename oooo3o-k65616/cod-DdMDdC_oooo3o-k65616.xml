@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="105-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k65616"><!--l3d30q1 -->
+            <head xml:id="oooo3o-k65616-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k65616-d1e101">
+               <lb ed="#P" n="80"/>¶ E dilectione inimici 
+      specia<lb ed="#P" n="81" break="no"/>lis est difficultas huius tertui de 
+      <lb ed="#P" n="82"/>qua tractat magister in 
+      distinctio<lb ed="#P" n="83" break="no"/>ne tricesima.
+    </p>
+            <p xml:id="oooo3o-k65616-d1e112">
+      ¶ Idcirco 
+      queri<lb ed="#P" n="84" break="no"/>tur vtrum de necessitate salutis 
+      <lb ed="#P" n="85"/>teneamur inimicos diligere: quod 
+      <lb ed="#P" n="86"/>non. Illud quod est sic uurabile 
+      <lb ed="#P" n="87"/>quod nichil est mirabilius non est 
+      <lb ed="#P" n="88"/>de necessitate salutis (vt videtur)  
+      <lb ed="#P" n="89"/>sed diligere inimicos est huius modi. erge. maior vi 
+      <lb ed="#P" n="90"/>detur nota: sed minor est augustini. super isto ver 
+      bo<lb ed="#P" n="91" break="no"/>psalmiste. Reuela oculos meos vbi dicit. Nichil 
+      <lb ed="#P" n="92"/>enim mirabilius est in mandatis quam diligere iniiuicos 
+      <lb ed="#P" n="93"/>hoc est dare bona pro malis. 
+    </p>
+            <p xml:id="oooo3o-k65616-d1e136">
+               <lb ed="#P" n="94"/>¶ Secundo de necessitate salutis non est esse per 
+      <lb ed="#P" n="95"/>fectum sed esse a peccato liberum sufficit ad salutem. 
+      <lb ed="#P" n="96"/>Sed multi liberantur a peccato qui non diligunt ini 
+      <lb ed="#P" n="97"/>cos: quia hoc est proprium perfectorum filiorum dei. ergo.  
+      <lb ed="#P" n="98"/>maior nota / minor est augustini: et ponitur in littera 
+      <lb ed="#P" n="99"/>distiuctione. 26 cum dicitur Perfectorum filiorum 
+      <lb ed="#P" n="100"/>est illud scilicet diligere inimicos et benefacere odient 
+      <lb ed="#P" n="101"/>tibus cum hoc tam magnum bonum tantum multi 
+      <lb ed="#P" n="102"/>tudinis non est: quantum credamus exaudiri cum dicit 
+      <lb ed="#P" n="103"/>tur in oratione. Dimitte nobis etc. procuidubio 
+      ver<lb ed="#P" n="104" break="no"/>ba sponsionis huius implentur si homo qui nondum 
+      <lb ed="#P" n="105"/>ita profecit vt etiam diligat inimicum: tamen 
+      quan<lb ed="#P" n="106" break="no"/>do rogatur ab homine qui peccauit in eum vt ei 
+      di<lb ed="#P" n="107" break="no"/>mittat: dimittitur ix corde etc. Ex quibus patet quod 
+      pec<lb ed="#P" n="108" break="no"/>cata dimittuntar etiam illis qui nondum inimicos 
+      <lb ed="#P" n="109"/>diligunt: quod cuilibet sufficit ad salutem. 
+    </p>
+            <p xml:id="oooo3o-k65616-d1e173">
+               <lb ed="#P" n="110"/>¶ Tertio inimicis licet optare malum: et ipsis 
+      <lb ed="#P" n="111"/>imprecari confusionem / mortem etc. Consequentia 
+      <lb ed="#P" n="112"/>nota: quia nullus de necessitate salutis tenetur 
+      dili<lb ed="#P" n="113" break="no"/>gere illum cui licite potest imprecari malum. 
+      ante<lb ed="#P" n="114" break="no"/>cednes patet in multis imprecationibus sanctorum. 
+      <lb ed="#P" n="115"/>¶ Unde dicit psalmus. Confundentur et reuereantur omnes 
+      <lb ed="#P" n="116"/>inimici mei.
+    </p>
+            <p xml:id="oooo3o-k65616-d1e192">
+      ¶ Item destrues eos et non edificabis 
+      <lb ed="#P" n="117"/>eos.
+    </p>
+            <p xml:id="oooo3o-k65616-d1e197">
+      ¶ Item Fiant tanquam puluis ante faciem 
+      ven<lb ed="#P" n="118" break="no"/>ti etc. multa similia. 
+      <!--230.xml-->
+      <pb ed="#P" n="106-r"/>
+               <lb ed="#P" n="1"/>Oppositum per illud mathei quinto diligito 
+      <lb ed="#P" n="2"/>inimicos vestros benfacite his qui oderunt vos et ibidem 
+      <lb ed="#P" n="3"/>Si diligatis illos qui vos diligunt: quam 
+      merceden<lb ed="#P" n="4" break="no"/>habebitis: Quasi dicat nullam. Nonne publicant 
+      <lb ed="#P" n="5"/>hoec faciunt: 
+    </p>
+            <p xml:id="oooo3o-k65616-d1e217">
+               <lb ed="#P" n="6"/>¶ Responsio. primo videndum est de quesito 
+      <lb ed="#P" n="7"/>Secundo vtrum magis meritorium sit diligere inimicum quam 
+      <lb ed="#P" n="8"/>amicum vel econuerso. tertio vtrum dilectio 
+      inimi<lb ed="#P" n="9" break="no"/>ci que est precise propter timorem pene sit imneritoria. 
+    </p>
+            <div xml:id="oooo3o-k65616-Dd1e228">
+               <head xml:id="oooo3o-k65616-Hd1e230">Articulus 1</head>
+               <p xml:id="oooo3o-k65616-d1e232">
+                  <lb ed="#P" n="10"/>Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e237">
+                  <lb ed="#P" n="11"/>QUantum ad primum 
+      praemit<lb ed="#P" n="12" break="no"/>to declarationes: deinde ponam 
+      <lb ed="#P" n="13"/>conclusiones 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e246">
+                  <lb ed="#P" n="14"/>¶ Prima declaratio de 
+      inimi<lb ed="#P" n="15" break="no"/>co. Aliqui sunt inimici quorum est 
+      <lb ed="#P" n="16"/>certa et nota dampnatio et repro 
+      <lb ed="#P" n="17"/>batio. Aliqui quorum adhuc non 
+      <lb ed="#P" n="18"/>est certa finalis dampnatio / et de 
+      <lb ed="#P" n="19"/>secundis est questio. Inimicus enim est qui non ex 
+      <lb ed="#P" n="20"/>charitate neque iussus quouismodo infert alteri 
+      dan<lb ed="#P" n="21" break="no"/>num vel incommodum vel inducit ad actum 
+      pecca<lb ed="#P" n="22" break="no"/>ti et ista non est sufficiens descriptio ideo do aliam. 
+      <lb ed="#P" n="23"/>Dico autem inimicum omnem illum qui vul 
+      <lb ed="#P" n="24"/>vel voluntarie infert veloptat / vel complacet seu 
+      ac<lb ed="#P" n="25" break="no"/>ceptat / vel affectat alicui malum pene vel culpe non 
+      <lb ed="#P" n="26"/>ad correctionem vel iusticiam. Ex quo sequuntur 
+      <lb ed="#P" n="27"/>propositiones. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e279">
+                  <lb ed="#P" n="28"/>¶ Prima quod solum volens nocere licet non 
+      no<lb ed="#P" n="29" break="no"/>ceat vere est inimicus: licet non sit homini vniatori non 
+      <lb ed="#P" n="30"/>tum ipsum esse inimicum. patet quia dicitur qui vult etc. 
+      <lb ed="#P" n="31"/>Secunda quod ille qui alteri vult malum vt 
+      me<lb ed="#P" n="32" break="no"/>dicinaliter ei prosit secundum animam non est 
+      inimi<lb ed="#P" n="33" break="no"/>xus: quia dicitur non ad correctionem: ille autem inferi 
+      <lb ed="#P" n="34"/>malum ad correctionem vel optat: et ita frequenter 
+      <lb ed="#P" n="35"/>sanctorum imprecationes intelligende sunt. vnde in 
+      <lb ed="#P" n="36"/>cet tales videantur nocere: veraciter tamen prodesse 
+      <lb ed="#P" n="37"/>nituntur. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e304">
+                  <lb ed="#P" n="38"/>¶ Tertia propositio Inferens vel optans 
+      alte<lb ed="#P" n="39" break="no"/>ri malum amore exequende iusticie: non dicitur vera 
+      <lb ed="#P" n="40"/>citer inimicus persone: licet possit dici inimicus 
+      iniu<lb ed="#P" n="41" break="no"/>stitie: patet quia dicitur non ad iustitiam. vnde li ctor non 
+      <lb ed="#P" n="42"/>proprie inimicus dicitur illius quem vt minister 
+      iu<lb ed="#P" n="43" break="no"/>sticie occidit. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e320">
+                  <lb ed="#P" n="44"/>¶ Secunda declaratio quod aliud est diligere 
+      ini<lb ed="#P" n="45" break="no"/>micum / et aliud est diligere inimicum esse inimicum. 
+      <lb ed="#P" n="46"/>Primum enim est bonum: sed non secundum Iten 
+      <lb ed="#P" n="47"/>aliud est diligere personam inmici: aliud est diligero 
+      <lb ed="#P" n="48"/>inimiciciam 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e333">
+                  <lb ed="#P" n="49"/>¶ Tertia declaratio erit de ly diligere vnde 
+      di<lb ed="#P" n="50" break="no"/>ligere b. veraciter est ipsi b. velle et optare vere / esse 
+      <lb ed="#P" n="51"/>bene finaliter et pro tempore status eius / et per velle 
+      <lb ed="#P" n="52"/>effectualiter executorium beneficium impendere in 
+      <lb ed="#P" n="53"/>necessariis ad salutem anime / et corporis in ordine 
+      <lb ed="#P" n="54"/>ad animam. Sunt autem quedam beneficia per 
+      se<lb ed="#P" n="55" break="no"/>necessaria saluti anime et consequenter corporis. que 
+      <lb ed="#P" n="56"/>dam non necessaria. vt coniunctus sotialis: et absque 
+      <lb ed="#P" n="57"/>necessitate promotio / vel ditatio / vel cibatio etc. que 
+      <!--230.xml-->
+      <lb ed="#P" n="58"/>nec sunt effectus iustitie distributiue nec de 
+      necessi<lb ed="#P" n="59" break="no"/>tate salutis  
+    </p>
+               <p xml:id="oooo3o-k65616-d1e362">
+                  <lb ed="#P" n="60"/>¶ Quarta declaratio est quid sit velle 
+      executo<lb ed="#P" n="61" break="no"/>rium beneficium: dico quod illud est quod 
+      scriptu<lb ed="#P" n="62" break="no"/>ra precepit dicens. Tenefacite his etc. Item si 
+      esu<lb ed="#P" n="63" break="no"/>rierit inimicus etc. Cuius est regula talis: quod pro 
+      nu<lb ed="#P" n="64" break="no"/>lo alio consequendo vel fugiendo citra pecccatum 
+      mor<lb ed="#P" n="65" break="no"/>tale omittit beneficium impendere seu beneficientiam in 
+      <lb ed="#P" n="66"/>casu necessitatis. Ex dictis potest colligi 
+      descriptio<lb ed="#P" n="67" break="no"/>dilectionis inimici. Unde diligere inimicum est velle 
+      <lb ed="#P" n="68"/>inimicod inimicitie opera facienti verum bene esse pro 
+      <lb ed="#P" n="69"/>pter bonum infinitum: et propter amorem eius 
+      scili<lb ed="#P" n="70" break="no"/>cet boni infiniti: ipsi inimico officia beniuolentie pro 
+      <lb ed="#P" n="71"/>posse impendere: dico autem proposse quia si posse non 
+      <lb ed="#P" n="72"/>extendit se nisi ad vnum a morte anime liberandum 
+      <lb ed="#P" n="73"/>potius teneris vero amico quam inimico: et hoc docer 
+      <lb ed="#P" n="74"/>apostolus. Dum habemus tempus: bonum opere 
+      <lb ed="#P" n="75"/>mnur ad omnes maxime autem ad domesticos fidei 
+      <lb ed="#P" n="76"/>his premissis sit prima conclusio. Quilibet 
+      <lb ed="#P" n="77"/>de necessitate salutis tenetur non diligere inimicum 
+      <lb ed="#P" n="78"/>esse inimicum probatur quilibet de necessitate ad 
+      sa<lb ed="#P" n="79" break="no"/>lutem requisita tenetur non diligere inimicitie 
+      ope<lb ed="#P" n="80" break="no"/>ra. igitur.
+    </p>
+               <p xml:id="oooo3o-k65616-d1e410">
+      ¶ Item quilibet tenetur non complacet 
+      <lb ed="#P" n="81"/>re vicio nec proprio nec alieno ergo. consequentie 
+      <lb ed="#P" n="82"/>nota: quia diligere sortem esse inimicum: est complace 
+      <lb ed="#P" n="83"/>re in eo quod est sortem esse viciosum. et 
+      culpabili<lb ed="#P" n="84" break="no"/>ter malum 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e421">
+                  <lb ed="#P" n="85"/>¶ Secunda: quilibet de necessitate salutis 
+      obli<lb ed="#P" n="86" break="no"/>gatur ad dilectionem dei propter se vltimate et 
+      pro<lb ed="#P" n="87" break="no"/>ximi propter deum. patet per preceptum. Diliges 
+      <lb ed="#P" n="88"/>deum etc. et proximum etc. Item veritas in 
+      euange<lb ed="#P" n="89" break="no"/>lio dicit Qui diligit patrem et matrem plusquam me non 
+      <lb ed="#P" n="90"/>est me dignus etc. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e438">
+                  <lb ed="#P" n="91"/>¶ Ex quo sequitur quod propter nullum malum 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e443">
+                  <lb ed="#P" n="92"/>¶ nimicorum vitandum nec etiam propter vllum 
+      bo<lb ed="#P" n="93" break="no"/>num consequendum est ab amore dicto recedendum. 
+      <lb ed="#P" n="94"/>sic quod nec actu nec habitu deus diligatur et proximus 
+      <lb ed="#P" n="95"/>patet. ex multis dictis scripture et sanctorum que 
+      di<lb ed="#P" n="96" break="no"/>nitto propter prolixitatem. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e456">
+                  <lb ed="#P" n="97"/>¶ Tertia conclusio. Quilibet viator tenetur 
+      <lb ed="#P" n="98"/>de necessitate salutis occurrente oportunitate de quo 
+      <lb ed="#P" n="99"/>libet inimico ipsum modo supradicto diligere: dixi 
+      <lb ed="#P" n="100"/>occurrente occasione vel oportunitate vt puta si 
+      co<lb ed="#P" n="101" break="no"/>gitati de salute ipsius: et ipse eget consilio vel auxilio 
+      <lb ed="#P" n="102"/>meo: probatur ex conclusione precedente et 
+      correla<lb ed="#P" n="103" break="no"/>rio: quia nullum malum quod potest michi inferre 
+      <lb ed="#P" n="104"/>inimicus me inuito debet me auertere a dilectione 
+      <lb ed="#P" n="105"/>dei in ipso inimico. sed non diligere dicto modo 
+      ini<lb ed="#P" n="106" break="no"/>micum me auerteret a deo. ergo. Maior nota est ex 
+      <lb ed="#P" n="107"/>premissis. Minor probatur per Iohannem in 
+      cano<lb ed="#P" n="108" break="no"/>nica. Quia qui odit fratrem suum vel claudit 
+      visce<lb ed="#P" n="109" break="no"/>ra sua: charitas dei non manet in illo.
+    </p>
+               <p xml:id="oooo3o-k65616-d1e487">
+      ¶ Item qui 
+      <lb ed="#P" n="110"/>libet tenetur velle inimicum suum ordinari in deum 
+      <lb ed="#P" n="111"/>et esse iustum / et velle ipsum obedire preceptis 
+      ratio<lb ed="#P" n="112" break="no"/>nabili obsequio: et spontanea voluntate / patet per hoc 
+      <lb ed="#P" n="113"/>velle obligatur dilectioni dei super omnia. sed sic vel 
+      <lb ed="#P" n="114"/>le de inimico est velle diligere inimicum ergo.  
+    </p>
+               <p xml:id="oooo3o-k65616-d1e500">
+                  <lb ed="#P" n="115"/>¶ Item si non paueris occidisti ergo a multo fortiori. 
+      <lb ed="#P" n="116"/>si non consuleris / si non iuueris: si a peccato non libo 
+      <lb ed="#P" n="117"/>raueris occidisti. Sed hoc est contra preceptum. 
+      <lb ed="#P" n="118"/>non occides igitur. 
+      <!--231.xml-->
+      <pb ed="#P" n="106-v"/>
+                  <lb ed="#P" n="1"/>¶ Quarta conclusio. in casu aliquis licite 
+      po<lb ed="#P" n="2" break="no"/>test velle mortem inimici nec hoc est odire / puta quando 
+      <lb ed="#P" n="3"/>liuere esset ei nociuum. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e522">
+                  <lb ed="#P" n="4"/>¶ Et si dicatur quod augustinus dicit quod 
+      dili<lb ed="#P" n="5" break="no"/>gere inimicos est opus perfectorum filiorum / et 
+      be<lb ed="#P" n="6" break="no"/>nefacere odientibus / ymo ex dictis augustini 
+      se<lb ed="#P" n="7" break="no"/>quitur / quod non tenetur quilibet non rogatus 
+      dimitte<lb ed="#P" n="8" break="no"/>re inturiam. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e536">
+                  <lb ed="#P" n="9"/>¶ Et preterta licitum est illa denegare 
+      inimi<lb ed="#P" n="10" break="no"/>to quibus possum licite carere ymo meritorie 
+      con<lb ed="#P" n="11" break="no"/>temnere / vt sunt res temporales vt sunt 
+      tribulatio<lb ed="#P" n="12" break="no"/>nes paupertates infirmitates et similia etiam 
+      pro<lb ed="#P" n="13" break="no"/>ter vindictam 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e549">
+                  <lb ed="#P" n="14"/>¶ Responsio quod augustinus duo dicit esse per 
+      <lb ed="#P" n="15"/>fectorum opera. Primum est beneficia / impendere 
+      <lb ed="#P" n="16"/>vltra gradum necessitatis inimico. et non remittere 
+      <lb ed="#P" n="17"/>iusticiam vel offensam quo ad exigentiam iustitie. 
+      <lb ed="#P" n="18"/>vel emende temporalis / quia licitum est exigere. emendam 
+      pro<lb ed="#P" n="19" break="no"/>iniusta offensa dum tamen stet semper beniuolentia 
+      <lb ed="#P" n="20"/>et optatio salutis et complacentia virtutis / si aliquam 
+      <lb ed="#P" n="21"/>inimicus habet et promptitudo beneficentie in 
+      casu<lb ed="#P" n="22" break="no"/>necessitatis. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e571">
+                  <lb ed="#P" n="23"/>¶ Ad secundum dico quod appetere vindictam 
+      po<lb ed="#P" n="24" break="no"/>test contingere tripliciter primo modo vel ex cupidi 
+      <lb ed="#P" n="25"/>tate vindicandi precise et sic non est licitum vel 
+      secun<lb ed="#P" n="26" break="no"/>do quia appeto vt satisfaciat de iniuria facta 
+      con<lb ed="#P" n="27" break="no"/>tra legem dei et sic licet vel tertio quia 
+      rationabili<lb ed="#P" n="28" break="no"/>ter arbitror morbum anime offensoris non posse 
+      hu<lb ed="#P" n="29" break="no"/>manitus emendari ad salutem nisi per viam 
+      puni<lb ed="#P" n="30" break="no"/>tionis et sic licet / et isto modo etiam licitum est 
+      inimi<lb ed="#P" n="31" break="no"/>co appetere infirmitatem vel panpertatem / mortem 
+      <lb ed="#P" n="32"/>autem cor poralem appetere non debeo: nisi 
+      ratio<lb ed="#P" n="33" break="no"/>nabiliter credatur omnino eum fieri peiorem. et tunc 
+      <lb ed="#P" n="34"/>licet orare vel optare sibi mortem conditionaliter 
+      <lb ed="#P" n="35"/>aut ad hos fines vt detur locus sanctis quos 
+      im<lb ed="#P" n="36" break="no"/>pedit opere afflictiuo: vel malis exemplis. aut ne ad 
+      <lb ed="#P" n="37"/>dat peccata peccatis / he due intentiones 
+      tangun<lb ed="#P" n="38" break="no"/>tur in legenda sancteauastasie / que sancto chrisogo 
+      <lb ed="#P" n="39"/>no de marito suo publio ita scripsit / si deus preuide 
+      <lb ed="#P" n="40"/>ret eum in infidelitate mansurum iuberet eum dare 
+      <lb ed="#P" n="41"/>locum sanctis. quo ad primum / et sequitur quia 
+      me<lb ed="#P" n="42" break="no"/>lius est ei animam exalare / quam dei filium blasphema 
+      <lb ed="#P" n="43"/>re / quo ad secundum nulli etiam licitum est in aliquo 
+      <lb ed="#P" n="44"/>casu inferre mortem vel passionis nisi sit functus 
+      pu<lb ed="#P" n="45" break="no"/>blica auctoritate vel potestate vt minister legis ali 
+      <lb ed="#P" n="46"/>ter transgreditur preceptum non occides. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k65616-Dd1e627">
+               <head xml:id="oooo3o-k65616-Hd1e629">Articulus 2</head>
+               <p xml:id="oooo3o-k65616-d1e631">
+                  <lb ed="#P" n="47"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e636">
+                  <lb ed="#P" n="48"/>¶ E secundo articulo. Utrum 
+      <lb ed="#P" n="49"/>maius meritorium sit 
+      dictomo<lb ed="#P" n="50" break="no"/>do diligere inimicum ceteris 
+      pa<lb ed="#P" n="51" break="no"/>ribus quam amicum vel 
+      econtra<lb ed="#P" n="52" break="no"/>Prima conclusio / Maioris  
+      <lb ed="#P" n="53"/>meriti est extrincese equalia 
+      be<lb ed="#P" n="54" break="no"/>neficia impendere inimico quam 
+      a<lb ed="#P" n="55" break="no"/>mico. Probatur quia diligere. 
+      <!--231.xml-->
+      <lb ed="#P" n="56"/>isto modo inimicum: est opus et magis arduum et 
+      <lb ed="#P" n="57"/>magis difficile difficultate proueniente non ex 
+      <lb ed="#P" n="58"/>vitio operantis / sed ex arduitate operis ergo 
+      con<lb ed="#P" n="59" break="no"/>sequentia nota quia quelibet talis difficultas est 
+      <lb ed="#P" n="60"/>augmentatiua meriti in digne operante.. Et 
+      <lb ed="#P" n="61"/>ob hoc dicit philosophus virtutem et artem esse ciu 
+      <lb ed="#P" n="62"/>ca difficile. Notum est autem quod passio iracundie et 
+      <lb ed="#P" n="63"/>appetitus vindicte et inturiarum multum difficultat 
+      <lb ed="#P" n="64"/>eideo eius victoria ad amorem oppositum et ad 
+      be<lb ed="#P" n="65" break="no"/>nefacere nocenti est arduum et soli charitati 
+      attri<lb ed="#P" n="66" break="no"/>buendum que vincit et est signum maioris amoris 
+      <lb ed="#P" n="67"/>dei / quam benefacere amico. Unde subducto amore dei: 
+      <lb ed="#P" n="68"/>adhuc benefaceret quis patri et amico sed non 
+      ini<lb ed="#P" n="69" break="no"/>mico: est ergo dilectio dicta maioris meriti 
+      respe<lb ed="#P" n="70" break="no"/>ctu inimici quam respectu amici. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e691">
+                  <lb ed="#P" n="71"/>¶ Secunda conclusio. maioris culpe est 
+      omit<lb ed="#P" n="72" break="no"/>tere benefacere opera circa amicum quam circa inimi 
+      <lb ed="#P" n="73"/>cum. patet quia plus est contra charitatem et 
+      con<lb ed="#P" n="74" break="no"/>tra inclinationem naturalem non subuenire amicor 
+      <lb ed="#P" n="75"/>uam inimico. Item grauius peccatum est odire 
+      ami<lb ed="#P" n="76" break="no"/>cum quam inimicum. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e707">
+                  <lb ed="#P" n="77"/>¶ Tertia conclusio. non est possibile vt ex cha¬ 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e713">
+                  <lb ed="#P" n="78"/>¶ ritate diligatur inimicus quin actualiter diligatur  
+      <lb ed="#P" n="79"/>deus: patet quia diligens veractter inimicum: cul 
+      <lb ed="#P" n="80"/>pit ipsum frui deo et tendere in deum et hoc propter 
+      <lb ed="#P" n="81"/>amorem dei cupit. cuius dilectio est causaliter prior 
+      <lb ed="#P" n="82"/>bilectione inimici¬ 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e726">
+                  <lb ed="#P" n="83"/>¶ Quarta conclusio: non est possibileequali¬ 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e731">
+                  <lb ed="#P" n="84"/>¶ ter benefacere b inimico et a amico ex charitate / 
+      di<lb ed="#P" n="85" break="no"/>ligendo quantumlibet remisse (idest non tam delectabi 
+      <lb ed="#P" n="86"/>liter imperando respectu b sicut respectu a) quin 
+      di<lb ed="#P" n="87" break="no"/>lectio respectu b sit ex meliori dilectione dei. 
+      Pro<lb ed="#P" n="88" break="no"/>batur quia ex quo circa b nichil mali appeto / sed si 
+      <lb ed="#P" n="89"/>di verum bene esse volo: et beneficium ob amorem 
+      <lb ed="#P" n="90"/>ei impendo et impero sicut ipsi a: tunc si est remissio 
+      <lb ed="#P" n="91"/>in feruore actus imperati circa b et non sit circa a 
+      <lb ed="#P" n="92"/>hoc erit ex communicatione alicuius passionis non 
+      mi<lb ed="#P" n="93" break="no"/>nuentis meritum quam vincit amor dei. Ideo ex per 
+      <lb ed="#P" n="94"/>fectiori amore dei imperatur actus circa b quam circa 
+      <lb ed="#P" n="95"/>a. quia tollit contrariam resistentiam. Ex istis 
+      con<lb ed="#P" n="96" break="no"/>clusionibus sequuntur correlaria. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e762">
+                  <lb ed="#P" n="97"/>¶ Primum quod alicuius operis omissio est plus  
+      <lb ed="#P" n="98"/>demeritoria idest magis iniusteea quis omittit: quam 
+      <lb ed="#P" n="99"/>alterius / et tamen alterius commissio opposita est 
+      <lb ed="#P" n="100"/>magis bona / patet de omissione beneficii circa b et 
+      <lb ed="#P" n="101"/>a sit b patet et a inimicus pater istud correlarium 
+      <lb ed="#P" n="102"/>ex prima secunda et quarta conclusionibus. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e778">
+                  <lb ed="#P" n="103"/>¶ Secundum correlarium aliqua latitudo ali 
+      <lb ed="#P" n="104"/>cuius operis est supererogatio respectu b inimici et 
+      <lb ed="#P" n="105"/>equalis latitudo operis circa b patrem non est 
+      su<lb ed="#P" n="106" break="no"/>vererogatio / patet quia voluntas iuuatur ab 
+      incli<lb ed="#P" n="107" break="no"/>natione amicitie vel parentele et similiter obligatio 
+      <lb ed="#P" n="108"/>hoc facit quod etc. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k65616-Dd1e795">
+               <head xml:id="oooo3o-k65616-Hd1e797">Articulus 3</head>
+               <p xml:id="oooo3o-k65616-d1e799">
+                  <lb ed="#P" n="109"/>¶ Tertius articulus. 
+      <!--232.xml-->
+      <pb ed="#P" n="107-r"/>
+                  <lb ed="#P" n="1"/>QUantum ad tertium articulum. 
+      <lb ed="#P" n="2"/>¶ Utrum scilicet diligere inimicum timo 
+      <lb ed="#P" n="3"/>re pene sit meritorium. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e815">
+                  <lb ed="#P" n="4"/>¶ Prima diuisio de timore: Quidam 
+      <lb ed="#P" n="5"/>est mundanus / Quidam est seruilis. 
+      <lb ed="#P" n="6"/>¶  Quidam initialis / Quidam castus et filialis de his 
+      <lb ed="#P" n="7"/>satis dicitur libro tertio Distinctione. 34 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e826">
+                  <lb ed="#P" n="8"/>¶ Secunda diuisio quia diligere inimicum 
+      di<lb ed="#P" n="9" break="no"/>cto modo in articulo primo est vitare peccatum: 
+      <lb ed="#P" n="10"/>co potest extendi sensus articuli generaliter. Utrum 
+      <lb ed="#P" n="11"/>omne vitare peccatum vel omittere peccare timore 
+      <lb ed="#P" n="12"/>pene precise vel aliquod taliter vitare: sit meritorit 
+      <lb ed="#P" n="13"/>Est agistr distinctio quod vitare vel omittere peccare tinore 
+      <lb ed="#P" n="14"/>potest dupliciter intelligi. Uno modo quantum ad vel 
+      <lb ed="#P" n="15"/>le executorium in quia scilicet timore pene non 
+      exequa<lb ed="#P" n="16" break="no"/>tur malum quod concupiscit licet optet illud posse 
+      exe<lb ed="#P" n="17" break="no"/>qui sine peccato / et concupiscat et vellet illud sibi licere. 
+      <lb ed="#P" n="18"/>Secundo modo quantum ad exequi et cum hoc quantum 
+      <lb ed="#P" n="19"/>ad affici vel concupiscere / vel complacere. primo 
+      mo<lb ed="#P" n="20" break="no"/>do dicitux quis omittere peccare solum intuitu 
+      pe<lb ed="#P" n="21" break="no"/>ne infligende formans et sciens hanc consequentia 
+      <lb ed="#P" n="22"/>si furaberis: cruciaberis. et praecise propter vitare 
+      con<lb ed="#P" n="23" break="no"/>sequens omittit antecedens. tunc fit prima 
+      conclu<lb ed="#P" n="24" break="no"/>sio. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e865">
+                  <lb ed="#P" n="25"/>¶ Uitans vel omittens b. peccatum precise 
+      me<lb ed="#P" n="26" break="no"/>tu pene infligende primo modo peccat et non 
+      mere<lb ed="#P" n="27" break="no"/>tur. Probatur auctoritate augustini in epistola ad  
+      <lb ed="#P" n="28"/>anastasium. 7. et super psalmo. 3. 2. vbi expressit illam 
+      <lb ed="#P" n="29"/>conclusionem sub his verbis. Qui timendo non fal 
+      <lb ed="#P" n="30"/>ciat mala et mallet faceresi liceret itaque si facultas 
+      <lb ed="#P" n="31"/>non detur: voluntas rea tenetur. Et probat ibidem. 
+      <lb ed="#P" n="32"/>istud et primo sic: ex dictis suis potest formari fatio 
+      <lb ed="#P" n="33"/>Nullus est imminuis a peccato .b. qui cupit fieri quia 
+      <lb ed="#P" n="34"/>petatur fieri a lege eterna si subtrahatur sibi quod 
+      <lb ed="#P" n="35"/>timet: sed sic est in proposito: igitur. quia ideo precise 
+      <lb ed="#P" n="36"/>non facit quia non potest ab eo impugne fieri: odit ig 
+      <lb ed="#P" n="37"/>tur punitionem et non culpam. Secundo sic: quicumque 
+      <lb ed="#P" n="38"/>afficitur taliter ad peccare vel ad opus culpabile 
+      <lb ed="#P" n="39"/>quod mallet iusticiam non esse peccatum prohibentem: qua 
+      <lb ed="#P" n="40"/>non peccare vtique reus est. patet: quia prediligit opus 
+      <lb ed="#P" n="41"/>culpe: quam iustitiam. quinymo prediligendo opus cul 
+      <lb ed="#P" n="42"/>pabilis voluntatis odit iusticiam: sed sic est in 
+      propo<lb ed="#P" n="43" break="no"/>sito. Unde concludit augustinus Quis dubitat quod 
+      <lb ed="#P" n="44"/>si posset aufferret iustitiam quia odit iusticiam cuius 
+      <lb ed="#P" n="45"/>est inimicus: patet ergo conclusio ex dictis  
+    </p>
+               <p xml:id="oooo3o-k65616-d1e914">
+                  <lb ed="#P" n="46"/>¶ Secunda conclusio. Omittere peccare precise 
+      <lb ed="#P" n="47"/>timore pene infligende secundo modo non est 
+      iuste<lb ed="#P" n="48" break="no"/>nec meritorie omittere. probatur quia quilibet iuste qo 
+      <lb ed="#P" n="49"/>perans magis odit culpam quam penam et magis 
+      dili<lb ed="#P" n="50" break="no"/>git se iustum esse quam incommodo penali carere. sed 
+      il<lb ed="#P" n="51" break="no"/>le qui sic omittit plus odit penam quam culpam. ergo.  
+      <lb ed="#P" n="52"/>non iuste. Propter quod augustinus vbi prius 
+      di<lb ed="#P" n="53" break="no"/>cit. Amicus iusticie est qui amore non peccat: tunc 
+      <lb ed="#P" n="54"/>enim vere timet peccare: qui amat iusticiam quam nollet 
+      <lb ed="#P" n="55"/>amittere Nam qui gehenam metuit: non metuit peccare sed 
+      <lb ed="#P" n="56"/>ardere: ille autem peccatum metuit: qui peccatum 
+      <lb ed="#P" n="57"/>plus metuit quam gehennam. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e943">
+                  <lb ed="#P" n="58"/>¶ Correlarium. Omittens peccare secundo mo. 
+      <lb ed="#P" n="59"/>do precise timore pene infligende peccat: saltem 
+      ve<lb ed="#P" n="60" break="no"/>nialiter et fit debitor pene metuendo penam: quia deli¬ 
+      <!--232.xml-->
+      <lb ed="#P" n="61"/>berate metuit qualiter non debet. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e956">
+                  <lb ed="#P" n="62"/>¶ Secundum corrclarium: Contingit sic 
+      omit<lb ed="#P" n="63" break="no"/>tentem / euadere debitum pene eterne. et per 
+      consed<lb ed="#P" n="64" break="no"/>quens non peccare mortaliter patet quia nisi timeret 
+      <lb ed="#P" n="65"/>penam illam eternam furaretur et cuperet etc. Unde 
+      <lb ed="#P" n="66"/>crisostomus in omelia qui timore pene deo seruit 
+      pe<lb ed="#P" n="67" break="no"/>nam quidem euadit: scilicet eternam / sed mercedem 
+      <lb ed="#P" n="68"/>iustitie non habet 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e974">
+                  <lb ed="#P" n="69"/>¶ Tertium correlarium non contingit seruari 
+      <lb ed="#P" n="70"/>precepta legis isto timore precise: patet quia deest 
+      ma<lb ed="#P" n="71" break="no"/>ximum mandatorum cuius obseruantia 
+      concerni<lb ed="#P" n="72" break="no"/>tur in reliquorum omnum obseruantiis. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e985">
+                  <lb ed="#P" n="73"/>¶ Corre. quartum contingit frequenter sic omitten 
+      <lb ed="#P" n="74"/>tem non proficere ad gradum iustitie cuius est 
+      debitori<lb ed="#P" n="75" break="no"/>et per consequens mortaliter peccare. omne ordine 
+      ti<lb ed="#P" n="76" break="no"/>morum et expulsione vide distinctione. et. 4. 3ii 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e996">
+                  <lb ed="#P" n="77"/>¶ Nunc pro responsione ad articulum in forma 
+      pro<lb ed="#P" n="78" break="no"/>pria que est Utrum diligere inimicum precise 
+      timo<lb ed="#P" n="79" break="no"/>te pene sit meritorium. Est prenotandum quod si est 
+      <lb ed="#P" n="80"/>dilectio ad quam tenemur vtique ex dilectione dei 
+      gra<lb ed="#P" n="81" break="no"/>tis dilecti: vt nobis ex lege nature precipitur et per 
+      <lb ed="#P" n="82"/>consequens erit diligere meritorium. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1013">
+                  <lb ed="#P" n="83"/>¶ Ex quo patet quod contradictio esset diligentem 
+      <lb ed="#P" n="84"/>sto modo mereri scilicet precise ex timore infligende 
+      pe<lb ed="#P" n="85" break="no"/>ne: quia non gratis diligeret deum sed in ordine ad 
+      con<lb ed="#P" n="86" break="no"/>modum. Si ergo articulus debet habere sensum 
+      ve<lb ed="#P" n="87" break="no"/>rum hoc oportet intelligi de timore casto filiali ipsius 
+      <lb ed="#P" n="88"/>pene essentialis scilicet indignitatis fruendi deo: et ipsius 
+      <lb ed="#P" n="89"/>desertionis a deo dilecto: que pena fugibilis est ex 
+      <lb ed="#P" n="90"/>amore. Et sub hoc sensu sit tertia conclusio. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1033">
+                  <lb ed="#P" n="91"/>¶ Omne taliter diligere inimicum est iuste et 
+      me<lb ed="#P" n="92" break="no"/>ritorie diligere / probatur quia ex charitate 
+      inclinan<lb ed="#P" n="93" break="no"/>te / et ex recta ratione imperante: et ex dei munere pro 
+      <lb ed="#P" n="94"/>mouente. ergo. vnde talis timor dei dicitur sanctus 
+      <lb ed="#P" n="95"/>termanens in seculum seculi. Unde augustinus. 10. 
+      <lb ed="#P" n="96"/>de ciuitate dei ca. 8. Quemadmodum dicitur paciem 
+      <lb ed="#P" n="97"/>tia pauperum non peribit infinem (que tamen non 
+      <lb ed="#P" n="98"/>erit in patria sed eternum in quo per patientiam per 
+      <lb ed="#P" n="99"/>uenitur) sic de timore in seculum seculi. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1055">
+                  <lb ed="#P" n="100"/>¶ Quarta conclusio: Nullus est verus siue 
+      re<lb ed="#P" n="101" break="no"/>ctus timor peccati: et nulla fuga eligibilis: nisi illius 
+      <lb ed="#P" n="102"/>rei cuius adeptio non potest esse non mala et cuius 
+      fu<lb ed="#P" n="103" break="no"/>ge causa prior / et eligibilior est amor iustitie. patet 
+      <lb ed="#P" n="104"/>quia nullam aliam rem vel penam vel conciatum timens 
+      <lb ed="#P" n="105"/>non referendo ad hunc timorem vel ad amorem ei 
+      <lb ed="#P" n="106"/>causaliter preuium: timet sicut debet nec ad talem 
+      ti<lb ed="#P" n="107" break="no"/>morem tenemur nisi sic fiat. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1075">
+                  <lb ed="#P" n="108"/>¶ Ex quo patet quod nulla secta dissonans a theo. 
+      <lb ed="#P" n="109"/>logia: sciuit timere nisi non timenda. Patet per 
+      augu<lb ed="#P" n="110" break="no"/>stinum. sermone secundo. de timore contra stoicos. 
+      <lb ed="#P" n="111"/>vbi ait. Stoici se fortissimos profferunt propter 
+      ina<lb ed="#P" n="112" break="no"/>nem huinanam animi virtuntem et que sequuntur 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1088">
+                  <lb ed="#P" n="113"/>¶ Gapientia sanati sed errorem decepti intium 
+      quip<lb ed="#P" n="114" break="no"/>pe sapientie timor domini. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1095">
+                  <lb ed="#P" n="115"/>¶ Ad rationes principales Ad primam dico q 
+      <lb ed="#P" n="116"/>augustinus vocat dilecrionem inimici mirabilem non 
+      <lb ed="#P" n="117"/>quod sit supra modum nature: sed quia difficile et raro 
+      <lb ed="#P" n="118"/>fit propter appetitum vindicte dominantem. 
+      <!--233.xml-->
+      <pb ed="#P" n="107-v"/>
+                  <lb ed="#P" n="1"/>Ad secundum negatur minor si fiat mentio 
+      <lb ed="#P" n="2"/>de dilectione inimici predicta in articulo primo. ad  
+      <lb ed="#P" n="3"/>augustinum dico quod duo dicit augustinus esse 
+      perfe<lb ed="#P" n="4" break="no"/>ctorum et non de necessitate salutis in dilectione 
+      ini<lb ed="#P" n="5" break="no"/>micorum.
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1122">
+      ¶ Primum est beneficientiam citra vel 
+      <lb ed="#P" n="6"/>vltra gradum necessitatis salutis corporis et anime 
+      <lb ed="#P" n="7"/>impendere inimico.
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1129">
+      ¶ Secundum est dimittere 
+      of<lb ed="#P" n="8" break="no"/>fensam iniustam quo ad exigentiam iustitie vel 
+      emen<lb ed="#P" n="9" break="no"/>de temporalis nam licitum est non impendere bene 
+      <lb ed="#P" n="10"/>fic entiam exteriorem nisi in casu necessitatis. et lici 
+      <lb ed="#P" n="11"/>tum est exigere emendam taxatam pro iniusta 
+      offen<lb ed="#P" n="12" break="no"/>sa. dum modo vtrobique seruetur charitatiua beniuo 
+      <lb ed="#P" n="13"/>tentia salutis anime et corporis inimici in ordine ad 
+      <lb ed="#P" n="14"/>animam et complacentia in virtute iustitie. Modo 
+      <lb ed="#P" n="15"/>perfectorum est ista dilectio que propter 
+      vehemen<lb ed="#P" n="16" break="no"/>tiam amoris diuini / non vindicat offensam nec dimit 
+      <lb ed="#P" n="17"/>tit impensam citra necessitatem. et isti sunt perfecti 
+      fi<lb ed="#P" n="18" break="no"/>lii dei vt dicit augustinus. 
+    </p>
+               <p xml:id="oooo3o-k65616-d1e1155">
+                  <lb ed="#P" n="19"/>¶ Ad tertium dicendum quod licet imprecari ini 
+      <lb ed="#P" n="20"/>micis malum penale ad correctionem ipsorum: et vt 
+      <lb ed="#P" n="21"/>ipsis adimatur facultas malignandi. et hoc est plus 
+      <lb ed="#P" n="22"/>diligere quam odire immo est odire vicium et diligere 
+      per<lb ed="#P" n="23" break="no"/>sonam.. Et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

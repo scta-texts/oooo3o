@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="31-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k19747"><!--l1d17q2 -->
+            <head xml:id="oooo3o-k19747-Hd1e99">Quaestio 2</head>
+            <p xml:id="oooo3o-k19747-d1e101">
+               <lb ed="#P" n="55"/>SEcundo quero circa materiam 
+      deci<lb ed="#P" n="56" break="no"/>meseptie distinctionis vtrum charitas 
+      crea<lb ed="#P" n="57" break="no"/>sta possit augeri per merita. 
+    </p>
+            <p xml:id="oooo3o-k19747-d1e110">
+               <lb ed="#P" n="58"/>Et arguitur quod non. quia charitas non 
+      prae<lb ed="#P" n="59" break="no"/>. Ominui ergo non potest augeri. consequentia nota est / 
+      <lb ed="#P" n="60"/>cum contraria habeant fieri cirea idem. antecedens 
+      <!--81.xml-->
+      <lb ed="#P" n="61"/>probatur quia nec per mortale potest minui: quia 
+      cor<lb ed="#P" n="62" break="no"/>rumpitur totaliter. nec per veniale / quia sequitur quod 
+      <lb ed="#P" n="63"/>possent tot venialia committi quod tota charitas 
+      destri<lb ed="#P" n="64" break="no"/>eretur quod falsum est 
+    </p>
+            <p xml:id="oooo3o-k19747-d1e130">
+               <lb ed="#P" n="65"/>Secundo ad idem. aut ista augmentatio 
+      fie<lb ed="#P" n="66" break="no"/>ret per gradus eiusdem rationis aut alterius: 
+      secun<lb ed="#P" n="67" break="no"/>dum non potest dari / quia nichil augetur per 
+      addi<lb ed="#P" n="68" break="no"/>tionem gradus alterius rationis. nec primum / quia 
+      <lb ed="#P" n="69"/>quod repugnat vni aliquorum eiusdem rationis / 
+      repu<lb ed="#P" n="70" break="no"/>gnat cuilibet illius rationis. sed huius gradus 
+      pri<lb ed="#P" n="71" break="no"/>uatio repugnat eius habitationi. ergo repugnat 
+      ha<lb ed="#P" n="72" break="no"/>bitationi cuiuslibet eiusdem rationis. ergo vno 
+      habi<lb ed="#P" n="73" break="no"/>to nullo careret. et per consequens quilibet haberetur 
+      <lb ed="#P" n="74"/>et sic nichil hic augeretur 
+    </p>
+            <p xml:id="oooo3o-k19747-d1e154">
+               <lb ed="#P" n="75"/>Tertio ad idem. quia si posset augeri sequeretur quod 
+      <lb ed="#P" n="76"/>vel praexistens pars augeretur: vel pars de nouo adueniens 
+      <lb ed="#P" n="77"/>vel aggregatum ex vtraque. sed nullum istorum potest 
+      da<lb ed="#P" n="78" break="no"/>ri / ergo etc. consequentia est nota / antecedens probatur quis 
+      <lb ed="#P" n="79"/>pars praexistens non est intensior quam ante / et pars de 
+      no<lb ed="#P" n="80" break="no"/>uo adueniens non praefuit nec aggregatum ex vtraque 
+      <lb ed="#P" n="81"/>ergo etc. In oppositum est beatus augustinus. in epi¬ 
+      <lb ed="#P" n="82"/>stola ad bonifacium comitem dicens quod charitas mere 
+      <lb ed="#P" n="83"/>tur augeri vt aucta mereatur et perfici / AIlem eueni. 
+      <lb ed="#P" n="84"/>capitulo tertio Charitas quanto in vno quoque 
+      ma<lb ed="#P" n="85" break="no"/>ior tanto melior est. Item capitulo vltimo. 
+      crescen<lb ed="#P" n="86" break="no"/>te charitate decrescit cupiditas. 
+    </p>
+            <p xml:id="oooo3o-k19747-d1e184">
+               <lb ed="#P" n="87"/>In ista questione primo ponam declarationes 
+      <lb ed="#P" n="88"/>in generali de formarum intentione. Secundo ponam 
+      c<lb ed="#P" n="89" break="no"/>clusiones iu speciali de praesenti questione. Tertio rei 
+      <lb ed="#P" n="90"/>mouebo dubitationes cum solutionum positione.
+    </p>
+            <div xml:id="oooo3o-k19747-Dd1e195">
+               <head xml:id="oooo3o-k19747-Hd1e197">Articulus 1</head>
+               <p xml:id="oooo3o-k19747-d1e199">
+                  <lb ed="#P" n="91"/>Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e204">
+                  <lb ed="#P" n="92"/>QUantum ad primum sciendum quod 
+      for<lb ed="#P" n="93" break="no"/>marum alique sunt diuisibiles. alique 
+      in<lb ed="#P" n="94" break="no"/>diuisibiles. et hoc vel secundum gradut 
+      <lb ed="#P" n="95"/>essentiales intensiue tantum. sicut accidi 
+      <lb ed="#P" n="96"/>tia spiritualia vt puta charitas et 
+      simi<lb ed="#P" n="97" break="no"/>lia. vel secundum partes quantitatiuas tantum. sicul forme 
+      sub<lb ed="#P" n="98" break="no"/>stantiales brutorum et aliarum rerum inanimatarum. vel 
+      ter<lb ed="#P" n="99" break="no"/>tio secundum intentionem et extensionem simul. sicut qualitates 
+      <lb ed="#P" n="100"/>rime / sicut albendo. nigredo. caliditas. frigiditas et 
+      <lb ed="#P" n="101"/>similia.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e228">
+      ¶ Secundo sciendum quod augmentatio potest intellig 
+      <lb ed="#P" n="102"/>tribus modois praedictis / vt potest verificari de forma aliquae 
+      <lb ed="#P" n="103"/>indiuisibili extensiue et intensiue cuiusmodi est anima.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e235">
+                  <lb ed="#P" n="104"/>¶ Tertio notandum quod forme primi ordinis licet non sin¬ 
+      <lb ed="#P" n="105"/>quante et extense: possunt tamen dici quante intensiue. quia intendi et 
+      <lb ed="#P" n="106"/>possunt et remitti in subiecto indiuisibili. sicui appare 
+      <lb ed="#P" n="107"/>bit ex dicendis. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e247">
+                  <lb ed="#P" n="108"/>hiis premissis pono aliquas propositiones. 
+      <lb ed="#P" n="109"/>sit prima ista. Non quantumlibet minima forma secundum / 
+      <lb ed="#P" n="110"/>extensionem / potest naturaliter praecise sesola in quantolibet sub¬ / 
+      <lb ed="#P" n="111"/>iecto magno subsistere. probatur quia si sic sequeretur quod albe 
+      <lb ed="#P" n="112"/>do aliqua valde modica / posset. corpus totius terre 
+      na<lb ed="#P" n="113" break="no"/>turaliter informare. patet falsum.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e263">
+      ¶ Secunda propositio. Non quam 
+      <lb ed="#P" n="114"/>tumlibet minimum subiectum est alicuis date forme / scilicet b. erg 
+      <lb ed="#P" n="115"/>albedinis susceptiuum naturaliter. sit .b. albedo multum 
+      <lb ed="#P" n="116"/>extensa probatur / quia alias albedo totius parietis 
+      possei<lb ed="#P" n="117" break="no"/>naturaliter suscipi in grano millii. quod non veter verum 
+      <lb ed="#P" n="118"/>Tertia propositio in incremento subiecti non 
+      <lb ed="#P" n="119"/>potentis suscipere b. formam propter sui paruitatem 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e279">
+                  <lb ed="#P" n="120"/>¶ est dare minimum susceptiuum. probatur quia aut est r 
+      <!--82.xml-->
+      <pb ed="#P" n="32-r"/>
+                  <lb ed="#P" n="1"/>dare maximum quod non. vel minimum quod sic / vel 
+      <lb ed="#P" n="2"/>maximum quod sic / vel mnimum quod non. sed primum 
+      <lb ed="#P" n="3"/>non potest dari nec tertium nec quartum. ergo 
+      relin<lb ed="#P" n="4" break="no"/>queretur quod detur secundum. Quod primum non possit dari / probatur: 
+      <lb ed="#P" n="5"/>quia tunc sequeretur quod foret assignabile vltimum 
+      in<lb ed="#P" n="6" break="no"/>stans in quo subiectum datum / quod sit a. non est sati 
+      <lb ed="#P" n="7"/>magnum ad suscipiend: quod est falsum. consequentia 
+      <lb ed="#P" n="8"/>est clara quia in illo instanti non satis est magnum 
+      <lb ed="#P" n="9"/>et continue post illud instans esset satis magnum. fal 
+      <lb ed="#P" n="10"/>sitas consequentis apparet: quia tunc in illo instanti 
+      vl<lb ed="#P" n="11" break="no"/>timo quod sit. c. deficit ipsi. a. ad hoc vt sit satis 
+      ma<lb ed="#P" n="12" break="no"/>gnum aliquod diuisibile / ant indiuisibile / non 
+      indi<lb ed="#P" n="13" break="no"/>uisibile vt notum est: ergo diuisibile. ergo illud 
+      parti<lb ed="#P" n="14" break="no"/>biliter acrescit ipsi. a. continue. ergo per aliquod tempus 
+      <lb ed="#P" n="15"/>vltra. c. instans non erit satis magnum. et per consequens 
+      <lb ed="#P" n="16"/>c non fuit vltimum instans in quo a. non fuit satis 
+      <lb ed="#P" n="17"/>magnum.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e325">
+      ¶ Secundo quia capio totum tempus in 
+      <lb ed="#P" n="18"/>quo. a. est deficiens et sit illud e. et totum tempus 
+      in<lb ed="#P" n="19" break="no"/>quo est sufficiens. et sit illud d. tunc. d. et. e. sunt 
+      con<lb ed="#P" n="20" break="no"/>tinua / sit ergo instans continuans ista duo 
+      tempo<lb ed="#P" n="21" break="no"/>ra. 5t tunc vel in f a. est sufficiens et habetur 
+      proposi<lb ed="#P" n="22" break="no"/>tum. quia tunc a. est minimum susceptiuum. si est 
+      defi<lb ed="#P" n="23" break="no"/>ciens in 5. ergo vltra. f. erit deficiens. probatur vt priu¬s  
+      <lb ed="#P" n="24"/>et sic. 1. non fuit terminus totius temporis in quo a. 
+      <lb ed="#P" n="25"/>erat insufficiens contra casum. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e345">
+                  <lb ed="#P" n="26"/>¶ Quarta propositio. possibile est esse duas 
+      for<lb ed="#P" n="27" break="no"/>mas equalis actiuitatis contrarias contra 
+      magi<lb ed="#P" n="28" break="no"/>strum gregorium libro primo. distinctione decima 
+      sex<lb ed="#P" n="29" break="no"/>ta. questione tertia articulo secundo. Probatur quia 
+      <lb ed="#P" n="30"/>hoc non includit aliquam repugnantiam: ergo hoc 
+      <lb ed="#P" n="31"/>est possibile.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e361">
+      ¶ Preterea quandoque reperitur calidi 
+      <lb ed="#P" n="32"/>tas intensior / quandoque remissior / quam frigiditas. et non 
+      <lb ed="#P" n="33"/>sine proportione. et econtrario. ergo potest vna earum 
+      <lb ed="#P" n="34"/>iantum intendi et altera remitti: quod aliquando erunt 
+      e<lb ed="#P" n="35" break="no"/>quales. Patet quia quodlibet excedens quantitatiue 
+      <lb ed="#P" n="36"/>et non solum viriualiter potest diuidi in equale et ci 
+      <lb ed="#P" n="37"/>cessum. ergo caliditas excedens frigiditatem / pote 
+      <lb ed="#P" n="38"/>rit diuidi in caliditatem ecqualem frigiditati: et in 
+      ex<lb ed="#P" n="39" break="no"/>cedens frigiditatem. ergo et cera. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e382">
+                  <lb ed="#P" n="40"/>¶ Quinta propositio. tales forme contrarie 
+      equa<lb ed="#P" n="41" break="no"/>lis actiuitatis / applic ate equaliter alicui 
+      subiecto<lb ed="#P" n="42" break="no"/>equaliter ad quamlibet istarum contrariari 
+      mdisposito<lb ed="#P" n="43" break="no"/>vel indisposito agerent in ipsam formam minimam. vel 
+      <lb ed="#P" n="44"/>nullam. patet quia non magis apparet quod vna 
+      intro<lb ed="#P" n="45" break="no"/>ducat formam similem sibi quam reliqua / cum sint 
+      eque<lb ed="#P" n="46" break="no"/>actiue ergo.  
+    </p>
+               <p xml:id="oooo3o-k19747-d1e400">
+                  <lb ed="#P" n="47"/>¶ Sexta propositio. possibile est formam aliquam 
+      <lb ed="#P" n="48"/>augeri secundum extensionem / sine aliquo nouo 
+      super<lb ed="#P" n="49" break="no"/>addito. Probatur quia ad solam rarefactionem 
+      sub<lb ed="#P" n="50" break="no"/>iecti potest forma extensiue intendi vel augeri. ergo 
+      <lb ed="#P" n="51"/>et cetera. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e413">
+                  <lb ed="#P" n="52"/>¶ Septima. impossibile est formam augeri 
+      secun<lb ed="#P" n="53" break="no"/>dum intentionem sine aliquo nouo superaddito. pro 
+      <lb ed="#P" n="54"/>batur quia si sic sequeretur pari ratione quod deus 
+      po<lb ed="#P" n="55" break="no"/>set aliquam substantiam facere perfectiorem in 
+      du<lb ed="#P" n="56" break="no"/>plo / triplo / quadruplo / et sic sine fine absquee mri de 
+      no<lb ed="#P" n="57" break="no"/>uo superaddito isti substantie. quod non est intelligibile. 
+      <lb ed="#P" n="58"/>Octaua. in continua augmentaticne forme 
+      <lb ed="#P" n="59"/>nulla pars de ncuo adueniens acquiritur secundum 
+      <lb ed="#P" n="60"/>se et quodlibet sui in instenti. probatur quia quelibe 
+      <lb ed="#P" n="61"/>successiue incucitur et parubiliter. alias non esset ar¬ 
+      <!--82.xml-->
+      <lb ed="#P" n="62"/>gmentatio continua. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e442">
+                  <lb ed="#P" n="63"/>¶ Nona. non in quolibet instanti temporis augmen 
+      <lb ed="#P" n="64"/>tationis / continue acquiritur noua pars. probatur quia  
+      <lb ed="#P" n="65"/>si sic: sequeretur quod fierei infinita forma per quamlibet 
+      <lb ed="#P" n="66"/>continuam augmentationem / quia infinite partes in 
+      <lb ed="#P" n="67"/>qualibet continua augmentatione essent quante. 
+      pro<lb ed="#P" n="68" break="no"/>batur consequentia quia vel quelibet pars esset 
+      e<lb ed="#P" n="69" break="no"/>qualis alteri / et habetur intentum. vel posterior 
+      sem<lb ed="#P" n="70" break="no"/>per esset maior priore et tunc magis sequitur 
+      pro<lb ed="#P" n="71" break="no"/>positum. vel posterior continue erit minor / quod non 
+      <lb ed="#P" n="72"/>videtur rationabile / quod agens necessario remittat 
+      <lb ed="#P" n="73"/>suam actionem continuando. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e468">
+                  <lb ed="#P" n="74"/>¶ Decima propositio. Non oportet in augmen t 
+      <lb ed="#P" n="75"/>tatione / formam preexistentem corrumpi: et continue 
+      <lb ed="#P" n="76"/>aliam et aliam perfectiorem generari. Probatur quia 
+      <lb ed="#P" n="77"/>forma preexistens et pars adueniens non contrariam 
+      <lb ed="#P" n="78"/>tur (cum sint eiusdem speciei) ergo adueniens non 
+      cor<lb ed="#P" n="79" break="no"/>rumpit preexistentem nec econuerso. nec repugnat 
+      <lb ed="#P" n="80"/>eis esse simul. ergo.  
+    </p>
+               <p xml:id="oooo3o-k19747-d1e486">
+                  <lb ed="#P" n="81"/>¶ Undecima propositio. Non oportet quod forma et 
+      <lb ed="#P" n="82"/>adueniens sit intensior quam precedens / adhoc quod 
+      pre<lb ed="#P" n="83" break="no"/>existens continue augeatur intensiue. Probatur. quia 
+      <lb ed="#P" n="84"/>si istud oporteret: sequeretur quod per merita pua 
+      nul<lb ed="#P" n="85" break="no"/>lus posset augere charitatem. quod est falsum. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e500">
+                  <lb ed="#P" n="86"/>¶ Item sequeretur / quod nullum agens vniformi 
+      actio<lb ed="#P" n="87" break="no"/>ne posset aliquid augere continue. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e507">
+                  <lb ed="#P" n="88"/>¶ Quodccima propositio. In augmentatione se¬3 
+      <lb ed="#P" n="89"/>cundum intensionem / continue est aliqua forma tota¬ pe 
+      <lb ed="#P" n="90"/>lis composita ex parte superaddita et preexistente 
+      <lb ed="#P" n="91"/>que remanet post. Patet quia alias non esset possibi 
+      <lb ed="#P" n="92"/>lis augmentatio vt videtur 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e520">
+                  <lb ed="#P" n="93"/>¶ Tredecima propositio. Nulla forma partia 
+      <lb ed="#P" n="94"/>liter secundum se totam et quamlibet eius partem 
+      ac<lb ed="#P" n="95" break="no"/>suiri potest in subiecto / ipsa totaliter et qualibet 
+      si<lb ed="#P" n="96" break="no"/>mili in specie carente. Probatur supposito quod 
+      con<lb ed="#P" n="97" break="no"/>traria naturaliter non possunt esse simul: etc. Tuno 
+      <lb ed="#P" n="98"/>sit b. nigrum quod debeat fierialbum: Arguitur sic: 
+      <lb ed="#P" n="99"/>per prius est nigredinem corrumpi et totaliter non 
+      <lb ed="#P" n="100"/>esse in b. quam albedinem vel quamcumque partem ipsius 
+      <lb ed="#P" n="101"/>esse in b. saltem in eadem parte / patet per suppositum 
+      <lb ed="#P" n="102"/>ergo cum sit dare vltimum instans nigredinis 
+      sed<lb ed="#P" n="103" break="no"/>tur quod erit dare primum instans albedinis. in ea patet 
+      <lb ed="#P" n="104"/>te b. in qua primo non est nigredo. ergo aliqua pars 
+      <lb ed="#P" n="105"/>albedinis est primo introducta simul et non partibui 
+      <lb ed="#P" n="106"/>liter. quod fuit probandum. Et maxime ista propositio 
+      <lb ed="#P" n="107"/>habet veritatem vbi subiectum est sub forma contria.
+    </p>
+            </div>
+            <div xml:id="oooo3o-k19747-Dd1e556">
+               <head xml:id="oooo3o-k19747-Hd1e558">Articulus 2</head>
+               <p xml:id="oooo3o-k19747-d1e560">
+                  <lb ed="#P" n="108"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e565">
+                  <lb ed="#P" n="109"/>QUantum ad secundum articulum 
+      <lb ed="#P" n="110"/>¶ sit prima conclusio ista. in quolibet 
+      au<lb ed="#P" n="111" break="no"/>gmentoformali charitatis / successius vel q 
+      <lb ed="#P" n="112"/>continuo / secundum intentionem: 
+      fster<lb ed="#P" n="113" break="no"/>e forma preexistente et nouiter acquisita 
+      <lb ed="#P" n="114"/>charitas seu forma perfectior: vel intensior. probatur 
+      <lb ed="#P" n="115"/>quia isto memdr augeri vel crescere qualibet forma secundum 
+      <lb ed="#P" n="116"/>intentionem / et non aliter. sicut patet ex 
+      propositioni<lb ed="#P" n="117" break="no"/>bus premissis in primo articulo. ergo conclusio vera 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e587">
+                  <lb ed="#P" n="118"/>¶ Ex qua sequitur correlarie primo: quod in 
+      conti<lb ed="#P" n="119" break="no"/>nuo cremento vel augmento charitatis / nulla pars e 
+      <lb ed="#P" n="120"/>charitatis de nouo aduenientis sim ul secundum se totam 
+      <lb ed="#P" n="121"/>acquiritur: sed quelibet partibiliter et successiue. 
+      <!--83.xml-->
+      <pb ed="#P" n="32-v"/>
+                  <lb ed="#P" n="1"/>Probatur quia si aliqua pars in tali augmento 
+      ac<lb ed="#P" n="2" break="no"/>quiritur tota simul et in instanti: eadem ratione in 
+      quo<lb ed="#P" n="3" break="no"/>libet alio instanti acquircretur aliqua pars. et sic 
+      in<lb ed="#P" n="4" break="no"/>fine esset charitas infinita. quod est falsum. 
+      conse<lb ed="#P" n="5" break="no"/>quentia patet ex propositionibus octaua et nona. 
+      <lb ed="#P" n="6"/>Secundo infero quod in tali intentione 
+      charita<lb ed="#P" n="7" break="no"/>tis non est dare primum intensum esse. Patet quia 
+      quod<lb ed="#P" n="8" break="no"/>libet intensum esse successiue fit vel totum simul. vt 
+      di<lb ed="#P" n="9" break="no"/>cit correlarium precedens: ergo cum quodlibet 
+      mo<lb ed="#P" n="10" break="no"/>tum esse praecesserit moueri: sequitur quod quodlibet 
+      inten<lb ed="#P" n="11" break="no"/>sum esse precesserit intendi. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e626">
+                  <lb ed="#P" n="12"/>¶ Secunda conclusio. sicut solus deus charitatem 
+      <lb ed="#P" n="13"/>creatam infundit. ita solus deus ipsam intendit secundum 
+      <lb ed="#P" n="14"/>proportionem meritorum que acceptat. Probatur quia 
+      <lb ed="#P" n="15"/>creatura nullo modo effectiue ad charitatem potest. 
+      <lb ed="#P" n="16"/>attingere. quia a solo deo creabilis est secundum doctores 
+      <lb ed="#P" n="17"/>sicut ex intentione sanctorum pulchre innuit doctor 
+      lu<lb ed="#P" n="18" break="no"/>culentus magister hugolinus libro primo 
+      distin<lb ed="#P" n="19" break="no"/>ctione decimaquarta questione pria articulo prio. sic 
+      ip<lb ed="#P" n="20" break="no"/>sam charitatem describens. Charitas est habitus super 
+      <lb ed="#P" n="21"/>naturalis cum deo actuante specialiter mentem totam 
+      <lb ed="#P" n="22"/>actualiter inclinans et prercialiter / et est cum causa 
+      re<lb ed="#P" n="23" break="no"/>spectu operari mentis melioratim ac ex acceptatione 
+      <lb ed="#P" n="24"/>diuina formaliter harismans id est caram reddens. Ex 
+      <lb ed="#P" n="25"/>prima enim partieula huius descripsionis apparet: quod 
+      <lb ed="#P" n="26"/>charitas est a solo deo creabilis nec potest virtute 
+      <lb ed="#P" n="27"/>naturali acquiri habitus consimilis taliter inclinans 
+      <lb ed="#P" n="28"/>Ex ista conclusione infero correlarie. quod in 
+      tali<lb ed="#P" n="29" break="no"/>augmentatione charitatis / soli deo artribuibilis: 
+      <lb ed="#P" n="30"/>nulla pars ad aliam habet aliquem ordinem essentialem. 
+      <lb ed="#P" n="31"/>¶ Patet istud ex quo a solo deo intenditur secundum 
+      <lb ed="#P" n="32"/>proportionem meritorum (que adceptat deus) vnam 
+      <lb ed="#P" n="33"/>partem preponit / sed posset istam quam ponit prius 
+      po<lb ed="#P" n="34" break="no"/>nere posterius: cum libere agat: ergo etc. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e679">
+                  <lb ed="#P" n="35"/>¶ Tertia conclusio. stat aliquod subiectum 
+      con<lb ed="#P" n="36" break="no"/>tinue fieri magis tale / per aliquam formam / per diuinam 
+      <lb ed="#P" n="37"/>potontiam: et tamen nullam formam. in dicto. subiecto intendiu 
+      <lb ed="#P" n="38"/>Probatur quia possibile est plures albedines vniri 
+      <lb ed="#P" n="39"/>huic ligno: absque hoc quod vniantur inter se (cum alia sit 
+      <lb ed="#P" n="40"/>vnio eorum ad subiectum / et alia sit vnio ipsarum adinuicem 
+      <lb ed="#P" n="41"/>si ergo sic vniret tres albedines vel plures huic 
+      li<lb ed="#P" n="42" break="no"/>gno successiue / non vniendo eas adinuicem: fieret illud 
+      <lb ed="#P" n="43"/>lignum continue albius / et tamen sine aliqua intentione 
+      al<lb ed="#P" n="44" break="no"/>pius. ergo conclusio vera. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e703">
+                  <lb ed="#P" n="45"/>¶ Ex qua infero correlarie quod possibile est alique 
+      <lb ed="#P" n="46"/>continue fieri magis charum deo: nlla charitate 
+      crescen<lb ed="#P" n="47" break="no"/>te in eo. Istud correlarium patet ex conclusione 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e712">
+                  <lb ed="#P" n="48"/>¶ Quarta conclusio. possibile est aliquam formam 
+      <lb ed="#P" n="49"/>informantem aliquod subiectum continue intendi: et tamen 
+      <lb ed="#P" n="50"/>illud subiectum magis tale non fieri. probatur supposita 
+      <lb ed="#P" n="51"/>ymaginatione quod sint tres albedines scilicet. a .b. c. vel 
+      plu<lb ed="#P" n="52" break="no"/>res in vno subiecto / et continue adinuicem vnirentur: tunc 
+      <lb ed="#P" n="53"/>lieret ibi intentio / et tamen subiectum non diceretur magis 
+      <lb ed="#P" n="54"/>tale. qui a ante vnionemlistarum albedinum fuit tale 
+      <lb ed="#P" n="55"/>informatum tota illa albedine: et nunc non est informa 
+      <lb ed="#P" n="56"/>tum maiori: ergo.  
+    </p>
+               <p xml:id="oooo3o-k19747-d1e734">
+                  <lb ed="#P" n="57"/>¶ Ex qua sequitur correlarie. quod possibile esset 
+      <lb ed="#P" n="58"/>charitatem sortis continue intendi et fieri maiorem: et tamen 
+      <lb ed="#P" n="59"/>sortes non fieret magis charus deo quam ante / etiam si so¬ 
+      <!--83.xml-->
+      <lb ed="#P" n="60"/>la charitate creata diceretur charus. Probatur si in sorte 
+      <lb ed="#P" n="61"/>essent tres gradus charitatis vel tres charitates. 
+      <lb ed="#P" n="62"/>et deducitur vt praecedens conclusio. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e752">
+                  <lb ed="#P" n="63"/>¶ Secundo sequitur ex conclusione. quod deus posset 
+      <lb ed="#P" n="64"/>facere quod hec consequentia non valeret de vrtute sermodis: 
+      sor<lb ed="#P" n="65" break="no"/>es habet intentiorem charitatem quam plato igitur est 
+      me<lb ed="#P" n="66" break="no"/>lior quam plato (supposito quod vterque propter charitatem 
+      di<lb ed="#P" n="67" break="no"/>tatur bonus) apparet istudcorrelarium quia secundum 
+      <lb ed="#P" n="68"/>ymaginationem predictam si sortes habeat tres 
+      chari<lb ed="#P" n="69" break="no"/>tates equales / plato autem vnam duplam ad charitatem 
+      <lb ed="#P" n="70"/>vnam sortis: tunc notum est quod sortes est melior platone. 
+      <lb ed="#P" n="71"/>quia plus habet de charitate. et tamen plato habet ma¬ 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e774">
+                  <lb ed="#P" n="72"/>¶ iorem charitatem quam sortes. quia sortes nullam habet ita 
+      <lb ed="#P" n="73"/>magnam sicut plato. vt patet per casum. ergo 
+      correla<lb ed="#P" n="74" break="no"/>tium verum. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e784">
+                  <lb ed="#P" n="75"/>¶ Quinta conclusio. Tharitas creata augetur  
+      <lb ed="#P" n="76"/>vel augeri potest per merita. ad istum intellectum: quod de communis 
+      <lb ed="#P" n="77"/>lege deus auget charitatem viatoris dum agit opera 
+      <lb ed="#P" n="78"/>meritoria: que deus acceptat ad eterna praemia. Ista 
+      <lb ed="#P" n="79"/>conclusio est de intentione sanctorum. vt patet ex 
+      auctoritati<lb ed="#P" n="80" break="no"/>pus augustini allegatis in proponendo questionem. 
+      <lb ed="#P" n="81"/>¶ Patet etiam. quia inter bonos ita est quod vnus est alio 
+      <lb ed="#P" n="82"/>in elior: et quandoque incipit esse melior ipsi deo. in hoc autem 
+      <lb ed="#P" n="83"/>stat augmentum charitatis vt notat augnstinus euch.  
+      <lb ed="#P" n="84"/>tapitulo decimo septimo. Sexta conclusio et vltima et 
+      <lb ed="#P" n="85"/>sit ista: et est magistri hugolini in forma vbi supra. 
+      <lb ed="#P" n="86"/>quodlibet operari charitatiuum / quanto distantius est a 
+      pec<lb ed="#P" n="87" break="no"/>care mortaliter: tanto est acceptius deo. et per consequens 
+      <lb ed="#P" n="88"/>magis augmentatiuum charitatis. Pro cuius probatio 
+      <lb ed="#P" n="89"/>no sumo duas propositiones ex dictis augustini 
+      cir<lb ed="#P" n="90" break="no"/>ta finem libri de spiritu et littera ad marcellianum. 
+      Pri<lb ed="#P" n="91" break="no"/>ma est. quanto magis delectat animum iusticia seu 
+      iuste<lb ed="#P" n="92" break="no"/>operari: tanto ab iniusticia receditur et a peccare 
+      mor<lb ed="#P" n="93" break="no"/>taliter. Secunda. quanto animus delectabilius iuste 
+      ope<lb ed="#P" n="94" break="no"/>ratur: tanto est operari deo acceptius. quia nichil 
+      ac<lb ed="#P" n="95" break="no"/>ceptat deus nisi propter amorem et complacentiam 
+      <lb ed="#P" n="96"/>quam operans iuste habet. Ex istis patet veritas 
+      <lb ed="#P" n="97"/>conclusionis:. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e836">
+                  <lb ed="#P" n="98"/>¶ Ex qua sequitur correlarie. quod quodlibet 
+      ope<lb ed="#P" n="99" break="no"/>rari charitatiuum / quanto magis separat animum a 
+      cu<lb ed="#P" n="100" break="no"/>piditate ipsalium: tanto perfectius conformatur inclina 
+      <lb ed="#P" n="101"/>tioni charitatis intensiue. Patet quia inclinatio 
+      chari<lb ed="#P" n="102" break="no"/>tatis est in deum / et quanto animus ex tali inclinatione 
+      <lb ed="#P" n="103"/>plus elongatur a sollicitudine ipsalium: tanto proximior. 
+      <lb ed="#P" n="104"/>fit deo. et per consequens quanto magis opus bonum vt 
+      <lb ed="#P" n="105"/>puta oratio plus separat animum a cupiditate 
+      tempo<lb ed="#P" n="106" break="no"/>ralium: tanto magis conformatur inolinationi charitatis 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e858">
+                  <lb ed="#P" n="107"/>¶ Ex quo sequitur quod penes sequi inclinanonem 
+      cha<lb ed="#P" n="108" break="no"/>titatis contra cupiditatem: debet attendi augmenta 
+      <lb ed="#P" n="109"/>tio charitatis 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e867">
+                  <lb ed="#P" n="110"/>¶ Ubi procomplemento istius articuli est notandum  
+      <lb ed="#P" n="111"/>quod inclinatio charitatis potest duplicitur considerari. vno 
+      l<lb ed="#P" n="112" break="no"/>modo quo ad extensionem actuum eiusdem 
+      perfectio<lb ed="#P" n="113" break="no"/>nis / alio modo quo ad intensionem actuum minoris 
+      <lb ed="#P" n="114"/>et maioris perfectionis. et istis duobus modis potest 
+      <lb ed="#P" n="115"/>fieri et considerari augmentum charitatis. vna enim 
+      in<lb ed="#P" n="116" break="no"/>tensio scilicet intensiua est ad plus: et alta est ad plures. 
+      <lb ed="#P" n="117"/>Ut verbi gratia. si quis inclinatur ad fruendum deo. et ad actum 
+      <lb ed="#P" n="118"/>magne deuotionis: et cum hoc inclinatur ad diligendum 
+      <lb ed="#P" n="119"/>filios inordinate / que est inclinatio cupiditatis: siue 
+      <lb ed="#P" n="120"/>que est diligere propter temporale commodu. non tamen quin 
+      <!--84.xml-->
+      <pb ed="#P" n="33-r"/>
+                  <lb ed="#P" n="1"/>mallet eos perdere quam deum: quanisis intensiue diligat: 
+      po<lb ed="#P" n="2" break="no"/>test tamen extensiue intendi et perfici eius 
+      chari<lb ed="#P" n="3" break="no"/>tas. vt scilicet non afficiatur ad temporalia commoda 
+      inordi<lb ed="#P" n="4" break="no"/>nate / sed diligat filios ordinate / in tali enim augmenta 
+      <lb ed="#P" n="5"/>tur charitas extensiue. Sed si deuensat homo ad 
+      <lb ed="#P" n="6"/>lantum / vt sequatur inclinationem charitatis ad 
+      difa<lb ed="#P" n="7" break="no"/>ficiliorem actum: vt ad contempnere totaliter temporaliter 
+      <lb ed="#P" n="8"/>nec quicquam negligere amore dei: ymmo etiam pro 
+      inni<lb ed="#P" n="9" break="no"/>micis animam velle ponere / idest vitam corporalem: tuno 
+      <lb ed="#P" n="10"/>in isto intensiue augmentata est charitas. vsque ad 
+      tan<lb ed="#P" n="11" break="no"/>tam perfectionem: quod tota diminuta est cupiditas. quae est 
+      <lb ed="#P" n="12"/>actualis inclinatio. seu quoddam premere mentem vt 
+      <lb ed="#P" n="13"/>volitiua est ad dilectionem temporalium / non propter deum 
+      <lb ed="#P" n="14"/>et hoc continue ex viciosis operibus crescit / vnde est 
+      <lb ed="#P" n="15"/>venenum charitatis cum scilicet aut timore 
+      incommo<lb ed="#P" n="16" break="no"/>di vel pene / aut amore commodi temporalis / aut ex 
+      <lb ed="#P" n="17"/>vtroque non in deum quis inclinatur in operari. 
+      chari<lb ed="#P" n="18" break="no"/>tas autem inclinat ad contrarium. Ideo quantum ad in 
+      <lb ed="#P" n="19"/>clinationem et secundum effectus contrarie 
+      opponi<lb ed="#P" n="20" break="no"/>tur: et hoc pro secundo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k19747-Dd1e942">
+               <head xml:id="oooo3o-k19747-Hd1e944">Articulus 3</head>
+               <p xml:id="oooo3o-k19747-d1e946">
+                  <lb ed="#P" n="21"/>¶ Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e951">
+                  <lb ed="#P" n="22"/>QUantum ad tertium articulum 
+      re<lb ed="#P" n="23" break="no"/>spondeo primo ad argumenta 
+      principa<lb ed="#P" n="24" break="no"/>lia deinde mouebo dubia / vnde pro 
+      so<lb ed="#P" n="25" break="no"/>lutione primi principalis. sit hic prima 
+      <lb ed="#P" n="26"/>propositio / sicut deus solus charitate 
+      <lb ed="#P" n="27"/>creatam potest augere: ita solus potest eam 
+      <lb ed="#P" n="28"/>minuere et anichilare quo ad ipsius charitatis 
+      essen<lb ed="#P" n="29" break="no"/>tiam. supposita veritate prae partis (qua ab omnibus communiter 
+      <lb ed="#P" n="30"/>est concessa) probatur secunda pars quo ad prima 
+      <lb ed="#P" n="31"/>exponentis seu preiacentis quia quaelibet forma habens 
+      <lb ed="#P" n="32"/>partes graduales potest remitti vel diminui sicut 
+      <lb ed="#P" n="33"/>potest intendi. sed charitas est huiusmodi. ergo / 
+      se<lb ed="#P" n="34" break="no"/>cunda exponens probatur quia cuiuslibet entitatis 
+      <lb ed="#P" n="35"/>diuisibilis secundum partes graduales: deus potest 
+      <lb ed="#P" n="36"/>destruere vnam / aliam conseruando inesse. et nulla 
+      cre<lb ed="#P" n="37" break="no"/>atura sufficit ad charitatem intendere sicut dictum est in 
+      <lb ed="#P" n="38"/>secundo articulo et in secunda conclusione. ergo nul 
+      <lb ed="#P" n="39"/>la creatura sufficit diminuere vel remitterur charitatem 
+      <lb ed="#P" n="40"/>Secunda propositio de communi lege deus num 
+      <lb ed="#P" n="41"/>quam minuit charitatem pro quocunque peccato siue 
+      ve<lb ed="#P" n="42" break="no"/>niali siue mortali quo ad essentiam / patet ex 
+      argumen<lb ed="#P" n="43" break="no"/>to facto 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1001">
+                  <lb ed="#P" n="44"/>¶ Tertia propositio: Tharitas minuitur quantum 
+      <lb ed="#P" n="45"/>ad actus feruorem. et quantum ad inclinationem ad 
+      ac<lb ed="#P" n="46" break="no"/>tum bonum / propter peccata venialia. Probatur quia 
+      <lb ed="#P" n="47"/>ex frequentatione venialium generatur cupiditas 
+      ha<lb ed="#P" n="48" break="no"/>bitualis inclinans ad actus qui sunt peccata venia 
+      <lb ed="#P" n="49"/>lia / ergo propositio vera / antecedens patet quia quam 
+      <lb ed="#P" n="50"/>to habitus cupiditatis est maior: tanto voluntas 
+      mi<lb ed="#P" n="51" break="no"/>nus feruenter diligit deum: sicut quilibet experitur in 
+      se<lb ed="#P" n="52" break="no"/>ipso. quia quanto se plus applicat negotiis seculari 
+      <lb ed="#P" n="53"/>bus (etiam si sine culpa faciat) tanto minus feruenter 
+      di<lb ed="#P" n="54" break="no"/>ligit deum. Ista propositio est doctoris solemnis et 
+      mul<lb ed="#P" n="55" break="no"/>torum aliorum. Per hoc ad formam argumenti negatur 
+      <lb ed="#P" n="56"/>ssumpium si intelligatur simplicit / si autem intelligatur de 
+      con<lb ed="#P" n="57" break="no"/>muni lege negatur consequentia et ad probationem dicendum est quod non 
+      <lb ed="#P" n="58"/>oportet de communi lege si vnum contrariorum accidit alicui quod 
+      <lb ed="#P" n="59"/>sibi de communi lege possit conuenire reliquum / et ideo licet 
+      <lb ed="#P" n="60"/>charitas de commuui lege posset augeri quo ad 
+      essen<lb ed="#P" n="61" break="no"/>tiam non tamen posset diminui eadem lege. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1043">
+                  <lb ed="#P" n="62"/>¶ Pro secundo argumento sit ista prima propo¬ 
+      <!--84.xml-->
+      <lb ed="#P" n="63"/>sitio / Non quicquid repugnat vni indiuiduo alicuius 
+      <lb ed="#P" n="64"/>spet: repugnat cuilibet indiuiduo eiusdem speciei. 
+      <lb ed="#P" n="65"/>patet ista quia dilectio que est in mente mea qua diligo 
+      pe<lb ed="#P" n="66" break="no"/>trum repugnat odio petri in me: et tamen non repugnat 
+      <lb ed="#P" n="67"/>odio altertus hominis similis petro in specie: staro 
+      <lb ed="#P" n="68"/>enim potest simul in me dilectio petri et odium sortis 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1064">
+                  <lb ed="#P" n="69"/>¶ Secunda propositio habicio vnius 
+      charita<lb ed="#P" n="70" break="no"/>is create non repugnat priuationi alterius nec 
+      econ<lb ed="#P" n="71" break="no"/>uerso / patet ista de se. Per hoc ad formam argumenti 
+      <lb ed="#P" n="72"/>conceditur quod augmentatio fit per gradus eiusdem rationis 
+      <lb ed="#P" n="73"/>et ad probationem quod non: negatur maior. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1077">
+                  <lb ed="#P" n="74"/>¶ Ad tertium argumentum conceditur conclusio de 
+      vir<lb ed="#P" n="75" break="no"/>tute urmonis quia proprie loquendo nulla charitas illo 
+      <lb ed="#P" n="76"/>modo augetur / ita quod sit aliqua charitas quae eadem numero et 
+      <lb ed="#P" n="77"/>adequate sit modo maior quae prius fuit minor. Sed tamen 
+      <lb ed="#P" n="78"/>caritati praecedenti additur caritas alia eiusd spent / qst 
+      <lb ed="#P" n="79"/>simul cum ea constituunt vnam charitatem maiorem 
+      intensi<lb ed="#P" n="80" break="no"/>ue quam eius pars quae praefuit prout habet gregorius libro 
+      <lb ed="#P" n="81"/>primo distinctione decima septima. q. 2. articulo. 4 
+      <lb ed="#P" n="82"/>et hoc etiam habes ex prima conclusione. 2. articlulsi huius quaestio 
+      <lb ed="#P" n="83"/>hoc premisso dubitatur de quodam 
+      supposito<lb ed="#P" n="84" break="no"/>in primo argumento scilicet vtrum forme contrarie se 
+      possini<lb ed="#P" n="85" break="no"/>compati secundum aliquos gradus in eadem parte 
+      subiecti<lb ed="#P" n="86" break="no"/>Et videtur quod sic quia secudum philosophum sexto phisicor 
+      <lb ed="#P" n="87"/>oine quod mouetur parti est in termino a quo 
+      partim<lb ed="#P" n="88" break="no"/>in termino ad quem. quia omne quod mouetur de contrario 
+      in<lb ed="#P" n="89" break="no"/>contrarium habet aliquid vtriusque contrarii 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1114">
+                  <lb ed="#P" n="90"/>¶ Secundo sequitur quod quando per motum continuum 
+      <lb ed="#P" n="91"/>destrueretur vnum contriorum esset dare pritrum instans forme 
+      <lb ed="#P" n="92"/>succedentis / ad quam fit motus consequens est falsum et 
+      contra<lb ed="#P" n="93" break="no"/>aristotelem. 6. phisicorum / probatur consequentia quia aliter esset 
+      sub<lb ed="#P" n="94" break="no"/>iectum in aliquo instanti sine vtroque contrariorum. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1127">
+                  <lb ed="#P" n="95"/>¶ Tertio agens naturale non remittit calorem in subie 
+      <lb ed="#P" n="96"/>cto nisi creando in ipsoaliqued incompossibile calori 
+      <lb ed="#P" n="97"/>sed nichil est tale nisi frigus: ergo etc. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1136">
+                  <lb ed="#P" n="98"/>¶ Confirmatur istud agens naturale et patiens 
+      <lb ed="#P" n="99"/>sunt simul. alias vnum non ageret in aliud 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1143">
+                  <lb ed="#P" n="100"/>¶ Quarto. quando vnum contrariorum agit in 
+      re<lb ed="#P" n="101" break="no"/>liquum / vel in subiectum / vtriusque receptiuum: manifestum 
+      <lb ed="#P" n="102"/>est quia forma indiuisibilis non subito introducitur in 
+      prin<lb ed="#P" n="103" break="no"/>cipio. modo quaeritur vnde hoc. Non potest dici quod proueniat 
+      <lb ed="#P" n="104"/>ex incompossibilitate partium forme / per motum introdum 
+      <lb ed="#P" n="105"/>cende. quia infine sunt simul. nec potest poni huiusmod 
+      <lb ed="#P" n="106"/>cam insufficientis agentis. quia ponitur agens sufficientissi 
+      <lb ed="#P" n="107"/>trum. nec hoc est propter subiectum recipiens. relinquitur 
+      <lb ed="#P" n="108"/>ergo quod sit causa contraria in subiecto / repugnans 
+      for<lb ed="#P" n="109" break="no"/>me introducende et hoc fuit probandum.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1168">
+      ¶ Propter 
+      <lb ed="#P" n="110"/>istas et consimiles rationes dicunt multi: quod contraria 
+      <lb ed="#P" n="111"/>opeatet esse simul in gradibus remissis quas rationes adduct 
+      <lb ed="#P" n="112"/>gregorius libro. 1. in quaestionibus de formarum intentione 
+      <lb ed="#P" n="113"/>questione tertia.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1179">
+      ¶ Oppositum suppone batur. in 
+      probatio<lb ed="#P" n="114" break="no"/>ne conclusionis. 13. primi articuli quod non obstantibus 
+      ration<lb ed="#P" n="115" break="no"/>bus praedictis sustinco tanquam magis consonum veritati. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1186">
+                  <lb ed="#P" n="116"/>¶ Unde respondendo ad dubium pono quattuor 
+      <lb ed="#P" n="117"/>conclusiones.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1193">
+      ¶ Prima conclusio forme contrarie secundum 
+      <lb ed="#P" n="118"/>gradus intensos et summos / si sint possibiles: possunt a 
+      <lb ed="#P" n="119"/>se compati per diuinam potentiam: Probatur non est magis 
+      <lb ed="#P" n="120"/>impossibile quod alicd subiectum sit summe album et 
+      summe<lb ed="#P" n="121" break="no"/>nigrum / siue etiam quod sit summe calidum et summe frigi 
+      <lb ed="#P" n="122"/>dum: quam quod idem simul moueatur localiter et quiescat 
+      <lb ed="#P" n="123"/>localiter. Patet ista cum virobique videatur ecualis repu¬ 
+      <!--85.xml-->
+      <pb ed="#P" n="33-v"/>
+                  <lb ed="#P" n="1"/>gnantia. sed secundum est possibile / quia defacto anima 
+      intel<lb ed="#P" n="2" break="no"/>lectiua mouetur in manu et quiescit in pede / et idem 
+      <lb ed="#P" n="3"/>corpus christi mouetur in altari et quiescit. in celo. ergo pre 
+      <lb ed="#P" n="4"/>mium est possibile.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1222">
+      ¶ Preterea si deus poneret 
+      idem<lb ed="#P" n="5" break="no"/>corpus in diuersis locis: illud corpus in vno loco 
+      pos<lb ed="#P" n="6" break="no"/>set habere vnam formam / et in alio aliam contrariam. ergo 
+      <lb ed="#P" n="7"/>hoc est possibile / asis probatur. quia si deus poneret ist 
+      <lb ed="#P" n="8"/>lignum in duobus locis / et in vno loco approximare 
+      <lb ed="#P" n="9"/>ei ignis: et in alio aqua indebit a approximatione non 
+      vide<lb ed="#P" n="10" break="no"/>quin vtrumque ageret / ergo. Preterea deus posset 
+      acti<lb ed="#P" n="11" break="no"/>uitatem vtriusque contriorum suspendere. et sic. tolleret eor 
+      <lb ed="#P" n="12"/>repugnantiam: quo facto non plus sibi repugnarent illaduo 
+      <lb ed="#P" n="13"/>contriai vno subiecto / quam albedo et dulcedo in lacte. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1244">
+                  <lb ed="#P" n="14"/>¶ Ex qua sequitur correlarie quod praedicta 
+      contra<lb ed="#P" n="15" break="no"/>ria non inferunt predicta contradictoria. patet quia si 
+      se<lb ed="#P" n="16" break="no"/>cundum conclusionem idem subiectum esset calidum et frigi 
+      <lb ed="#P" n="17"/>dum: hec consequentia non valeret a est frigidum et 
+      ca<lb ed="#P" n="18" break="no"/>lidum: ergo a est calidum et non calidum. antecedens enim est possi 
+      <lb ed="#P" n="19"/>bile et consequens simpliciter impossibile. Item non 
+      se<lb ed="#P" n="20" break="no"/>quitur corpus quiescit: ergo non mouetur. nec sequitur 
+      <lb ed="#P" n="21"/>mouetur et quiescit simul / ergo mouetur et non mouetur 
+      <lb ed="#P" n="22"/>simul. hec omnia patent ex hiis que fide tenemus / nec 
+      <lb ed="#P" n="23"/>mirandum si auctoritates philosophi videntur 
+      contradi<lb ed="#P" n="24" break="no"/>cere veritati fidei nostre / quia ipse fide caruit / et forte 
+      <lb ed="#P" n="25"/>naturaliter sic est quod dicte consequentie essent bone lic 
+      <lb ed="#P" n="26"/>per miraculum et dei potentiam possunt falsificari 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1276">
+                  <lb ed="#P" n="27"/>¶ Secundaconclusio: de potentia agentium creatorum: 
+      <lb ed="#P" n="28"/>contrarie qualitates se non possunt compati in eadem 
+      per<lb ed="#P" n="29" break="no"/>te subiecti adequate. nec in grandibus intensis nec 
+      re<lb ed="#P" n="30" break="no"/>missis. primum conceditur ab omnibus scilicet quod non in 
+      gradi<lb ed="#P" n="31" break="no"/>bus intensis. Sed quod nec in gradibus remissis probatur quia 
+      gra<lb ed="#P" n="32" break="no"/>dus intensi et remissi sunt eiusdem rationis. quia si 
+      al<lb ed="#P" n="33" break="no"/>bedo ex sui natura contrariatur nigredini: ita contraria 
+      <lb ed="#P" n="34"/>tur in gradu remisso sicut intenso. ergo si non possunt 
+      <lb ed="#P" n="35"/>se compati in gradibus intensis. non poterunt pari ratio 
+      <lb ed="#P" n="36"/>ne se compati in gradibus remissis. plures alias ratio 
+      <lb ed="#P" n="37"/>nes facit ad hocgregorius. vbi supra vide ibi. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1302">
+                  <lb ed="#P" n="38"/>¶ Tertia conclusio: non oportet quod in quolibet 
+      mo<lb ed="#P" n="39" break="no"/>tu continuo / terminus a quo et terminus ad quem sini 
+      <lb ed="#P" n="40"/>contrarii positiuc. probatur quia in motu intensionis 
+      for<lb ed="#P" n="41" break="no"/>me / termini sunt eiusdem rationis: scilicet pars forme 
+      pre<lb ed="#P" n="42" break="no"/>existens. a qua incipit intensio: et pars adueniens 
+      <lb ed="#P" n="43"/>ad quam fit intensio. de motu dico qui est de priuatione 
+      <lb ed="#P" n="44"/>in habitum termini acquirendi qui proprie sunt 
+      ter<lb ed="#P" n="45" break="no"/>mini in omni motu. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1322">
+                  <lb ed="#P" n="46"/>¶ Quarta conclusio in quolibet motu: oporte 
+      <lb ed="#P" n="47"/>quod termini sint contrarii priuatiue. Probatur quia 
+      ni<lb ed="#P" n="48" break="no"/>chil mouetur ad terminum quem habet: ergo oportet quod 
+      <lb ed="#P" n="49"/>mobile / secundum quancumque formam / priuetur parte 
+      acque<lb ed="#P" n="50" break="no"/>renda per motum. apparet est hec conclusio. quia quamdiu 
+      <lb ed="#P" n="51"/>intensio tandiu est priuatio respectu alicuius acquirem 
+      <lb ed="#P" n="52"/>di. et habitus / respectu alicuius acquisiti. continum 
+      <lb ed="#P" n="53"/>enim aliquid est acquisitum. et alid restat acquirendum. 
+      <lb ed="#P" n="54"/>¶ Per hec ad rationes dubii. ad primam dico cum 
+      <lb ed="#P" n="55"/>gregorio eadem. di. q. 3. articulo. 3. in solutione tertii 
+      <lb ed="#P" n="56"/>argumenti. quod ad moueri de contrario in contrarium / 
+      si<lb ed="#P" n="57" break="no"/>ue aliquid existens sub vna forma conria transmutari in 
+      <lb ed="#P" n="58"/>aliam / pater duplicitur intelligi. vno modo quod magis perficitur per 
+      <lb ed="#P" n="59"/>formam contrariam / acquirendo partem post partem essentie 
+      <lb ed="#P" n="60"/>forme contrarie. Alio modo dici potest moueri ad 
+      <lb ed="#P" n="61"/>formam contrariam: non sic sed quia continue magis 
+      <lb ed="#P" n="62"/>disponitur ad formam contrariam. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1361">
+      ¶ Tunc dico quod omne 
+      <!--85.xml-->
+      <lb ed="#P" n="63"/>quod mouetur de contrio. in contrarium primo modo / habet 
+      <lb ed="#P" n="64"/>aliquid vtriusque contrarii / non tamen secundum. eande par 
+      <lb ed="#P" n="65"/>tem sui. sed vna pers moti est sub vna forma contraria / et 
+      <lb ed="#P" n="66"/>alia sub alia. et continue secundum aliam et aliam sui partem 
+      <lb ed="#P" n="67"/>acquirit aliam et aliam partem fome. contrarie / et perdit 
+      <lb ed="#P" n="68"/>partem prioris. sicut in motu locali: et hec est intentio 
+      phi<lb ed="#P" n="69" break="no"/>losophi sexto physicorum vbi allegatur. Secundo 
+      <lb ed="#P" n="70"/>modo moueretur de ontrio in contrium / minimum calidum 
+      <lb ed="#P" n="71"/>vel frigidum (si daretur) quia continue magis disponeretur 
+      <lb ed="#P" n="72"/>ad susceptionem forme introducende. et in instanti 
+      ter<lb ed="#P" n="73" break="no"/>minante dispositionem illam introduceretur forma ad 
+      quan<lb ed="#P" n="74" break="no"/>fuisset dispositio. et ex nullo istorum sequitur quod 
+      contradi<lb ed="#P" n="75" break="no"/>ctoria sint simul in aliquo gradu¬ 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1394">
+                  <lb ed="#P" n="76"/>¶ Ad secundum conceditur consequens: scilicet quod 
+      <lb ed="#P" n="77"/>sit dare primum instans forme succendentis. ad 
+      aristote<lb ed="#P" n="78" break="no"/>lem / dicendum quod loquitur et intelligit de acquisitis per 
+      <lb ed="#P" n="79"/>motum. modo dicta pars forme introducitur 
+      subito<lb ed="#P" n="80" break="no"/>et non partialiter vt dictum fuit in primo articulo. 
+      con<lb ed="#P" n="81" break="no"/>cordant in hoc adam et oliam. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1410">
+                  <lb ed="#P" n="82"/>¶ Ad tertium. dico quattuor propositiones Prima 
+      <lb ed="#P" n="83"/>agens naturale quandoque intendit formam sine corruptio 
+      <lb ed="#P" n="84"/>ne contrarii positiui. patet ista de agente naturali 
+      lu<lb ed="#P" n="85" break="no"/>minoso quod intendit lumen in medio et tamen nichil 
+      cor<lb ed="#P" n="86" break="no"/>rumpit / cum non inueniat contrarium. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1424">
+                  <lb ed="#P" n="87"/>¶ Secunda agens naturale potest corrumpere 
+      <lb ed="#P" n="88"/>formam successiue / absque hoc quod introducat formam 
+      con<lb ed="#P" n="89" break="no"/>trariam in eodem subiecto. saltem indiuisibili secundum 
+      <lb ed="#P" n="90"/>extensionem. cuiusmodi est anima intellectiua. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1435">
+                  <lb ed="#P" n="91"/>¶ Patet quia potest corrumpere vnum oppositum absque 
+      <lb ed="#P" n="92"/>hoc quod introducat contrarium. et etiam frigiditatem 
+      suc<lb ed="#P" n="93" break="no"/>cessiue absque hoc quod introducat caliditatem. nisi in fine 
+      <lb ed="#P" n="94"/>totalis corruptionis frigiditatis. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1446">
+                  <lb ed="#P" n="95"/>¶ Tertia per prius est corrumpi formam vnam in 
+      toto<lb ed="#P" n="96" break="no"/>subiecto / vel parte: quam contrarium introduci in eodem 
+      <lb ed="#P" n="97"/>etiam parcialiter vel totaliter 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1455">
+                  <lb ed="#P" n="98"/>¶ Quarta per prius est agens corruptiuum ali 
+      <lb ed="#P" n="99"/>cuius forme in aliquo subiecto / agere in subiectum: 
+      <lb ed="#P" n="100"/>quam formam ipsam expelli. per hoc ad formam maior est  
+      <lb ed="#P" n="101"/>neganda vt patet per secundam propositionem.
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1466">
+      ¶ Ad 
+      quan<lb ed="#P" n="102" break="no"/>tum dico quod diuisio non est sufficiens. vnde cum queritur 
+      <lb ed="#P" n="103"/>causa quare agens non introducit subito formam indi 
+      <lb ed="#P" n="104"/>uisibilem in subiecto potest responderi quod pro causa 
+      <lb ed="#P" n="105"/>sufficit lunitatio agentis / quod non potest: agere nisi 
+      <lb ed="#P" n="106"/>per motum. Isto modo respondet. Elyphati / qui 
+      poni<lb ed="#P" n="107" break="no"/>quod nulla creatura potest agere aliquem effectum 
+      subito<lb ed="#P" n="108" break="no"/>q. 6. tamen dico aliter: quod hoc prouenit propter virtualem 
+      <lb ed="#P" n="109"/>repugnantiam id est propter repugnantem dispotionem in 
+      <lb ed="#P" n="110"/>passo / et non necessario requiritur formalis repugnam 
+      <lb ed="#P" n="111"/>tia. vnde si aqua non esset frigida formaliter nec est 
+      cali<lb ed="#P" n="112" break="no"/>da: adhuc non posset subito tale fieri naturaliter propter 
+      <lb ed="#P" n="113"/>virtualem repugnantiam aque / quae secundum sui naturam 
+      <lb ed="#P" n="114"/>inclinatur ad frigiditatem. ideo si deus subito anichila 
+      <lb ed="#P" n="115"/>ret frigus aque / et approximaretur igni: non 
+      subito<lb ed="#P" n="116" break="no"/>calefieret. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1501">
+                  <lb ed="#P" n="117"/>¶ Secundo dubitatur contra secundam conclusionem 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1507">
+                  <lb ed="#P" n="118"/>¶ principalem / et sextam simul in articulo secundo positas ed 
+      <lb ed="#P" n="119"/>quibus dicitur: quod deus secundum proportionem menito 
+      di<lb ed="#P" n="120" break="no"/>rum / auget charitatem. et sic charitas augetur per opera 
+      <lb ed="#P" n="121"/>meritoria. Contra si hoc esset verum sequitur quod aliquis 
+      <lb ed="#P" n="122"/>posset tantum continuare merita sua et tam diu viuere: 
+      <lb ed="#P" n="123"/>quod acquireret maiorem gra iam quam habeat aliquis beatus 
+      <!--86.xml-->
+      <pb ed="#P" n="34-r"/>
+                  <lb ed="#P" n="1"/>vel etiam christus istud est falsum: ergo.  
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1529">
+                  <lb ed="#P" n="2"/>¶ Secundo sic. charitas si: sequitur quod si sortes 
+      <lb ed="#P" n="3"/>nereatur continue vsque ad instans mortis sue: quod numquam 
+      <lb ed="#P" n="4"/>in vita sua habuerit summum gradum gratie vel 
+      char<lb ed="#P" n="5" break="no"/>tatis sibi collate in vita sua etc. probatur quia continue 
+      me<lb ed="#P" n="6" break="no"/>rebatur et per consequens continue charitas augebatur 
+      <lb ed="#P" n="7"/>sed istud consequens videtur falsum ergo.  
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1545">
+                  <lb ed="#P" n="8"/>¶ Tertio. si merita augerent charitatem dicto modo 
+      <lb ed="#P" n="9"/>etiam charitas augeret meritum / et econuerso: alternati: 
+      <lb ed="#P" n="10"/>ex quo sequiretur quod contingeret dare vel meritum quod 
+      <lb ed="#P" n="11"/>non causaret habitum. et sic contra conciusionem: vel 
+      ha<lb ed="#P" n="12" break="no"/>bitum qui non efficeret meritum / quod non stat cum casu 
+      po<lb ed="#P" n="13" break="no"/>sito / scilicet quod quis mereatur vsque ad instans mortis sue. 
+      <lb ed="#P" n="14"/>oppositum dicunt conclusiones quas teneo non obstantibus 
+      <lb ed="#P" n="15"/>rationibus istis. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1565">
+                  <lb ed="#P" n="16"/>¶ Pro quarum tesponsione pono quattuor. 
+      conclu<lb ed="#P" n="17" break="no"/>siones. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1572">
+                  <lb ed="#P" n="18"/>¶ Prima conclusio est: de lege nunc currente est 
+      da<lb ed="#P" n="19" break="no"/>re minimam charitatem sufficientem ad salutem. quia quilibet 
+      <lb ed="#P" n="20"/>saluandus vel equalem vel maiorem habebit vel habet 
+      <lb ed="#P" n="21"/>et non minorem patet de gratia baptismali vel circunci 
+      <lb ed="#P" n="22"/>sionis que equalis est in omnibus. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1585">
+                  <lb ed="#P" n="23"/>¶ Secunda conclusio. Nulla est maxima gratia de 
+      <lb ed="#P" n="24"/>lege communi dabilis / vltra quam viator non possit proficere. 
+      <lb ed="#P" n="25"/>Probatur quia oppositum est error. vt probatur extra de 
+      <lb ed="#P" n="26"/>pereticis libro sexto in capitulo ad nostrum. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1597">
+                  <lb ed="#P" n="27"/>¶ Tertia conclusio. Non videtur inconueniens quod 
+      <lb ed="#P" n="28"/>viator aliquis in via / habeat maiorem charitatem 
+      ha<lb ed="#P" n="29" break="no"/>ibimualem quam habeat beuns in patria. Probatur quia 
+      vi<lb ed="#P" n="30" break="no"/>detur rationabile quod beatus petrus vel beata maria 
+      <lb ed="#P" n="31"/>dum essent in via / habuerunt maiorem quam puer baptimatus 
+      <lb ed="#P" n="32"/>et sine adtuali merito discedens. Tamen dico quod non 
+      <lb ed="#P" n="33"/>obstante conclusione nullus viator vt sicquantuncumquam 
+      ple<lb ed="#P" n="34" break="no"/>nus charitate potest de communi lege in tampnobilem actum 
+      di<lb ed="#P" n="35" break="no"/>lectionis. sicut minimus beuns in regno celorum. et hoc 
+      <lb ed="#P" n="36"/>est propter obscuram dei cognitionem in via¬ 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1621">
+                  <lb ed="#P" n="37"/>¶ Quarta conclusio. de commilgge nullus poterit 
+      <lb ed="#P" n="38"/>ittingere ad equalem gratiam quantucumque continuet merita 
+      <lb ed="#P" n="39"/>quantam habuerit christi anima. ista patet per omens 
+      <lb ed="#P" n="40"/>et per magistrum libro tertio. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1632">
+                  <lb ed="#P" n="41"/>¶ Ex istis patet responsio ad argumenta. vnde 
+      <lb ed="#P" n="42"/>ad primum consequentia potest concedi. pro prima parte 
+      <lb ed="#P" n="43"/>consequentis vt dicit conclusio. Tertia: sed neganda est quantum 
+      <lb ed="#P" n="44"/>ad secundam partem. cum dicitur vel christus. vt patent ex 
+      <lb ed="#P" n="45"/>quarta 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1645">
+                  <lb ed="#P" n="46"/>¶ Ad secundum admittatur casus et 
+      concedi<lb ed="#P" n="47" break="no"/>tur conclusio. quia est vera. supposito casu predicto. quia si 
+      <lb ed="#P" n="48"/>aliqua fuisset maxima charitas quam habuit in vita sit 
+      i<lb ed="#P" n="49" break="no"/>la a. tunc sic per te sortes habuit gratiam a. ante 
+      mor<lb ed="#P" n="50" break="no"/>tem qui tamen continue merebatur vsque ad 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1658">
+                  <lb ed="#P" n="51"/>¶ instans mortis sue. ergo sortes in aliquo instanti 
+      an<lb ed="#P" n="52" break="no"/>te instans mortis habuit a. tunc sit illud inst ans in 
+      <lb ed="#P" n="53"/>quo sortes habuit a. in vita sua b. et instans mortis 
+      <lb ed="#P" n="54"/>c. tunc interb et c cadit tempus in quo sortes cont 
+      <lb ed="#P" n="55"/>nue merebatur. ergo vltra a merebatur et per 
+      conse<lb ed="#P" n="56" break="no"/>quens a non fuit maxima charitas 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1674">
+                  <lb ed="#P" n="57"/>¶ Et si dicas sortes premiabitur secundum 
+      chari<lb ed="#P" n="58" break="no"/>tatem proportionabiliter quam habet et meruit in vita. 
+      <lb ed="#P" n="59"/>et suu premium est determinatum ergo et sua charitas 
+      <!--86.xml-->
+      <lb ed="#P" n="60"/>fuit determinata. et per consequens illa sic determinata fuit 
+      <lb ed="#P" n="61"/>maxima. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1691">
+                  <lb ed="#P" n="62"/>¶ Respondetur quod summus gradus premii sortes et 
+      <lb ed="#P" n="63"/>non est secundum proportionem alicuius charitatis sum si 
+      <lb ed="#P" n="64"/>me habite in vita sua: sed secundum gradum quem habet in 
+      <lb ed="#P" n="65"/>rimo instanti mortis in anima. et quem habuisset si in il 
+      <lb ed="#P" n="66"/>o supuixisset. qui vult videre de hac materia 
+      respi<lb ed="#P" n="67" break="no"/>ciat adam libro secundo. quaestione secunda. articulo secundo in 
+      so<lb ed="#P" n="68" break="no"/>lutionibus obiectionum. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1709">
+                  <lb ed="#P" n="69"/>¶ Ad tertium concedatur supposito casu primori 
+      <lb ed="#P" n="70"/>quod continue actus causat habitum nouum vel nonam 
+      propor<lb ed="#P" n="71" break="no"/>tionem que cum priori communiuncta coefficit actum alium 
+      con<lb ed="#P" n="72" break="no"/>tinue sic alternatum. et cum dicitur quod contingeret dare 
+      <lb ed="#P" n="73"/>meritum quod non causaret habitum vel econuerso: 
+      dico<lb ed="#P" n="74" break="no"/>quod non. Et ratio est: quia non est dare statum quamdiu viuit 
+      <lb ed="#P" n="75"/>talis sic merita sua continuans vsque ad mortem. neque 
+      <lb ed="#P" n="76"/>est deuenire ad vltimum actum. nec ad vltimum habitum. 
+      <lb ed="#P" n="77"/>sicut posset probari per argumentum factum de maxima 
+      <lb ed="#P" n="78"/>gratia. sed bene est status ad maximum habitum quem 
+      <lb ed="#P" n="79"/>habet sortes in primo instanti mortis sue. Et sic est 
+      <lb ed="#P" n="80"/>tinis huius dubii. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1738">
+                  <lb ed="#P" n="81"/>¶ Sed dubitatur an actus meritori vel 
+      deme<lb ed="#P" n="82" break="no"/>ritorii sint praecise in primo instanti sui esse meritorii vel  
+      <lb ed="#P" n="83"/>etiam demeritorii. Et dicunt quidam quod solum in primo 
+      in<lb ed="#P" n="84" break="no"/>stanti. Nam tunc est liber et necessario durat per 
+      tem<lb ed="#P" n="85" break="no"/>pus antequam possit suspendi. et tunc in instanti in quo 
+      <lb ed="#P" n="86"/>potest non esse simpliciter: et nichilominus continua 
+      <lb ed="#P" n="87"/>tur: est meritorius. et per consequens in illis instantibus 
+      <lb ed="#P" n="88"/>primo et vltimo. fit augmentum vel intentio charitatis 
+      <lb ed="#P" n="89"/>Pro responsione dico propositiones. 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1760">
+                  <lb ed="#P" n="90"/>¶ Prima est. per operari meritorium habens 
+      pri<lb ed="#P" n="91" break="no"/>mum instans meretur quis aliquem latitudinem 
+      chari<lb ed="#P" n="92" break="no"/>tatis vel premii. que sibi correspondet pro tota 
+      men<lb ed="#P" n="93" break="no"/>sura temporali pro qua non libere temporaliter conseruatur: 
+      <lb ed="#P" n="94"/>probatur. Nam in illo instanti (sit b) iuste operatur et 
+      <lb ed="#P" n="95"/>nelioratur: et si post b instans esset extra viam: 
+      impu<lb ed="#P" n="96" break="no"/>taretur sibi. et praemiaretur illa latitudine premii. quam 
+      <lb ed="#P" n="97"/>meruit in primo instanti. et si per tempus quo neces 
+      <lb ed="#P" n="98"/>sario conseruat viueret: non aliter imputaretur sibi: 
+      <lb ed="#P" n="99"/>ergo. Unde pro regula. dat magister hugolinus quod 
+      <lb ed="#P" n="100"/>si a operari. inceptum in b necessario totum 
+      conser<lb ed="#P" n="101" break="no"/>uatur a voluntate per aliquod tempus vel si non sic 
+      <lb ed="#P" n="102"/>sed in b potest remittere ipsum a et intendere similiter 
+      <lb ed="#P" n="103"/>tunc si continue intendit a aut non remittit quantum 
+      po<lb ed="#P" n="104" break="no"/>test: continue meretur 
+    </p>
+               <p xml:id="oooo3o-k19747-d1e1795">
+                  <lb ed="#P" n="105"/>¶ Secunda propositio Contingit dare mereri 
+      <lb ed="#P" n="106"/>temporale. et demereri similiter. patet quia potest 
+      inten<lb ed="#P" n="107" break="no"/>di ipsum meritorie operari temporaliter. et potest esse in 
+      <lb ed="#P" n="108"/>tali operari aliqua continuatio libera. ergo talis 
+      con<lb ed="#P" n="109" break="no"/>tinuatio imputabilis sibi erit. ad primum premium. et si 
+      <lb ed="#P" n="110"/>militer dicitur de demereri proportionabiliter. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

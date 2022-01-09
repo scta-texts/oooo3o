@@ -1,0 +1,1302 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="52-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k33006"><!--l2d1q3 -->
+            <head xml:id="oooo3o-k33006-Hd1e99">Quaestio 3</head>
+            <p xml:id="oooo3o-k33006-d1e101">
+               <lb ed="#P" n="117"/>¶ Alia questio principalis. 
+    </p>
+            <p xml:id="oooo3o-k33006-d1e106">
+               <lb ed="#P" n="118"/>TErtio quero circa eandem 
+      materi<lb ed="#P" n="119"/>am / vtrum creatricis essentie 
+      immensapo<lb ed="#P" n="120" break="no"/>go tentia inter supremam speciem que nunc 
+      <lb ed="#P" n="121"/>est / et se possitunfinita perfectionaliter 
+      in<lb ed="#P" n="122" break="no"/>it ter se specie distincta producere 
+    </p>
+            <p xml:id="oooo3o-k33006-d1e119">
+               <lb ed="#P" n="123"/>¶ Et arguitur quod sic primo: quia infinita poten¬ 
+      <!--124.xml-->
+      <pb ed="#P" n="53-r"/>
+               <lb ed="#P" n="1"/>tia est infinite difformiter immitabiles. ergo questio vera 
+      <lb ed="#P" n="2"/>consequentia nota / eo quod quantum difformiter est imitalis 
+      <lb ed="#P" n="3"/>tantum est communicatiua per productionem ad extra an 
+      <lb ed="#P" n="4"/>tecedens vero probatur / eo quod ipsa est perfectio 
+      sim<lb ed="#P" n="5" break="no"/>pliciter infinita. Confirmatur nam sic aliqua esset 
+      albe<lb ed="#P" n="6" break="no"/>do infinite perfecta: ipsa de facto infinite deformiter 
+      <lb ed="#P" n="7"/>communicaretur inesse. ergo multo magis substantia 
+      <lb ed="#P" n="8"/>infinite perfecta potest inesse infinite participari 
+      dif<lb ed="#P" n="9" break="no"/>formiter. 
+    </p>
+            <p xml:id="oooo3o-k33006-d1e148">
+               <lb ed="#P" n="10"/>¶ Secundo sic quacumque perfectione creata vel 
+      <lb ed="#P" n="11"/>creabili finita / potest immensa potentia / perfectiorem 
+      <lb ed="#P" n="12"/>in esse producere. ergo nulla finita perfectio potest ip 
+      <lb ed="#P" n="13"/>sam imitari qualitercunque est imitabilis sed ipsa 
+      po<lb ed="#P" n="14" break="no"/>test communicare se qualitercumque est imitabilis. eo quod nullam 
+      <lb ed="#P" n="15"/>implicet contradictionem / et non perfectioni finite vel 
+      <lb ed="#P" n="16"/>infinitis secundum naturam et perfectionem differentibus 
+      <lb ed="#P" n="17"/>Tertio inter non gradum perfectionis: et aliquam 
+      <lb ed="#P" n="18"/>speciem creature: immensa potentia potest infinita 
+      <lb ed="#P" n="19"/>perfectionaliter distincta producere ergo questio vera 
+      <lb ed="#P" n="20"/>consequentia nota. et antecedens patet. quia hoc non 
+      <lb ed="#P" n="21"/>repugnat deo nec creaturis  
+    </p>
+            <p xml:id="oooo3o-k33006-d1e178">
+               <lb ed="#P" n="22"/>¶ Ad oppositum intet duos terminos: esse 
+      infi<lb ed="#P" n="23" break="no"/>uita non seinuicem includentia / quorum quodlibet ali 
+      <lb ed="#P" n="24"/>quo certo dato sit perfectius: implicat contradictionem 
+      <lb ed="#P" n="25"/>ergo questio falsa. consequentia nota et antecedens patet ex 
+      <lb ed="#P" n="26"/>terminis: quia infinitum terminatum esse non potest. 
+      <lb ed="#P" n="27"/>¶ In ista questione primo ponam declarationes. 
+      <lb ed="#P" n="28"/>secundo conclusiones / tertio dubiorum solutiones.
+    </p>
+            <div xml:id="oooo3o-k33006-Dd1e196">
+               <head xml:id="oooo3o-k33006-Hd1e198">Articulus 1</head>
+               <p xml:id="oooo3o-k33006-d1e200">
+                  <lb ed="#P" n="29"/>Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e205">
+                  <lb ed="#P" n="30"/>QUantum ad primum est sciendum: quod 
+      <lb ed="#P" n="31"/>quedam sunt species absolute et proprie 
+      <lb ed="#P" n="32"/>quedam conotatiue et improprie. 
+      Exem<lb ed="#P" n="33" break="no"/>plum primi / homo et asinus. Exemplum 
+      <lb ed="#P" n="34"/>secundi / linea et superficies. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e218">
+                  <lb ed="#P" n="35"/>¶ Secundo sciendum: quod quedam sunt species 
+      spe<lb ed="#P" n="36" break="no"/>cialissime. quedam subalterne. Exemplum de primis 
+      <lb ed="#P" n="37"/>homo et asinus. Exemplum de secundis corpus 
+      ani<lb ed="#P" n="38" break="no"/>matum et corpus inanimatum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e229">
+                  <lb ed="#P" n="39"/>¶ Tertio sciendum quod quedam sunt species se in¬ 
+      <lb ed="#P" n="40"/>diuisibiliter excedentes sicut sensitiuum et intellectiuum / et 
+      <lb ed="#P" n="41"/>sicut linea et superficies / quedam sunt diuisibiliter 
+      <lb ed="#P" n="42"/>se excedentes vt homo et equus. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e241">
+                  <lb ed="#P" n="43"/>¶ Quarto sciendum quod quedam sunt species 
+      qua<lb ed="#P" n="44" break="no"/>rum indiuidua transubstantiari possunt ad inuicem. 
+      si<lb ed="#P" n="45" break="no"/>cut lignum et lapis / vel panis et caro: et quedam sic 
+      <lb ed="#P" n="46"/>transubstantiari non possunt vt anima sensitiua bonis et 
+      <lb ed="#P" n="47"/>vt anima intellectiua hominis et generaliter nullum 
+      spi<lb ed="#P" n="48" break="no"/>rituale in aliquod corporale. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e257">
+                  <lb ed="#P" n="49"/>¶ Quinto sciendum quod per speciem supremam 
+      <lb ed="#P" n="50"/>que nunc est / est intelligendus angelus Istis 
+      pre<lb ed="#P" n="51" break="no"/>missis sit prima propositio. Alique sunt due species / 
+      <lb ed="#P" n="52"/>inter quas non potest per diuinam potentiam species / 
+      <lb ed="#P" n="53"/>media produci / probatur quia sunt alique due species 
+      <lb ed="#P" n="54"/>se indiuisibiliter / excedentes vt in tertio notabili dictum 
+      <lb ed="#P" n="55"/>est. ergo propositio vera. Preterea nulla species 
+      pos<lb ed="#P" n="56" break="no"/>test esse media inter lineam et superficiem ergo 
+      pro<lb ed="#P" n="57" break="no"/>positio vera. antecedens probatur quia aut solum longa aut 
+      <lb ed="#P" n="58"/>plurimum dimensionum. si primum ergo erit solum linea. si 
+      <lb ed="#P" n="59"/>secundum. ergo erit vel superficies vel corpus. 
+      Prete<lb ed="#P" n="60" break="no"/>rea nulla cognitio potest esse perfectior. sensitiua nisi 
+      <lb ed="#P" n="61"/>sit intellectiua vel ymaginatiua / vel cogitatiua. er¬ 
+      <!--124.xml-->
+      <lb ed="#P" n="62"/>go nullum principium cognoscendi / potest esse medium 
+      <lb ed="#P" n="63"/>inter sensitiuum et intellectiuum. et nullum illorum. Non dico 
+      <lb ed="#P" n="64"/>tamen quod cognitio sensitiua et intellectiuas / semper 
+      ar<lb ed="#P" n="65" break="no"/>guant diuersitatem principii sensitiui et intellectiui. si 
+      <lb ed="#P" n="66"/>cut est in homine. quia idem est principium et 
+      diuersi<lb ed="#P" n="67" break="no"/>modi cognoscendi. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e303">
+                  <lb ed="#P" n="68"/>¶ Secunda propositio: et si nulla cognitio sit 
+      per<lb ed="#P" n="69" break="no"/>fectior sensitiua (nisi sit intellectiva) tamen inter 
+      quam<lb ed="#P" n="70" break="no"/>libet sensitiuam et intellectiuam possunt medie 
+      pro<lb ed="#P" n="71" break="no"/>duci specifice differentes probatur inter a 
+      cognitio<lb ed="#P" n="72" break="no"/>nem intellectiuam et b sensitiuam: est maior 
+      distan<lb ed="#P" n="73" break="no"/>tia: quam inter b et c sensitiuam a b specifice differentem 
+      <lb ed="#P" n="74"/>sed inter b et c est distantia diuisibilis. ergo inter .a. 
+      <lb ed="#P" n="75"/>et .b. potest aliquod medium produci: vel ergo 
+      diffor<lb ed="#P" n="76" break="no"/>me specie: et habetur propositum. vel erit eiusdem 
+      spe<lb ed="#P" n="77" break="no"/>ciei et sic non erit medium 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e327">
+                  <lb ed="#P" n="78"/>¶ Tertia propositio. inter aliquas duas species 
+      <lb ed="#P" n="79"/>specialissimas: infinite species medie in esse possunt 
+      <lb ed="#P" n="80"/>produci. quod possint infinite produci probabo in 
+      secun<lb ed="#P" n="81" break="no"/>do articulo. sed hanc sic probo: et premitto primo: quod 
+      <lb ed="#P" n="82"/>alique due species sunt que infinita distantia distant 
+      <lb ed="#P" n="83"/>quod probo quia alique due species sunt: quarum 
+      <lb ed="#P" n="84"/>vna per nullam actionem potest fieri eque perfecta 
+      <lb ed="#P" n="85"/>sicut alia: etiam per intentionem ipsius in genere 
+      pro<lb ed="#P" n="86" break="no"/>prio: ergo nec per productionem superioris in eodem 
+      <lb ed="#P" n="87"/>genere.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e351">
+      ¶ Secundo quod quanta est distantia vnius 
+      spe<lb ed="#P" n="88" break="no"/>ciei ab alia: tantus proportionabiliter est processus 
+      <lb ed="#P" n="89"/>possibilis specierum mediarum inter ipsas. hoc 
+      sa<lb ed="#P" n="90" break="no"/>tis patet de se. tunc arguitur. sic: inter hominem et 
+      bo<lb ed="#P" n="91" break="no"/>uem est infinita distantia. ergo. conclusio vera. 
+      con<lb ed="#P" n="92" break="no"/>sequentia patet: antecedens. probatur per nullam 
+      po<lb ed="#P" n="93" break="no"/>tentiam potest homo transubstantiari in asinum. nec 
+      <lb ed="#P" n="94"/>econuerso. vt patet ex quarto notabili. nec etiam per 
+      <lb ed="#P" n="95"/>intentionem specierum in esse sensitiuo: potest 
+      produ<lb ed="#P" n="96" break="no"/>ci aliqua. species eque perfecta vt homo. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e373">
+                  <lb ed="#P" n="97"/>¶ Quarta propositio. non inter quascumque duas 
+      <lb ed="#P" n="98"/>species: est proprie distantia infinita. probatur aliquae 
+      <lb ed="#P" n="99"/>sunt species sic se habentes: quod indiuiduum vnius 
+      il<lb ed="#P" n="100" break="no"/>larum potest transubstantiari in indiuiduum alterius 
+      <lb ed="#P" n="101"/>vt perdictum est: ergo proprie inter ipsas non est 
+      in<lb ed="#P" n="102" break="no"/>finita distantia 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e390">
+                  <lb ed="#P" n="103"/>¶ Quinta propositio. alique sunt due species 
+      in<lb ed="#P" n="104" break="no"/>ter quas de potentia dei ordinata (et si medie 
+      produ<lb ed="#P" n="105" break="no"/>ci possunt) infinite tamen non sunt producibiles. 
+      pro<lb ed="#P" n="106" break="no"/>batur quia alique sunt interquas precise est finita 
+      <lb ed="#P" n="107"/>distantia gradualis. vt patet ex premissa. ergo 
+      pro<lb ed="#P" n="108" break="no"/>positio vera: consequentia. probatur. quoniam 
+      que<lb ed="#P" n="109" break="no"/>libet species requirit certam proportionem 
+      perfectio<lb ed="#P" n="110" break="no"/>nis gradualis in latitudine generis sui propinqui: si 
+      <lb ed="#P" n="111"/>ergo talis distantia non est infinita ergo etc. non 
+      ne<lb ed="#P" n="112" break="no"/>go tamen hor de potentia dei absolutas / nec assero 
+      <lb ed="#P" n="113"/>pro nunc. sed dico quod inter aliquas duas species 
+      ab<lb ed="#P" n="114" break="no"/>solutas. infinite possunt produci. et quia sic est faci 
+      <lb ed="#P" n="115"/>le ex parte creaturarum infinite distantium. et quia hoc 
+      <lb ed="#P" n="116"/>deus potest in quibusdam / etsi non repugnat potentie 
+      <lb ed="#P" n="117"/>divine. tamen repugnat creaturis / ratione limitate 
+      <lb ed="#P" n="118"/>distantie et quia vna potest transubstantiari in aliam 
+      <lb ed="#P" n="119"/>Sexta propositio inter quamlibet speciem 
+      sub<lb ed="#P" n="120" break="no"/>stantie / et quamlibet qualitatem / infinite qualitatis  
+      <lb ed="#P" n="121"/>species sunt supernis ascendendo producibiles. hoc 
+      <lb ed="#P" n="122"/>probatum quia infinite qualitates si essent non 
+      equa<lb ed="#P" n="123" break="no"/>rent perfectionem speciei alicuius de genere substan¬ 
+      <!--125.xml-->
+      <pb ed="#P" n="53-v"/>
+                  <lb ed="#P" n="1"/>tie / et quia etiam non sunt tot species de genere qua 
+      <lb ed="#P" n="2"/>litatis producibiles quin plures sint producibiles. 
+      <lb ed="#P" n="3"/>Septima propositio in eodem genere tam 
+      sub<lb ed="#P" n="4" break="no"/>stantie quam qualitatis / iufinite species quarim 
+      queli<lb ed="#P" n="5" break="no"/>bet aliqua certa data / imperfectiores essent: sunt 
+      di<lb ed="#P" n="6" break="no"/>uina producibiles. patet quia in genere muscarun 
+      <lb ed="#P" n="7"/>infinite species sunt producibiles quarum quaelibet a 
+      <lb ed="#P" n="8"/>perfectior ligno et imperfectior equo ergo. et 
+      simi<lb ed="#P" n="9" break="no"/>liter infinite species in genere coloris sunt producit 
+      <lb ed="#P" n="10"/>biles quarum quelibet foret imperfectior / intuitiua 
+      <lb ed="#P" n="11"/>cognitione angeli et perfectior aliqua nigredine 
+      demon<lb ed="#P" n="12" break="no"/>strata. ergo propositio vera. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e468">
+                  <lb ed="#P" n="13"/>¶ Octaua propositio inter extrema finita 
+      secun<lb ed="#P" n="14" break="no"/>dum speciem / possibile est esse infinita media 
+      secun<lb ed="#P" n="15" break="no"/>dum speciem: patetex dictis 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e477">
+                  <lb ed="#P" n="16"/>¶ Ex quo sequitur quod inter albedinem et 
+      muscam<lb ed="#P" n="17" break="no"/>non soquitur hec species puta a / per infinitas distat 
+      <lb ed="#P" n="18"/>a b / quarum superior semper est perfectior inferior. 
+      <lb ed="#P" n="19"/>ergo est infinita. quia ille perfectiones se inuicem 
+      in<lb ed="#P" n="20" break="no"/>cludunt. ex his patet quod sunt alique due species / in 
+      <lb ed="#P" n="21"/>ter quas nulla est media producibilis alie inter quas 
+      <lb ed="#P" n="22"/>infinite sunt producibiles / alique inter quas finite 
+      <lb ed="#P" n="23"/>solummodo numero / sunt producibiles: quibusdam 
+      de<lb ed="#P" n="24" break="no"/>terminatis gradibus se inuicem excedentes 
+      hocai<lb ed="#P" n="25" break="no"/>tem distinguere fortasse non sufficit humana 
+      cogni<lb ed="#P" n="26" break="no"/>tio et hec probabiliter sint dicta de isto primo articulo 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k33006-Dd1e504">
+               <head xml:id="oooo3o-k33006-Hd1e506">Articulus 2</head>
+               <p xml:id="oooo3o-k33006-d1e508">
+                  <lb ed="#P" n="27"/>Secundus articulus 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e513">
+                  <lb ed="#P" n="28"/>QUantum ad secundum articulum 
+      <lb ed="#P" n="29"/>est sciendum quod fuit opinio quorundam 
+      <lb ed="#P" n="30"/>I quod potest precise finite species ab immensi 
+      <lb ed="#P" n="31"/>potentia creatrice / essentialiter essent 
+      pre<lb ed="#P" n="32" break="no"/>Eriu) ducibiles. et ratio eorum est vt saluare 
+      <lb ed="#P" n="33"/>eretur ordo essentialis et ne simultas infinita inesse pe 
+      <lb ed="#P" n="34"/>tur / volebant enim quod esset dare aliquod 
+      producibi<lb ed="#P" n="35" break="no"/>le primum / quod essei terminus finite perfectioni: 
+      <lb ed="#P" n="36"/>Ideo aduertendum quod creaturarum esse / potest triplici 
+      <lb ed="#P" n="37"/>terireferri ad deum. primo vt est immense entitatis 
+      <lb ed="#P" n="38"/>et sic omnis creature perfectio et eius esse praexistit 
+      <lb ed="#P" n="39"/>semper eminentur in deo / secundo quia 
+      vniuscuius<lb ed="#P" n="40" break="no"/>que agentis perfectio et potentia / men¶ Fatur secundum 
+      <lb ed="#P" n="41"/>quod ipsum est perfectum in esse ideo sicut ens est 
+      im<lb ed="#P" n="42" break="no"/>mensus in esse ita est infinitus in posse. et iic 
+      queli<lb ed="#P" n="43" break="no"/>bet creatura est in eius potentia / quia ipsa eius 
+      virtu<lb ed="#P" n="44" break="no"/>te producitur et conseruatur. in esse / tertio quia age 
+      <lb ed="#P" n="45"/>teper intellectum est perfectissimus modus agendi 
+      <lb ed="#P" n="46"/>ideo sicut deus est infinitus in esse et in posse. sic et 
+      <lb ed="#P" n="47"/>am est infinitus in nosce / et sic etiam creature in 
+      ipsi<lb ed="#P" n="48" break="no"/>noticia esse dicuntur / quia in ipsius mente 
+      praeconcipi<lb ed="#P" n="49" break="no"/>untur / sicut artificium in mente artificis. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e563">
+                  <lb ed="#P" n="50"/>¶ Istis praesuppositis pono aliquas conclusiones. 
+      <lb ed="#P" n="51"/>Prima conclusio sit ista. Infinitas species posse pro 
+      <lb ed="#P" n="52"/>duci / non repugnat infinitati diuini esse. probatur sic 
+      <lb ed="#P" n="53"/>mullum esse creatum est simpliciter infinitum ergo. in 
+      di<lb ed="#P" n="54" break="no"/>uino esse sunt perfectiones rerum communicabiles 
+      <lb ed="#P" n="55"/>infinite / cum ergo. non sit maior ratio quare 
+      secun<lb ed="#P" n="56" break="no"/>dum vnam perfectionem magis possit communicam 
+      <lb ed="#P" n="57"/>re suum esset quansecundum aliam: sequitur quod in infini 
+      <lb ed="#P" n="58"/>tum possit. et cum quaelibet sitinfinita et perfecta 
+      vide<lb ed="#P" n="59" break="no"/>tur quod ex parte diuini esse / non sit repugnantia: quanda in 
+      <lb ed="#P" n="60"/>finite species entium fieri possint modo praedicto / 
+      ante<lb ed="#P" n="61" break="no"/>cedens autem primum licet sit catholicum / probatur 
+      <lb ed="#P" n="62"/>tamen ratione / et auctoritate. pro quo sciendum quod ali 
+      <!--125.xml-->
+      <lb ed="#P" n="63"/>quid finiri seu terminari secundum esse / 
+      quadrupli<lb ed="#P" n="64" break="no"/>citer potest intelligi. vel quia ipsum subiectiue in alio 
+      <lb ed="#P" n="65"/>recipitur / omne enim quod sic. in alio recipitur / 
+      fini<lb ed="#P" n="66" break="no"/>tur et terminatur per ipsum quod recipit. vel in quo 
+      re<lb ed="#P" n="67" break="no"/>cipitur / aut quia ab alio causatur nam omne causa 
+      <lb ed="#P" n="68"/>tum / mensuram et terminum. recipit a suo agente. vel 
+      <lb ed="#P" n="69"/>causante. aut quia ad aliud sicut ad finem ordinatur 
+      <lb ed="#P" n="70"/>nam ex hoc ipso finiri et terminari dicitur. vel 
+      quar<lb ed="#P" n="71" break="no"/>to quia secundum rationem perfectionis numeratur. 
+      <lb ed="#P" n="72"/>quia habet determinatas rationes perfectionum 
+      se<lb ed="#P" n="73" break="no"/>cundum naturam. omnibus autem istis modis vel 
+      <lb ed="#P" n="74"/>pluribus terminantur creature. iita quod quelibet 
+      ter<lb ed="#P" n="75" break="no"/>minatur aliquo istorum modorum. vel plurium. vt 
+      <lb ed="#P" n="76"/>sic. formetur ratio deus nullo illorum modorum 
+      ter<lb ed="#P" n="77" break="no"/>minatur vel finitur in esse / ergo diuinum esse est 
+      sim<lb ed="#P" n="78" break="no"/>pliciter infinitum. antecedens patet ex terminis. et 
+      <lb ed="#P" n="79"/>consequentia probatur / quandam quodlibet esse finitum (vt 
+      <lb ed="#P" n="80"/>dictum est) aliquo illorum modorum terminatur (i 
+      <lb ed="#P" n="81"/>cet forte etiam compluribus aliis. probatur etiam 
+      au<lb ed="#P" n="82" break="no"/>ctoritate damasceni libro primo capitulo. 13 
+      dicen<lb ed="#P" n="83" break="no"/>tis principalius omnibus que in deo dicuntur. 
+      no<lb ed="#P" n="84" break="no"/>minibus / est qui est. totum enim in seipso 
+      comprehen<lb ed="#P" n="85" break="no"/>dens habet velut quoddam pelagus substantie 
+      in<lb ed="#P" n="86" break="no"/>finitum et iin determinatum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e648">
+                  <lb ed="#P" n="87"/>¶ Secunda conclusio: infinitas species posse pro¬ 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e654">
+                  <lb ed="#P" n="88"/>¶ duci / stat cum immensitate diuini posse probatur. infi e 
+      <lb ed="#P" n="89"/>nitas species posse produci / arguit immensitatem 
+      di<lb ed="#P" n="90" break="no"/>uini posse. ergo conclusio vera. consequentia 
+      nota<lb ed="#P" n="91" break="no"/>antecedens probatur quadia aliqua species produci posse / 
+      ar<lb ed="#P" n="92" break="no"/>guit causam a qua sola produci possunt aliquante 
+      <lb ed="#P" n="93"/>virtutis in posse / et duplas species secundum 
+      per<lb ed="#P" n="94" break="no"/>fectionem et naturam / arguit causam duple 
+      virtu<lb ed="#P" n="95" break="no"/>tis in posse. ergo infinitas posse arguit infinitatem 
+      <lb ed="#P" n="96"/>virtutis causalis in posse
+    </p>
+               <p xml:id="oooo3o-k33006-d1e676">
+      ¶ Preterea diuinum 
+      posse<lb ed="#P" n="97" break="no"/>est simpliciter infinitum ergo. est infinitum respectu multitudi 
+      <lb ed="#P" n="98"/>nis infinite producendorum / consequentia nota est nam 
+      <lb ed="#P" n="99"/>dato quod non sit infinitum secundam naturam produ 
+      <lb ed="#P" n="100"/>cibilium: non erit simpliciter infinitum. antecedens 
+      <lb ed="#P" n="101"/>et consequentia declaratur sic nam illud proprie est 
+      <lb ed="#P" n="102"/>infinitum in posse simpliciter quod est infinitum quo ad vigorem 
+      <lb ed="#P" n="103"/>et quo ad multitudinem obiectorum. et quo ad 
+      mo<lb ed="#P" n="104" break="no"/>dos producendi. Nam data limitatione in aliquo 
+      <lb ed="#P" n="105"/>ipsorum / sequitur tale non esse simpliciter posse infinitum 
+      <lb ed="#P" n="106"/>quamuis plures vel pauciores. effectus. ad extra 
+      produ<lb ed="#P" n="107" break="no"/>cere / non arguit perfectionem simpliciter in agenti 
+      <lb ed="#P" n="108"/>pus: posse tamen plures et perfectiores effectus / 
+      ar<lb ed="#P" n="109" break="no"/>guit perfectionem simpliciter.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e707">
+      ¶ Preterea 
+      immensi<lb ed="#P" n="110" break="no"/>tas diuini esse / est posse. auctoritate beati dionysii 
+      ca<lb ed="#P" n="111" break="no"/>pitulo. 8 de diuinis nominibus sic dicentis / deus est 
+      <lb ed="#P" n="112"/>infinite virtutis / non tantum eo quod omnem virtutem pro 
+      <lb ed="#P" n="113"/>ducit sed eo quod super omnem est et quod super potest. et 
+      <lb ed="#P" n="114"/>infinite infinitas alias ab existentibus virtutibus 
+      <lb ed="#P" n="115"/>producere. et eo quod nunquam possint infinite vel in 
+      infi<lb ed="#P" n="116" break="no"/>nitum producte virtutes supreme infinitam vim 
+      in<lb ed="#P" n="117" break="no"/>sius potentissime virtutis obtundere et eo quod 
+      ineffa<lb ed="#P" n="118" break="no"/>biliter et ignota et incogitabilis est cuncta excedens 
+      <lb ed="#P" n="119"/>ipsius virtus ergo.  
+    </p>
+               <p xml:id="oooo3o-k33006-d1e731">
+                  <lb ed="#P" n="120"/>¶ Tertia conclusio infinitas species posse produ 3 
+      <lb ed="#P" n="121"/>ci / non repugnat simplicitati infiniti nosce. 
+      proba<lb ed="#P" n="122" break="no"/>tur sic quanticumquam numeri producibiles species / deus no 
+      <lb ed="#P" n="123"/>uit: potest producere. sed infiniti numeri producibi 
+      <lb ed="#P" n="124"/>les species deus nouit ergo conclusio vera. maior 
+      <lb ed="#P" n="125"/>est nota. quia aliter aliquanti deus numeri deus 
+      nosce<lb ed="#P" n="126" break="no"/>ret producibiles species / quanti producere non possen¬ 
+      <!--126.xml-->
+      <pb ed="#P" n="54-r"/>
+                  <lb ed="#P" n="1"/>erminor probatur. quandam vel aliquantum numerum probabilium 
+      spe<lb ed="#P" n="2" break="no"/>cierum erminatur potentia diuina / vel ad aliquantum numerum 
+      <lb ed="#P" n="3"/>posset producere quem de facto ignonaret. quod 
+      insa<lb ed="#P" n="4" break="no"/>num est cum etiam distinctos infinitos numeros 
+      con<lb ed="#P" n="5" break="no"/>prehendat / vt vult augu. 11 de ciuitate dei et 
+      osten<lb ed="#P" n="6" break="no"/>sum est in primo. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e766">
+                  <lb ed="#P" n="7"/>¶ Ex istis conclusionibus infero quod potentia et 
+      scie<lb ed="#P" n="8" break="no"/>tia dei non solum sunt infinite quo ad numerum 
+      produ<lb ed="#P" n="9" break="no"/>cendorum: ymo etiam quo ad modos producendi. ita 
+      <lb ed="#P" n="10"/>quod diuina potentia non soluminfinitas species potest sic 
+      pro<lb ed="#P" n="11" break="no"/>ducere: ymo etiam infinitis modis infinitas / 
+      supre<lb ed="#P" n="12" break="no"/>ma (que nunc est) perfectiores. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e782">
+                  <lb ed="#P" n="13"/>¶ Quarta conclusio infinitas species posse 
+      prodi<lb ed="#P" n="14" break="no"/>ci: non tollit ordinem essentialem creati esse 
+      proba<lb ed="#P" n="15" break="no"/>tur sic non repugnat create vel creabili infinite 
+      <lb ed="#P" n="16"/>multitudini finite perfectionis ip am esse / et aliquam 
+      <lb ed="#P" n="17"/>ipsarum perfectiorem in esse produci ergo conclusio vera 
+      con<lb ed="#P" n="18" break="no"/>sequentia nota. et antecedens probatur: quania omnis 
+      fi<lb ed="#P" n="19" break="no"/>nita perfectio infinite distat a summo ymaginario 
+      te<lb ed="#P" n="20" break="no"/>tius latitudinis generis sui. vt inferius declarabil 
+      <lb ed="#P" n="21"/>Et potest etiam ad presens sic probari / quodlibet indae 
+      <lb ed="#P" n="22"/>uiduum alicuius speciei / infinite distat a summo 
+      gra<lb ed="#P" n="23" break="no"/>du yma ginario perfectionis speciei sue ergo. 
+      ante<lb ed="#P" n="24" break="no"/>cedens patet. quia nullum. tale precise finite 
+      repli<lb ed="#P" n="25" break="no"/>catum equaretur toti perfectioni. speciei. et 
+      consequae<lb ed="#P" n="26" break="no"/>tia patet quia non minus distat quelibet species 
+      a<lb ed="#P" n="27" break="no"/>summo sui generis quam aliquod indiuiduum a 
+      summo<lb ed="#P" n="28" break="no"/>atitud inis sue speciei. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e820">
+                  <lb ed="#P" n="29"/>¶ Quinta conclusio est responsiua affirmatiua: 
+      <lb ed="#P" n="30"/>videlicet quod creatricis essentie immensa potentia 
+      intel<lb ed="#P" n="31" break="no"/>se et supremam speciem que nunc est: infinitas 
+      spe<lb ed="#P" n="32" break="no"/>cies ipsa perfectiores potest in esse producere. hoc 
+      <lb ed="#P" n="33"/>probatur. quia infinitas species hoc modo posse prodi 
+      <lb ed="#P" n="34"/>ci non repugnat increato nec creato esse vt 
+      proba<lb ed="#P" n="35" break="no"/>tum est ergo. conclusio vera. Ad motiuum opinionis 
+      <lb ed="#P" n="36"/>opposite respondet doctor noster inuentiuus 
+      iaco<lb ed="#P" n="37" break="no"/>bus de viterbio quod quamuis in speciebus versus 
+      superi<lb ed="#P" n="38" break="no"/>sit possibilis in infinitum processus: quia tamen ponitur 
+      sta<lb ed="#P" n="39" break="no"/>tus inferius et per consequens aliquod vltimum: pe 
+      <lb ed="#P" n="40"/>terit in speciebus entium ordo seruari / verbi gratia 
+      <lb ed="#P" n="41"/>si esset aliqua linea infinita ex vna parte tantum / et vnun 
+      <lb ed="#P" n="42"/>mobile moueretur super ipsam / et quando ipsum 
+      fi<lb ed="#P" n="43" break="no"/>isset motum per leucam ascendendo suprius. aliud 
+      si<lb ed="#P" n="44" break="no"/>militer moueretur. et sic de multis certum est: quod inter 
+      ip<lb ed="#P" n="45" break="no"/>sa / est quidam ordo quo primum plus distat a 
+      termi<lb ed="#P" n="46" break="no"/>no a quo et tamen non proprie plus 
+      appropinqua<lb ed="#P" n="47" break="no"/>ret ad finem linee a parte a qua est infinita / quam secundum 
+      <lb ed="#P" n="48"/>sic et in vniuersitate entium est vnus terminus ad in 
+      <lb ed="#P" n="49"/>ferius citra quem descendere / non possumus in per 
+      <lb ed="#P" n="50"/>fectione: ad summum vero attingi non potest. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e870">
+                  <lb ed="#P" n="51"/>¶ Ideo de materia dicit quod verum est quod in omni 
+      ordi<lb ed="#P" n="52" break="no"/>ne essentiali est aliquod simpliciter primum quod est 
+      <lb ed="#P" n="53"/>supremum illius ordinis. tale autemnon est aliquid 
+      <lb ed="#P" n="54"/>tanquam eiusdem nature cum ipsis. sed est aliquid quod 
+      <lb ed="#P" n="55"/>participat totus ordo. et per eius participationem 
+      <lb ed="#P" n="56"/>huiusmodi entia sunt magis vel minus perfecta. et 
+      <lb ed="#P" n="57"/>istud saluatur ponendo latitudinem specierum 
+      infi<lb ed="#P" n="58" break="no"/>nitam sicut finitam. Ita enim infinita si esset flueret 
+      <lb ed="#P" n="59"/>ab aliquo simpliciter primo gradum quem 
+      sparticipa<lb ed="#P" n="60" break="no"/>ret et tota huiusmodi latitudo sicut finita lque nunc 
+      <lb ed="#P" n="61"/>est de facto 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k33006-Dd1e897">
+               <head xml:id="oooo3o-k33006-Hd1e899">Articulus 3</head>
+               <p xml:id="oooo3o-k33006-d1e901">
+                  <lb ed="#P" n="62"/>¶ Tertius articulus 
+      <!--126.xml-->
+      <lb ed="#P" n="63"/>QUantum ad tertium articulumet 
+      <lb ed="#P" n="64"/>¶ primum dubium vtrum deus possit 
+      pro<lb ed="#P" n="65" break="no"/>ducere duas species eque perfectas. 
+      <lb ed="#P" n="66"/>et communiter concordant doctores quod non 
+      <lb ed="#P" n="67"/>a quod sic probatur diuersitas specieri 
+      <lb ed="#P" n="68"/>prouenit ex diuersitate differentiarum / quarum vna 
+      <lb ed="#P" n="69"/>est semper perfectior alia / ergo impossibile est duas 
+      <lb ed="#P" n="70"/>species sub eodem genere facere eque perfectas. 
+      <lb ed="#P" n="71"/>Secundo: vbi est perfecta equalitas perfectiois 
+      <lb ed="#P" n="72"/>bi est perfecta similitudo excludens omnem 
+      dissim<lb ed="#P" n="73" break="no"/>litudinem. ergo si forent due species eque 
+      perfecte<lb ed="#P" n="74" break="no"/>forent o inno similes. et sic nulla foret differentia 
+      inter<lb ed="#P" n="75" break="no"/>ipsas quod est impossibile: cum pluralitas specierum 
+      <lb ed="#P" n="76"/>requirit pluralitatem differentiarum.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e938">
+      ¶ Quamuis hec 
+      <lb ed="#P" n="77"/>opinio bene intellecta sit vera: tamen pro maiore de 
+      <lb ed="#P" n="78"/>claratione praesentis dubii est aduertendum: quod species 
+      <lb ed="#P" n="79"/>sunt in triplici differentia. quia quedam sunt que 
+      sub<lb ed="#P" n="80" break="no"/>eodem genere immediato continentur et ab ipso 
+      prae<lb ed="#P" n="81" break="no"/>oppositas differentias descendunt et constituuntun 
+      <lb ed="#P" n="82"/>sicut homo et equus / quedam vero sunt que licet 
+      sub<lb ed="#P" n="83" break="no"/>eodem genere contineantur: tamen per nullas 
+      dif<lb ed="#P" n="84" break="no"/>ferendas ipsius generis nobis notas (sed potius 
+      <lb ed="#P" n="85"/>per quasdam propriet ates occulte inditas a 
+      natu<lb ed="#P" n="86" break="no"/>ra) abinuicem distinguuntur sicut equus et asinus / 
+      <lb ed="#P" n="87"/>Et generaliter de qualibet specie animalium irratio 
+      <lb ed="#P" n="88"/>nalium quarum differentias specificas assignare / scit 
+      <lb ed="#P" n="89"/>solus ille quicuncta cum suis proprietatibus concreauit 
+      <lb ed="#P" n="90"/>et hec sunt in duplici differentia. quia quaedam sunt species 
+      <lb ed="#P" n="91"/>perfecte. sicut equus / quedam vero imperfecte. sicut 
+      <lb ed="#P" n="92"/>mulus / de quibus determinare non expedit. 
+      Ter<lb ed="#P" n="93" break="no"/>tium vero genus specierum est quarum perfectio 
+      vn<lb ed="#P" n="94" break="no"/>us / ex communicatione formali alterius simpliciter 
+      pro<lb ed="#P" n="95" break="no"/>uenit. sicut perfectio hominis prouenit ex 
+      communi<lb ed="#P" n="96" break="no"/>catione anime intellectiue. que sibi formaliter 
+      con<lb ed="#P" n="97" break="no"/>municat quodlibet suum esse perfectum in perfectione 
+      sin<lb ed="#P" n="98" break="no"/>pliciter. et generaliter nullum suppositum est perfectum 
+      <lb ed="#P" n="99"/>nisi perfectione sibi proneniente / ex sua forma 
+      substan<lb ed="#P" n="100" break="no"/>tiali / et secundum hoc possunt poni ad istud dubium 
+      <lb ed="#P" n="101"/>conclusiones. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e995">
+                  <lb ed="#P" n="102"/>¶ Prima conclusio est: quod loquendo de 
+      specie<lb ed="#P" n="103" break="no"/>bus primo modo nulle due species possunt simplici 
+      <lb ed="#P" n="104"/>ter esse eque perfecte / hoc probatur rationibus 
+      im<lb ed="#P" n="105" break="no"/>mediate factis. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1006">
+                  <lb ed="#P" n="106"/>¶ Secunda conclusio quod etiam loquendo de 
+      spe<lb ed="#P" n="107" break="no"/>ciebus secundo modo non est possibile duas 
+      speci<lb ed="#P" n="108" break="no"/>es fore equales: que probatur. quia vnitas proprie 
+      <lb ed="#P" n="109"/>tatis / arguit vnitatem speciei / seu equalitatem per 
+      <lb ed="#P" n="110"/>fectionis / et paspntas in equalitatem. sed in diuersis 
+      spe<lb ed="#P" n="111" break="no"/>ciebus sunt diuerse proprietates. ergo necessario sunt 
+      <lb ed="#P" n="112"/>inequales.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1025">
+      ¶ Preterea nisi diuersitas proprietatum 
+      <lb ed="#P" n="113"/>argueret diuersitatem specierum et inequalitatem. ne¬ 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1030">
+                  <lb ed="#P" n="114"/>¶ cessario non videretur quare vel ratio cur / animalia 
+      <lb ed="#P" n="115"/>irrationalia specifice distinguuntur. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1037">
+                  <lb ed="#P" n="116"/>¶ Tertia conclusio: quod species tertio modo sum 
+      <lb ed="#P" n="117"/>pte sunt simpliter equales in perfectionibus 
+      simpli<lb ed="#P" n="118" break="no"/>titer / hoc sic probatur. tales species vnica 
+      perfectio<lb ed="#P" n="119" break="no"/>ne equaliter existente perfectione in se et alteri sunt 
+      <lb ed="#P" n="120"/>perfecte ergo conclusio vera./ consequentia nota. antecedens 
+      <lb ed="#P" n="121"/>probatur: quia aut anima intellectiua est eque vita 
+      <lb ed="#P" n="122"/>sibi et subiecto aut non. si sic habetur propositum. si 
+      <lb ed="#P" n="123"/>non / sequitur primo quod plus viuitanima sortis quam sortes viuat. et 
+      <!--127.xml-->
+      <pb ed="#P" n="54-v"/>
+                  <lb ed="#P" n="1"/>similiter plus intelligit et cognoscit. et plus meretur 
+      <lb ed="#P" n="2"/>et pecccat et beatificatur: que omnia sunt absurda 
+      <lb ed="#P" n="3"/>et contra dicta sanctorum.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1068">
+      ¶ Secundo nullam 
+      perfe<lb ed="#P" n="4" break="no"/>ctionem habet anima quam non communicet toti / 
+      gra<lb ed="#P" n="5" break="no"/>du in quo habet in se. et nullam perfectionem habet 
+      hoam<lb ed="#P" n="6" break="no"/>nisi ad anima) per quam sperie differat ab asino. ergo.  
+      <lb ed="#P" n="7"/>equalis perfectionis sunt homo et anima. et tamen 
+      <lb ed="#P" n="8"/>differunt specie. ergo conclusio vera. Dec conclusio 
+      <lb ed="#P" n="9"/>probari potest generaliter de quibuscunque duabus 
+      <lb ed="#P" n="10"/>speciebus quarum vna sit forma substantialis vltima 
+      <lb ed="#P" n="11"/>alterius. sicut de animatis et inanimatis. quarum 
+      de<lb ed="#P" n="12" break="no"/>ductiones studiosis relinquo / et hec de isto dubio 
+      <lb ed="#P" n="13"/>Secundum dubium. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1092">
+                  <lb ed="#P" n="14"/>¶ Ecundum dubium vtrum a 
+      crea<lb ed="#P" n="15" break="no"/>trice essentia aliqua creatura immense per 
+      <lb ed="#P" n="16"/>fect a possit produci. Et arguitur primo 
+      <lb ed="#P" n="17"/>quod sic / aliqua creatura potest esse 
+      imme<lb ed="#P" n="18" break="no"/>diata deo. ergo questio vera / 
+      consequen<lb ed="#P" n="19" break="no"/>tia nota / antecedens tenetur pro fundamento a io 
+      <lb ed="#P" n="20"/>hanne de rippa¬ 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1110">
+                  <lb ed="#P" n="21"/>¶ Secundo sic aliqua creatura infinite distat a non 
+      <lb ed="#P" n="22"/>gradum perfectionis inesse. ergo aliqua est immense 
+      <lb ed="#P" n="23"/>perfecta. consequentia probatur. quia cuiuslibet rei per 
+      <lb ed="#P" n="24"/>fectio penes distantiam a non gradum perfectionis 
+      il<lb ed="#P" n="25" break="no"/>lius mensuratur in esse. antecedens probatur quandia 
+      in<lb ed="#P" n="26" break="no"/>ter aliquam creaturam et non esse simpliciter / 
+      infini<lb ed="#P" n="27" break="no"/>te / ipsa in perfectiores possunt inesse produci 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1129">
+                  <lb ed="#P" n="28"/>¶ Tertio sic: cuiuslibet perfectionis creature 
+      sum<lb ed="#P" n="29" break="no"/>mus gradus possibilis est communicabilis alicui in 
+      <lb ed="#P" n="30"/>diuiduo. ergo questio vera. consequentia nota. eo qud 
+      <lb ed="#P" n="31"/>non nisi infinitus est summus possibilis. antecedens probatur quia alias 
+      <lb ed="#P" n="32"/>summus gradus non foret eiusdem speciei cum aliis gradibus 
+      <lb ed="#P" n="33"/>citra ips. Ad oppositum arguitur sic. aliquam creaturam 
+      <lb ed="#P" n="34"/>esse omnipotentem inesse necesse esse estimpossibile. ergo que 
+      <lb ed="#P" n="35"/>stio est falsa / antecedens patet cuilibet catholice 
+      <lb ed="#P" n="36"/>et consequentia probatur. quia hoc est esse immense per 
+      <lb ed="#P" n="37"/>fectum. vt patet de se.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1153">
+      ¶ Circa istud videndum est 
+      pri<lb ed="#P" n="38" break="no"/>mo quid est perfectio creature. secundo penes quid 
+      at<lb ed="#P" n="39" break="no"/>tenditur perfectio creaturarum. tertio vtrum summus 
+      gre<lb ed="#P" n="40" break="no"/>dus specifice perfectionis sit communicabilis ali 
+      <lb ed="#P" n="41"/>cui indiuiduo. quarto de quesito. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1164">
+                  <lb ed="#P" n="42"/>¶ Primum punctum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1169">
+                  <lb ed="#P" n="43"/>¶ Uantum ad primum dico: quod 
+      du<lb ed="#P" n="44" break="no"/>plex est perfectio cuiuslibet creature. sed 
+      <lb ed="#P" n="45"/>essentialis. et accidentalis. perfectio 
+      es<lb ed="#P" n="46" break="no"/>sentialis est que conuenit cuilibet 
+      indi<lb ed="#P" n="47" break="no"/>artusuid uo alicuius speciei / secundum suam 
+      spec<lb ed="#P" n="48" break="no"/>ficam differentiam / cuiusmodi est perfectio hominis 
+      <lb ed="#P" n="49"/>secundum quod homo. et hoc potest dupliciter 
+      mensura<lb ed="#P" n="50" break="no"/>ri / scilicet extensiue quo ad numerum requisitorum ad 
+      homi<lb ed="#P" n="51" break="no"/>nem. et sic nullus homo est perfectior alio homine 
+      <lb ed="#P" n="52"/>Alibd modo potest mensura ri intensiue. prout vna 
+      for<lb ed="#P" n="53" break="no"/>ma substantialis vnius indiuidui / sicut anima christi / est 
+      <lb ed="#P" n="54"/>perfectior essentialiter secundum aliquos in 
+      speci<lb ed="#P" n="55" break="no"/>ua / anima Iude et sic etiam perfectione essentiali vnus ha 
+      <lb ed="#P" n="56"/>est perfectior alio. Alia est perfectio accidentalis. 
+      <lb ed="#P" n="57"/>attenditur penes meliorem dispositionem naturalium 
+      <lb ed="#P" n="58"/>vel penes hoc quod vnum indiuiduum potest in perfectiorem 
+      <lb ed="#P" n="59"/>oper erationem quam aliud. vel penes dispositionem melio 
+      <lb ed="#P" n="60"/>rem actuum qui consequuntur essentiam. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1211">
+                  <lb ed="#P" n="61"/>¶ Secundo est notandum quod cuiuslibet creatu 
+      <!--127.xml-->
+      <lb ed="#P" n="62"/>re est triplex perfectio. scilicet perfectio indiuidualis in 
+      <lb ed="#P" n="63"/>propria specie. que vocatur ab aliquibus 
+      gradua<lb ed="#P" n="64" break="no"/>lis perfectionis. Secunda est perfectio speciei 
+      <lb ed="#P" n="65"/>cilicet in proprio siue in propinquo sibi genere / et hec 
+      <lb ed="#P" n="66"/>vocatur perfectio generis. Tertia est perfectio eius 
+      <lb ed="#P" n="67"/>in ente. et hec vocatur perfectio simpliciter seu 
+      ge<lb ed="#P" n="68" break="no"/>neris in ente / verbi gratia / aliqua albedine 
+      demon<lb ed="#P" n="69" break="no"/>strata / ipsa est perfectior albedine remissiori / perfe 
+      <lb ed="#P" n="70"/>ctione primo modo sumpta. quia albedo est 
+      perfe<lb ed="#P" n="71" break="no"/>ctior illa. et non est perfectior secundo nec tertio modis 
+      <lb ed="#P" n="72"/>quia non est perfectior color nec perfectius ens / et 
+      <lb ed="#P" n="73"/>tamen albedo quantuncumque remissa est perfectior 
+      nigre<lb ed="#P" n="74" break="no"/>dine quantumcumque intensa secundo et tertio modis et non primo 
+      <lb ed="#P" n="75"/>modo. quia et si est perfectior color et perfectius ens. non 
+      <lb ed="#P" n="76"/>tamen est perfectior in specie albedinis quam eque 
+      in<lb ed="#P" n="77" break="no"/>tensa nigredo in specie nigredinis. licet nigredo sit 
+      <lb ed="#P" n="78"/>simpliciter imperfectioris speciei quam albedo.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1255">
+      ¶ Ex 
+      <lb ed="#P" n="79"/>quo patet quod aliud est esse perfectioris speciei quam alipe 
+      <lb ed="#P" n="80"/>et aliud est esse perfectius in sua speciequam aliud indiui 
+      <lb ed="#P" n="81"/>duum sit in sua. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1265">
+                  <lb ed="#P" n="82"/>¶ Secundum punctum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1270">
+                  <lb ed="#P" n="83"/>¶ Uantum ad secundum videlicet 
+      pe<lb ed="#P" n="84" break="no"/>nes quid attenditur perfectio creature 
+      <lb ed="#P" n="85"/>loquendo de perfectione essentiali 
+      dicen<lb ed="#P" n="86" break="no"/>dum / sicut est triplex perfectio /( vt praimis 
+      <lb ed="#P" n="87"/>sum est) sic potest tripliciter quantificari 
+      <lb ed="#P" n="88"/>creature perfectio / et secundum hoc pono triplicem 
+      <lb ed="#P" n="89"/>conclusionem. prima est. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1288">
+                  <lb ed="#P" n="90"/>¶ Cuiuslibet indiuidui persectio: penes 
+      accessum<lb ed="#P" n="91" break="no"/>ad summum in sua specie / et penes distantiam a non 
+      gri<lb ed="#P" n="92" break="no"/>du sue speciei / secundum aliquid certum mensuratum / a 
+      <lb ed="#P" n="93"/>tenditur. probatur sic / quodlibet indiuiduum est tante per 
+      <lb ed="#P" n="94"/>fectionis quanta est perturbatio denominatiua 
+      ip<lb ed="#P" n="95" break="no"/>sius in sua specie. que participatio talis mensuratur. 
+      <lb ed="#P" n="96"/>penes accessum ad primum sue speciei. et penes 
+      di<lb ed="#P" n="97" break="no"/>siantiam a non gradum speciei. ergo conclusio vera. 
+      <lb ed="#P" n="98"/>Dixi autem signanter / secundum aliquid certum mensu 
+      <lb ed="#P" n="99"/>ratum / quia secundum incertum omnes gradus 
+      equa<lb ed="#P" n="100" break="no"/>liter distant a non gradum. Confirmatur. quia iuxta 
+      <lb ed="#P" n="101"/>illa est attendenda perfectionis proportio quibus 
+      posi<lb ed="#P" n="102" break="no"/>tis sequitur propositum sed talia sunt huiusmodi. 
+      <lb ed="#P" n="103"/>scilicet ista duo. ergo penes ista est attendenda: 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1321">
+                  <lb ed="#P" n="104"/>¶ Secunda conclusio: cuiuslibet specici perfectio. 
+      <lb ed="#P" n="105"/>penes plurificationem essentialium perfectionum suo 
+      ge<lb ed="#P" n="106" break="no"/>ueri competentium / respectu alterius speciei: penitus est 
+      ar<lb ed="#P" n="107" break="no"/>tendenda probatur sic. illa species alicuius 
+      gene<lb ed="#P" n="108" break="no"/>ris / est perfectior alia cut conuenit perfectior 
+      diffe<lb ed="#P" n="109" break="no"/>rentia. qui a cui conuenit perfectior differentia / 
+      ne<lb ed="#P" n="110" break="no"/>cessario plures competunt essentiales perfectiones 
+      generi<lb ed="#P" n="111" break="no"/>competentes. ergo declaratur exemplo / nam animali 
+      con<lb ed="#P" n="112" break="no"/>petit vegetatiuum sensitiuum et intellectiuum sed 
+      cer<lb ed="#P" n="113" break="no"/>um est quod species animalis est perfectior: que 
+      plu<lb ed="#P" n="114" break="no"/>res huiusmodi perfectiones continet quam que contines 
+      <lb ed="#P" n="115"/>pauciores. ergo.  
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1350">
+                  <lb ed="#P" n="116"/>¶ Notandum tamen quod sensitiuum non est latitudo specia 
+      <lb ed="#P" n="117"/>lissime specifica nec etiam vegetatiuum quia si sic.  
+      <lb ed="#P" n="118"/>tunc omnia sensibilia forent eiusdem speciei. et ideo 
+      <lb ed="#P" n="119"/>quia quolibet precise sensitiuo non intellectiuo 
+      da<lb ed="#P" n="120" break="no"/>to / inter ipsum et intellectiuum / infinite possunt pro 
+      <lb ed="#P" n="121"/>duci species medie vt superius dicebatur. ideo iter 
+      <lb ed="#P" n="122"/>huiusmodi species / sicut est homo et asinus / non 
+      po<lb ed="#P" n="123" break="no"/>est assiguari determiuatus excessus Et addo quamuis 
+      <!--128.xml-->
+      <pb ed="#P" n="55-r"/>
+                  <lb ed="#P" n="1"/>homo et equus communicent in esse vite talis 
+      ta<lb ed="#P" n="2" break="no"/>men communicatio non est participatio alicuius 
+      per<lb ed="#P" n="3" break="no"/>fectionis specialissime specifice: quia quantumcunque 
+      intem<lb ed="#P" n="4" break="no"/>datur equus in esse vite infra suam speciem: nunquam 
+      <lb ed="#P" n="5"/>ita perfecte viuet sicut homo. similiter dico de esse 
+      sen<lb ed="#P" n="6" break="no"/>sitiuo. quamuis enim aliqua animalia: percipiendo a 
+      re<lb ed="#P" n="7" break="no"/>motis aliqua sensibilia respectu aliquorum sensuum 
+      <lb ed="#P" n="8"/>excedant hominem. hoc est ratione organice 
+      dispe<lb ed="#P" n="9" break="no"/>sitionis. non quod aliqua sensatio alicuius animalis 
+      re<lb ed="#P" n="10" break="no"/>spectu obiecti sensati ab homine sit perfectior 
+      sensi<lb ed="#P" n="11" break="no"/>tione hominis 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1398">
+                  <lb ed="#P" n="12"/>¶ Tertia conclusio. cuiuslibet generis 
+      perfectio<lb ed="#P" n="13" break="no"/>per maiorem imitationem primi entis et. distantian 
+      <lb ed="#P" n="14"/>a non ente est simpliciter attendeuda. Probatur 
+      <lb ed="#P" n="15"/>primo quoad secundam partem sic. quanto magis distat 
+      <lb ed="#P" n="16"/>aliquid ab imperfectione tanto magis distat a non 
+      <lb ed="#P" n="17"/>gradu entis ergo secunda pars vera. patrima vero pars 
+      <lb ed="#P" n="18"/>est anselmi non. capitulo. 3. Et est eius ratio 
+      vn<lb ed="#P" n="19" break="no"/>huic similis in sententia Quia quanto alicui speciei de 
+      <lb ed="#P" n="20"/>nominatiue conueniunt plures perfectiones 
+      simpi<lb ed="#P" n="21" break="no"/>citer conuenientes simpliciter primo enti: talis 
+      spe<lb ed="#P" n="22" break="no"/>cies est perfectior et magis distat a non gradu en 
+      <lb ed="#P" n="23"/>tis. vt patet si equus vel aliqua substantia 
+      imperf<lb ed="#P" n="24" break="no"/>ctior ymaginetur per gradus perfectionis ascend 
+      <lb ed="#P" n="25"/>re vel perfectior descendere vt pote ab homine qu 
+      <lb ed="#P" n="26"/>viuit sentit et rationalis est auferatur per 
+      cogitatio<lb ed="#P" n="27" break="no"/>nem primo quod rationalis est. deinde quod sensibilis 
+      po<lb ed="#P" n="28" break="no"/>stea etiam quod vitalis postremo ipsum nudum esse qod 
+      <lb ed="#P" n="29"/>remanet Quis non intelliget: quod illa substantia que 
+      <lb ed="#P" n="30"/>sic paulatim destruitur: ad minus et minus esse: et ac 
+      <lb ed="#P" n="31"/>vltimum ad non esse gradatim perducitur: econtra 
+      ve<lb ed="#P" n="32" break="no"/>ro ascendit ad primum esse perfectissimum et redit a 
+      <lb ed="#P" n="33"/>non esse: Et quia pertinentia ad istam materiam demoen 
+      <lb ed="#P" n="34"/>strari non possunt ideo hec sufficiant 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1451">
+                  <lb ed="#P" n="35"/>¶ Quantum ad tertium. Utrum summus 
+      gra<lb ed="#P" n="36" break="no"/>dus possibilis alicuius speciei sit communicabilis 
+      <lb ed="#P" n="37"/>alicui indiuiduo creature. Respondeo quod sicut 
+      dice<lb ed="#P" n="38" break="no"/>batur superius: quedam sunt specialissime specie 
+      <lb ed="#P" n="39"/>quedam subalterne: secundum hoc pono conclusio 
+      <lb ed="#P" n="40"/>nes duas 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1467">
+                  <lb ed="#P" n="41"/>¶ Prima. cuiuslibet speciei specialissime 
+      sum<lb ed="#P" n="42" break="no"/>mus gradus possibilis: est communicabilis creatu 
+      <lb ed="#P" n="43"/>re. Probatur. quia si non posset: aut hoc esset quia 
+      tali<lb ed="#P" n="44" break="no"/>gradui repugnat communicatio sui: et hoc non cum 
+      <lb ed="#P" n="45"/>quilibet gradus eiusdem speciei sit 
+      communicabi<lb ed="#P" n="46" break="no"/>lis creaturem aut quia hoc repugnat esse creature. et hoc 
+      <lb ed="#P" n="47"/>non quia gradus finitus perfectior: summo speciei 
+      in<lb ed="#P" n="48" break="no"/>ferioris est alicui creature communicabilis. aut quia 
+      <lb ed="#P" n="49"/>repugnat agenti: et hoc non. quia et si repugnet agenti 
+      fi<lb ed="#P" n="50" break="no"/>nite virtutis: tamen agenti infinite virtutis repugna 
+      <lb ed="#P" n="51"/>re non potest 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1493">
+                  <lb ed="#P" n="52"/>¶ Secunda conclusio. est non cuiuslibet specier 
+      <lb ed="#P" n="53"/>subalterne summus gradus possibilis: est 
+      commu<lb ed="#P" n="54" break="no"/>nicabilis creature. Probatur sic. si ista conclusio 
+      <lb ed="#P" n="55"/>non esset vera sequitur quod sit possibile esse aliquam 
+      <lb ed="#P" n="56"/>creaturam qua sit summe viuens: et vita: summe intelligens 
+      in<lb ed="#P" n="57" break="no"/>telligentia: summe ens et essentia: et sic de aliis 
+      per<lb ed="#P" n="58" break="no"/>fectionibus soli deo conuenientibus summe. 
+      conse<lb ed="#P" n="59" break="no"/>quens est contra determinationem sanctorum et 
+      me<lb ed="#P" n="60" break="no"/>xime venerabilis anselmus monolis. in principio vb 
+      <lb ed="#P" n="61"/>probat per totum soli deo conuenire ista.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1517">
+      ¶ 
+      Confi<lb ed="#P" n="62" break="no"/>matur quia si aliqua creatura esset summe. intelligens 
+      <!--128.xml-->
+      <lb ed="#P" n="63"/>deus ei aliquid reuelare non posset quod est absurdum 
+      <lb ed="#P" n="64"/>ymo necessario viuere: et scire: et esse ipsius: 
+      equaren<lb ed="#P" n="65" break="no"/>tur scientie: vite: et essentie divine. cum summe 
+      possibi<lb ed="#P" n="66" break="no"/>li tali nichil possit esse maius. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1533">
+                  <lb ed="#P" n="67"/>¶ Ex quo sequitur quod si possibili infinito aliquo 
+      <lb ed="#P" n="68"/>modo: potest esse maius ipsum non est summum: esto q 
+      <lb ed="#P" n="69"/>sit infinitum. Et ideo maioris perfectionis esset esse 
+      sun<lb ed="#P" n="70" break="no"/>mam sapientiam: quam infinitam sapientiam. quia infinitam secundum 
+      <lb ed="#P" n="71"/>numerum scitorum scit anima christi: et tamen non equabatur 
+      <lb ed="#P" n="72"/>sapientie dei non sic autem si fuisset summa 
+      possibu<lb ed="#P" n="73" break="no"/>lis. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1551">
+                  <lb ed="#P" n="74"/>¶ Quantum ad quartum pono aliquas 
+      conclu<lb ed="#P" n="75" break="no"/>siones.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1559">
+      ¶ Prima. creatura immense perfecta in sua 
+      <lb ed="#P" n="76"/>specie a creatrice essentia potest in esse produci. hoc pro 
+      <lb ed="#P" n="77"/>batur sic. Summus gradus possibilis alicuius 
+      spe<lb ed="#P" n="78" break="no"/>ciei vt pote albedinis: est communicabilis creature. ergo 
+      <lb ed="#P" n="79"/>conclusio vera: consequentia nota. antecedens patet ex dictis. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1570">
+                  <lb ed="#P" n="80"/>¶ Ex hoc infero: quod albedinem immense perfectam 
+      <lb ed="#P" n="81"/>esse in rerum natura. et similiter esse immense perfectun 
+      <lb ed="#P" n="82"/>hominem: non est simpliciter impossibile. Etisi arguatur 
+      <lb ed="#P" n="83"/>contra: si esset immense perfectus homo: esset immense 
+      ra<lb ed="#P" n="84" break="no"/>tionalis. et immense viuens. quia tantum preclse homo est 
+      <lb ed="#P" n="85"/>homo quantum est intelligens. et rationalis. et viuens. 
+      <lb ed="#P" n="86"/>Respondeo primo negando consequentiam. sicut enim non 
+      sequi<lb ed="#P" n="87" break="no"/>tur albedo est immense perfecta a lbedo. ergo est immen 
+      <lb ed="#P" n="88"/>se perfectus color: vel est immense perfecta qualitas: ita 
+      <lb ed="#P" n="89"/>etiam non sequitur in proposito Dico secundo: quod consequens est 
+      <lb ed="#P" n="90"/>concedendum de summo possibili viuere communica 
+      <lb ed="#P" n="91"/>bili speciei humane vt patet infra sexta conclusione 
+      cum<lb ed="#P" n="92" break="no"/>pro batione: non de summo simpliter. Ex quo patet quod et 
+      <lb ed="#P" n="93"/>si vnus homo sit perfectior alio in specie non tamen est 
+      pec<lb ed="#P" n="94" break="no"/>fectior in graestione. nec sequitur sortes est perfectior homo 
+      <lb ed="#P" n="95"/>ergo est perfectius animal: et causa est quia excessus 
+      perfectio<lb ed="#P" n="96" break="no"/>nis grgeseie arguit diuersitatem specificam necessario. et 
+      <lb ed="#P" n="97"/>ideo sequitur homo est perfectius animal ergo est alterius 
+      <lb ed="#P" n="98"/>speciei ab homine ipso. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1614">
+                  <lb ed="#P" n="99"/>¶ Quantum ad alias conclusiones que erunt 
+      <lb ed="#P" n="100"/>de perfectione speciei in genere. premito: quod 
+      perfectio<lb ed="#P" n="101" break="no"/>num communicabilium creatur: quedam conueniunt 
+      for<lb ed="#P" n="102" break="no"/>maliter et realiter et per se: creatrici essentie: vel deo. si 
+      <lb ed="#P" n="103"/>cut est viuere. et intel ligere. et graentialiter omnis 
+      perfe<lb ed="#P" n="104" break="no"/>ctio simpliciter. quedam sunt que non sic conuenium 
+      <lb ed="#P" n="105"/>sibi. sicut esse sensitiuum mediantibus organis. esse 
+      <lb ed="#P" n="106"/>animal. vel substantiam animatam. et sic de similibus 
+      <lb ed="#P" n="107"/>que tamen in creaturis sunt perfectiones. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1636">
+                  <lb ed="#P" n="108"/>¶ Auxta hoc pono conclusiones et secunda in 
+      <lb ed="#P" n="109"/>ordine ista sit. Creatura immense perfecta in 
+      gene<lb ed="#P" n="110" break="no"/>re suo: perfectione secundo modo sumpta: a creatri 
+      <lb ed="#P" n="111"/>ce essentia potest in esse produci. hoc probatur sic. 
+      <lb ed="#P" n="112"/>Substantia animata: immense sensibilis: est 
+      produ<lb ed="#P" n="113" break="no"/>cibilis a creatrice essentia. ergo conclusio vera. consequenti 
+      <lb ed="#P" n="114"/>nota. antecedens probatur: quia aliqua substantia 
+      sim<lb ed="#P" n="115" break="no"/>pliciter finite perfecta: est in esse producta: que tamen 
+      <lb ed="#P" n="116"/>est perfectior quam foret talis substantia aliqua 
+      anima<lb ed="#P" n="117" break="no"/>ta immense sensibilis si foret ergo.  
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1660">
+                  <lb ed="#P" n="118"/>¶ Ex hac infero quod possibile est poni in esse aliquod 
+      <lb ed="#P" n="119"/>animal immense perfectum animal. si ly animal stat 
+      <lb ed="#P" n="120"/>prosubstantia composita sensibili 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1669">
+                  <lb ed="#P" n="121"/>¶ Tertia conclusio. accipiendo perfectiones 
+      pri<lb ed="#P" n="122" break="no"/>mo modo: nulla creatura immense perfecta: a 
+      crea<lb ed="#P" n="123" break="no"/>trice essentia potest in esse produci 
+      <!--129.xml-->
+      <pb ed="#P" n="55-v"/>
+                  <lb ed="#P" n="1"/>hec sic probatur. nulla creatura potest esse necessario 
+      <lb ed="#P" n="2"/>essentia. aut vita. aut intelligentia. ergo conclusio vera 
+      <lb ed="#P" n="3"/>consequentia nota. quia hoc est esse summe tale quod esse 
+      necessa<lb ed="#P" n="4" break="no"/>rio tale: in talibus perfectionibus. antecedens patet: quia  
+      <lb ed="#P" n="5"/>libet creatura necessario dependet a deo. Confirmatur 
+      <lb ed="#P" n="6"/>quia esto quod aliqua creatura esset infinite viuens: adhuc 
+      <lb ed="#P" n="7"/>infinite excederetur a creatrice essentia. et per consequens 
+      ip<lb ed="#P" n="8" break="no"/>sam posset perfectius imitari. et sic non esset summe possi 
+      <lb ed="#P" n="9"/>bilitatis perfecta. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1703">
+                  <lb ed="#P" n="10"/>¶ Ex ista infero quod summus gradus esse vite: vel 
+      <lb ed="#P" n="11"/>intelligentie: nulli creature est communicabilis. etiam si 
+      in<lb ed="#P" n="12" break="no"/>finitus foret communicabilis eidem: patet ex conclusione. 
+      <lb ed="#P" n="13"/>¶ Quarta conclusio. sit ista creatura immense 
+      pe<lb ed="#P" n="14" break="no"/>fecta in gati: substantie: a creatrice essentia non potest 
+      <lb ed="#P" n="15"/>in esse produci. hec probatur quia esse immense perfectam 
+      sub<lb ed="#P" n="16" break="no"/>stantiam creatam implicat contradictionem. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1721">
+                  <lb ed="#P" n="17"/>¶ Quinta conclusio. nulla substantia potest esse 
+      <lb ed="#P" n="18"/>perfectior substantia incorporea et intellectuali. probatur 
+      <lb ed="#P" n="19"/>quia hec est perfectissima differentia substantie. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1730">
+                  <lb ed="#P" n="20"/>¶ Ex istis infero quod illud solum est immense perfe 
+      <lb ed="#P" n="21"/>cta substantia: quod immense est simplex. et immense 
+      in<lb ed="#P" n="22" break="no"/>tellectuale. et solum hoc est vel potest esse deus. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1739">
+                  <lb ed="#P" n="23"/>¶ Sexta conclusio. Supposito quod dilectio 
+      beatifi<lb ed="#P" n="24" break="no"/>ca: sit perfectissima qualitas producibilis a deo sit ista 
+      <lb ed="#P" n="25"/>Creatura immense perfecta: potest produci a creatrice 
+      <lb ed="#P" n="26"/>essentia in geseioe accidentis. hec probatur sic. Aliqua 
+      <lb ed="#P" n="27"/>dilectio btifica est producibilis ergo conclusio vera. consequentia pe 
+      <lb ed="#P" n="28"/>ex supposito: nam dato: quod non posset produci aliquod 
+      a<lb ed="#P" n="29" break="no"/>nimal perfectius homine: ista consequentia esset bona: sortes est 
+      im<lb ed="#P" n="30" break="no"/>mense perfectus homo ergo est immense perfectum animal. ita est 
+      in<lb ed="#P" n="31" break="no"/>proposito. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1761">
+                  <lb ed="#P" n="32"/>¶ Ex ista insero: quod possibile est esse duas 
+      quali<lb ed="#P" n="33" break="no"/>tantes eiusdem speciei quarum vna sit perfectior alia. que 
+      <lb ed="#P" n="34"/>libet tamen est immense perfecta qualitas. et est immense 
+      <lb ed="#P" n="35"/>perfectum accidens. patet quia dilectio beatifica petri 
+      <lb ed="#P" n="36"/>um sit. eiusdem speciei est perfectior dilectione ligni et tamen 
+      <lb ed="#P" n="37"/>non est perfectior qualitas nec perfectius accidens. ymo 
+      <lb ed="#P" n="38"/>sicut si esset infinita albedo ipsa non esset perfectior co 
+      <lb ed="#P" n="39"/>lor: nec perfectius accidens quam minima albedo. sic est 
+      <lb ed="#P" n="40"/>conformiter dicendum in proposito. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1783">
+                  <lb ed="#P" n="41"/>¶ Septima conclusio. Nulla creatura immensa 
+      <lb ed="#P" n="42"/>est producibilis in perfectione entis. probatur sic. nul 
+      <lb ed="#P" n="43"/>la substantia infinite perfecta in ente est producibilis 
+      <lb ed="#P" n="44"/>ergo nullum accidens. ergo nulla creatura: prima 
+      con<lb ed="#P" n="45" break="no"/>sequentia patet quia tota ordinatio ymagiatiua ad 
+      <lb ed="#P" n="46"/>cidentium: est imperfectior grestioe substantie: secunda 
+      pa<lb ed="#P" n="47" break="no"/>tet de se quia omne producibile foret substantia vel acci 
+      <lb ed="#P" n="48"/>dens: et primum antecedens probatur quia nulla 
+      crea<lb ed="#P" n="49" break="no"/>tura in genere substantie immensa est producibilis 
+      <lb ed="#P" n="50"/>et deo. ergo nec i perfectione entis. consequentia patet 
+      <lb ed="#P" n="51"/>quia cuiuslibet rei perfectio necessario est maior in 
+      <lb ed="#P" n="52"/>specie quam in greatioe. et in genere quam in ente simpliciter et 
+      <lb ed="#P" n="53"/>antecedens fuit quarta conclusio principalis. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1815">
+                  <lb ed="#P" n="54"/>¶ Nunc restat arguere contra aliquas 
+      conclu<lb ed="#P" n="55" break="no"/>siones superius positas et primo contra quartam 
+      <lb ed="#P" n="56"/>conclusionem quarti puncti que fuit quod creatura 
+      in<lb ed="#P" n="57" break="no"/>mense perfecta in genere substantie a creatice 
+      essen<lb ed="#P" n="58" break="no"/>tia etc. sic primo si deus esset agens naturale: creatu 
+      <lb ed="#P" n="59"/>ram immense perfectam in tali genere produceret 
+      <lb ed="#P" n="60"/>sed nunc non est minoris potentie quam si esset agens 
+      na<lb ed="#P" n="61" break="no"/>turale ergo.  
+      <!--129.xml-->
+      <lb ed="#P" n="62"/>Secundo si vna ymo plures perfectiones sim 
+      <lb ed="#P" n="63"/>pliciter sunt communicabiles creature ergo et que 
+      <lb ed="#P" n="64"/>libet est communicabilis sed si quelibet esset 
+      commu<lb ed="#P" n="65" break="no"/>nicata alicui creature: illa esset immense perfecta et 
+      <lb ed="#P" n="66"/>suprema ergo conclusio falsa: consequentia patet: eo 
+      <lb ed="#P" n="67"/>quod vna perfectio non habet magis rationem 
+      commu<lb ed="#P" n="68" break="no"/>nicabilitatis: quam alia. antecedens vero probatur. quia 
+      <lb ed="#P" n="69"/>esse: viuere: intelligere: hec omnia sunt perfectiones 
+      <lb ed="#P" n="70"/>simpliciter cum in quolibet fuit melius ipse quam non 
+      ip<lb ed="#P" n="71" break="no"/>se. et iste de facto sunt communicate. ergo.  
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1859">
+                  <lb ed="#P" n="72"/>¶ Tertio deus potest ad intra producere 
+      infin<lb ed="#P" n="73" break="no"/>tum filium qui potest existere: ergo potest ad extra 
+      pro<lb ed="#P" n="74" break="no"/>ducere immensum vel infinitam creaturam que 
+      pos<lb ed="#P" n="75" break="no"/>sit esse. antecedens est catholicum. consequentia pro 
+      <lb ed="#P" n="76"/>patur. quia idem est penitus modus producendum 
+      <lb ed="#P" n="77"/>ad intra et ad extra¬ 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1875">
+                  <lb ed="#P" n="78"/>¶ Quarto. tota latitudo perfectionum causalium 
+      <lb ed="#P" n="79"/>est in conspectu diuino ergo. potest correspondere et 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1882">
+                  <lb ed="#P" n="80"/>¶ fectus totaliter adequatus huic ydee. consequentia 
+      <lb ed="#P" n="81"/>patet: quia sicut vnus effectus cui correspondet vna 
+      <lb ed="#P" n="82"/>dea esse potest ita et quilibet. antecedens patet cul 
+      <lb ed="#P" n="83"/>iuslibet creature create vel creabilis ydea est in deo
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1893">
+                  <lb ed="#P" n="84"/>¶ Quinto. quicquid est producibile deus potest 
+      <lb ed="#P" n="85"/>producere simul. alias oporteret eum expectare: quod 
+      <lb ed="#P" n="86"/>non est dicendum. tunc arguo sic si quicquid est 
+      produ<lb ed="#P" n="87" break="no"/>cibile esset simul productum: aut in eis esset ordo: aut 
+      <lb ed="#P" n="88"/>non. non est dicendu quod non. si sic ergo aliquod esset supremum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1906">
+                  <lb ed="#P" n="89"/>¶ Sexto capio totam vniuersitatem producibi 
+      <lb ed="#P" n="90"/>ium: ita se habentium: quod eorum quodlibet aliquid 
+      perfe<lb ed="#P" n="91" break="no"/>ctius dari potest: et tunc quero aut extra istam possibilium. 
+      <lb ed="#P" n="92"/>multitudinem: potest deus aliquid producere ad extra: aut 
+      <lb ed="#P" n="93"/>non: si dicas quod non: tunc deus limitatur in aliquo 
+      fin<lb ed="#P" n="94" break="no"/>to: vltra quod progredi non potest. quia limitatur ad illam 
+      <lb ed="#P" n="95"/>multitudinem: cui per ymaginationem corresnndet vnus 
+      ter<lb ed="#P" n="96" break="no"/>m inus finite perfectionis. si dicas quod sic. tunc arguo aus 
+      <lb ed="#P" n="97"/>illud quod deus potest ex tra totam illam multitudinem 
+      pro<lb ed="#P" n="98" break="no"/>ducere erit ita perfectum: quo perfectius minime dari 
+      pos<lb ed="#P" n="99" break="no"/>sit: et habetur intentum. aut no: et tunc sequitur quod non est 
+      ex<lb ed="#P" n="100" break="no"/>tra totam multitudinem illam quod est contra positum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1936">
+                  <lb ed="#P" n="101"/>¶ Ad ista pro solutione primi sit prima proposi 
+      <lb ed="#P" n="102"/>tio: impossibile est deum esse agens simpliciter 
+      natura<lb ed="#P" n="103" break="no"/>le. Probatur quia impossibile est deum esse et ipsum non 
+      <lb ed="#P" n="104"/>esse summe liberum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1947">
+                  <lb ed="#P" n="105"/>¶ Secunda propositio. si per impossibile daretur 
+      <lb ed="#P" n="106"/>quod deus esset agens simpliciter naturale: tunc 
+      sequi<lb ed="#P" n="107" break="no"/>tur aliud impossibile: scilicet quod deus posset alium deus 
+      <lb ed="#P" n="108"/>in esse producere probatur. quia ex impossibile sequitur quodlitem 
+      <lb ed="#P" n="109"/>per ista patet quid dicendum ad primum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1960">
+                  <lb ed="#P" n="110"/>¶ Ad secundum. Prima propositio nulla perfectio 
+      sim<lb ed="#P" n="111" break="no"/>pliciter est communicabilis creature. probatur quia quelibus 
+      <lb ed="#P" n="112"/>talis est deus. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1969">
+                  <lb ed="#P" n="113"/>¶ Secunda propositio. cuilibet creature est 
+      con<lb ed="#P" n="114" break="no"/>municabilis quaedam entitas: ratione cuius sibi competit deno 
+      <lb ed="#P" n="115"/>minatio similis: vel modo denominationis perfectiois simpliter 
+      <lb ed="#P" n="116"/>(vt patet in istis esse viuere intelligere: per hec ad secundam negatur 
+      <lb ed="#P" n="117"/>ntecedens. datoretiam quod alicui creature communicaretur denominatio 
+      <lb ed="#P" n="118"/>similis vel modus similis denominationis cuiustet perfectionis 
+      sim<lb ed="#P" n="119" break="no"/>pliciter (quod non credo possibile) ista tamen semper posset per 
+      <lb ed="#P" n="120"/>fectius imitari diuinam essentiam seu deum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e1989">
+                  <lb ed="#P" n="121"/>¶ Ad tertium. Prima propositio. Ad intra deus produci 
+      <lb ed="#P" n="122"/>complacenter et nataliter / ad extra vero libere et contingenter 
+      <!--130.xml-->
+      <pb ed="#P" n="56-r"/>
+                  <lb ed="#P" n="1"/>Secunda propositio. deus non potest ad in 
+      <lb ed="#P" n="2"/>tra producere nisi infinitum et quod est de substantia 
+      <lb ed="#P" n="3"/>eius: ad extra vero non potest producere nisi finitum: et 
+      <lb ed="#P" n="4"/>non de substantia eius et per istas patet ad tertium. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2009">
+                  <lb ed="#P" n="5"/>¶ Ad quartum premitto aliqua notanda. Primum 
+      <lb ed="#P" n="6"/>quod vdea est quedam ratio potentie operatiue. siue 
+      intel<lb ed="#P" n="7" break="no"/>iectus sit huiusmodi potentia siue aliquid ipsius vt ait. 
+      Ai<lb ed="#P" n="8" break="no"/>gustinus. 83. q. 2. 6. Sunt namque vydee primcipales que 
+      <lb ed="#P" n="9"/>dam forme vel rationes. etc. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2023">
+                  <lb ed="#P" n="10"/>¶ Secundum praemitto notandum: quod vdea potest tri 
+      <lb ed="#P" n="11"/>liciter accipi primo secundum quod est forma in intellectu 
+      <lb ed="#P" n="12"/>et sic domus in mente artificis est ydea respectu 
+      do<lb ed="#P" n="13" break="no"/>mus producibilis ad extra. Alio modo est species in 
+      in<lb ed="#P" n="14" break="no"/>tellectu de pluribus predicabilis. et sic conceptus na 
+      <lb ed="#P" n="15"/>turaliter significans hominem dicitur ydea. Tertio 
+      mo<lb ed="#P" n="16" break="no"/>do secundum quod est ratio cuiuslibet et qualitercumque entis. 
+      <lb ed="#P" n="17"/>et sic omnis ratio qua vel quare totaliter aliquid pro 
+      <lb ed="#P" n="18"/>ducitur vel produci potest: dicitur vydea ipsius. Et sic 
+      <lb ed="#P" n="19"/>dico quod cutusset entis ydea est in deo. quia si non sequere 
+      <lb ed="#P" n="20"/>tur deum aliquid irrationabiliter produxisse. quod non 
+      <lb ed="#P" n="21"/>est dicendum 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2052">
+                  <lb ed="#P" n="22"/>¶ Sed circa istud de ydeis multe fuerunt 
+      opi<lb ed="#P" n="23" break="no"/>niones. quidam enim sicut platonici posuerunt ydeas 
+      <lb ed="#P" n="24"/>esse quasdam formas siue species: vel similitudines 
+      <lb ed="#P" n="25"/>rerum: abstractas a rebus per se existentes et in 
+      nul<lb ed="#P" n="26" break="no"/>lo intellectu. secundum quas vel ad quas respiciens. 
+      <lb ed="#P" n="27"/>artifex similia producebat inferius. et hec erant 
+      vni<lb ed="#P" n="28" break="no"/>uersalia genera: seu species rerum: ab ipsis 
+      reali<lb ed="#P" n="29" break="no"/>ter pistincta. et per se existentia: Et secundum hanc 
+      opi<lb ed="#P" n="30" break="no"/>nionem solummodo specierum sicut hominis erat vdea non 
+      <lb ed="#P" n="31"/>autem particularium substantiarum seu accidentium: nisi 
+      <lb ed="#P" n="32"/>per quandam attributionem. et sic tot essent ydee quot 
+      <lb ed="#P" n="33"/>essent species de necessitate nature: producibiles: et 
+      pro<lb ed="#P" n="34" break="no"/>ducende in effectu: sed hec opinio no tenetur. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2083">
+                  <lb ed="#P" n="35"/>¶ Alia opinio fuit magnorum theologorum quod vni 
+      <lb ed="#P" n="36"/>ca tantum esset ydea omnim specicrum seu rerum et si non 
+      secun<lb ed="#P" n="37" break="no"/>dum rem tamen secundum rationem distincta in se quiuolicet 
+      <lb ed="#P" n="38"/>manens penitus indistincta. et hec est essentia 
+      diuina<lb ed="#P" n="39" break="no"/>que sicut est vnum exemplum in quo relucent omnia 
+      <lb ed="#P" n="40"/>praesentia praeter: ta: et futura: sic etiam est vnica vdea omnim. et hoc 
+      <lb ed="#P" n="41"/>dicunt esse iuxta ymaginationem boetii. tertio de 
+      con<lb ed="#P" n="42" break="no"/>solatione metro nono dicentis. O qui perpetua 
+      mun<lb ed="#P" n="43" break="no"/>dum ratione gubernans. et infra: tu cuncta superno 
+      <lb ed="#P" n="44"/>ducis ab exemplo pulchrum pulcherrimis ipse mundum 
+      <lb ed="#P" n="45"/>mente gerens similique ymagine formans. Quon autem hec 
+      <lb ed="#P" n="46"/>essentia manens vnica simplicissima possit esse 
+      diue<lb ed="#P" n="47" break="no"/>sorum ratio sicut hominis et asini: sic possumus yma 
+      <lb ed="#P" n="48"/>ginari: deus canm assimilatur vnitati: que virtualiter 
+      <lb ed="#P" n="49"/>continet ones numeros. ita quod ex ipsa: magis et minus 
+      <lb ed="#P" n="50"/>replicata: resultat species numeri alia et alia: sic 
+      diui<lb ed="#P" n="51" break="no"/>na essentia eminenter et virtualiter continet omnem 
+      perfe<lb ed="#P" n="52" break="no"/>ctionem entium: et ipsa in se manens vna: pro vt ab vna 
+      <lb ed="#P" n="53"/>creatura magis vel minus participatur est alterius 
+      <lb ed="#P" n="54"/>et alterius vde a verbi gratia: sicut vnitas pluries rei 
+      <lb ed="#P" n="55"/>plicata est ratio maioris numeri: et per consequens vt sic 
+      perfe<lb ed="#P" n="56" break="no"/>ctionis. sic anima intellectiua: qui imitatur diuinum esse: non 
+      se<lb ed="#P" n="57" break="no"/>lum in esse simpliciter sicut lapis: sed in esse vite: est 
+      perfe<lb ed="#P" n="58" break="no"/>ctior lapide. et quia non solum participat in esse vite 
+      sco<lb ed="#P" n="59" break="no"/>etiam in esse intellectiuo et cognitiuo: est perfectior eque 
+      <lb ed="#P" n="60"/>et non est nisi per quandam maiorem replicationem diuini esse 
+      <lb ed="#P" n="61"/>sicut dicebatur suo modo de vnitate 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2144">
+                  <lb ed="#P" n="62"/>¶ Tertia fuit opinio aristotelis ponentis cuius 
+      <!--130.xml-->
+      <lb ed="#P" n="63"/>libet rei propriam vdeam et rationem in deo. et hoc videtur 
+      <lb ed="#P" n="64"/>consonum dictis augustini: nam sicut ait quinto super 
+      ge<lb ed="#P" n="65" break="no"/>nesim quelibet creatura erat in deo vita: non secundum na 
+      <lb ed="#P" n="66"/>turam sed secundum causam. que sicut quando producuntur sunt 
+      <lb ed="#P" n="67"/>in se distincte: ita cuiuslibet creature est propria vydea 
+      <lb ed="#P" n="68"/>seu ratio: et hec est difficilior ad concipiendum. et ipsam 
+      <lb ed="#P" n="69"/>tangit anselmus mon. 38. ymaginatur enim quod sicut in 
+      <lb ed="#P" n="70"/>materia: preexistunt virtualiter et vnitiue omnes forme 
+      <lb ed="#P" n="71"/>materiales. sic in diuina essentia tanquam in potentia a 
+      <lb ed="#P" n="72"/>ctiua: existunt omnes effectus producibiles. omne 
+      enim<lb ed="#P" n="73" break="no"/>productum in producente existit secundum augustinum et secundum 
+      <lb ed="#P" n="74"/>hunc modum essendi sunt idem cum essentia diuina. et 
+      in<lb ed="#P" n="75" break="no"/>diuina essentia nulla est diuersitas sed in ipsis 
+      prodi<lb ed="#P" n="76" break="no"/>cibilibus vel productis. sicut si anima foret sicut ars 
+      fa<lb ed="#P" n="77" break="no"/>bricatoria domificationis: et aliorum artificialium: et 
+      <lb ed="#P" n="78"/>hoc per nullum accidens existens in ipsa: tunc 
+      om<lb ed="#P" n="79" break="no"/>nia sic producibilia forent in anima penitus indistincta 
+      <lb ed="#P" n="80"/>similiter imaginandum est de prima causa. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2190">
+                  <lb ed="#P" n="81"/>¶ his premissis pro solutione argumenti sit ista
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2195">
+                  <lb ed="#P" n="82"/>¶ Prima propositio / Quamuis diuina essentia vel 
+      crea<lb ed="#P" n="83" break="no"/>trix sit infinita vdea (quia infinitorum vdea) cuiuslibet tamen 
+      <lb ed="#P" n="84"/>creature est finita vdea. probatur quia a qualibet 
+      fi<lb ed="#P" n="85" break="no"/>nite participatur: et quelibet ipsam partialiter imita 
+      <lb ed="#P" n="86"/>tur ergo. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2209">
+                  <lb ed="#P" n="87"/>¶ Secunda propositio. perfectio specierum non  
+      <lb ed="#P" n="88"/>mensuratur penes perfectionem vdee in deo: sed penes 
+      <lb ed="#P" n="89"/>distantiam a non esse et penes communicationem et 
+      <lb ed="#P" n="90"/>participationem diuini esse. prima pars patet quia 
+      <lb ed="#P" n="91"/>cuiuslibet creature vdea (vt est in deo) est infinita: per 
+      <lb ed="#P" n="92"/>ista patet ad argumentum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2225">
+                  <lb ed="#P" n="93"/>¶ Ad quintum. Prima propositio. deus potest si. 
+      <lb ed="#P" n="94"/>mul omnia producibilia producere sic intelligendo 
+      <lb ed="#P" n="95"/>quod ly simul determinet ly potest: patet quia non prius 
+      po<lb ed="#P" n="96" break="no"/>test producere a producibile quam b. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2236">
+                  <lb ed="#P" n="97"/>¶ Secunda propositio. deus non potest omnia 
+      <lb ed="#P" n="98"/>producibilia producere simul: ita quod ly simul 
+      determi<lb ed="#P" n="99" break="no"/>net ly producere. Probatur quia non potest totum 
+      tem<lb ed="#P" n="100" break="no"/>pus simul producere. cum totum tempus non 
+      pos<lb ed="#P" n="101" break="no"/>sit esse simul. et ideo licet deus totum tempus possit 
+      <lb ed="#P" n="102"/>simul producere: non tamen potest totum tempus pro 
+      <lb ed="#P" n="103"/>ducere simul per hoc ad argumentum dico: quod hec est 
+      <lb ed="#P" n="104"/>impossibilis quicquid est producibile est productum 
+      <lb ed="#P" n="105"/>in sensu composito. quia semper similia et 
+      perfectio<lb ed="#P" n="106" break="no"/>ra potest deus producere. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2260">
+                  <lb ed="#P" n="107"/>¶ Ad sextum. Prima propositio: extra vniuersita. 
+      <lb ed="#P" n="108"/>tem producibilium: que ita se habent quod vnum alio 
+      <lb ed="#P" n="109"/>perfectius potest produci non potest adeo aliquid ¬ 
+      <lb ed="#P" n="110"/>ad extra produci. Probatur. nam ita se habet hoc 
+      <lb ed="#P" n="111"/>ac si diceretur quod extra vniuersitatem creabilium non 
+      <lb ed="#P" n="112"/>potest aliquid ad extra creari vel produci et istud est 
+      <lb ed="#P" n="113"/>verum. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2278">
+                  <lb ed="#P" n="114"/>¶ Secda propositio. tota multitudo producibilium 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2283">
+                  <lb ed="#P" n="115"/>¶ non se habet vt vnus gradus determinatus. sed se  
+      <lb ed="#P" n="116"/>habet vt in infinitum plus et plus perfectius: et ex 
+      <lb ed="#P" n="117"/>hoc patet ad argumentum 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2293">
+                  <lb ed="#P" n="118"/>¶ Ad rationes principales dubii. Ad primam sit  
+      <lb ed="#P" n="119"/>Prima. propositio. Et si omnis perfectio creature i 
+      <lb ed="#P" n="120"/>ommunicabilis eidem communicaretur: adhuc tamen esset finite praecise 
+      <lb ed="#P" n="121"/>viuens et finite praecise ens. vel entia.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2304">
+      ¶ Secunda nulla 
+      po<lb ed="#P" n="122" break="no"/>test dari ita perfecta intelligentia: qua no possit dari. per 
+      <lb ed="#P" n="123"/>fectior per hoc negatur antecedens. Ad secundam Prima propositio. 
+      <!--131.xml-->
+      <pb ed="#P" n="56-v"/>
+                  <lb ed="#P" n="1"/>Ad hoc quod aliquid sit infinitum simpliciter non 
+      <lb ed="#P" n="2"/>requiritur quod infra ipsum: sint possibiles infinite 
+      la<lb ed="#P" n="3" break="no"/>titudines tante perfectionis vniformiter se excedentes 
+      <lb ed="#P" n="4"/>nam sic est inter speciem et speciem vt dictum est in proposi 
+      <lb ed="#P" n="5"/>tione octaua primi articuli.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2326">
+      ¶ Secunda propositio ad 
+      <lb ed="#P" n="6"/>hoc quod aliquid sit infinitum simpliciter non sufficit: quod si 
+      <lb ed="#P" n="7"/>aliqua species in infinitum intenderetur: nunquam perueni 
+      <lb ed="#P" n="8"/>ret ad perfectionem illius. sed requiritur quod illud sit se 
+      ip<lb ed="#P" n="9" break="no"/>so infinita perfectio. vnde ad formam per hoc patet quid dicendum. 
+      <lb ed="#P" n="10"/>Ad tertium patet responsio ex correlario tertie 
+      con<lb ed="#P" n="11" break="no"/>clusionis huius puncti quia antecedens est falsum.
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2342">
+      ¶ 
+      Se<lb ed="#P" n="12" break="no"/>cundo contra conclusionem quintam secundi articuli 
+      <lb ed="#P" n="13"/>sue fuit quod creatricis essentie immensa potentia 
+      inter<lb ed="#P" n="14" break="no"/>upremam speciem quae nunc est et se potest infinita 
+      perfectio<lb ed="#P" n="15" break="no"/>naliter inter se distincta producere. Arguo per rationes 
+      <lb ed="#P" n="16"/>lohannis de lana secundo quotlibeto questione 
+      secun<lb ed="#P" n="17" break="no"/>da: vbi querit: vtrum deus possit producere infinitos 
+      an<lb ed="#P" n="18" break="no"/>gelos specie distinctos: et respondet quod non: quod 
+      pro<lb ed="#P" n="19" break="no"/>bat p. imo sic si angeli in infinitum possent multiplica 
+      <lb ed="#P" n="20"/>ri secundum speciem: sequitur quod aliquis angelus 
+      pos<lb ed="#P" n="21" break="no"/>set habere charitatem creatam infinitam. consequens 
+      <lb ed="#P" n="22"/>est falsum. et consequentia probatur: quia quanto angelus 
+      <lb ed="#P" n="23"/>est perfectioris speciei tanto habet maiorem charitatem 
+      <lb ed="#P" n="24"/>Secundo sic quanto angelus est perfectior: tan 
+      <lb ed="#P" n="25"/>to paucioribus speciebus eget in intelligendo. et si sic 
+      <lb ed="#P" n="26"/>ergo si processus in infinitum esset possibilis: 
+      seque<lb ed="#P" n="27" break="no"/>retur quod esset possibile aliquem angelum esse: qui 
+      in<lb ed="#P" n="28" break="no"/>telligeret sine specie vel actu distincto a se. et sic 
+      sua<lb ed="#P" n="29" break="no"/>substantia esset sua intellectio. et etiam aliquis 
+      ange<lb ed="#P" n="30" break="no"/>lus puta inferior requireret infinitatem specierum in 
+      in<lb ed="#P" n="31" break="no"/>telligendo. quod est simpliciter impossibile. et 
+      conse<lb ed="#P" n="32" break="no"/>quentia patet. ergo conclusio falsa scilicet quod creatri 
+      <lb ed="#P" n="33"/>cis essentie etc 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2392">
+                  <lb ed="#P" n="34"/>¶ Ad primum dico duo: primum quod angeli possun. 
+      <lb ed="#P" n="35"/>produci in infinitum. secundum: quod in infinitum 
+      cha<lb ed="#P" n="36" break="no"/>ritas potest augeri in eisdem. vnde nego consequentiam 
+      <lb ed="#P" n="37"/>Ad secundum dico quod ratio fortissime conclude 
+      <lb ed="#P" n="38"/>ret: si de facto fuissent infiniti angeli. non autem si 
+      <lb ed="#P" n="39"/>infiniti sunt producibiles successiue quia numquam dabit 
+      <lb ed="#P" n="40"/>vltimus producibilis. nec etiam suppositum videtur verum 
+      <lb ed="#P" n="41"/>scilicet quod angli per spens instigant quia ex hoc sequitur quod 
+      infi<lb ed="#P" n="42" break="no"/>mus angelus de facto: habeat tot species quot 
+      ar<lb ed="#P" n="43" break="no"/>geli sunt perfectiores ipso: et sic cum quilet homo purus sit in 
+      <lb ed="#P" n="44"/>perfectior illo angelo. sequitur quod in quolet homine foret tam 
+      <lb ed="#P" n="45"/>ta multitudo specierum quot sunt angeli boni et 
+      mali<lb ed="#P" n="46" break="no"/>quod satis apparet absurdum 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2423">
+                  <lb ed="#P" n="47"/>¶ Rationes ad probandum quod in deo nulla sit ydea 
+      <lb ed="#P" n="48"/>Si cuiustet creature ydea est in deo: aut ergo 
+      secun<lb ed="#P" n="49" break="no"/>dum diuersitatem creaturarum est in deo diuersitas 
+      y<lb ed="#P" n="50" break="no"/>dearum: aut non. si primum: aut queliet ydea est in deo deus 
+      <lb ed="#P" n="51"/>autem non. si primum ergo non tantum tres res sunt deus quod 
+      <lb ed="#P" n="52"/>est erroneum: si non ergo in deo sunt multa que non sunt 
+      <lb ed="#P" n="53"/>deus. si non secundum diuersitatem productorum est 
+      diuers<lb ed="#P" n="54" break="no"/>tas vdearum: ergo non alia ratione conditus est homo alia 
+      <lb ed="#P" n="55"/>conditus est equus: contra augustinum. 83. q. c. 72. 
+      <lb ed="#P" n="56"/>Preterea si cuiuslibet producibilis ad 
+      extra<lb ed="#P" n="57" break="no"/>dea est in deo: aut talis ydea est perfecta finite aut in 
+      <lb ed="#P" n="58"/>finite: si secundum: ergo non perfectior est ydea hominis quam 
+      <lb ed="#P" n="59"/>asini et per consequens nec perfectior species vel ratio. sed 
+      <lb ed="#P" n="60"/>primum aut tota perfectio speciei communicatur cuilibet ind 
+      <lb ed="#P" n="61"/>uiduo et sic omnia sunt eque perfecta aut non communicatur tota 
+      <!--131.xml-->
+      <lb ed="#P" n="62"/>perfectio speciei et sic erit aliquod iudiuiduum: quod non 
+      <lb ed="#P" n="63"/>habebit totam rationem speciei. et sic aliquis homo erit cui 
+      <lb ed="#P" n="64"/>non competet tota ratio hominis. et cui deerit aliqua pars 
+      <lb ed="#P" n="65"/>siue tenens se ex parte materie siue ex parte forme. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2470">
+                  <lb ed="#P" n="66"/>¶ Preterea si tales ydee forent in deo: hoc esset 
+      <lb ed="#P" n="67"/>quia forent ratio intelligendi seu producendi 
+      creatu<lb ed="#P" n="68" break="no"/>ras. et sic deus non diceret vel intelligeret creaturas 
+      <lb ed="#P" n="69"/>per essentiam increatam. siue per rationem intelligendi: vel 
+      <lb ed="#P" n="70"/>omnim esset vnica vdea sicut. est vnica essentia secundum 
+      <lb ed="#P" n="71"/>secundam opinionem. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2486">
+                  <lb ed="#P" n="72"/>¶ Ad primum conceditur quod non secundum diuersita 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2491">
+                  <lb ed="#P" n="73"/>¶ tem productorum est in deo diuersitas ydearum seu 
+      ratio<lb ed="#P" n="74" break="no"/>tum. Ad augustinum dicendum quod debet intelligi non quod 
+      <lb ed="#P" n="75"/>per aliam ydeam sit productus homo et per aliam equus Sed 
+      <lb ed="#P" n="76"/>quod rationabile aliter productus est homo aliter equus 
+      <lb ed="#P" n="77"/>vel quam equus. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2504">
+                  <lb ed="#P" n="78"/>¶ Ad secundum dico quod quamuis diuina essentia sit in 
+      <lb ed="#P" n="79"/>finita vdea (quia infinitorum vdea) cuiusse tamen creature est 
+      <lb ed="#P" n="80"/>finite ydea sicut a qualibet finite participatur et imitais 
+      <lb ed="#P" n="81"/>vel potest dici quod diuinam essentiam esse vydeam cuiuslibet 
+      <lb ed="#P" n="82"/>perducibilis: potest dupliciter intelligi. vno modo in 
+      <lb ed="#P" n="83"/>ratione cognitionis seu representationis: et sic 
+      dico<lb ed="#P" n="84" break="no"/>quod omnium quantum est in se est equaliter ratio ydealis. 
+      <lb ed="#P" n="85"/>Alio modo in ratione participationis vel 
+      assimila<lb ed="#P" n="86" break="no"/>tionis seu impressionis: et sic dico quod non equaliter est 
+      <lb ed="#P" n="87"/>dea seu ratio etc. Et vlterius dico quod non quodiem indi 
+      <lb ed="#P" n="88"/>uiduum hominis: participat totam perfectionem speciei sue ist 
+      <lb ed="#P" n="89"/>tensiue. quamuis extensiue. quia habet quodlicem esse requisi 
+      <lb ed="#P" n="90"/>tum adesse hominis: quamuis non habeat quemlibet gradum 
+      <lb ed="#P" n="91"/>possibilem cuiuslibet esse. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2537">
+                  <lb ed="#P" n="92"/>¶ Ad tertium negatur. consequentia nam diuinus 
+      intelle<lb ed="#P" n="93" break="no"/>ctus: prius intelligit diuinam essentiam: sicut primum 
+      ob<lb ed="#P" n="94" break="no"/>iectum ipsius. et hoc modo idem est intelligens et 
+      intelle<lb ed="#P" n="95" break="no"/>ctum omnibus modis. Intelligendolaunt diuinam essentia 
+      <lb ed="#P" n="96"/>intelligit omnia quae sunt i ea vertualiter: quasi quaedam secundaria 
+      <lb ed="#P" n="97"/>Si vero secundum tertiam opinionem volumus 
+      <lb ed="#P" n="98"/>loqui: esset concedendum quod multarum rerum vdee sunt in 
+      <lb ed="#P" n="99"/>deo: et vnus deus. sicut et quelet creatura est in deo 
+      <lb ed="#P" n="100"/>vita et creatrix essentia 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2559">
+                  <lb ed="#P" n="101"/>¶ Et si arguatur sic. vdee quattuor rerum: sun 
+      <lb ed="#P" n="102"/>plures res: quam tres res: ergo plures res quam tres res 
+      <lb ed="#P" n="103"/>sunt vnus deus: Negatur consequentia: sicut patet de relationibus 
+      <lb ed="#P" n="104"/>Ad secundum concedo quod cuiuslibet creature 
+      <lb ed="#P" n="105"/>ydea (vt est in deo) est infinita. et negatur consequentia. et causa est quia 
+      <lb ed="#P" n="106"/>perfectio hominis non mensuratur penes perfectionem vydee indeo 
+      <lb ed="#P" n="107"/>sed penes distantiam a non esse. et penes participationem et 
+      commun<lb ed="#P" n="108" break="no"/>cationem diuini esse. vt patet ex secunda propositioe. ad quartum 
+      <lb ed="#P" n="109"/>argumentum contra quartam conclusionem quarti puncti. 
+    </p>
+               <p xml:id="oooo3o-k33006-d1e2582">
+                  <lb ed="#P" n="110"/>¶ Ad rationes principales patet ex conclusione. 
+      <lb ed="#P" n="111"/>responsiua secundi arti. quod sunt concedende. Et ad illam qua fit in 
+      op<lb ed="#P" n="112" break="no"/>positum patet quia negandum est antecedens ex propositione. secunda sexta 
+      <lb ed="#P" n="113"/>septia et octaua primi articu. Et sic est finis quastionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="41-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k26057"><!--l1d40-41q1 -->
+            <head xml:id="oooo3o-k26057-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k26057-d1e101">
+               <lb ed="#P" n="3"/>CIrca distinctionem quadragesimam 
+      <lb ed="#P" n="4"/>et quadragesimam primam. Quero vtrum 
+      <lb ed="#P" n="5"/>in praedestinatis vel reprobis precedat ali 
+      <lb ed="#P" n="6"/>qua causa predestinationis vel 
+      reproba<lb ed="#P" n="7" break="no"/>tionis.
+    </p>
+            <p xml:id="oooo3o-k26057-d1e114">
+      Et arguo quod sic Primo 
+      auctori<lb ed="#P" n="8" break="no"/>tate augustini super illo verbo Iacob dilexi esau odio 
+      <lb ed="#P" n="9"/>pabui / cui (inquit) vult miseretur et quem vult indurat 
+      <lb ed="#P" n="10"/>sed voluntas dei iniusta esse non potest venit enim de oc 
+      <lb ed="#P" n="11"/>cultissimis meritis quia ipsi peccatores cum propter greatioa 
+      <lb ed="#P" n="12"/>le peccatum vnam massam fecerint non tamen nulla inter eos est 
+      <lb ed="#P" n="13"/>diuersitas / praecedit ergo aliquid in peccatoribus quo 
+      <lb ed="#P" n="14"/>quamuis non sint iustificati digni efficiuntur iustificatione. 
+      <lb ed="#P" n="15"/>et precedit in aliis quo digni sint obstinatione. ergo 
+      vi<lb ed="#P" n="16" break="no"/>detur quod aliqua causa precedat. 
+    </p>
+            <p xml:id="oooo3o-k26057-d1e136">
+               <lb ed="#P" n="17"/>¶ Secundo per glosam ad romanos nono 
+      mise<lb ed="#P" n="18" break="no"/>rebor cuius misertus fuero. etc. et sunt verba 
+      ambro<lb ed="#P" n="19" break="no"/>sii miserebor vocando et gratiam apponendo / sciens 
+      <lb ed="#P" n="20"/>illum conuertendum et apud me permansurum. ergo videtur 
+      <lb ed="#P" n="21"/>quod conuersio preuisa et permansio finalis sit causa 
+      qua<lb ed="#P" n="22" break="no"/>re iste praedestinatus est / et oppositum sit causa quare ille 
+      <lb ed="#P" n="23"/>prescitus est ergo.  
+    </p>
+            <p xml:id="oooo3o-k26057-d1e154">
+               <lb ed="#P" n="24"/>¶ Tertio sinulla esset causa ex parte predestina 
+      <lb ed="#P" n="25"/>ti vel reprobati seu praedesti nationis et reprobationis 
+      <lb ed="#P" n="26"/>sequitur quod deus esset acceptator personaru. quod est 
+      contra<lb ed="#P" n="27" break="no"/>beatum petrum actuum primo. vbi dicitur in veritate comperique 
+      <lb ed="#P" n="28"/>deus non est acceptor personarum. 
+    </p>
+            <p xml:id="oooo3o-k26057-d1e168">
+               <lb ed="#P" n="29"/>¶ Oppositum patet per apostolum ad romanos non 
+      <lb ed="#P" n="30"/>no Antequam nati essent aut aliquid boni vel mali egit 
+      <lb ed="#P" n="31"/>sent vt secundum electionem propositum dei maneret / non ex 
+      ope<lb ed="#P" n="32" break="no"/>ribus sed ex vocante / dictum esti: quia maior seruiet 
+      mino<lb ed="#P" n="33" break="no"/>ri. sicut scriptum est Iacob dilexi etc.
+    </p>
+            <p xml:id="oooo3o-k26057-d1e181">
+      ¶ Item per 
+      arti<lb ed="#P" n="34" break="no"/>culum parisiensem inter nouos 4 6. quod aliquis 
+      predesti<lb ed="#P" n="35" break="no"/>natur ab eterno propter vsum liberi arbitrii eius quem 
+      <lb ed="#P" n="36"/>pram deus presciuit esse habiturum: error.
+    </p>
+            <p xml:id="oooo3o-k26057-d1e190">
+      ¶ Primo 
+      <lb ed="#P" n="37"/>rmittam declarationes / deinde ponam conclusiones / 
+      ter<lb ed="#P" n="38" break="no"/>tio respondebo ad rationes. 
+    </p>
+            <div xml:id="oooo3o-k26057-Dd1e197">
+               <head xml:id="oooo3o-k26057-Hd1e199">Articulus 1</head>
+               <p xml:id="oooo3o-k26057-d1e201">
+                  <lb ed="#P" n="39"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k26057-d1e206">
+                  <lb ed="#P" n="40"/>QUantum ad primum articulum sciendum 
+      <lb ed="#P" n="41"/>quod predestinatio vno modo 
+      accipi<lb ed="#P" n="42" break="no"/>itur generaliter / pro praeordinatione vel 
+      pre<lb ed="#P" n="43" break="no"/>uisione respectu cuiuslibet futuri. Unde 
+      <lb ed="#P" n="44"/>a secundum grammaticos destinare idem est quod mit 
+      <lb ed="#P" n="45"/>tere / vel ordinare / vel ascribere / vel deputare / vel 
+      si<lb ed="#P" n="46" break="no"/>gnare / et istis modisletiam accipit sac a scriptura / vnde 
+      <lb ed="#P" n="47"/>ad corintheos nono vnusquisque prout destinauit in 
+      cor<lb ed="#P" n="48" break="no"/>de suo. glosa id est ordinauit / et sapientie sexto tanquam 
+      sa<lb ed="#P" n="49" break="no"/>gitta emissalad locum destinatum. et ideo est praedestinare diciur 
+      <lb ed="#P" n="50"/>istis modis et sic gratialiter accipit praedestinationem 
+      Au<lb ed="#P" n="51" break="no"/>gustinus contra pelagianos secundo capitulo cum dicit 
+      <lb ed="#P" n="52"/>praedestinatio est premittendo praeuidendo et praeordinando 
+      fu<lb ed="#P" n="53" break="no"/>turum aliquid.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e239">
+      ¶ Secundo capitur praedestinatio non ita 
+      grantioa<lb ed="#P" n="54" break="no"/>liter / sed specialiter pro ordinatione diuine voluntatis 
+      aui<lb ed="#P" n="55" break="no"/>praescientia. vel praeuisione in ordine creaturam rationalem 
+      <lb ed="#P" n="56"/>humanam vel angelicam. et sic capit augustinus en ch. 
+      <lb ed="#P" n="57"/>69. c. cum dicit quod deus aliquos iuste praedestinauit ad pe 
+      <lb ed="#P" n="58"/>nam / aliquos benigne ad gratiam. et isto modo aliquis dicitur praede 
+      <lb ed="#P" n="59"/>stinatus ad malum id est praescitus. Unde augustinus 
+      vicesi<lb ed="#P" n="60" break="no"/>mo secundo de ciuitate capitulo. 275. / dicit quod aliqui in hac 
+      <lb ed="#P" n="61"/>vita praedestinati sunt in ignem eternum ire cum diabolo. 
+      <!--101.xml-->
+      <lb ed="#P" n="62"/>¶ Item vsidorus de summo bono libro secundo capitulo 
+      <lb ed="#P" n="63"/>sexto / gemina est praedestinatio scilicet electorum ad requiem 
+      re<lb ed="#P" n="64" break="no"/>proborum ad mortem. cui concordat anselmus de 
+      concor<lb ed="#P" n="65" break="no"/>lia capitulo. vii. dicens / non solum praedestinatio bonorum sed 
+      <lb ed="#P" n="66"/>etiam malorum dici potest.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e272">
+      ¶ Tertio modo accipitur 
+      propriis<lb ed="#P" n="67" break="no"/>ime praedestinatio scilicet pro praeordinatione bonorum respectu 
+      <lb ed="#P" n="68"/>creature rationalis. et potest sic describi. Predestinatio 
+      <lb ed="#P" n="69"/>est eterna preparatio a diuina voluntate / gratie 
+      fina<lb ed="#P" n="70" break="no"/>lis in via / et glorie phennis in patria / patet ista partim 
+      <lb ed="#P" n="71"/>per beatum augustinum de praedestinatione sactorum capitulo. 
+      <lb ed="#P" n="72"/>duodecimo dicentem. Predestinatio est gratie 
+      prepa<lb ed="#P" n="73" break="no"/>tatio. Ex quo sequitur quod oportet intelligi de gratia 
+      fi<lb ed="#P" n="74" break="no"/>tali / quia multi cadunt a gratia. et tamen nullus praedestinatus 
+      <lb ed="#P" n="75"/>finaliter cadit / quia nullus peribit. sic capiendo 
+      stri<lb ed="#P" n="76" break="no"/>cte praedestinationem.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e297">
+      ¶ Infero aliquas propositiones. 
+      <lb ed="#P" n="77"/>¶ Prima quod nullus potest incipere esse praedestinatus 
+      <lb ed="#P" n="78"/>patetper primum membrumlquia dicitur eterna 
+      prae<lb ed="#P" n="79" break="no"/>paratio.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e306">
+      ¶ Secunda quod sola voluntas dei est causa 
+      pre<lb ed="#P" n="80" break="no"/>destinationis id est causa qua sortes vel aliquis dicitur 
+    </p>
+               <p xml:id="oooo3o-k26057-d1e311">
+                  <lb ed="#P" n="81"/>¶ isto modo praedestinatus. patet per secundam partem quae 
+      di<lb ed="#P" n="82" break="no"/>cit a diuina voluntate.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e318">
+      ¶ Tertia non quilibet existens 
+      <lb ed="#P" n="83"/>n gratia gratificante est praedestinatus / patet per tertium 
+      men<lb ed="#P" n="84" break="no"/>prum quo dicitur gratie finalis cum non quilibet habens gratiam 
+      <lb ed="#P" n="85"/>perseueret infinem in eadem.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e327">
+      ¶ Quarta non qualicet gratia 
+      gra<lb ed="#P" n="86" break="no"/>ificans / est diuine praepestinationis effectus / capiendo 
+      <lb ed="#P" n="87"/>praedestinationem tertio modo. patet ex eodem ex quo prece 
+      <lb ed="#P" n="88"/>dens.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e336">
+      ¶ Quita quaelibet gratia vel gratis data vel 
+      gra<lb ed="#P" n="89" break="no"/>um faciens / et graetinaliter quodlibet bonum creature ratio 
+      <lb ed="#P" n="90"/>nali collatum: est effectus diuine praedestinationis. capien 
+      <lb ed="#P" n="91"/>do predestinationem secundo modo vel primo modo. patet quia onem 
+      <lb ed="#P" n="92"/>tale a diuina voluntate eternaliter dare praeordinante / 
+      pro<lb ed="#P" n="93" break="no"/>cedit. et a diuino proposito.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e350">
+      ¶ Sexta nullum malum 
+      cul<lb ed="#P" n="94" break="no"/>pe vel pene / est diuine praedestinationis effectus. capien 
+      <lb ed="#P" n="95"/>do praedestinationem tertio modo patet sufficienter ex 
+      di<lb ed="#P" n="96" break="no"/>ctis.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e359">
+      ¶ De reprobatione et eius effectu / potest pate 
+      <lb ed="#P" n="97"/>re per opposita dictorum. vide hic magistrum libro 
+      pri<lb ed="#P" n="98" break="no"/>mo distinctione quadragesima prima.
+    </p>
+            </div>
+            <div xml:id="oooo3o-k26057-Dd1e367">
+               <head xml:id="oooo3o-k26057-Hd1e369">Articulus 2</head>
+               <p xml:id="oooo3o-k26057-d1e371">
+                  <lb ed="#P" n="99"/>Secundus articulus 
+    </p>
+               <p xml:id="oooo3o-k26057-d1e376">
+                  <lb ed="#P" n="100"/>¶ Uantum ad secundum sit prima 
+      con<lb ed="#P" n="101" break="no"/>clusio.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e383">
+      ¶ Predestinatio est ex solo dei 
+      <lb ed="#P" n="102"/>benficio gratuito. probatur omnis volitio 
+      <lb ed="#P" n="103"/>dei respectu boni intrinseci alicui 
+      confe<lb ed="#P" n="104" break="no"/>rendi gratis / emanat sine omni merito 
+      crea<lb ed="#P" n="105" break="no"/>ture praecedente. ergo/ consequentia nota. antecedens patet per apostolum ad 
+      <lb ed="#P" n="106"/>ephesios. 10 praedestinauit nos in adoptionem filiorum se 
+      <lb ed="#P" n="107"/>cundum propositum voluntatis sue in laudem glorie et 
+      gra<lb ed="#P" n="108" break="no"/>tie sue.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e401">
+      ¶ Idem per eundem ad romanos nono / et 
+      alibi<lb ed="#P" n="109" break="no"/>in multis locis scripture.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e407">
+      ¶ Et confirmatur per arti¬ 
+    </p>
+               <p xml:id="oooo3o-k26057-d1e409">
+                  <lb ed="#P" n="110"/>¶ culum parisiensem qui dicit oppositum esse errorem. vide in ¬ 
+      <lb ed="#P" n="111"/>ter nouos.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e416">
+      ¶ Secunda conclusio / quilibet acto 
+      merito<lb ed="#P" n="112" break="no"/>rius / cui correspondebit premium eternum in patria. est 
+      <lb ed="#P" n="113"/>diuine praedestinationis effectus. probatur quia sicut 
+      praede<lb ed="#P" n="114" break="no"/>stinatio facit aliquem finaliter saluandum: ita etiam est 
+      cau<lb ed="#P" n="115" break="no"/>sa antecedentium ad salutem per istam regulam. Quicquid est 
+      <lb ed="#P" n="116"/>causa alicuius finis / est causa eorum quae necessaria sunt 
+      <lb ed="#P" n="117"/>ad finem consequendum. vnde praedestinatio in praesenti eterno 
+      <lb ed="#P" n="118"/>est praeparatio / vt praedestinatus in tpe iustificetur. 
+      praeserue<lb ed="#P" n="119" break="no"/>tur. obediat. credat pseueret etc. et per prius est deum 
+      prae<lb ed="#P" n="120" break="no"/>destinare causaliter / quam deum iustificare. et per prius est 
+      cau<lb ed="#P" n="121" break="no"/>saliter iustificare / quam hominem mereri.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e440">
+      ¶ Tertia 
+      conclu<lb ed="#P" n="122" break="no"/>io deus nullum praedestinat / propter bonum vsum liberiat 
+      <lb ed="#P" n="123"/>ditrii. patet de paruulis decedentibus in baptismo. 
+      <!--102.xml-->
+      <pb ed="#P" n="42-r"/>
+                  <lb ed="#P" n="1"/>Probatur etiam sic omne bene operari 
+      temporale<lb ed="#P" n="2" break="no"/>hominis est effectus eterne predestinationis / vt dicit 
+      <lb ed="#P" n="3"/>secunda conclusio ergo nulla est causa cuius 
+      gra<lb ed="#P" n="4" break="no"/>tia propter quam deus predestinauit. 
+      consequer<lb ed="#P" n="5" break="no"/>tia nota.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e462">
+      ¶ Quarta conclusio Nullum predestinat 
+      <lb ed="#P" n="6"/>propter hoc quod perseueraturus esset in bono si 
+      man<lb ed="#P" n="7" break="no"/>isset in vita. Probatur quia susic sequeretur quod 
+      equa<lb ed="#P" n="8" break="no"/>liter punirentur veletiam premiarentur non operam 
+      <lb ed="#P" n="9"/>tes sicut multa operantes. et sic operibus elicitis non 
+      <lb ed="#P" n="10"/>aliud corresponderet meritum quam operibus possibi 
+      <lb ed="#P" n="11"/>libus vel punitio. Sequitur etiam quod si adulius des 
+      <lb ed="#P" n="12"/>cedat mox baptiatus haberet premiari propter 
+      ope<lb ed="#P" n="13" break="no"/>ra possibilia que fecisset si vixisset et ista fuissent 
+      pre<lb ed="#P" n="14" break="no"/>cepta vel consilia et sic quilibet homo deberet 
+      pre<lb ed="#P" n="15" break="no"/>miari propter opera possibilia.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e486">
+      ¶ Quinta Nullus 
+      <lb ed="#P" n="16"/>predestinatus est aliquo modo causa sue 
+      predesti<lb ed="#P" n="17" break="no"/>nationis. Probatur quia nullum temporale est causa 
+      <lb ed="#P" n="18"/>alicuius eterni: patet etiam dicta conclusio ex 
+      pre<lb ed="#P" n="19" break="no"/>dictis.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e498">
+      ¶ Sexta conclusio de reprobis et eorum 
+      re<lb ed="#P" n="20" break="no"/>probatione licet aliquis possit aliquo modo esse causalsue 
+      <lb ed="#P" n="21"/>obdurationis scilicet demeritorie agendo: nullus 
+      <lb ed="#P" n="22"/>tamen potest esse causa eterne reprobationis sue. 
+      <lb ed="#P" n="23"/>Prima pars est certa per magistrum libro primo 
+      <lb ed="#P" n="24"/>distinctione prima. capitulo primo obdurationis (in 
+      <lb ed="#P" n="25"/>quit magister) meritum inuenimus etc. Secundo 
+      <lb ed="#P" n="26"/>pars probatur quia eternaliter deus presciuit et non pro 
+      <lb ed="#P" n="27"/>posuit reprobis dare vitam eternam. ergo etc. Dec 
+      <lb ed="#P" n="28"/>conclusio patet per apostolum ad roma: nouo an 
+      <lb ed="#P" n="29"/>tequam quicquam boni vel mali egissent dictum est: 
+      iacol<lb ed="#P" n="30" break="no"/>dilexi esau odio habui. vt secundum electionem 
+      pro<lb ed="#P" n="31" break="no"/>positum dei maneret non ex operbus sed ex vocat 
+      <lb ed="#P" n="32"/>te dictum est: maior seruiet minori. et sequitur. cuius 
+      <lb ed="#P" n="33"/>vult miseretur et quem vult indurat. Quam etiam 
+      <lb ed="#P" n="34"/>conclusionem volens probare facit sibi duas quo 
+      <lb ed="#P" n="35"/>stiones. Prima si non ex operibus eligit hunc (
+      sup<lb ed="#P" n="36" break="no"/>ple) et illum reprobat quid ergo dicemus 
+      nunqui<lb ed="#P" n="37" break="no"/>iniquitas est apud deum. et respondet secunda que 
+      <lb ed="#P" n="38"/>stio si deus cui vult miseretur et quem vult indurat 
+      <lb ed="#P" n="39"/>id est non condonat seu non iustificat. dicis itaque 
+      mi<lb ed="#P" n="40" break="no"/>ehi quid adhuc deus queritur de nobis et 
+      respon<lb ed="#P" n="41" break="no"/>det o homo tum quis est qui respondeas deo nunquie 
+      <lb ed="#P" n="42"/>dicit figmentum etc.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e550">
+      ¶ Septima conclusio diuina 
+      <lb ed="#P" n="43"/>predestinatio vcl reprobatio nichil necessitatis 
+      in<lb ed="#P" n="44" break="no"/>fert predestinatis vel re probatis. quin tam isti quam 
+      il<lb ed="#P" n="45" break="no"/>li libere agant bene vel male et libere perseuerent 
+      <lb ed="#P" n="46"/>isti in bono et illi in malo. Probatur quia prescientia 
+      <lb ed="#P" n="47"/>diuina non imponit necessitatem rebus futuris. 
+      er<lb ed="#P" n="48" break="no"/>go nec predestinatio nec reprobatio. Posset etiam 
+      <lb ed="#P" n="49"/>probari faciliter ex dictis in questione precedente 
+      <lb ed="#P" n="50"/>sed dimitto causa breuitatis.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e570">
+      ¶ Octaua conclusio 
+      <lb ed="#P" n="51"/>licet predestinatus posset damnari et prescitus 
+      sal<lb ed="#P" n="52" break="no"/>uari: numerus tamen predestinatorum de 
+      commun<lb ed="#P" n="53" break="no"/>lege non potest augeri neque minui. Prima pars pro 
+      <lb ed="#P" n="54"/>batur quia quilibet predestinatus contingenter 
+      salua<lb ed="#P" n="55" break="no"/>bitur. cum eius saluari sit futurum. et similiter de 
+      re<lb ed="#P" n="56" break="no"/>probis probari potest. Secunda pars videtur de in 
+      <lb ed="#P" n="57"/>tentione beati augustini ome correctione et gratia 
+      ca<lb ed="#P" n="58" break="no"/>pitulo sexto dicentis. TCertus est numerus electorum vt non 
+      <lb ed="#P" n="59"/>addatur eis quisquam nec minuitur ab eis. et infra Tertus 
+      numer<lb ed="#P" n="60" break="no"/>electorum est ita quod non est alius accepturus coronam nisi 
+      a<lb ed="#P" n="61" break="no"/>ter perdiderit. Aux ta illud apo. tertio tene quod 
+      ha<lb ed="#P" n="62" break="no"/>bes ne alius accipiat coronam tuam etc. Et 
+      confin<lb ed="#P" n="63" break="no"/>matur ratione quia si sic. scilicet quod numerus electorum 
+      <lb ed="#P" n="64"/>potest augeri vel minui: sit ergo hoc per vnitatem a 
+      <!--102.xml-->
+      <lb ed="#P" n="65"/>tunc sic. a nunc est de numero electorum et prius nam 
+      <lb ed="#P" n="66"/>fuit de isto numero. ergo incepit esse de isto numero 
+      <lb ed="#P" n="67"/>quod est contra primam propositionem primi 
+      arti<lb ed="#P" n="68" break="no"/>culi istius questionis.
+    </p>
+               <p xml:id="oooo3o-k26057-d1e614">
+      ¶ Ex quo patet quod non est idem 
+      <lb ed="#P" n="69"/>numerum predestinatorum posse augeri et 
+      reprobo<lb ed="#P" n="70" break="no"/>tum posse saluari. neque ad predestinatum posse non 
+      <lb ed="#P" n="71"/>saluari. sequitur numerum electorum posse minui. 
+      pa<lb ed="#P" n="72" break="no"/>set cum possit sic esse quod a predestinatus damnetur 
+      <lb ed="#P" n="73"/>intelligendo in sensu diuiso et b prescitus posset 
+      <lb ed="#P" n="74"/>aluari: et tamen manet idem numerus nec auctus 
+      <lb ed="#P" n="75"/>nec diminutus. ymaginemur totam massam a de 
+      pec<lb ed="#P" n="76" break="no"/>cato subiectam. dignamque ira. presentem deo in suo e 
+      <lb ed="#P" n="77"/>terno cui si deus debitum redderet non premium vel 
+      <lb ed="#P" n="78"/>gratiam sed supplicium redderet. et de ista massa et 
+      <lb ed="#P" n="79"/>liquibus misereri proposuit totaliter mere gratiose 
+      <lb ed="#P" n="80"/>et hos predestinauit quorum vnus dicebat ad 
+      ephe<lb ed="#P" n="81" break="no"/>primo predestinauit nos in adoptionem filiorum dei etc. 
+      <lb ed="#P" n="82"/>isti sunt vasa misericordie sue. aliquibus vero id est 
+      <lb ed="#P" n="83"/>ceteris non proposuit totaliter misereri. non quidem 
+      <lb ed="#P" n="84"/>aliquod eis debitum vel promissum bonum auferen 
+      <lb ed="#P" n="85"/>do. nec in culpam eos impellendo. sed gratiam quam 
+      <lb ed="#P" n="86"/>non tenetur dare non finaliter largiens. dico 
+      autem<lb ed="#P" n="87" break="no"/>non finaliter quia multis reprobis dabit gratiam. isti 
+      <lb ed="#P" n="88"/>dicuntur vasa ire non miericordie. quia licet fuerini 
+      <lb ed="#P" n="89"/>preparati ad beneficium iustificanonis. temporalis 
+      <lb ed="#P" n="90"/>non tamen ad beneficium maximum hec omnia 
+      pa<lb ed="#P" n="91" break="no"/>tent in glonia. cuius vult miseretur ad romanos. 3. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k26057-Dd1e667">
+               <head xml:id="oooo3o-k26057-Hd1e669">Articulus 3</head>
+               <p xml:id="oooo3o-k26057-d1e671">
+                  <lb ed="#P" n="92"/>Tertiua articulus 
+    </p>
+               <p xml:id="oooo3o-k26057-d1e676">
+                  <lb ed="#P" n="93"/>Quantum ad tertium articulum 
+      re<lb ed="#P" n="94" break="no"/> spondeo ad auctoritatem augustini cum 
+      <lb ed="#P" n="95"/> magistro sententiarum libro primo 
+      dis<lb ed="#P" n="96" break="no"/>stinctione quadragesima prima. Ad 
+      se<lb ed="#P" n="97" break="no"/>. ue  cundum dico quod ambrosius non 
+      inten<lb ed="#P" n="98" break="no"/>uit per illa verba quod finalis permansio sit causa etc. 
+      <lb ed="#P" n="99"/>sed bene effectus. et ideo nego consequentiam. 
+    </p>
+               <p xml:id="oooo3o-k26057-d1e694">
+                  <lb ed="#P" n="100"/>¶ Ad vltimum negatur consequentia si intelligatur scilicet 
+      <lb ed="#P" n="101"/>quod est acceptor personarum secundum dignitatem per¬ 
+    </p>
+               <p xml:id="oooo3o-k26057-d1e701">
+                  <lb ed="#P" n="102"/>¶ sonarum non est autem incenueniens quod sit 
+      acce<lb ed="#P" n="103" break="no"/>ptor personarum idest acceptans personas propter a 
+      <lb ed="#P" n="104"/>psius gratuitam misericordiam Primum negat 
+      au<lb ed="#P" n="105" break="no"/>ctoritas secundum non. Et sic est finis questionis.
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

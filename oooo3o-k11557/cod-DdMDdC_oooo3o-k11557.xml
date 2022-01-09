@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="18-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k11557"><!--l1d5-7q1 -->
+            <head xml:id="oooo3o-k11557-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k11557-d1e101">
+               <lb ed="#P" n="84"/>¶ CIrca distinctionem: quin: sextam: et 
+      so<lb ed="#P" n="85" break="no"/>ptimam similiter Quero vtrum cum 
+      sin<lb ed="#P" n="86" break="no"/> gularitate diuine essentie possit stare tri 
+      <lb ed="#P" n="87"/>era nitas personarum. 
+    </p>
+            <p xml:id="oooo3o-k11557-d1e112">
+               <lb ed="#P" n="88"/>¶  Quod non quecumque sunt vnum et 
+      <lb ed="#P" n="89"/>dem omnibus modis / impossibile est vnum plurifica 
+      <lb ed="#P" n="90"/>ri sine altero: sed essentia et persona sunt vnum et idem 
+      om<lb ed="#P" n="91" break="no"/>nibus modis: ergo impossibile est vnum plurificari si 
+      <lb ed="#P" n="92"/>ne altero. maior videtur nota / et minor est Augustini. 
+      <lb ed="#P" n="93"/>et ponitur a magistro distinctione septima / capitulo 
+      <lb ed="#P" n="94"/>sexto. et tunc vltra posset argui. sed essentia non potest 
+      <lb ed="#P" n="95"/>plurificari / ergo nec persona 
+    </p>
+            <p xml:id="oooo3o-k11557-d1e132">
+               <lb ed="#P" n="96"/>¶ Secundo arguitur sic: essentia hec est pater: 
+      <lb ed="#P" n="97"/>ergo est non filius / et vltra: ergo non est filius. consequentia patet 
+      <lb ed="#P" n="98"/>ex secundo peryarmenias vbi dicitur quod ab illa de 
+      pre<lb ed="#P" n="99" break="no"/>dicato infinito ad illam de predicato finito negatiue 
+      <lb ed="#P" n="100"/>est bona consequentia 
+    </p>
+            <p xml:id="oooo3o-k11557-d1e145">
+               <lb ed="#P" n="101"/>¶ Tertio si questio foret vera: sequeretur quod 
+      in<lb ed="#P" n="102" break="no"/>diuina essentia esset trinitas indiuiduorum substantie 
+      <lb ed="#P" n="103"/>consequens est falsum. et consequentia patet ex descriptione data per 
+      <lb ed="#P" n="104"/>poetium in libro de duabus naturis / et vna persona in christo 
+      <lb ed="#P" n="105"/>vbi dicit. quod persona est rationalis nature indiuidua 
+      <lb ed="#P" n="106"/>subsistentiam vel subsistens substantiam 
+    </p>
+            <p xml:id="oooo3o-k11557-d1e162">
+               <lb ed="#P" n="107"/>¶ Oppositum probatur Iohannis quinto. tres 
+      <lb ed="#P" n="108"/>sunt qui testimonium dant in celo / pater / et filius / et 
+      spi<lb ed="#P" n="109" break="no"/>ritus sanctus / et hii tres vnum sunt.
+    </p>
+            <p xml:id="oooo3o-k11557-d1e171">
+      ¶ Item ex simbo 
+      <lb ed="#P" n="110"/>lo athanasii vnum deum in trinitate etc. Item ertra de 
+      sun<lb ed="#P" n="111" break="no"/>na trinitate capitulo damnamus. et capitulo firmiter. 
+      <lb ed="#P" n="112"/>Primo premittam terminorum declarationes. 
+      <lb ed="#P" n="113"/>Secundo ponam conclusiones. 
+      <lb ed="#P" n="114"/>¶ Tertio respondebo ad rationes. 
+    </p>
+            <div xml:id="oooo3o-k11557-Dd1e184">
+               <head xml:id="oooo3o-k11557-Hd1e186">Articulus 1</head>
+               <p xml:id="oooo3o-k11557-d1e188">
+                  <lb ed="#P" n="115"/>Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e193">
+                  <lb ed="#P" n="116"/>¶ Uantum ad primum pro intellectu 
+      <lb ed="#P" n="117"/>dicendorum in hac difficili materia. 
+      Scien<lb ed="#P" n="118" break="no"/>dum: quod nominum que dicuntur de deo 
+      ali<lb ed="#P" n="119" break="no"/>qua dicuntur essentialia. aliqua personalia 
+      <lb ed="#P" n="120"/>iliqua notronalia. et aliqua communia 
+      <lb ed="#P" n="121"/>Nomina essentialia sunt que sic sunt propria essentie: 
+      <lb ed="#P" n="122"/>quod si per impossibile separaretur a personis: ipsa dice¬ 
+      <!--56.xml-->
+      <pb ed="#P" n="19-r"/>
+                  <lb ed="#P" n="1"/>rentur de essentia / et non de personis. cuiusmondi sunt 
+      <lb ed="#P" n="2"/>ista nominia. deitas. diuinitas. essentia. et quedam 
+      ad<lb ed="#P" n="3" break="no"/>iectiua vt communicabilis. et quedam numeralia / 
+      <lb ed="#P" n="4"/>(vt trinitas.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e224">
+      ¶ Nomina personalia sunt que 
+      dicto<lb ed="#P" n="5" break="no"/>casu retento / solum dicerentur de persona. vel 
+      per<lb ed="#P" n="6" break="no"/>sonis: et non de essentia. et quedam illorum 
+      dicun<lb ed="#P" n="7" break="no"/>tur de omnibus personis. cuiusmodi sunt ista / 
+      per<lb ed="#P" n="8" break="no"/>sona. suppositum. ypostasis et similia. quedam vero 
+      <lb ed="#P" n="9"/>de vna persona tantum: vt Pater. Filius. spiritus 
+      <lb ed="#P" n="10"/>sanctus. et istorum abstracta dicuntur proprieta 
+      <lb ed="#P" n="11"/>tes personales / cuiusmodi sunt paternitas. filiatio 
+      <lb ed="#P" n="12"/>et spiratio passiua / et similia. Nomina notionalia 
+      <lb ed="#P" n="13"/>dicuntur distincta personarum inter se vt generans 
+      <lb ed="#P" n="14"/>spirans. procedens. et eorum verbalia. generatio 
+      <lb ed="#P" n="15"/>spiratio. processio. que etiam dicuntur relatiua. et 
+      qua<lb ed="#P" n="16" break="no"/>dam istorum sunt notiones vnius persone tantum 
+      <lb ed="#P" n="17"/>vt generare actiue / est notio et proprietas patris 
+      <lb ed="#P" n="18"/>generari filii. spirari spiritus sancti. quedam vero 
+      <lb ed="#P" n="19"/>notiones sunt pluribus non tamen omnibus 
+      com<lb ed="#P" n="20" break="no"/>munes. vt spirare actiue / est commune patri et filio 
+      <lb ed="#P" n="21"/>non tamen spiritu sancto. notio dicitur a nosco no 
+      <lb ed="#P" n="22"/>scis noscere / quia per nomina notionalia vna 
+      per<lb ed="#P" n="23" break="no"/>sona distinguitur ab alia. et noscitur distinctiue 
+      ab<lb ed="#P" n="24" break="no"/>alia. vt nomen istud generans noscitur distinctiue 
+      <lb ed="#P" n="25"/>persona patris / a persona filii. Nomina communia 
+      <lb ed="#P" n="26"/>sunt. que casu predicto dicerentur tam de persona 
+      <lb ed="#P" n="27"/>quam de essentia / tunc sicut nunc. cuiusmodi sunt ista 
+      <lb ed="#P" n="28"/>ens. res entitas. deus. et similia. et ista adiectiuat 
+      <lb ed="#P" n="29"/>creator. omnipotens. eternus. immensus. et 
+      huius<lb ed="#P" n="30" break="no"/>modi. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e283">
+                  <lb ed="#P" n="31"/>¶ Dubium tamen est michi vtrum aliqua 
+      dicto<lb ed="#P" n="32" break="no"/>rum sint inter inere essentialia computanda. vnde 
+      <lb ed="#P" n="33"/>de isto nolo suspectus haberi / sed relinquo iudicio 
+      <lb ed="#P" n="34"/>magistrorum. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e295">
+                  <lb ed="#P" n="35"/>¶ Prima propositio. Nullum verbum 
+      notio<lb ed="#P" n="36" break="no"/>nale proprium vel commune / verificatur de aliquae 
+      <lb ed="#P" n="37"/>nomine proprie essentiali. Probatur. hec enim est 
+      <lb ed="#P" n="38"/>falsa. essentia generat. et similiter ista diuinitas 
+      ge<lb ed="#P" n="39" break="no"/>nerat. et sic de similibus. omne enim notionale est 
+      <lb ed="#P" n="40"/>relatiuum. essentiale autem vt sic non refertur. Ista 
+      vi<lb ed="#P" n="41" break="no"/>detur intentio magistri libro primo: distinctione 
+      qual<lb ed="#P" n="42" break="no"/>ta per totum: tamen hec est vera / diuinitas est 
+      ge<lb ed="#P" n="43" break="no"/>neratio. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e317">
+                  <lb ed="#P" n="44"/>¶ Secunda propositio. Nomina essentialia non 
+      <lb ed="#P" n="45"/>verificantur de aliquo personali. in numero 
+      singulanr<lb ed="#P" n="46" break="no"/>substantiuo. probatur quia hec est falsa. pater est 
+      <lb ed="#P" n="47"/>trinus. et similiter ista filius vel pater est trinitas. 
+      <lb ed="#P" n="48"/>similiter ista / suppositum est trinitas / vel persona est 
+      <lb ed="#P" n="49"/>trina. Igitur propositio vera. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e333">
+                  <lb ed="#P" n="50"/>¶ Tertia propositio. Nomina essentialia 
+      substan<lb ed="#P" n="51" break="no"/>tiua. verificantur de quolibet nomine personali / et 
+      <lb ed="#P" n="52"/>eius proprietate. patet ista propositio nam iste sunt 
+      <lb ed="#P" n="53"/>vere: pater est essentia. paternas est essentia. perso. 
+      <lb ed="#P" n="54"/>na est essentia. filius est diuinitas. spiritus sanctus 
+      <lb ed="#P" n="55"/>est deitas. ergo propositio vera. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e349">
+                  <lb ed="#P" n="56"/>¶ Quarta nomina essentialia adiectiua dicun 
+      <lb ed="#P" n="57"/>tur vere de essentia et non de aliqua persona vel no 
+      <lb ed="#P" n="58"/>mine personali. patet quia hec est vera essentia est 
+      <lb ed="#P" n="59"/>communicabilis / non autem ista pater est commu¬ 
+      <!--56.xml-->
+      <lb ed="#P" n="60"/>nicabilis. Ubi nota quod esse communicabile et 
+      incon<lb ed="#P" n="61" break="no"/>mutabile in diuinis in sensu quo catholici capiunt 
+      <lb ed="#P" n="62"/>vel concedunt / non sunt aliquo modo predicamenta 
+      <lb ed="#P" n="63"/>contradictoria: quia dicuntur de essentia diuersis 
+      <lb ed="#P" n="64"/>respectibus ymmo et de personis. Nam eadem et 
+      <lb ed="#P" n="65"/>sentia est communicabilis tribus personis: et est 
+      pa<lb ed="#P" n="66" break="no"/>ternitas non communicabilis: ymmo propria vni 
+      <lb ed="#P" n="67"/>persone. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e380">
+                  <lb ed="#P" n="68"/>¶ Quinta. Ista nomina inuasibilis 
+      improduci<lb ed="#P" n="69" break="no"/>bilis / ingenitum / et similia: non sunt notiones 
+      pro<lb ed="#P" n="70" break="no"/>prie alicui persone. patet quia dicuntur de essentia. 
+      <lb ed="#P" n="71"/>Sexta. Nomina essentialia dicuntur vere de 
+      <lb ed="#P" n="72"/>nomibus communibus. vt dicendo deus est trinitas 
+      <lb ed="#P" n="73"/>aliqua res deitas. ens est trinitas. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e396">
+                  <lb ed="#P" n="74"/>¶ Septima. Nomen personale aliquando est no 
+      <lb ed="#P" n="75"/>men ypostasis. aliquando proprietatis. primo modo 
+      <lb ed="#P" n="76"/>pater dicit michi personam que habet filium: scilicet 
+      <lb ed="#P" n="77"/>patrem. Secundo modo dicit mihi patrem filium 
+      ge<lb ed="#P" n="78" break="no"/>nerare. primo modo nomnem personale predicatur de 
+      <lb ed="#P" n="79"/>essentiali: sed non secundo modo: ideo sic potest forma 
+      <lb ed="#P" n="80"/>ri propositio. Si nomen personale sit nomen proprie 
+      <lb ed="#P" n="81"/>tatis non potest predicari de aliquo nomine essentia 
+      <lb ed="#P" n="82"/>li. vnde hec est falsa. essentia est pater. ly pater 
+      suppo<lb ed="#P" n="83" break="no"/>nit pro proprietate 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e421">
+                  <lb ed="#P" n="84"/>¶ Octaua. Nomina personalia verificantur de 
+      con<lb ed="#P" n="85" break="no"/>nunibus et econtra. vnde hec est vera. aliqua res est 
+      <lb ed="#P" n="86"/>pater. pater est res. filius est ens. et hiis similia. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e430">
+                  <lb ed="#P" n="87"/>¶ Nona. nomina personalia: essentialia: et communia 
+      <lb ed="#P" n="88"/>praedicantur de sesiuicem conuertibitur praedicatione / vdemptica 
+      li<lb ed="#P" n="89" break="no"/>cet non formali. patet quia iste predicationes sunt 
+      ve<lb ed="#P" n="90" break="no"/>re: pater est id quod filius. essentia est id quod filius. f 
+      <lb ed="#P" n="91"/>lius est id quod pater. spiritus sanctus est id quod 
+      <lb ed="#P" n="92"/>essentia. et sic de aliis.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e446">
+      ¶ Ex qua infero quod non 
+      sequi<lb ed="#P" n="93" break="no"/>tur in formali consequentia. a. est idem b. ergo. a. est .b. nec 
+      se<lb ed="#P" n="94" break="no"/>quitur. a. est id quod .b. ergo a. est .b.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e453">
+      ¶ Item non sequitur a. 
+      ne<lb ed="#P" n="95" break="no"/>gatiue. a. non est .b. ergo a. non est id quod est. b. vel idem .b. patet 
+      <lb ed="#P" n="96"/>quia non sequitur pater est id / vel idem quod filius / 
+      <lb ed="#P" n="97"/>ergo pater est filius. nec sequitur pater non est 
+      fili<lb ed="#P" n="98" break="no"/>us: ergo pater non est id quod filius.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e464">
+      ¶ Patet istud 
+      <lb ed="#P" n="99"/>per propositionem immediatam. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e469">
+                  <lb ed="#P" n="100"/>¶ Decima. omnem nomem pure essentiale praedicatur  
+      <lb ed="#P" n="101"/>de quolibet personali et de omnibus simul / in singulari 
+      <lb ed="#P" n="102"/>et non in plurali. dicendo pater est essentia / filius est 
+      <lb ed="#P" n="103"/>essentia. spiritus sanctus est essentia / et hii tres vna 
+      <lb ed="#P" n="104"/>essentia. vna deitas. vna diuinitas: non autem 
+      essen<lb ed="#P" n="105" break="no"/>tie. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e486">
+                  <lb ed="#P" n="106"/>¶ Undecima. nomina communia substantiua 
+      di<lb ed="#P" n="107" break="no"/>tuntur de omnibus suppositis singulariter / et plura i 
+      <lb ed="#P" n="108"/>liter. vt dicendo: tres persone sunt tres res. persone 
+      <lb ed="#P" n="109"/>sunt vna res. persone sunt tres entes / et vnum ens. 
+      <lb ed="#P" n="110"/>non tria entia. sed hoc solum particulariter. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e499">
+                  <lb ed="#P" n="111"/>¶ Quodecima. nomina communia a diectiua: 
+      <lb ed="#P" n="112"/>dicuntur de quolibet nomine personali et de 
+      omni<lb ed="#P" n="113" break="no"/>bus singulariter et non pluraliter vt dicendo / 
+      pa<lb ed="#P" n="114" break="no"/>ter est deus. filius est deus spiritus sanctus est deus 
+      <!--57.xml-->
+      <pb ed="#P" n="19-v"/>
+                  <lb ed="#P" n="1"/>et pater et filius et spiritus sanctus sunt vnus deus 
+      <lb ed="#P" n="2"/>et non tres. et similiter pater est eternus. filius est 
+      <lb ed="#P" n="3"/>eternus. spiritus sanctus est eternus / et hii tres vnus 
+      <lb ed="#P" n="4"/>eternus. vnus immensus. vnus omnipotens. non tres 
+      <lb ed="#P" n="5"/>eterni. etc. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k11557-Dd1e526">
+               <head xml:id="oooo3o-k11557-Hd1e528">Articulus 2</head>
+               <p xml:id="oooo3o-k11557-d1e530">
+                  <lb ed="#P" n="6"/>¶ Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e535">
+                  <lb ed="#P" n="7"/>QUantum ad secundum prima 
+      con<lb ed="#P" n="8" break="no"/>clusio sit ista inter essentiam diuinam et 
+      <lb ed="#P" n="9"/>personam / nulla est distinctio realis. 
+      pro<lb ed="#P" n="10" break="no"/>batur quia essentia non totaliter 
+      distin<lb ed="#P" n="11" break="no"/>guitur a personis sic quod non sit persone: 
+      <lb ed="#P" n="12"/>vel persona. cum ad hoc sequitur quod trinitas non est 
+      <lb ed="#P" n="13"/>in diuinis. nec personaliter distinguitur. sic scilicet quod 
+      <lb ed="#P" n="14"/>essentia sit pars persone / quia tunc persona non esset 
+      <lb ed="#P" n="15"/>simplex. et quia tunc essentia non esset persona: cum 
+      <lb ed="#P" n="16"/>totum non sit pars. ergo nullo modo distinguitur 
+      <lb ed="#P" n="17"/>realiter essentia a persona.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e561">
+      ¶ Secundo omne 
+      sim<lb ed="#P" n="18" break="no"/>pliciter simplex est quicquid habet. sed essentia 
+      diui<lb ed="#P" n="19" break="no"/>na est simpliciter simplex / ergo est quicquid habet. 
+      <lb ed="#P" n="20"/>sed da quod non sit persona. ergo essentia non est qui 
+      <lb ed="#P" n="21"/>quid habet / quia essentia habet personam. vt vult 
+      au<lb ed="#P" n="22" break="no"/>gustinus vndecimo de trinitate capitulo quarto 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e574">
+                  <lb ed="#P" n="23"/>¶ Tertio arguo per regulam anselini / de 
+      processi<lb ed="#P" n="24" break="no"/>one spiritus sancti in diuinis. Omnia sunt idem vbi 
+      <lb ed="#P" n="25"/>non obuiat relationis oppositio. sed inter 
+      person<lb ed="#P" n="26" break="no"/>et essentiam non obuiat relationis oppositio: ergo. 
+      <lb ed="#P" n="27"/>Ex qua conclusione et eius probatione 
+      infe<lb ed="#P" n="28" break="no"/>ro correlarie. quod essentia non distinguitur realiter 
+      <lb ed="#P" n="29"/>a proprietate personali. patet ex conclusione. cum 
+      <lb ed="#P" n="30"/>proprietas personalis vel relatiua et persona sint 
+      <lb ed="#P" n="31"/>idem. ergo si essentia non distinguitur realiter a precea 
+      <lb ed="#P" n="32"/>sona nec etiam a proprietate personali. Et 
+      proba<lb ed="#P" n="33" break="no"/>tur quia si essentia diuina non esset realiter 
+      paterni<lb ed="#P" n="34" break="no"/>tas: sequitur quod in diuinis esset quaternitas. 
+      conse<lb ed="#P" n="35" break="no"/>quens est hereticum. et consequentia probatur quia 
+      <lb ed="#P" n="36"/>in diuinis tres sunt proprietates: sed si essentia est 
+      <lb ed="#P" n="37"/>realiter distincta ab eis. ergo esset ibi quaternitas. 
+      <lb ed="#P" n="38"/>Secunda conclusio. Essentia et proprietas per 
+      <lb ed="#P" n="39"/>sonalis: non sunt due formalitates eiusdem rei / 
+      sci<lb ed="#P" n="40" break="no"/>licet in eadem persona. probatur realitas essentie 
+      <lb ed="#P" n="41"/>nullo modo distinguitur a formalitate eiusdem. quia 
+      <lb ed="#P" n="42"/>sua realitas est formalitas sua. similiter realitas pro 
+      <lb ed="#P" n="43"/>prietatis personalis / omnimode est sua formalitas 
+      <lb ed="#P" n="44"/>et essentia diuina est idem realiter cum proprietate 
+      <lb ed="#P" n="45"/>personali. igitur non sunt due formalitates distinete. 
+      <lb ed="#P" n="46"/>consequentia patet. assumptum probo. quia sit 
+      rea<lb ed="#P" n="47" break="no"/>litas essentie. a. eius formalitas .b. et formalitas pro 
+      <lb ed="#P" n="48"/>prietatis et relationis. c. cuius realitas est a. per 
+      cor<lb ed="#P" n="49" break="no"/>relarium premissum tunc arguitur sic aut. a. est 
+      idem<lb ed="#P" n="50" break="no"/>b. omnibus modis: sicut a est idem sibi ipsi / et 
+      habe<lb ed="#P" n="51" break="no"/>betur propositum. quia tunc. a. est idem. c. Si non 
+      <lb ed="#P" n="52"/>igitur. a. et. b distinguuntur et non realiter igitur formaliter sit 
+      <lb ed="#P" n="53"/>ergo illa formalitas. d. ergo essentia habet aliam 
+      forma<lb ed="#P" n="54" break="no"/>litatem. lunc queram de ista. sicut prius / et sic erit 
+      pre<lb ed="#P" n="55" break="no"/>cessus in infinitum: vel dabitur quod aliqua distinguuntur 
+      <lb ed="#P" n="56"/>formaliter / et tamen non habent distinctas 
+      formali<lb ed="#P" n="57" break="no"/>tates. Pro huius conclusionis intellertum Notandum 
+      <lb ed="#P" n="58"/>quod aliqua distingui formaliter vel formalitas dicitu r 
+      <lb ed="#P" n="59"/>quinque modis. Primo modo distinguitur. 
+      formali<lb ed="#P" n="60" break="no"/>ter formalitas. a. formalitate. vel quidditas a quiddi¬ 
+      <!--57.xml-->
+      <lb ed="#P" n="61"/>tate. vel essentia ab essentia. extra intellectum 
+      existi<lb ed="#P" n="62" break="no"/>te. et sic omnis distinctio formalis est realis. 
+      Secun<lb ed="#P" n="63" break="no"/>do modo distingui formaliter dicitur vt importat 
+      <lb ed="#P" n="64"/>modum predicandi per modum inherentis / et isto 
+      <lb ed="#P" n="65"/>modo (sicut dicit doctor subtilis / distinctione septi 
+      <lb ed="#P" n="66"/>ma primi) omnia adiectiua predicantur formaliter 
+      <lb ed="#P" n="67"/>Nam ex eo quod adiectiua sunt: significant formam per 
+      <lb ed="#P" n="68"/>nodum informantis:
+    </p>
+               <p xml:id="oooo3o-k11557-d1e679">
+      ¶ Tertio modo dicitur 
+      for<lb ed="#P" n="69" break="no"/>maliter distingui idest diminute distingui / et tunc est 
+      <lb ed="#P" n="70"/>idem / sicut non distingui simpliciter sed secundum 
+      <lb ed="#P" n="71"/>quid.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e688">
+      ¶ Quarto modo dicitur aliquid formaliter 
+      <lb ed="#P" n="72"/>tale / vt distinguitur quia esse tale solum causaliter: 
+      <lb ed="#P" n="73"/>et sic ignis est formaliter calidus. et sol virtualiter. 
+      <lb ed="#P" n="74"/>¶ Quinto modo distingui formaliter accipitur vt 
+      <lb ed="#P" n="75"/>importat istud complexum: aliquid esse tale. in 
+      pri<lb ed="#P" n="76" break="no"/>mo modo dicendi per se. isto modo dicunt aliqui quod 
+      <lb ed="#P" n="77"/>doctor subtilis capit formaliter distingui in 
+      secun<lb ed="#P" n="78" break="no"/>da distinctione primi questione quarta et si sic 
+      acci<lb ed="#P" n="79" break="no"/>piatur / potest aliquando habere bonum intellectum 
+      <lb ed="#P" n="80"/>vt ista dicatur distinctio formalis. quando aliqua 
+      <lb ed="#P" n="81"/>res significatur per plures conceptus. quorum vnus 
+      <lb ed="#P" n="82"/>non inest alteri. in primo modo dicendiper se sicut 
+      animali<lb ed="#P" n="83" break="no"/>ideo est conceptus quidditatiuus hominis: homo 
+      au<lb ed="#P" n="84" break="no"/>tem non est conceptus quidditatiuus animalis / ideo 
+      <lb ed="#P" n="85"/>licet ista sit in primo modo dicendi per se homo est 
+      <lb ed="#P" n="86"/>animal. non tamen ista. animal est homo. ita quod 
+      di<lb ed="#P" n="87" break="no"/>stinctio formalis importat / modum praedicandi extremorum 
+      <lb ed="#P" n="88"/>videlicet quod vnum non predicatur de altero in primo 
+      <lb ed="#P" n="89"/>modo dicendi per se. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e730">
+                  <lb ed="#P" n="90"/>¶ Correlarium quod sequitur ex conclusione 
+      essen<lb ed="#P" n="91" break="no"/>tia et personalis proprietas non distinguitur formaliter 
+      <lb ed="#P" n="92"/>primo modo sumendo distingui formaliter 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e739">
+                  <lb ed="#P" n="93"/>¶ Tertia conclusio quelibet persone personalis pro¬ 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e744">
+                  <lb ed="#P" n="94"/>¶ prietas / est per se primo modo diuinitas. probatur hec et 
+      <lb ed="#P" n="95"/>propositio pater est essentia / est in primo modo dicendi per se / 
+      er<lb ed="#P" n="96" break="no"/>go et ista paternitas est essentia / vel diuinitas. quam 
+      <lb ed="#P" n="97"/>nota: quia idem sunt persone et personalis proprietas 
+      <lb ed="#P" n="98"/>sua. antecedens probo / quia non minus hec propositio patet 
+      <lb ed="#P" n="99"/>est essentia est in primo modo dicendi per se: quam ista sortes 
+      <lb ed="#P" n="100"/>est homo: sed ista est in primo modo dicendi per se: 
+      <lb ed="#P" n="101"/>ergo et alia. maior est nota / quia pater minus 
+      coueni<lb ed="#P" n="102" break="no"/>cum essentia: quam sortis cum humaninitate ymmo forte magis 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e766">
+                  <lb ed="#P" n="103"/>¶ Secundo probatur antecedens quia non minus e 
+      <lb ed="#P" n="104"/>persona diuina est per se primo modo diuinitas / quam 
+      <lb ed="#P" n="105"/>persona humana homo. sed secundum est ponendum 
+      <lb ed="#P" n="106"/>ergo et primum. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e778">
+                  <lb ed="#P" n="107"/>¶ Correlarium persona quelibet diuina est for¬) 
+      <lb ed="#P" n="108"/>maliter diuina essentia / patet ex conclusione. quia hec 
+      <lb ed="#P" n="109"/>est in primo modo dicendi per se / persona diuina est 
+      <lb ed="#P" n="110"/>essentia 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e789">
+                  <lb ed="#P" n="111"/>¶ Pro quo Notandum quod ad hoc vt aliqua propoti i 
+      <lb ed="#P" n="112"/>sit in primo modo dicendi per se / quattuor requiruntur 
+      le<lb ed="#P" n="113" break="no"/>primo requiritur quod predicatum significet quidditatem 
+      <lb ed="#P" n="114"/>subiecti.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e800">
+      ¶ Secundo quod non cognotet aliquod extrin 
+      <lb ed="#P" n="115"/>sece / a significato subiecti et ideo ista non est in 
+      pri<lb ed="#P" n="116" break="no"/>mo modo dicendi per se / homo est risibilis quia 
+      resi<lb ed="#P" n="117" break="no"/>bile cognotat actum ridedi sed est in secundo. Tertio 
+      <lb ed="#P" n="118"/>requiritur quod predicatum insit subtecto necessario 
+      vn<lb ed="#P" n="119" break="no"/>de primo posteriorum dicitur que per se insunt / nec 
+      <lb ed="#P" n="120"/>cessaria sunt. Et intelligitur primo modo dicendi. 
+      <!--58.xml-->
+      <pb ed="#P" n="20-r"/>
+                  <lb ed="#P" n="1"/>per se. quarto requiritur quod praedicatum ponatur in 
+      dif<lb ed="#P" n="2" break="no"/>finitione subiecti. Ex hoc patet quod ista non est in 
+      pri<lb ed="#P" n="3" break="no"/>mo modo dicendi per se. animal est homo. nisi forte 
+      <lb ed="#P" n="4"/>per reductionem / quia homo non est aptus natus poni in 
+      <lb ed="#P" n="5"/>diffinitione animalis / nec est per se superius ad 
+      ali<lb ed="#P" n="6" break="no"/>quod praedicatum quod ponatur in diffinitione animalis 
+      <lb ed="#P" n="7"/>Similiter ista deitas. vel essentia est paternitas non 
+      <lb ed="#P" n="8"/>est in primo dicendi per se / quia paternitas non ponitur 
+      <lb ed="#P" n="9"/>in diffinitione essentie dato quod essentia diffiniretur. sed 
+      <lb ed="#P" n="10"/>bene econuerso hec est in primo modo dicendi per se / 
+      <lb ed="#P" n="11"/>paternitas est essentia vt dicit conclusio. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e844">
+                  <lb ed="#P" n="12"/>¶ Quarta conclusio. licet personalis proprietas 
+      <lb ed="#P" n="13"/>sit modus omnibus idem essentie vel deitati / sicut est idem 
+      <lb ed="#P" n="14"/>sibi ipsi: tamen hec non est in primo modo dicendi per 
+      <lb ed="#P" n="15"/>se / deitas est pater vel paternitas. Prima pars 
+      pa<lb ed="#P" n="16" break="no"/>tet ex dictis. Secunda probatur quia minus 
+      commu<lb ed="#P" n="17" break="no"/>ne non dicitur per se primo modo de argumentis 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e860">
+                  <lb ed="#P" n="18"/>¶ Correlarium licet essentia ex persona sint idem 
+      <lb ed="#P" n="19"/>non tamen formaliter sumendo formaliter quinto 
+      mo<lb ed="#P" n="20" break="no"/>do. Prima pars patet quia essentia est persona. sed 
+      <lb ed="#P" n="21"/>secunda probatur quia hec est in primo modo dicendi 
+      <lb ed="#P" n="22"/>per se persona est persona: et tamen hec non est 
+      in<lb ed="#P" n="23" break="no"/>primo modo dicendi per se / essentia est persona. ergo. 
+      <lb ed="#P" n="24"/>essentia non est formaliter persona. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e878">
+                  <lb ed="#P" n="25"/>¶ Ex quo vlterius sequitur quod deitas et 
+      esse<lb ed="#P" n="26" break="no"/>tia non est modis omnibus / idem persone: sicut 
+      pa<lb ed="#P" n="27" break="no"/>sona persone. vel deitas deitati. vel sicut essentia 
+      si<lb ed="#P" n="28" break="no"/>bi ipsi. Patet quia persona est in primo modo 
+      dicen<lb ed="#P" n="29" break="no"/>di per se. et essentia est. essentia in primo modo dicendi 
+      <lb ed="#P" n="30"/>per se. sed essentia est persona non est per se primo 
+      mo<lb ed="#P" n="31" break="no"/>do / ergo non sunt omnibus modis idem 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e897">
+                  <lb ed="#P" n="32"/>¶ Ex istis infero quod distinctio formalis sic sumpta 
+      <lb ed="#P" n="33"/>minima distinctio. Ratio quia illa distinctio quae stat 
+      <lb ed="#P" n="34"/>cum idemptitate reali est minima distinctio. sed talis 
+      <lb ed="#P" n="35"/>distinctio est huiusmodi. ergo etc. Minor patet nam 
+      ho<lb ed="#P" n="36" break="no"/>mo non predicatur de animali in primo modo 
+      dicen<lb ed="#P" n="37" break="no"/>di per se. et tamen est idem realiter cum animali. 
+      simi<lb ed="#P" n="38" break="no"/>liter patet de risibili respectu hominis: et de creante 
+      <lb ed="#P" n="39"/>respectu dei 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e917">
+                  <lb ed="#P" n="40"/>¶ Quinta conclusio. licet diuinitas sit realiter 
+      <lb ed="#P" n="41"/>distincta a patre: non tamen realiter distinguitur. 
+      Pri<lb ed="#P" n="42" break="no"/>na pars patet quia diuinitas est aliquid et aliqua res 
+      <lb ed="#P" n="43"/>realiter distincta a patre / quia est filius: ergo 
+      diuin<lb ed="#P" n="44" break="no"/>tas et pater sunt realiter distincta / scilicet 
+      supposi<lb ed="#P" n="45" break="no"/>ta distincta. Secunda pars patet ex prima 
+      coclusi<lb ed="#P" n="46" break="no"/>one / Non tamen quod ly distincta hic capio nomina 
+      <lb ed="#P" n="47"/>liter et non participialiter. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e937">
+                  <lb ed="#P" n="48"/>¶ Ex quo infero correlarie hanc consequentiam 
+      <lb ed="#P" n="49"/>non valere / ista sunt realiter distinta ergo realiter 
+      di<lb ed="#P" n="50" break="no"/>stinguntur. Patet quia pater et filius sunt realiter 
+      <lb ed="#P" n="51"/>distincta supposita: et tamen non realiter distinguuntur. 
+      <lb ed="#P" n="52"/>Sexta conclusio et responsalis sit ista. Cum 
+      <lb ed="#P" n="53"/>vnitate diuine essentie / stat trinitas personarum. Ista 
+      <lb ed="#P" n="54"/>pat et per decretum / et boetium / et augustinum / sexto de 
+      <lb ed="#P" n="55"/>trinitate capitulo octauo / et in multis aliis locis. 
+      <lb ed="#P" n="56"/>Et licet ista conclusio non possit demonstratiue 
+      pro<lb ed="#P" n="57" break="no"/>bari. (quia secundum dyonisium primo de diuinis 
+      no<lb ed="#P" n="58" break="no"/>minibus / ista sunt supra scientiam et rationem et 
+      intel<lb ed="#P" n="59" break="no"/>iectum. non contra rationem. nec contra scientiam nec 
+      con<lb ed="#P" n="60" break="no"/>tra intellectum) tamen richardus tertio de trinitate 
+      <lb ed="#P" n="61"/>capitulo quinto talem persuasionem adducit in sun¬ 
+      <!--58.xml-->
+      <lb ed="#P" n="62"/>ma bonitate non potest id deesse quo nil perfurius 
+      <lb ed="#P" n="63"/>quo nichil melius. In summa felicitate quo nichil io 
+      <lb ed="#P" n="64"/>cuudius nichil redulcius. In plenitudine glorie / 
+      <lb ed="#P" n="65"/>quo nichil gloriosius nichil magnificentius / certe 
+      <lb ed="#P" n="66"/>nil melius / nil certe iocundius / omnino nil 
+      magni<lb ed="#P" n="67" break="no"/>ficentius est vera et sincera summa charitate: que non 
+      <lb ed="#P" n="68"/>potest esse sine personarum trinitate. quia sicut sum 
+      <lb ed="#P" n="69"/>ma bonitas requirit dilectum sibi equalem ita sum 
+      <lb ed="#P" n="70"/>ma felicitas requirit condilectum sibi et dilectionem. 
+      <lb ed="#P" n="71"/>equalem. in quibus plenarie consistit trinitas 
+      per<lb ed="#P" n="72" break="no"/>onarum. Intendit ergo talem rationem / in 
+      summa<lb ed="#P" n="73" break="no"/>ponitate / vt se communicare possit / oportet quod sit 
+      qui<lb ed="#P" n="74" break="no"/>dilectionem impendat / et qui rependat. et quod si esset 
+      <lb ed="#P" n="75"/>tantum vna persona in diuinis: non haberet cui 
+      com<lb ed="#P" n="76" break="no"/>nunicaret suam beniuolentiam. Igitur necesse est 
+      <lb ed="#P" n="77"/>ponere trinitatem personarum in diuinis cum 
+      sim<lb ed="#P" n="78" break="no"/>plicitate essentie. Possunt et alie rationes adduci / 
+      <lb ed="#P" n="79"/>id ostendendum quod in diuinis sit personarum 
+      plurali<lb ed="#P" n="80" break="no"/>tas duabus suppositionibus premissis. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1013">
+                  <lb ed="#P" n="81"/>¶ Prima. quod necessario in diuinis est aliqua persona. 
+      <lb ed="#P" n="82"/>¶ Secunda quod necessario est infinita intelligentia et 
+      <lb ed="#P" n="83"/>prima persona. Prima patet. quia impossibile est 
+      <lb ed="#P" n="84"/>naturam intellectualem et independentem esse / et eius 
+      <lb ed="#P" n="85"/>non esse aliquam personam. ergo impossibile est naturam 
+      <lb ed="#P" n="86"/>diuinam esse / et eius non esse aliquam personam. 
+      consequenm<lb ed="#P" n="87" break="no"/>tia patet: antecedens probatur quia persona est nature intellectualis 
+      <lb ed="#P" n="88"/>perfecta subsistantia vel substantia vt ait boetius. et per consequens 
+      <lb ed="#P" n="89"/>independens. Tunc arguitur non repugnat finite 
+      intel<lb ed="#P" n="90" break="no"/>gentie dicere se: ergo nec infinite. Ista est ratio et 
+      con<lb ed="#P" n="91" break="no"/>equentia augustini in libro de cognitione vere vite. 
+      <lb ed="#P" n="92"/>antecedens patet quia creatura et infinita intelligentia 
+      <lb ed="#P" n="93"/>producit noticiam sui.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1044">
+      ¶ Preterea omnis illa persona / 
+      <lb ed="#P" n="94"/>que seipsa est totius deitatis fons et plenitudo: potest 
+      <lb ed="#P" n="95"/>perfectissime dicere verbum / per omnia sibi equale: 
+      <lb ed="#P" n="96"/>sed talis est patur vel prima persona diuina ergo etc. 
+      <lb ed="#P" n="97"/>Ista ratio est richardi. 5. de trinitate cap. 3. antecedens 
+      pro<lb ed="#P" n="98" break="no"/>batur / quia si pater vel illa persona quae est totius 
+      deita<lb ed="#P" n="99" break="no"/>tis fons: non potuit producere noticiam sui: ergo et no 
+      <lb ed="#P" n="100"/>ticia non potuit produci persone. Et si sic ergo 
+      natura<lb ed="#P" n="101" break="no"/>diuina esset deterior / aliis naturis intellectualibus. 
+      <lb ed="#P" n="102"/>quod est absurdum. sed talis noticia producta / non 
+      <lb ed="#P" n="103"/>est inferioris nature a dicente vel producente (quia tunc 
+      <lb ed="#P" n="104"/>non perfecte se dixisset (vt deducit augustinus. 5 de 
+      <lb ed="#P" n="105"/>trinitate. cap. 14 ergo necesse est noticiam illam genitam 
+      <lb ed="#P" n="106"/>esse eandem essentiam que est ipsa diuinitas.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1075">
+      ¶ Secundo 
+      <lb ed="#P" n="107"/>principaliter arguitur. quod ibi sit tercia persona quia in na 
+      <lb ed="#P" n="108"/>ura diuina praeter noticiam productam necessario est 
+      ali<lb ed="#P" n="109" break="no"/>quis amor productus et perfectus et necesse est talem 
+      <lb ed="#P" n="110"/>amorem productum esse deum / et eiusdem nature cum non 
+      <lb ed="#P" n="111"/>ticia: ergo ibi erit tercia persona / consequentia 
+      catholico<lb ed="#P" n="112" break="no"/>non est dubia / et antecedens probatur quia si non: sequitur 
+      <lb ed="#P" n="113"/>quod deo deesset infinite charitatis perfectio. nam sicut si 
+      <lb ed="#P" n="114"/>deus non produceret verbum per omnia equale / non 
+      se<lb ed="#P" n="115" break="no"/>perfecte diceret: ita si non produceret amorem quo 
+      se<lb ed="#P" n="116" break="no"/>tantum amaret quantus est non se perfecte amaret.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1100">
+      ¶ Et 
+      <lb ed="#P" n="117"/>preterea si potest ab ista persona diuina produci verbum: 
+      <lb ed="#P" n="118"/>potest et amor. cum sit ibi eque bene voluntas sicut intel 
+      <lb ed="#P" n="119"/>lectus. Secunda pars antecedentis probatur quia talis amor est 
+      <lb ed="#P" n="120"/>tam perfectus et tantus quanta est res amata. sed res 
+      <lb ed="#P" n="121"/>amata est simpliciter infinita ergo etc.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1113">
+      ¶ Preterea 
+      <lb ed="#P" n="122"/>amor quo se amant pater et filius / non potest esse 
+      acci<lb ed="#P" n="123" break="no"/>dentalis nec creatura. quia tunc non perfecte se amarent. sed 
+      <lb ed="#P" n="124"/>amore producto perfecte se amant: ergo talis amor est deus 
+      <!--59.xml-->
+      <pb ed="#P" n="20-v"/>
+                  <lb ed="#P" n="1"/>Correlarium quod sequitur ex conclusione 
+      <lb ed="#P" n="2"/>licet in diuinis sit pluralitas personarum: non tamen 
+      <lb ed="#P" n="3"/>est ibi pluralitas indiuiduorum. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1133">
+                  <lb ed="#P" n="4"/>¶ Ex quo patet quod indiuiduum non 
+      conuerti<lb ed="#P" n="5" break="no"/>tur cum persona. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1140">
+                  <lb ed="#P" n="6"/>¶ Ex quo sequitur tertio quod in diuinis non est 
+      <lb ed="#P" n="7"/>persona absoluta nec esse potest. Patet quia quod 
+      <lb ed="#P" n="8"/>libet tale absolutum est comunicabile. et quia ista 
+      <lb ed="#P" n="9"/>talis persona si esset esset indiuiduum et per consequens 
+      <lb ed="#P" n="10"/>tunc quaternitas personarum: relinquo ergo quod quod 
+      <lb ed="#P" n="11"/>libet indiuiduum suppositum est relatiuum. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1156">
+                  <lb ed="#P" n="12"/>¶ Quarto intero et vltimo: quod quelibet per  
+      <lb ed="#P" n="13"/>psona diuina / est essentia / et omnes tres persone sunt 
+      <lb ed="#P" n="14"/>illa essentia. et ideo non sequitur quod rerum quaterni 
+      <lb ed="#P" n="15"/>tas sit ponenda / sicut abbas Ioachim videbatur 
+      ar<lb ed="#P" n="16" break="no"/>guere / ex dictis magistri volens ostendere magistrum 
+      <lb ed="#P" n="17"/>esse hereticum. propter hoc quod dicebat quod essentia nec 
+      <lb ed="#P" n="18"/>generat nec generatur / et tamen persona que est 
+      essen<lb ed="#P" n="19" break="no"/>tia generat.
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1176">
+      ¶ Oppositum secunde conclusionis / et 
+      <lb ed="#P" n="20"/>sui correlarii tenet doctor subtilis libro primo 
+      disti<lb ed="#P" n="21" break="no"/>ctione secunda / et olram libro primo distinctione. 233 
+      <lb ed="#P" n="22"/>Arguit enim doctor subtilis sic primo: secundum 
+      <lb ed="#P" n="23"/>augustinum septimo de trinitate capitulo primo de 
+      ma<lb ed="#P" n="24" break="no"/>gnis omnis essentia que relatiue dicitur / est aliquid 
+      <lb ed="#P" n="25"/>xcepto relatiuo: et subdit infra capitulo eodem 
+      pro<lb ed="#P" n="26" break="no"/>ter quod si pater non est aliqui iid ad se / non est omino 
+      <lb ed="#P" n="27"/>qui relatiue dicitur ad aliquid. est igitur in re 
+      essen<lb ed="#P" n="28" break="no"/>tia ad se / et non ad aliud. et est in re pater in quantum 
+      <lb ed="#P" n="29"/>pater ad aliud vel ad aliquid. non est autem eadem 
+      <lb ed="#P" n="30"/>entitas formaliter ad se et ad aliud siue non ad se 
+      <lb ed="#P" n="31"/>etc. ergo.  
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1206">
+                  <lb ed="#P" n="32"/>¶ Tertio arguit sic non videtur intelligibile quod 
+      <lb ed="#P" n="33"/>aliqua entitas sit de se incommunicabilis et 
+      communi<lb ed="#P" n="34" break="no"/>cabilis / ita quod sibi contradicat communicari: nisi 
+      inter<lb ed="#P" n="35" break="no"/>illam entitatem et istam sit distinctio ex natura rei. sed 
+      <lb ed="#P" n="36"/>pater habet in se entitatem de se communicabilem. aliquae 
+      <lb ed="#P" n="37"/>quin non posset illam communicare filio: habet etiam 
+      <lb ed="#P" n="38"/>in se entitatem incommunicabilem. alioquin non esset 
+      <lb ed="#P" n="39"/>quid positiuum necesse suppositi. ergo pater et 
+      essen<lb ed="#P" n="40" break="no"/>tia formaliter distinguuntur. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1228">
+                  <lb ed="#P" n="41"/>¶ hanc rationem approbat olam distinctione 
+      <lb ed="#P" n="42"/>secunda primi questione vltima. et ipsam confirmat 
+      <lb ed="#P" n="43"/>sic: quandocumque aliqua sunt idem omnibus modis quio 
+      <lb ed="#P" n="44"/>quid competit vui competit et alteri (nisi aliquis 
+      mo<lb ed="#P" n="45" break="no"/>dus grammaticalis vel logicalis impediat) Sed 
+      da<lb ed="#P" n="46" break="no"/>to / quod isti modi conueniant in patre et essentia: adhuc 
+      <lb ed="#P" n="47"/>essentia est filius / et paternitas non est filius. ergo 
+      <lb ed="#P" n="48"/>etc. sequitur ergo / quod essentia et paternitas non 
+      om<lb ed="#P" n="49" break="no"/>nibus modis sunt idem: ergo aliquo modo sunt non 
+      <lb ed="#P" n="50"/>idem. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1252">
+                  <lb ed="#P" n="51"/>¶ Ad primum argumentum dico quod eadem vna 
+      <lb ed="#P" n="52"/>simplicissima summa entitas personalis / est 
+      diuini<lb ed="#P" n="53" break="no"/>tas ad se et paternitas ad filium. sicut eadem qualitas 
+      <lb ed="#P" n="54"/>est albedo ad se / et similitudo vel dissimilitudo ad 
+      <lb ed="#P" n="55"/>aliud. et tamen nulla est diuersitas penitus / inter hanc 
+      <lb ed="#P" n="56"/>albedinem / et similitudinem. Nec ex hoc sequitur quod 
+      ali<lb ed="#P" n="57" break="no"/>qua alia entitas sit in patre ad se / et non ad se. sed 
+      di<lb ed="#P" n="58" break="no"/>co quod entitas patris est essentia ad se / et paternitas 
+      <lb ed="#P" n="59"/>ad filium. vel paternitas non ad se. 
+         </p>
+               <p xml:id="oooo3o-k11557-d1e1274">
+      <!--59.xml-->
+                  <lb ed="#P" n="60"/>Ad secundum dico quod non oportet quod entitas 
+      <lb ed="#P" n="61"/>communicabilis distinguitur ab incommunicabili: vel 
+      <lb ed="#P" n="62"/>a persona. sed sufficit quod sit distincta scilicet 
+      suppo<lb ed="#P" n="63" break="no"/>sita. vt dictum est in conclusione quinta. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1287">
+                  <lb ed="#P" n="64"/>¶ Ad olram nego istam cosequentiam non omnibus 
+      <lb ed="#P" n="65"/>nodis sunt idem: ergo sunt aliquo modo non idem. 
+      <lb ed="#P" n="66"/>sicut non sequitur / non est omni colore coloratus: ergo 
+      <lb ed="#P" n="67"/>st aliquo colore non coloratus. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k11557-Dd1e1299">
+               <head xml:id="oooo3o-k11557-Hd1e1301">Articulus 3</head>
+               <p xml:id="oooo3o-k11557-d1e1303">
+                  <lb ed="#P" n="68"/>¶ Quantum ad tertium articulum conceditur 
+      <lb ed="#P" n="69"/>maior p: ime rationis / et negatur minor. quia essentia et 
+      <lb ed="#P" n="70"/>psona non sunt idem conuertibiliter / vel in primo modo 
+      dicen<lb ed="#P" n="71" break="no"/>di per se. vt dicit correlarium quarte conclusionis. nec 
+      <lb ed="#P" n="72"/>valet ista consequentia / essentia et persona non sunt idem omnibus 
+      <lb ed="#P" n="73"/>modis. ergo inter essentiam et personam non est omnimoda vdempti 
+      <lb ed="#P" n="74"/>tas ex natura rei. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1321">
+                  <lb ed="#P" n="75"/>¶ Ad secundum nego secundam consequentiam 
+      <lb ed="#P" n="76"/>ad regulam philosophi in libro peryarmenias. dico quod non 
+      te<lb ed="#P" n="77" break="no"/>net vbi idem est distinctum. vel etiam vbi est praedicatio idempti 
+      <lb ed="#P" n="78"/>ca sicut in diuinis. 
+    </p>
+               <p xml:id="oooo3o-k11557-d1e1332">
+                  <lb ed="#P" n="79"/>¶ Ad tertium negatur consequentia sicut 
+      pa<lb ed="#P" n="80" break="no"/>tet ex correlario sexte conclusionis / vel correlariis ad  
+      <lb ed="#P" n="81"/>boecium dico quod per indiuiduum intelligit incommunicabile / 
+      cuius<lb ed="#P" n="82" break="no"/>modoi est persona. et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="101-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k62702"><!--l3d3-12q2 -->
+            <head xml:id="oooo3o-k62702-Hd1e99">Quaestio 2</head>
+            <p xml:id="oooo3o-k62702-d1e101">
+               <lb ed="#P" n="38"/>¶ SEcundo circa eandem 
+      ma<lb ed="#P" n="39" break="no"/>teriam Quero vtrum idem filius 
+      <lb ed="#P" n="40"/>sit filius dei patris et filius virgi 
+      <lb ed="#P" n="41"/>nis matris. Quod non nullus est 
+      <lb ed="#P" n="42"/>filius virginis ergo. 
+      consequen<lb ed="#P" n="43" break="no"/>tia nota: antecedens probatur quia 
+      <lb ed="#P" n="44"/>si aliquis esset filius virginis 
+      ma<lb ed="#P" n="45" break="no"/>xime videretur de christo: sed ille non 
+      <lb ed="#P" n="46"/>quia dicit pamascenus libro tertio 
+      <lb ed="#P" n="47"/>ca. 12. theotocom id est christi matrem vrginem non dicimus ergo.  
+      <lb ed="#P" n="48"/>Secundo filius dei patris non est factus nec 
+      <lb ed="#P" n="49"/>creatus sed genitus. sicut patet ex symbolo athanasii sed 
+      <lb ed="#P" n="50"/>filius vyrginis est factus: ad romanos primo: qui fal 
+      <lb ed="#P" n="51"/>ctus ei scilicet vrgini ex semine dauid secundum carnem. ergo 
+      <lb ed="#P" n="52"/>non est idem filius patris et filius vyerginis matris: patet 
+      con<lb ed="#P" n="53" break="no"/>sequentia quia de eodem filio non possunt verificari simul 
+      con<lb ed="#P" n="54" break="no"/>tradictoria predicata scilicet factus et non factus. 
+    </p>
+            <p xml:id="oooo3o-k62702-d1e140">
+               <lb ed="#P" n="55"/>¶ Tertio filius virginis est homo assumptus 
+      fa<lb ed="#P" n="56" break="no"/>lius dei non est homo assumptus ergo. Item filius dei non 
+      me<lb ed="#P" n="57" break="no"/>ruit: sed filius verginis meruit ex gratia. ergo non idem etc. consequentia 
+      <lb ed="#P" n="58"/>nota. probatur antecedens pro prima parte per augustinum in 
+      exposi<lb ed="#P" n="59" break="no"/>lione symboli dicentem. Si quis dixerit hominem ihesum 
+      <lb ed="#P" n="60"/>christum a filio dei assumptum non fuisse anathema sit. S 
+      <lb ed="#P" n="61"/>pro secunda parte quod christus meruit patet per magistrum libro. 3 diis 
+      <!--220.xml-->
+      <lb ed="#P" n="62"/>et per multos doctores sed filius dei hoc non potuit quia 
+      <lb ed="#P" n="63"/>non habet premiatorem eo maiorem ergo etc. 
+    </p>
+            <p xml:id="oooo3o-k62702-d1e164">
+               <lb ed="#P" n="64"/>¶ Oppositum patet per euangelium: quod enim ex 
+      te<lb ed="#P" n="65" break="no"/>nascetur sactnum vocabitur filius dei Item concipies in 
+      vte<lb ed="#P" n="66" break="no"/>ro et paries filium et vocabitur altissimi filius ergo.  
+    </p>
+            <p xml:id="oooo3o-k62702-d1e173">
+               <lb ed="#P" n="67"/>¶ Primus articulus erit de supposito iuxta 
+      ma<lb ed="#P" n="68" break="no"/>teriam primi argumenti. vtrum beata vrgo fuerit vere 
+      ma<lb ed="#P" n="69" break="no"/>ter xpi filii dei. Secundus erit de quesito primcipali. 
+      Ter<lb ed="#P" n="70" break="no"/>tius erit de merito christi vbi tractabo materiam tertii 
+      <lb ed="#P" n="71"/>argumenti sub titulo speciali etc 
+    </p>
+            <div xml:id="oooo3o-k62702-Dd1e187">
+               <head xml:id="oooo3o-k62702-Hd1e189">Articulus 1</head>
+               <p xml:id="oooo3o-k62702-d1e191">
+                  <lb ed="#P" n="72"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e196">
+                  <lb ed="#P" n="73"/>QUantum ad primum articulumprimo 
+      <lb ed="#P" n="74"/>videndum quid requiratur ad hoc quod 
+      mu<lb ed="#P" n="75" break="no"/>lier aliqua veraciter dicatur mater 
+      alicu<lb ed="#P" n="76" break="no"/>ius. Secundo ex hoc videbitur quid 
+      di<lb ed="#P" n="77" break="no"/>pei cendum sit ad articulum. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e209">
+                  <lb ed="#P" n="78"/>¶ Quantum ad primum causa breuitatis dimitten  
+      <lb ed="#P" n="79"/>do diuersarum opinionum prolixitates. dicam quod michi 
+      oc<lb ed="#P" n="80" break="no"/>curret: praemissis aliquibus propositionibus. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e218">
+                  <lb ed="#P" n="81"/>¶ Prima ad esse matrem . b. filii. non sufficit a mulie 
+      <lb ed="#P" n="82"/>tem praecise ad corpus b materiam ministrare: probatur quia 
+      <lb ed="#P" n="83"/>si sic sequeretur quod adam vere fuisset mater eue et limus. 
+      <lb ed="#P" n="84"/>mater ade quae sunt falsa: consequentia patet per oppositum propotnis: quia 
+      <lb ed="#P" n="85"/>adam in formatione corperis cue materiam minstrauit 
+      pas<lb ed="#P" n="86" break="no"/>siue saltem. et terra respectu formationis corporis ade 
+      <lb ed="#P" n="87"/>vt habetur in genesi. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e237">
+                  <lb ed="#P" n="88"/>¶ Secunda propositio. in generatione prolis ad hoc 
+      <lb ed="#P" n="89"/>quod a sit mater b: non sufficit a solum ad corpus b 
+      concurre<lb ed="#P" n="90" break="no"/>e passiue: patet quia tunc lignum posset dici mater vermis et 
+      <lb ed="#P" n="91"/>sicut prius adam posset veracitur dici miter eue. Item sequitur quod 
+      <lb ed="#P" n="92"/>si deus de digito mulieris formaret hominem quod ille hom 
+      <lb ed="#P" n="93"/>esset illius mulieris filius quod est falsum et consequentia nota 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e253">
+                  <lb ed="#P" n="94"/>¶ Tertia propositio. Ex parte a mulieris vt sit 
+      ma<lb ed="#P" n="95" break="no"/>ter b filii: exigitur quod a minstret semen actiue concurrens ad 
+      <lb ed="#P" n="96"/>effectum: licet actione minus primcipali quam sit actio seminis 
+      <lb ed="#P" n="97"/>inaris vel supplentis et quod a coagat ad fortationem et orga 
+      <lb ed="#P" n="98"/>nisationem corperis. b. et fomentu tribuat et localiter conti 
+      <lb ed="#P" n="99"/>neat: probatur auctoritate galieni qui vt testatur auicena 
+      prae<lb ed="#P" n="100" break="no"/>mo canone dicit quod mituer concurrat vt principium actiuum et 
+      <lb ed="#P" n="101"/>non solum passiue ad formationem prolis. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e273">
+                  <lb ed="#P" n="102"/>¶ Quarta propositio. actiuitas matris non sufficit 
+      <lb ed="#P" n="103"/>ad generande prolis formationem quo ad corpus. probatur 
+      <lb ed="#P" n="104"/>quia alias sequeretur quod muller se sola se posset facere 
+      ma<lb ed="#P" n="105" break="no"/>trem et se impregnare quod est falsum. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e284">
+                  <lb ed="#P" n="106"/>¶ Quinta propositio. ad a esse matrem bcum aliis re 
+      <lb ed="#P" n="107"/>quisitis dictis in. 3 propositione: requiritur quod natra b recipiatur in 
+      <lb ed="#P" n="108"/>vtero a in personalitate propria ipsius b et non in aliena. probatur 
+      <lb ed="#P" n="109"/>quia si nata b concepta esset in personalitate persone dei: deus 
+      es<lb ed="#P" n="110" break="no"/>set conceptus et non b homo. quia natiuitas non est nate sed persone 
+      <lb ed="#P" n="111"/>popria vt dicit damascenus in. tertio. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e300">
+                  <lb ed="#P" n="112"/>¶ Ex hiis respondetur ad argum etum per conclusiones 
+      <lb ed="#P" n="113"/>quarum prima est: quod btam vergo fuit et est vacitur mitur di et miter christi i 
+      <lb ed="#P" n="114"/>qua est deus. probatur perdamascenum li. 3. c. 1. dicentem 
+      theotocon<lb ed="#P" n="115" break="no"/>et dei genstricem vere et primcipaliter praedicamus vrginem. Item 
+      <lb ed="#P" n="116"/>auctem cyrili in capostolis approbatis in synodo ephesina 
+      <lb ed="#P" n="117"/>vbi dicit: si quis non confitetur esse secundum veritatem emanuel: 
+      <lb ed="#P" n="118"/>et propter hoc dei genitricem vrginem sctam genuit enim 
+      can<lb ed="#P" n="119" break="no"/>naliter carnem factum ex deo verbum anathemasit Ex quibus 
+      <lb ed="#P" n="120"/>autoritatibus et multis aliis et symbolis et euangelio 
+      <lb ed="#P" n="121"/>patet quod dicta conclusio non est ab aliquo dubitanda. 
+      <!--221.xml-->
+      <pb ed="#P" n="101-v"/>
+                  <lb ed="#P" n="1"/>Secunda conclusio. Beata virgo omnia que 
+      <lb ed="#P" n="2"/>ad matrem pertinent agere ad formationem corporis 
+      <lb ed="#P" n="3"/>et ad per se terminum generationis vel 
+      conceptio<lb ed="#P" n="4" break="no"/>nis filii: egit in eo quod alie matres susceptiue agunt. 
+      <lb ed="#P" n="5"/>et hoc cooperante virtute infinita spiritussancti. 
+      qu<lb ed="#P" n="6" break="no"/>fuit agens principale. Probatur quia concepit in 
+      in<lb ed="#P" n="7" break="no"/>stanti sicut patet per magistrum in tertio sententiam 
+      <lb ed="#P" n="8"/>di. secunda ergo. quicquid ad esse matrem require 
+      <lb ed="#P" n="9"/>batur totum fuit completum in instanti sed. ad esse 
+      ime<lb ed="#P" n="10" break="no"/>trem requiritur concursus actiuus matris per 
+      pre<lb ed="#P" n="11" break="no"/>dicta igitur. ista conclusio est de intentione scoti 
+      li<lb ed="#P" n="12" break="no"/>bro tertio distinctione quarta qui allegat 
+      damasce<lb ed="#P" n="13" break="no"/>num dicentem quod spiritus sanctus virtutem ei scilice 
+      <lb ed="#P" n="14"/>virgini: tribuit susceptiuam simul et gantioatiuam. vide ibi 
+      <lb ed="#P" n="15"/>multas rationes pro dicta conclusione 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e361">
+                  <lb ed="#P" n="16"/>¶ Tertia conclusio. maternitas 
+      virginitatifor<lb ed="#P" n="17" break="no"/>maliter non repugnat. patet ex precedentibus conclusioni 
+      <lb ed="#P" n="18"/>bus: cum beata maria fuerit vere mater et virgo: potest 
+      <lb ed="#P" n="19"/>tamen aliter hoc esse possibile declarari seu probariso 
+      <lb ed="#P" n="20"/>quod maternitas virginitatem formaliter non excludit. quia 
+      <lb ed="#P" n="21"/>virginitas priuat solum actionem cause naturalis super 
+      <lb ed="#P" n="22"/>rioris create puta seminis virilis et maternitas non 
+      <lb ed="#P" n="23"/>necessario illa actionem includit quia potest ista 
+      actio<lb ed="#P" n="24" break="no"/>virtute diuina suppleri ergo.  
+    </p>
+               <p xml:id="oooo3o-k62702-d1e384">
+                  <lb ed="#P" n="25"/>¶ Ex quo patet quod non omne illud miraculosum 
+      <lb ed="#P" n="26"/>quod sufficit ad esse matrem virginem. sufficit ad virgi 
+      <lb ed="#P" n="27"/>nis partum: patet quia ad virginem esse matrem sufficit 
+      ex<lb ed="#P" n="28" break="no"/>clusio actionis naturalis cause create superioris:  
+      <lb ed="#P" n="29"/>potentiam dei suppletiuam vel supplentem suum agere: que 
+      <lb ed="#P" n="30"/>est miraculosa. sed ad virginem parere: requiritur alite 
+      <lb ed="#P" n="31"/>speciale miraculum scilicet exitus per clausam portam. vbi q 
+      <lb ed="#P" n="32"/>portet esse duo corpora simul et sic patet correlarium
+    </p>
+               <p xml:id="oooo3o-k62702-d1e404">
+                  <lb ed="#P" n="33"/>¶ Quarta conclusio. licet beata virgo christum 
+      con<lb ed="#P" n="34" break="no"/>ceperit de spiritu sancto: tamen spiritus sanctus non est 
+      <lb ed="#P" n="35"/>dicendus pater christi. Ista conclusio patet de intentione 
+      bea<lb ed="#P" n="36" break="no"/>ti augustini enchi. 2. 4. dicentis. xristus natus est de spiri 
+      <lb ed="#P" n="37"/>tu sancto non sicut de patre sic autem de illa sciliet beata 
+      <lb ed="#P" n="38"/>virgine sicut de matre: quod probatur quia ad esse 
+      pa<lb ed="#P" n="39" break="no"/>trem huius per generationem non sufficit dicta formatio 
+      <lb ed="#P" n="40"/>sancti spiritus: sed gignitio per decisionem seminis. quod 
+      <lb ed="#P" n="41"/>non fecit spiritussanctus scilicet. in formatione 
+      corpo<lb ed="#P" n="42" break="no"/>ris christi ergo etc. Et hec de primo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k62702-Dd1e429">
+               <head xml:id="oooo3o-k62702-Hd1e431">Articulus 2</head>
+               <p xml:id="oooo3o-k62702-d1e433">
+                  <lb ed="#P" n="43"/>Secundus articulus 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e438">
+                  <lb ed="#P" n="44"/>QUantum ad secundum articulum 
+      <lb ed="#P" n="45"/>videndum est vtrum idem sit filius dei 
+      pe<lb ed="#P" n="46" break="no"/>tris et filius virginis matris. Pono c. 
+      <lb ed="#P" n="47"/>clusio nes.
+    </p>
+               <p xml:id="oooo3o-k62702-d1e449">
+      ¶ Prima conclusio. christus ei 
+      <lb ed="#P" n="48"/>U vere filius virginis: patet quia christus natus 
+      <lb ed="#P" n="49"/>est de virgine Item cum peperit virgo filium suum 
+      primo<lb ed="#P" n="50" break="no"/>genitum: dicit angelus: annuncio vobis gaudium. etc 
+      <lb ed="#P" n="51"/>et sequitur qui est christus dominus in ciuitate dauic. Patet 
+      <lb ed="#P" n="52"/>etiam per articulum precedentem quia vergo beata vere fuit 
+      <lb ed="#P" n="53"/>mater christi 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e465">
+                  <lb ed="#P" n="54"/>¶ Secunda conclusio. licet filius dei sit natus 
+      <lb ed="#P" n="55"/>de virgine. non tamen illa natiuitas est nature pro 
+      <lb ed="#P" n="56"/>prie seu persone. Prima pars patet ex conclusione 
+      pre<lb ed="#P" n="57" break="no"/>cedente. secunda etiam patet per damascenum libro tertio 
+      <lb ed="#P" n="58"/>dicentem quod natiuitas ypostasis est: non nature¬ 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e479">
+                  <lb ed="#P" n="59"/>¶ Correlarium ista consequentia non valet iste de nouo 
+      na<lb ed="#P" n="60" break="no"/>scitur ergo ille de nouo in esse producitur. Patet 
+      de<lb ed="#P" n="61" break="no"/>filio dei nato temporaliter: quae tamen habuit esse eternaliter 
+      <!--221.xml-->
+      <lb ed="#P" n="62"/>Secundum correlarium. natura humana in christo non 
+      <lb ed="#P" n="63"/>est illud: quod proprie natum est de vgine: tamquam natiuitatis 
+      <lb ed="#P" n="64"/>subiectum. patet ex secunda parte conclusionis cum ipsa non sit persona 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e497">
+                  <lb ed="#P" n="65"/>¶ Tertia conclusio. licet nulla essentia sit. quin sit. 
+      <lb ed="#P" n="66"/>creator vel creatura: aliqua tamen est creatura que 
+      pro<lb ed="#P" n="67" break="no"/>prie loquendo nec est creata nec genita: prima pars 
+      <lb ed="#P" n="68"/>est nota: cum omnis essenta sit deus vel adeo. secunda 
+      pa<lb ed="#P" n="69" break="no"/>tet de humanitate christi quae non est creata quia non est 
+      <lb ed="#P" n="70"/>facta de nichilo quia de purissimis sanguinibus 
+      vir<lb ed="#P" n="71" break="no"/>ginis formauit tam spiritus sanctus. Nec ipa est proprie 
+      <lb ed="#P" n="72"/>genita vt notum est ex conclusione secunda et eius correla. 2. 
+      <lb ed="#P" n="73"/>¶ Quarta conclusio. licet idem filius sit dei patris 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e519">
+                  <lb ed="#P" n="74"/>¶ et vrginis filius. hoc tamen est diuersis filiationibus. 
+      primo<lb ed="#P" n="75" break="no"/>ma pars probatur quia idem christus est filius dei et virgiuis e 
+      <lb ed="#P" n="76"/>vt patet ex veritate euangelica. vnde nemo ascendit 
+      ni<lb ed="#P" n="77" break="no"/>si qui descendit. scilicet in carnem filius hominis qui est in 
+      ce<lb ed="#P" n="78" break="no"/>lo: quod exponens hieronimus in sermodoe cogitis 
+      me<lb ed="#P" n="79" break="no"/>etc. dicit quis queso est qui loquitur: christus vtique quis 
+      <lb ed="#P" n="80"/>filius hominis vtique filius virginis: qui refertur cum 
+      di<lb ed="#P" n="81" break="no"/>cit. qui ascendit qui descendit vtique vna persona eadem 
+      <lb ed="#P" n="82"/>que filius dei et filius hominis. Secunda pars conclusionis 
+      <lb ed="#P" n="83"/>probatur: quia in christo dei et virginis filio: due sunt 
+      nati<lb ed="#P" n="84" break="no"/>uitates: scilicet eterna (qua nascitura patre) et temporalis 
+      <lb ed="#P" n="85"/>qua natus est ex virgine: ergo vna filiatione sode 
+      eter<lb ed="#P" n="86" break="no"/>na est filius patris: et alia filiatione scilicet temporali est 
+      <lb ed="#P" n="87"/>filius virginis: vnde damascenus libro tertio. 
+      confite<lb ed="#P" n="88" break="no"/>mur duas christi natiuitates vnam que. est ex parte 
+      eter<lb ed="#P" n="89" break="no"/>nam: aliam que est in vtimis temporibus propter nos. 
+      <lb ed="#P" n="90"/>Correlarium licet in christo sint due natiuitater 
+      <lb ed="#P" n="91"/>et due filiationes: non tamen propter hoc consequens est 
+      conce<lb ed="#P" n="92" break="no"/>dendum: quod christus sit duo nati vel duo filii. ymo est vnus 
+      <lb ed="#P" n="93"/>natus et vnus filius tantum: quia non duo sed vnus est christus 
+      <lb ed="#P" n="94"/>patet istud correlarium sa is ex conclusione.
+    </p>
+               <p xml:id="oooo3o-k62702-d1e567">
+      ¶ Et 
+      com<lb ed="#P" n="95" break="no"/>firmatur in simili non sequitur. in sorte sunt due scinte 
+      <lb ed="#P" n="96"/>ergo sortes est duo scientes. Item non sequitur in 
+      <lb ed="#P" n="97"/>christo sunt due voluntates. ergo christus est duo volem 
+      <lb ed="#P" n="98"/>tes: antecedens enim est verum et consequens falsum. 
+      <lb ed="#P" n="99"/>secundum damascenum 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e580">
+                  <lb ed="#P" n="100"/>¶ Quinta conclusio. Non ex hoc precise filius 
+      <lb ed="#P" n="101"/>dei est filius virginis: quia humanitas quam assum 
+      <lb ed="#P" n="102"/>psit est formata in virgine: probatur quia si illa foret 
+      cau<lb ed="#P" n="103" break="no"/>sa precisa: tunc dato quod post formationem illius 
+      hu<lb ed="#P" n="104" break="no"/>manitatis filius ipsam assumpsisset: adhuc filius de 
+      <lb ed="#P" n="105"/>esset filius virginis. quod falsum est. quia tunc pari 
+      ra<lb ed="#P" n="106" break="no"/>tione: si modo filius dei assumeret naturam petri: 
+      con<lb ed="#P" n="107" break="no"/>cedendum esset quod filius dei esset filius matris petri 
+      <lb ed="#P" n="108"/>quod est falsum. Unde relinquitur quod filius sit persi 
+      <lb ed="#P" n="109"/>na et persona deus: existens homo secundum huma 
+      <lb ed="#P" n="110"/>nitatem simul conceptus et vnitus. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e606">
+                  <lb ed="#P" n="111"/>¶ Ex his patet responsio ad duas rationes prim 
+      <lb ed="#P" n="112"/>cipales questionis 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e614">
+                  <lb ed="#P" n="113"/>¶ Ad priman negandum est antecedens vt 
+      pa<lb ed="#P" n="114" break="no"/>tet per dicta in primo articulo huius questionis. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e621">
+                  <lb ed="#P" n="115"/>¶ Ad probationem concedatur quod christus est filius 
+      <lb ed="#P" n="116"/>virginis. Ad damascenum dicitur quod non vult nega 
+      <lb ed="#P" n="117"/>re simpliciter quod virgo non sit mater christi secundum 
+      <lb ed="#P" n="118"/>quod dicit durandus libro tertio. distinctionequarta. quae 
+      <lb ed="#P" n="119"/>stione secunda et concordat scotus in tertio 
+      distin<lb ed="#P" n="120" break="no"/>ctione eadem quod videlicet hoc nomen theotocon fuit 
+      <lb ed="#P" n="121"/>inuentum a nestorio heretico ideo ad abolendum ipsm 
+      <lb ed="#P" n="122"/>dicit illa verba: quia cum hereticis non debemus habere 
+      <lb ed="#P" n="123"/>nominia communia: sicut dicit Diero. super osee secundo capitulo 
+      <!--222.xml-->
+      <pb ed="#P" n="102-r"/>
+                  <lb ed="#P" n="1"/>Ad secundum conceditur quod filius dei non est 
+      <lb ed="#P" n="2"/>factus nec creatus. Et cum dicitur filius virginis 
+      <lb ed="#P" n="3"/>etc. negandum est. Ad apostolum dicendum quod non 
+      <lb ed="#P" n="4"/>dicit quod sit ei factus simpliciter sed quod est factus et 
+      <lb ed="#P" n="5"/>secundum carnem ex semine dauid. Modo non sequi 
+      <lb ed="#P" n="6"/>tur filius virginis est factus ex semine secundum 
+      car<lb ed="#P" n="7" break="no"/>nem. ergo est factus. sicut non sequitur verbum dei 
+      <lb ed="#P" n="8"/>factum est caro ergo verbum dei factum est. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k62702-Dd1e666">
+               <head xml:id="oooo3o-k62702-Hd1e668">Articulus 3</head>
+               <p xml:id="oooo3o-k62702-d1e670">
+                  <lb ed="#P" n="9"/>Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e675">
+                  <lb ed="#P" n="10"/>NUnc quantum ad articulum tertium 
+      <lb ed="#P" n="11"/>huius questionis de christi merito videndum 
+      <lb ed="#P" n="12"/>est vtrum christus secundum quod viator 
+      potue<lb ed="#P" n="13" break="no"/>rit mereri omne condigno / vbi primo praemit 
+      <lb ed="#P" n="14"/>tam declarationes. secundo ponam conclusic 
+      <lb ed="#P" n="15"/>nes responsales. Et tertio dicamique bona meruit et qui 
+      <lb ed="#P" n="16"/>bus. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e693">
+                  <lb ed="#P" n="17"/>¶ Quantum ad primum declaro quid sit 
+      prope<lb ed="#P" n="18" break="no"/>mereri omne condigno. Pro quo sciendum est quod ad hooc 
+      <lb ed="#P" n="19"/>quod aliqua actio electiua sit meritum omne condigno. 
+      plu<lb ed="#P" n="20" break="no"/>ra requiruntur. Primum est quod eliciens ipsam ad sic 
+      <lb ed="#P" n="21"/>agere bene et confirmiter recte rationi non oblige 
+      <lb ed="#P" n="22"/>tur / Secundum est quod persona sic meritorie operans non ind 
+      <lb ed="#P" n="23"/>geat vt ab alio iustificetur. et ad taliter agere in 
+      iu<lb ed="#P" n="24" break="no"/>sticia aliunde non conseruetur. Tertium est vt ipsa 
+      per<lb ed="#P" n="25" break="no"/>sona ex taliter operari non perficiatur nec ratio 
+      me<lb ed="#P" n="26" break="no"/>lior fiat. quartum quod talis actio sibi operanti 
+      principali<lb ed="#P" n="27" break="no"/>ter imputetur / quintum quod taliter agere a nullo extrin 
+      <lb ed="#P" n="28"/>senco adiuuetur. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e722">
+                  <lb ed="#P" n="29"/>¶ Propter predicta nulla persona creata potest 
+      <lb ed="#P" n="30"/>mereri omne condigno / quod patet quia nulla dictarum 
+      <lb ed="#P" n="31"/>conditionum concurrit ad meritum alicuius 
+      crea<lb ed="#P" n="32" break="no"/>ture / primo non concurrit priema quia natura obligatur 
+      <lb ed="#P" n="33"/>deo ad quicquid boni potest. et ad quicquid melius 
+      <lb ed="#P" n="34"/>potest. vt probat augustinus secundo de libero 
+      arbi<lb ed="#P" n="35" break="no"/>trio capitulo tertio: ideo non iure debetur sibi aliquod 
+      <lb ed="#P" n="36"/>premium ex condigno. et de aliis patet manifeste. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e743">
+                  <lb ed="#P" n="37"/>¶ Secundo patet. quia persona creata potest de 
+      <lb ed="#P" n="38"/>mereri omne condigno seu mereri penam. quia ad sic 
+      op<lb ed="#P" n="39" break="no"/>rari qualiter operari est mereri penam: non obligatur 
+      <lb ed="#P" n="40"/>creatura nec indiget iustificatioe ab alio nec ex eo 
+      <lb ed="#P" n="41"/>quod sic agit perficitur ymo deterioratur et peioratur 
+      <lb ed="#P" n="42"/>et sibi principaliter culpa non autem deo imputatur 
+      <lb ed="#P" n="43"/>nec ad sic agere adiutorio dei ieget vel alterius / 
+      li<lb ed="#P" n="44" break="no"/>cet deus coagat ad actum tamen non adiuuat etc. 
+      <lb ed="#P" n="45"/>Secundo premitto quod christum mereri omne 
+      condi<lb ed="#P" n="46" break="no"/>gno / et non ex gratia: seu ex gratia et non ex 
+      condi<lb ed="#P" n="47" break="no"/>gno / potest dupliciter intelligi: vno modo sic / ex 
+      gra<lb ed="#P" n="48" break="no"/>tia. quia hoc ipsum est ex gratuita voluntate dei: quod 
+      <lb ed="#P" n="49"/>filius dei suppositet naturam humanam secundum quam 
+      <lb ed="#P" n="50"/>operans gratuite nos redemit / et hoc modo verum est quod 
+      <lb ed="#P" n="51"/>non nisi ex gratiosa predestinatione eterna christus 
+      me<lb ed="#P" n="52" break="no"/>ruit. et non decondigno. vnde augustinus libro de 
+      <lb ed="#P" n="53"/>praedestinatione sanctorum homo ille vt (a verbo dei 
+      in<lb ed="#P" n="54" break="no"/>vnitate persone assumptus) vnigenitus filius dei e 
+      <lb ed="#P" n="55"/>et / vnde hoc meruit quasi dicat non hoc meruit Et 
+      <lb ed="#P" n="56"/>ideo dicit idem augustinus de verbis domini sermone. 8 
+      <lb ed="#P" n="57"/>tolle gratiam qua christus est caput ecclesie / quid christus 
+      <lb ed="#P" n="58"/>nisi quod tu: quid christus nisi homo. Alio modo sic quod supposita 
+      <lb ed="#P" n="59"/>illa vnione gratiosa ille homo tenebatur agere etc. 
+      <lb ed="#P" n="60"/>vel sibi proficiebat operari vel sibi non. sed etiam ex 
+      <lb ed="#P" n="61"/>trinseco principaliter imputabile fuit sic operari qua¬ 
+      <!--222.xml-->
+      <lb ed="#P" n="62"/>liter fuit mereri. et sic non. et illo modo debet intelligi 
+      <lb ed="#P" n="63"/>articulus. ita quod ly ex condigno gratiam vnionis non 
+      <lb ed="#P" n="64"/>excludat sed denotat valoremoperis et sufficientiam 
+      <lb ed="#P" n="65"/>operantis: ita quod non ex alia gratiosa acceptatione 
+      <lb ed="#P" n="66"/>illud operari dicatur iusticia actualis 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e813">
+                  <lb ed="#P" n="67"/>¶ Tertio premitto quod condignitas operis christu 
+      <lb ed="#P" n="68"/>vel notat valorem acceptabilitatis operis in se. vel 
+      <lb ed="#P" n="69"/>notat actualem acceptationem pro aliis. primo ei 
+      mo<lb ed="#P" n="70" break="no"/>do est condigne et sufficientis iusticie opus in se. 
+      se<lb ed="#P" n="71" break="no"/>cundo modo ex gratiosa voluntate dei mere acce¬ 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e826">
+                  <lb ed="#P" n="72"/>¶ ptatur ad premium pro aliis. Deinde suppono tria in 
+      <lb ed="#P" n="73"/>Primum quod volitiones beatorum ad fruitionem 
+      <lb ed="#P" n="74"/>dei religate seu colligate / sunt perfectioris generis 
+      <lb ed="#P" n="75"/>quam volitiones viatorum tantum. ista patet ex dictis 
+      <lb ed="#P" n="76"/>augustini de spiritu in littera circa finem / vbi dicit 
+      <lb ed="#P" n="77"/>quod delectatio de deo beatifice viso / nulli alteri 
+      dele<lb ed="#P" n="78" break="no"/>ctationi de deo non viso est proxime companda 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e844">
+                  <lb ed="#P" n="79"/>¶ Secundo suppono quod omnes christi anime 
+      vo<lb ed="#P" n="80" break="no"/>litiones electiue / fuerunt religate siue relate ad 
+      bea<lb ed="#P" n="81" break="no"/>tificam fruitionem. patet quia anima christi fuit in hac 
+      <lb ed="#P" n="82"/>vita vere beata. ergo quicquid voluit electiue / 
+      ordin<lb ed="#P" n="83" break="no"/>natissime voluit propter deum dilectum / et per 
+      con<lb ed="#P" n="84" break="no"/>sequens habuit volitiones colligatas ad amorem 
+      <lb ed="#P" n="85"/>illum principalem. patet ista consequentia per 
+      bea<lb ed="#P" n="86" break="no"/>tum augustinum vndecimo de capitulo. 6. Etiam 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e864">
+                  <lb ed="#P" n="87"/>¶ hec tota ratio videtur de intentione augustini superil. 
+      <lb ed="#P" n="88"/>lo verbo. que placita sunt ei facio semper 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e871">
+                  <lb ed="#P" n="89"/>¶ Tertio suppono quod qualitercunque voluit christus 
+      <lb ed="#P" n="90"/>secundum naturam assumptam libere voluit: sic quod 
+      <lb ed="#P" n="91"/>potuit non taliter velle / patet per augustinum. 15 de 
+      <lb ed="#P" n="92"/>ciuitate capitulo. 6. Et patet ratione. quia illa 
+      perso<lb ed="#P" n="93" break="no"/>na non necessitabatur agere ad extra secundum 
+      natu<lb ed="#P" n="94" break="no"/>ram diuinam nec necessitabatur agere ad extra secundum na 
+      <lb ed="#P" n="95"/>turam assumptam. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e890">
+                  <lb ed="#P" n="96"/>¶ Ex istis sequitur correlarie quod nunquam aliqua 
+      per<lb ed="#P" n="97" break="no"/>sona precise viatrix / tam perfectis volitionibus 
+      me<lb ed="#P" n="98" break="no"/>ruit. sicut fuerunt volitiones anime/ christi / quia fuerunt 
+      <lb ed="#P" n="99"/>volitiones beate mentis. quae per primam 
+      suppositio<lb ed="#P" n="100" break="no"/>nem sunt perfectioris generis / omnibus aliarum non 
+      <lb ed="#P" n="101"/>beatarum mentium volitionibus / etnunquam meruit 
+      via<lb ed="#P" n="102" break="no"/>tor dum videret deum beatifice nisi christus. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e908">
+                  <lb ed="#P" n="103"/>¶ Et si quis dicat quo modo potest beatus esse 
+      <lb ed="#P" n="104"/>viator / aut quo modo potest beata mens vnita non 
+      <lb ed="#P" n="105"/>necessario frui. Ad primum respondeo quod viator 
+      di<lb ed="#P" n="106" break="no"/>pliciter dicitur / vno modo quia primo corporaliter non 
+      <lb ed="#P" n="107"/>est adeptus dotes immortalitatis aut impossibilita 
+      <lb ed="#P" n="108"/>tis nec secundo in anima adeptus est impossilitatem 
+      <lb ed="#P" n="109"/>polorum et tristabilium / nec tertio videt deum nec fruitur 
+      <lb ed="#P" n="110"/>deo viso: sed solum proficit per fidem ambulando et 
+      <lb ed="#P" n="111"/>charitate speratiua. Qui in primis duobus est est 
+      <lb ed="#P" n="112"/>viator. et sic erat christus. Sed in tertio erat et est 
+      con<lb ed="#P" n="113" break="no"/>prehensor¬ 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e934">
+                  <lb ed="#P" n="114"/>¶ Ad secundum dico quod mens beata vel vnita 
+      <lb ed="#P" n="115"/>necessario diligit quia est quo / sed persona libere quia 
+      <lb ed="#P" n="116"/>est quod. Nota etiam quod dilectionem vel volitionem 
+      <lb ed="#P" n="117"/>vel fruitionem anime christi operata est tota trinitas. 
+      <lb ed="#P" n="118"/>tamen sola persona filii fuit volens quod / et anima 
+      <lb ed="#P" n="119"/>quo / vnde non debet concedi quod pater voluerit lachri¬ 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e950">
+                  <lb ed="#P" n="120"/>¶ mari secundum animam. nec quod pater fuerit desiderans et 
+      <lb ed="#P" n="121"/>manducare pasca. sed bene de filio qui terminabat illam 
+      <lb ed="#P" n="122"/>dependentiam. 
+      <!--223.xml-->
+      <pb ed="#P" n="102-v"/>
+                  <lb ed="#P" n="1"/>his premissis quantum ad secundum punctum 
+      <lb ed="#P" n="2"/>puius articuli sit prima conclusio. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e968">
+                  <lb ed="#P" n="3"/>¶ Sola persona diuina potest et potuit in natu 
+      <lb ed="#P" n="4"/>ra creata / de condigno mereri / probatur quia soli per 
+      <lb ed="#P" n="5"/>sone diuine conneniunt conditiones superius 
+      posite<lb ed="#P" n="6" break="no"/>ad mereri ex condigno requisite. ergo consequentia 
+      <lb ed="#P" n="7"/>nota antecedens patet inductiue de singulis 2c 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e981">
+                  <lb ed="#P" n="8"/>¶ Ex qua insero correlaria: primum quelibet 
+      ope<lb ed="#P" n="9" break="no"/>ratio christi electiua secundum naturam assumptam est 
+      <lb ed="#P" n="10"/>magis imputabilis persone christi: quam primo angelo sit 
+      <lb ed="#P" n="11"/>imputabilis sua spontanea culpa / patet quia null 
+      <lb ed="#P" n="12"/>angelus habuit in potestate suas omnes causas ad 
+      <lb ed="#P" n="13"/>suum peccare requisitas. nec quo ad eas esse / nec 
+      <lb ed="#P" n="14"/>quo ad eas causas esse: et persona christi habuit. ergo. 
+      <lb ed="#P" n="15"/>etiam quia illa persona non indigebat conseruari 
+      <lb ed="#P" n="16"/>Secundum correlarium: persona christi non 
+      ob<lb ed="#P" n="17" break="no"/>ligabatur nec tenebatur operari meritorie secundum 
+      <lb ed="#P" n="18"/>aliquam naturam. patet ex prima conditione ad 
+      ve<lb ed="#P" n="19" break="no"/>ritatem meriti requisitu. Item quia non tenebatur 
+      <lb ed="#P" n="20"/>assumere naturam creatam et in ea operari aliqua 
+      <lb ed="#P" n="21"/>liter. ergo.  
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1015">
+                  <lb ed="#P" n="22"/>¶ Tertium correlarium: licet persona christi 
+      sum<lb ed="#P" n="23" break="no"/>me perfectissimeque iusticie actualis / meritum opera 
+      <lb ed="#P" n="24"/>ta fuerit secundum naturam assumptam: tamen illa 
+      <lb ed="#P" n="25"/>assumptio nature fuit ex mere gratuita voluntate 
+      <lb ed="#P" n="26"/>trinitatis / patet istud correlarium per augustinum 
+      <lb ed="#P" n="27"/>de predestinatione sanctorum dicentem. 
+      Predesti<lb ed="#P" n="28" break="no"/>nata gratuite est ista nature humane tanta et tam ex 
+      <lb ed="#P" n="29"/>celsa et summa subuentio vt quo attolleretur altius 
+      <lb ed="#P" n="30"/>non haberet 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1037">
+                  <lb ed="#P" n="31"/>¶ Secunda conclusio: qualitercunque christus voluit 
+      <lb ed="#P" n="32"/>taliter voluit amore infinito secundum naturam 
+      di<lb ed="#P" n="33" break="no"/>uinam / et amore finito secundum naturam humanam 
+      <lb ed="#P" n="34"/>probatur impossibile fuit christum elicere velle secundum 
+      <lb ed="#P" n="35"/>naturam assumptam: non volendo id ipsum 
+      secun<lb ed="#P" n="36" break="no"/>dum naturam diuinam. ergo consequentia nota an 
+      <lb ed="#P" n="37"/>tecedens patet cum ipsa persona christi sit essentialiter 
+      <lb ed="#P" n="38"/>diuina voluntas et essentia / quicquid ergo voluit 
+      vo<lb ed="#P" n="39" break="no"/>luntate alia. vna necessario illud cum ipsa persona fuerit 
+      <lb ed="#P" n="40"/>volens secundum vtramque naturam / alioquin anima christi voluisset 
+      <lb ed="#P" n="41"/>vt quod quod non est verum ymo persona est que 
+      volu<lb ed="#P" n="42" break="no"/>it vt quod / anima vero vt quo. vnde sequitur 
+      chri<lb ed="#P" n="43" break="no"/>stus voluit / ergo persona (que est infinitus amor et 
+      <lb ed="#P" n="44"/>infinite perfectus amor) voluit / ergo infinito amo 
+      <lb ed="#P" n="45"/>re voluit quicquid voluit. et hoc voluntate 
+      increa<lb ed="#P" n="46" break="no"/>ta / sed voluntate creata finito amore voluit 
+      <lb ed="#P" n="47"/>re 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1076">
+                  <lb ed="#P" n="48"/>¶ Ex quoifero primo quod quodlibet electiue 
+      ope<lb ed="#P" n="49" break="no"/>ari christi secundum naturam assumptam: fuit 
+      infini<lb ed="#P" n="50" break="no"/>te iusticia actualis / probatur ex conclusione sic / 
+      quan<lb ed="#P" n="51" break="no"/>to actualis dilectio diuine voluntatis qua operans 
+      <lb ed="#P" n="52"/>vere diligit est in operante maior / tanto operatio eius 
+      <lb ed="#P" n="53"/>est mator iusticia / patet quia ex nullo alio dicitur in 
+      <lb ed="#P" n="54"/>sticia nisi quia diligitur. voluntas diuina siue prima 
+      <lb ed="#P" n="55"/>iusticia / sed per conclusionem persona christi per 
+      infin<lb ed="#P" n="56" break="no"/>tum amorem diuine voluntatis operabatur 
+      quodi<lb ed="#P" n="57" break="no"/>bet velle electiuum secundum voluntatem creatam 
+      <lb ed="#P" n="58"/>ergo quodlibet taliter operari seu velle / fuit 
+      infini<lb ed="#P" n="59" break="no"/>te iusticie. Confirmatur quodlibet operari christi 
+      ele<lb ed="#P" n="60" break="no"/>ctiuum secundum naturam humanam / habuit 
+      cir<lb ed="#P" n="61" break="no"/>cunstantiam infinite bonam / et infinite 
+      bonificantem<lb ed="#P" n="62" break="no"/>opus ergo fuit infinite iusticie actualis / 
+      consequen<lb ed="#P" n="63" break="no"/>tia patet sed antecedens probatur / quia circunstan¬ 
+      <!--223.xml-->
+      <lb ed="#P" n="64"/>tia personalis est simpliciter infinite bonitas actua 
+      <lb ed="#P" n="65"/>lis et ipia bonificat: quia auget imputabilitatem et est 
+      <lb ed="#P" n="66"/>intrinseca affectio qua bonificatur illa operatio 
+      ope<lb ed="#P" n="67" break="no"/>rantis / ex illa actuali affectione et ex illo amore) 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1124">
+                  <lb ed="#P" n="68"/>¶ Diceres nunquid deus concurrit cum petro ad opus 
+      <lb ed="#P" n="69"/>bonum / et deus est infinite bonus: nunquid 
+      propte<lb ed="#P" n="70" break="no"/>rea operatio petri est infinite iusticia: Dico quod non 
+      <lb ed="#P" n="71"/>nec est simile. vnde ratio quare opus petri ad quod 
+      <lb ed="#P" n="72"/>concurrit deus infinite bonus non est infinite iusticia et 
+      <lb ed="#P" n="73"/>tamen opus christi est etc. est ista. quia in opere petrius 
+      <lb ed="#P" n="74"/>principale est distinctum et totaliter extrinsecum 
+      pe<lb ed="#P" n="75" break="no"/>tro / et ob hoc non augetur sed diminuitur 
+      imputabi<lb ed="#P" n="76" break="no"/>litas operis ipsi petro: nec potest aliter esse. sic 
+      autem<lb ed="#P" n="77" break="no"/>non est de opere christi vt dictum est prius. Secunda 
+      <lb ed="#P" n="78"/>causa est quia in opere petri deus non est persona 
+      <lb ed="#P" n="79"/>cui soli. et per se attribuitur operatio illa / non enim 
+      <lb ed="#P" n="80"/>deus meretur. sed petrus. per oppositum est de chri 
+      <lb ed="#P" n="81"/>sto. ergo.  
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1157">
+                  <lb ed="#P" n="82"/>¶ Secundum correlarium quod sequitur ex 
+      con<lb ed="#P" n="83" break="no"/>clusione secunda / cum adiutorio persone est quod quodli 
+      <lb ed="#P" n="84"/>bet operari christi secundum voluntatem creatam 
+      ele<lb ed="#P" n="85" break="no"/>ctiuum / fuit acceptabile omne condigno / patet ex 
+      praemis<lb ed="#P" n="86" break="no"/>sis conclusionibus et correlariis. quia quodlibet 
+      tali<lb ed="#P" n="87" break="no"/>ter operari fuit infinite iusticia actualis / tum etiam 
+      <lb ed="#P" n="88"/>quia processit ex infinito perfecto amore iusticie. non 
+      <lb ed="#P" n="89"/>etiam alteri principaliter impntari potuit totaliter 
+      <lb ed="#P" n="90"/>extrinseco et distincto. nec illa persona tenebatur ad 
+      <lb ed="#P" n="91"/>sic operandum. nec profecit sibi scilicet persone taliter 
+      ope<lb ed="#P" n="92" break="no"/>rari. ergo hec omnia patent per predicta 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1183">
+                  <lb ed="#P" n="93"/>¶ Tertium correlarium impossibile est dare 
+      tam<lb ed="#P" n="94" break="no"/>tam et tam malam iniusticiam actualem. quanta et quam 
+      <lb ed="#P" n="95"/>bona fuit christi iusticia actualis / probatur quia 
+      quantum<lb ed="#P" n="96" break="no"/>libet nobilis creatura / ex infinito odio puerse 
+      opera<lb ed="#P" n="97" break="no"/>retur / ymo si per impossibile esset aliqua persona in 
+      <lb ed="#P" n="98"/>finite mala / que secundum totum conatum suum 
+      ma<lb ed="#P" n="99" break="no"/>et operaretur. nulla esset possibilis maior iniusticia 
+      <lb ed="#P" n="100"/>actualis quolibet huiusmodi operari possibili: et 
+      ta<lb ed="#P" n="101" break="no"/>men iusticia christi infinite ex meliori amore proce 
+      <lb ed="#P" n="102"/>debat quam tota illa latitudo odiorum possibilium vel 
+      vo<lb ed="#P" n="103" break="no"/>litionum malarum sit mala. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1210">
+                  <lb ed="#P" n="104"/>¶ Ex quo sequitur consequenter quod quelibet 
+      lati<lb ed="#P" n="105" break="no"/>tudo partialis electiue volitionis christ / incompabiliter 
+      <lb ed="#P" n="106"/>est acceptabilior omne condigno: quam infinita peccata 
+      <lb ed="#P" n="107"/>forent mala essenti 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1221">
+                  <lb ed="#P" n="108"/>¶ Ulterius sequitur quod nullius creature merita 
+      <lb ed="#P" n="109"/>nec omnium creaturarum merita simul sumpta / 
+      pos<lb ed="#P" n="110" break="no"/>sent vni latitudini volitionis christi in voluntate seu 
+      <lb ed="#P" n="111"/>valore equari 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1232">
+                  <lb ed="#P" n="112"/>¶ Tertia conclusio: licet aliqua operatio christi  
+      <lb ed="#P" n="113"/>fuerit aliqualiter infinite meritum. Ipsa tamen fuit in 
+      <lb ed="#P" n="114"/>finite maio. iusticia actualis / quam meritum / pro qua 
+      sup<lb ed="#P" n="115" break="no"/>pono quod operatio tanta latitudine est meritum precise 
+      <lb ed="#P" n="116"/>quanta mercede premianda est / et preuolita a deo. Ex 
+      <lb ed="#P" n="117"/>quo patet quod aliunde operatio christi viatoris dicitur 
+      <lb ed="#P" n="118"/>et est iusticia actualis (quia ex valore operis et ex 
+      <lb ed="#P" n="119"/>infinita perfectione persone operantis) et aliunde 
+      di<lb ed="#P" n="120" break="no"/>citur meritum / quia ex gratuita premiatione distincti 
+      prae<lb ed="#P" n="121" break="no"/>mii pro operatione ipsa / ex parte dei premiantis / et 
+      <lb ed="#P" n="122"/>predestinantis / et consequenter tribuentis 
+      merceden<lb ed="#P" n="123" break="no"/>Tunc probatur conclusio sic pro prima parte / passio 
+      <lb ed="#P" n="124"/>christi et tollerantia passionis electiua. fuit ad 
+      merce<lb ed="#P" n="125" break="no"/>dem aliqualiter infinitam a deo preordinata et 
+      pre<lb ed="#P" n="126" break="no"/>uolita et accepta. ergo consequentia nota exdictis. sed pro¬ 
+      <!--224.xml-->
+      <pb ed="#P" n="103-r"/>
+                  <lb ed="#P" n="1"/>batur antecedens: quia licet baptizati fuit in morte christi 
+      <lb ed="#P" n="2"/>gratiam tantum finitam sint consequuti et 
+      consequen<lb ed="#P" n="3" break="no"/>ter tamen recipiunt gloriam extensiue infinitam. Item 
+      <lb ed="#P" n="4"/>adultus recipit virtute meriti christi in baptismo: 
+      re<lb ed="#P" n="5" break="no"/>missionem culparum et penarum infinitarum id est non tot 
+      <lb ed="#P" n="6"/>quin plurium: etiam si haberet infinitam culpam 
+      to<lb ed="#P" n="7" break="no"/>ta remitteretur sibi ergo. Secunda conclusionis pars 
+      <lb ed="#P" n="8"/>probatur quia potuit ex condigno ad infinitos electos et 
+      <lb ed="#P" n="9"/>ad infinite intensiorem latitudinem gratie et glorie ex 
+      <lb ed="#P" n="10"/>valore operis et persone operantis acceptari ergo.  
+      <lb ed="#P" n="11"/>Correlarium quod trahitur ex dictis est quod 
+      li<lb ed="#P" n="12" break="no"/>cet anima christi potuit recipere intensiores 
+      volitio<lb ed="#P" n="13" break="no"/>nes creatas et intensiores in infinitum in esse que 
+      li<lb ed="#P" n="14" break="no"/>cet non tamen potuit recipere intensiores volitiones 
+      <lb ed="#P" n="15"/>in esse iusticie actualis. patet quia secundum naturam animam 
+      <lb ed="#P" n="16"/>christus volebat infinite bene notat enim christus 
+      <lb ed="#P" n="17"/>voluntatem diuinam que est amor infinitus iusticia 
+      <lb ed="#P" n="18"/>actualis. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1310">
+                  <lb ed="#P" n="19"/>¶ Ex quo sequitur secundo quod propter nullam 
+      <lb ed="#P" n="20"/>charitatem accidentalem inherentem anime christi 
+      <lb ed="#P" n="21"/>volutiones ipsius fuissent intensiores in esse iusticie 
+      <lb ed="#P" n="22"/>Quia bonitas amoris que deus est non potest 
+      au<lb ed="#P" n="23" break="no"/>geri per illud accidens. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1323">
+                  <lb ed="#P" n="24"/>¶ Tertium correlatium quod ex mera gratia 
+      eter<lb ed="#P" n="25" break="no"/>na est: vt operari christi fuerit meritum pro electis 
+      <lb ed="#P" n="26"/>probatur ex declaratione prime partis conclusionis 
+      <lb ed="#P" n="27"/>cum predictis. quia hoc ipsum operari christi pro 
+      sa<lb ed="#P" n="28" break="no"/>lute electorum fuit gratiosa dei voluntas eterna. et 
+      <lb ed="#P" n="29"/>exinde venit quod aliquod operari christi non fuit me¬ 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1339">
+                  <lb ed="#P" n="30"/>¶ ritum nostre redemptionis cum tamen quelibet 
+      lati<lb ed="#P" n="31" break="no"/>tudo fuerit sufficiens. vnde apostolus iustificati 
+      er<lb ed="#P" n="32" break="no"/>go gratis per gratiam ipsius: pacem habeamus ad  
+      <lb ed="#P" n="33"/>deum.  
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1351">
+                  <lb ed="#P" n="34"/>¶ Quarta conclusio nulla persona creata 
+      suf<lb ed="#P" n="35" break="no"/>ficit satisfacere pro actuali mortali / a quo non est 
+      iu<lb ed="#P" n="36" break="no"/>stificata nec pro mortali suo nec alterius. probatur 
+      <lb ed="#P" n="37"/>quia nec pro se nec pro alio potest illa persona tantum 
+      <lb ed="#P" n="38"/>bonum reddere quam malum fuit auerti a deo. et quantum 
+      <lb ed="#P" n="39"/>bonum fuisset conuerti seu inherere deo. cum ipse sit 
+      <lb ed="#P" n="40"/>priuatus vita / per quam etiam poterat in opera 
+      vita<lb ed="#P" n="41" break="no"/>lia que sola sunt tam bona: quam mala fuit culpa. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1371">
+                  <lb ed="#P" n="42"/>¶ Quinta conclusio nulla creata persona quantum 
+      <lb ed="#P" n="43"/>libet iusta sufficit satisfacere pro mortali alterius nec 
+      <lb ed="#P" n="44"/>pro pena debita peccato sibi dimisso vel alteri. 
+      pro<lb ed="#P" n="45" break="no"/>batur prima pars / quia se a creatura praestaret ipsi b 
+      be<lb ed="#P" n="46" break="no"/>neficium iustificationis a peccato prestaret sibi 
+      ma<lb ed="#P" n="47" break="no"/>ius beneficium: quam beneficium creationis secundum 
+      au<lb ed="#P" n="48" break="no"/>gustinum. Item quia qualitercumque a bene operatur 
+      <lb ed="#P" n="49"/>sibi proficit et ita satis premiatur a pro suo opere. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1391">
+                  <lb ed="#P" n="50"/>¶ Item quia nulla satisfactio pro b sufficit nec proficit 
+      <lb ed="#P" n="51"/>nisi mens b iustificetur a deo sed hoc non cadit nec 
+      <lb ed="#P" n="52"/>cadere potest sub valore meriti / persone alterius 
+      crea<lb ed="#P" n="53" break="no"/>te ergo. Item concurrunt / omnia opposita 
+      requisi<lb ed="#P" n="54" break="no"/>torum ad sufficere ex condigno in quolibet opere 
+      crea<lb ed="#P" n="55" break="no"/>ture ergo. Secunda pars probatur scilicet quod non 
+      <lb ed="#P" n="56"/>sufficit satisfacere ex condigno pro pena debita etc. 
+      <lb ed="#P" n="57"/>quia quantumlibet ipsa persona sit iustificata adhuc restat 
+      <lb ed="#P" n="58"/>alius effectus gratiosus praedestinationis scilicet 
+      bea<lb ed="#P" n="59" break="no"/>tificatio qui effectus sibi conferatur sub merito christi 
+      <lb ed="#P" n="60"/>iuxta illud gratia dei vita eterna in christo etc. ad 
+      ro<lb ed="#P" n="61" break="no"/>ma sexto subducta ergo applicatione meriti christi 
+      <lb ed="#P" n="62"/>quantum ad illum effectum secundum gratiosum a per¬ 
+      <!--224.xml-->
+      <lb ed="#P" n="63"/>petuo priuaretur vita eterna. et non nisi pro peccato 
+      <lb ed="#P" n="64"/>mortali ergo pro hac pena saltem: non sufficit nec 
+      si<lb ed="#P" n="65" break="no"/>bi nec alteri etc. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1430">
+                  <lb ed="#P" n="66"/>¶ Ex quo sequitur quod nulla creata persona 
+      po<lb ed="#P" n="67" break="no"/>tuit esse sufficiens pro redemptione generis 
+      huma<lb ed="#P" n="68" break="no"/>ni. patet ex conclusione / Et confirmatur quia 
+      quantumli<lb ed="#P" n="69" break="no"/>bet iusta creatura non sufficit pro iustificatione ab 
+      <lb ed="#P" n="70"/>originali nec ab actuali mortali. nec pro 
+      impetran<lb ed="#P" n="71" break="no"/>da latitudine meriti vel gratie pro alia mente ergo.  
+      <lb ed="#P" n="72"/>Sexta conclusio. Sola persona increata in 
+      <lb ed="#P" n="73"/>natura secundum quam mereri potuit sufficit 
+      satis<lb ed="#P" n="74" break="no"/>facere ex condigno pro mortali. probatur quia in infi 
+      <lb ed="#P" n="75"/>nitum maiorem et meliorem humilitatem exercuit 
+      fa<lb ed="#P" n="76" break="no"/>ctus obediens vsque ad mortem: quam fuerit mala 
+      om<lb ed="#P" n="77" break="no"/>nis culpa vel superbia aut inobedientia: vt ex dictis 
+      <lb ed="#P" n="78"/>patet ergo fuit sufficiens valor vt deus faceret 
+      men<lb ed="#P" n="79" break="no"/>tem iuste velle et sic suffecit pro prima gratia et 
+      secun<lb ed="#P" n="80" break="no"/>do pro quolibet bono velle. Tertio pro remissione 
+      <lb ed="#P" n="81"/>offense. Quarto pro satisfactione debite pene tam 
+      cru<lb ed="#P" n="82" break="no"/>ciatus quam priuationis et hoc concurrentibus 
+      omni<lb ed="#P" n="83" break="no"/>bus requisitis ad mereri de condigno de quibus 
+      su<lb ed="#P" n="84" break="no"/>pra ergo etc. Unde augustinus decimotertio de 
+      tri<lb ed="#P" n="85" break="no"/>nitate capitulo decimosexto tantum valuit sanguis ille 
+      <lb ed="#P" n="86"/>vt neminem indictum id est baptisatum in eterna 
+      mor<lb ed="#P" n="87" break="no"/>te detinere debuerit mortis amator: ergo conclusio 
+      <lb ed="#P" n="88"/>vera. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1482">
+                  <lb ed="#P" n="89"/>¶ Tertia pars huius articuli. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1487">
+                  <lb ed="#P" n="90"/>¶ Unc tertio pro complemento 
+      hu<lb ed="#P" n="91" break="no"/>ius articuli videudum est que bona christus 
+      <lb ed="#P" n="92"/>meruit et quibus. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1497">
+                  <lb ed="#P" n="93"/>¶ Pro quo sit prima conclusio. 
+      Om<lb ed="#P" n="94" break="no"/>ne donum post culpam ade hominibus 
+      <lb ed="#P" n="95"/>et collatum a deo: cadit sub merito christi 
+      <lb ed="#P" n="96"/>vnde non solum pro delicto ade satisfecit sed etiam 
+      <lb ed="#P" n="97"/>totum predestinationis effectum in vnoquoque 
+      pre<lb ed="#P" n="98" break="no"/>destinato promeruit. probatur ex dictis apostoli ad 
+      <lb ed="#P" n="99"/>romanos quinto non sicut delictum ita et donum: si 
+      <lb ed="#P" n="100"/>enim vnius delicto multi mortui sunt scilicet 
+      pecca<lb ed="#P" n="101" break="no"/>to originali: multo magis gratia dei et donum in 
+      gra<lb ed="#P" n="102" break="no"/>tia vnius hominis ihesu christi in plures 
+      abunda<lb ed="#P" n="103" break="no"/>uit. Ecce dicit multo magis quia in plures effectus et 
+      <lb ed="#P" n="104"/>magis condigne quam fuerit pena pro culpa / et sequitur 
+      <lb ed="#P" n="105"/>non sicut per vnum delictum ita et donum per vnum 
+      <lb ed="#P" n="106"/>scilicet in solum vnum effectum contra illud 
+      pecca<lb ed="#P" n="107" break="no"/>tum. Nam iudicium quidem ex vno in 
+      condemna<lb ed="#P" n="108" break="no"/>tionem / gratia autem ex multis delictis in 
+      iustifica<lb ed="#P" n="109" break="no"/>tionem delictis scilicet actualibus. Item etiam in 
+      <lb ed="#P" n="110"/>non electis / si vnius delicto mors regnauit per vnum 
+      <lb ed="#P" n="111"/>multo magis abundantia gratie et donationis et 
+      iu<lb ed="#P" n="112" break="no"/>ticie accipientes in vita regnabunt per vnum 
+      ihe<lb ed="#P" n="113" break="no"/>sum christum. vbi notat apostolus quattuor effectus 
+      <lb ed="#P" n="114"/>predestinationis sub christi merito cadentes / scilicet 
+      <lb ed="#P" n="115"/>abundantiam gratie donationis / et iusticie et vite eterne 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1549">
+                  <lb ed="#P" n="116"/>¶ Secunda conclusio. licet christus meruit 
+      so<lb ed="#P" n="117" break="no"/>lum electis vitam eternam quo ad efficaciam / 
+      om<lb ed="#P" n="118" break="no"/>nibus hominibus tamen ipsam meruit quo ad 
+      suffi<lb ed="#P" n="119" break="no"/>cientiam sic intelligendo quod eius operari electiue in 
+      <lb ed="#P" n="120"/>passionis tollerantia fuit sufficiens precium pro 
+      om<lb ed="#P" n="121" break="no"/>nibus saluandis prima pars patet quia soli electi 
+      ha<lb ed="#P" n="122" break="no"/>bebunt vitam eternam / et secunda pars patet ex 
+      di<lb ed="#P" n="123" break="no"/>ctis in parte precedente huius articuli. 
+      <!--225.xml-->
+      <pb ed="#P" n="103-v"/>
+                  <lb ed="#P" n="1"/>Tertia conclusio. Chrissus non solum meruit 
+      <lb ed="#P" n="2"/>predestinatis vel electis: sed etiam prestitis: pate 
+      <lb ed="#P" n="3"/>quia multi prestiti de facto sunt iustificati: et hoc in 
+      vi<lb ed="#P" n="4" break="no"/>tute mortis christi ergo. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1582">
+                  <lb ed="#P" n="5"/>¶ Quarta conclusio Tiect christus non meruerit 
+      <lb ed="#P" n="6"/>electis eorum predestinationem: ipsis tamen meruimt 
+      <lb ed="#P" n="7"/>multiplicere predestinationis effectum. probatur 
+      pri<lb ed="#P" n="8" break="no"/>ma pars quia eternum propositum voluntatis diuine 
+      <lb ed="#P" n="9"/>quo voluit ab eterno electis dare vitam eternam: non 
+      <lb ed="#P" n="10"/>potest cadere sub merito christi. quia hoc gratuitatis 
+      <lb ed="#P" n="11"/>fuit in persona diuina assumere naturam humana 
+      <lb ed="#P" n="12"/>operando in ea nostram salutem. Sed secunda pars 
+      <lb ed="#P" n="13"/>probatur per verba apostoli prealegata ad Ro. 5. 
+      <lb ed="#P" n="14"/>Item ad romanos. 8. Plures effectus prede 
+      <lb ed="#P" n="15"/>stinationis enumerat quos christus meruit electis. 
+      <lb ed="#P" n="16"/>Et sunt isti septem. Primus effectus est remissio 
+      <lb ed="#P" n="17"/>originalis culpe et collatio baptismalis gratie. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1613">
+                  <lb ed="#P" n="18"/>¶ Secundus est iustificatio per fidem ihesu christi 
+      si<lb ed="#P" n="19" break="no"/>ue venturi / quantum ad eos scilicet qui eius aduentum 
+      pre<lb ed="#P" n="20" break="no"/>cesserunt: siue qui tam venit quantum ad sequentes iam 
+      <lb ed="#P" n="21"/>adultas adhuc non baptisatis baptismo scilicet flumi 
+      <lb ed="#P" n="22"/>nis. Unde ad Ro. 3. Iustificati gratis per gratia 
+      <lb ed="#P" n="23"/>ipsius / per redemptionem que est in christo thesu 
+      quem<lb ed="#P" n="24" break="no"/>proposuit deus propiciatorem per fidem in sanguit 
+      <lb ed="#P" n="25"/>ne ipsius ad ostensionem iusticie sue propter remissio 
+      <lb ed="#P" n="26"/>nem precedentium delictorum / in sustentationem dei 
+      <lb ed="#P" n="27"/>ad ostensionem iusticie eius in hoc tempore / vt sit ipse 
+      <lb ed="#P" n="28"/>iustus et iustificans eum qui ex fide est iesn christi. 
+      Ter<lb ed="#P" n="29" break="no"/>tius effectus est agmentum gratie in sacramentis 
+      <lb ed="#P" n="30"/>confirmationis et eucharistie extreme vnctionis et 
+      <lb ed="#P" n="31"/>ordinis etc. In quibus et quorum exercitio 
+      confer<lb ed="#P" n="32" break="no"/>tur gratia et augetur latitudo iustitie merito christi 
+      <lb ed="#P" n="33"/>a quo tam efficientiam quam efficatiam et institutionem. 
+      <lb ed="#P" n="34"/>habuit. Quartus effectus est collatio prime 
+      gratie<lb ed="#P" n="35" break="no"/>post lapsum et peccatum actuale / et conuersio ipsa et 
+      <lb ed="#P" n="36"/>contritio meritoria: et omnes circunstantie ibi concui 
+      <lb ed="#P" n="37"/>rentes scilicet quod resurgat ad maiorem gratiam: et quod 
+      di<lb ed="#P" n="38" break="no"/>lor penitentialis sit simul et meritum et satisfactio 
+      pre<lb ed="#P" n="39" break="no"/>speccatis. Quintus effectus est preseruatio a 
+      pec<lb ed="#P" n="40" break="no"/>catis: et victoria temptationum / et perseuerantia 
+      fi<lb ed="#P" n="41" break="no"/>nalis et omnis excessus operis supererogationnis 
+      vt<lb ed="#P" n="42" break="no"/>dicit glosa super isto psalmi accepisti dona in 
+      homi<lb ed="#P" n="43" break="no"/>nibus: quia non solum dedit gratiam sed etiam spiritum 
+      <lb ed="#P" n="44"/>sanctum in quo clamamus alba pater. Sextus 
+      effe<lb ed="#P" n="45" break="no"/>ctus est vt infine non imputetur ad miseriam illa 
+      de<lb ed="#P" n="46" break="no"/>ficientia qua omnes deficiunt a latitudine iusticie: 
+      <lb ed="#P" n="47"/>ad quam in puncto mortis tenentur deuenisse: et 
+      sub<lb ed="#P" n="48" break="no"/>hoc clauditur operatio ianue celestis. morte 
+      quip<lb ed="#P" n="49" break="no"/>pe sua vno verissimo sacrificio quicquid culparum erat 
+      <lb ed="#P" n="50"/>delectum est. Septimus effectus est maximus et si 
+      <lb ed="#P" n="51"/>per omnem sensum vita eterna. Ex his patet quis 
+      <lb ed="#P" n="52"/>meruit que bona et quibus. Et hoc de toto tertio 
+      <lb ed="#P" n="53"/>articulo. 
+    </p>
+               <p xml:id="oooo3o-k62702-d1e1694">
+                  <lb ed="#P" n="54"/>¶ Ad tertiam rationem principalem dicendum 
+      <lb ed="#P" n="55"/>quod filius virginis non dicitur homo assumptus. Et ad 
+      <lb ed="#P" n="56"/>augustinum dico quod intelligit per hominem 
+      huma<lb ed="#P" n="57" break="no"/>nam naturam et est sensus. Si quis dicat 
+      homi<lb ed="#P" n="58" break="no"/>minem iesum id est humanitatem ihesu a filio dei non 
+      <lb ed="#P" n="59"/>essc assumptam etc. Et cum dicitur vltrafilius dei 
+      <lb ed="#P" n="60"/>non meruit. falsum est et quicquid christus filius dei hoc 
+      <lb ed="#P" n="61"/>fecit vt patet ex dictis. Et sic est finis questionis.
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

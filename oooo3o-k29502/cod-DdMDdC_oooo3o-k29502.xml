@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="46-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k29502"><!--l1d45-47q1 -->
+            <head xml:id="oooo3o-k29502-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k29502-d1e101">
+      <!--111.xml-->
+               <lb ed="#P" n="61"/>CIrca distinctionem quadra 
+      <lb ed="#P" n="62"/>gesimamquintam et consequenter vbi 
+      <lb ed="#P" n="63"/>magister agit: de voluntate 
+      di<lb ed="#P" n="64" break="no"/>uina. Quero vtrum velle dei ad 
+      <lb ed="#P" n="65"/>extra causatiuum. sit ab aliquo 
+      <lb ed="#P" n="66"/>mpedibile.
+    </p>
+            <p xml:id="oooo3o-k29502-d1e119">
+      Quod sic quia non 
+      om<lb ed="#P" n="67" break="no"/>ne volitum ad extra fit: ergo consequentia 
+      <lb ed="#P" n="68"/>nota.
+      ¶ Probatur antecedens 
+      <lb ed="#P" n="69"/>per illud luce. decimotertio. quotiens volui congre¬ 
+      <lb ed="#P" n="70"/>¶ gare filios tuos etc. et noluisti.
+      ¶ Item ad thimo. 
+      <lb ed="#P" n="71"/>prima: secundo capitulo. qui vult omnes homines 
+      <lb ed="#P" n="72"/>saluos fieri scilicet deus. et non erit: ergo.  
+    </p>
+            <p xml:id="oooo3o-k29502-d1e135">
+               <lb ed="#P" n="73"/>¶ Secundo non omne quod diuinum velle vult 
+      <lb ed="#P" n="74"/>non esse non est nec omne quod vult non fore: non est 
+      <lb ed="#P" n="75"/>nec erit ergo consequentia nota: antecedens patet de 
+      ma<lb ed="#P" n="76" break="no"/>sis culpe que sunt et erunt: et tamen deus vult ea non 
+      <lb ed="#P" n="77"/>esse. et non fore: Probatur quia precipit nefiant: ergo. 
+      <lb ed="#P" n="78"/>vult quod non fiant. 
+    </p>
+            <p xml:id="oooo3o-k29502-d1e151">
+               <lb ed="#P" n="79"/>¶ Tertio stat diuinum velle esse quod sortes libere 
+      <lb ed="#P" n="80"/>velit: et sortem posse non velle: ponatur ergo in esse 
+      <lb ed="#P" n="81"/>ergo sortes non libere vult permo nichil vult. et tamen 
+      <lb ed="#P" n="82"/>diuinum velle est: quod sortes velit.
+    </p>
+            <p xml:id="oooo3o-k29502-d1e163">
+      ¶ Oppositum 
+      pa<lb ed="#P" n="83" break="no"/>tet: per illud hester. decimotertio domine deus om¬ 
+    </p>
+            <p xml:id="oooo3o-k29502-d1e168">
+               <lb ed="#P" n="84"/>¶ nipotens in ditione tua cuncta sunt posita: et non est  
+      <lb ed="#P" n="85"/>qui possit resistere tue voluntati.
+    </p>
+            <p xml:id="oooo3o-k29502-d1e175">
+      ¶ Item apostolus  
+      <lb ed="#P" n="86"/>voluntati eius: quis resistet.
+    </p>
+            <p xml:id="oooo3o-k29502-d1e180">
+      ¶ Item in psalmo omnia. 
+      <lb ed="#P" n="87"/>quecunque voluit dominus fecit.
+    </p>
+            <p xml:id="oooo3o-k29502-d1e185">
+      ¶ Primo ponam de 
+      <lb ed="#P" n="88"/>clarationes secundo conclusiones: tertio dicam 
+      so<lb ed="#P" n="89" break="no"/>lutiones. 
+    </p>
+            <div xml:id="oooo3o-k29502-Dd1e192">
+               <head xml:id="oooo3o-k29502-Hd1e194">Articulus 1</head>
+               <p xml:id="oooo3o-k29502-d1e196">
+                  <lb ed="#P" n="90"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e201">
+                  <lb ed="#P" n="91"/>QUantum ad primum articulum: 
+      <lb ed="#P" n="92"/>Primo pro declararione huius 
+      comple<lb ed="#P" n="93" break="no"/>xi. velle dei. Primo supponendum est.  
+      <lb ed="#P" n="94"/>quod licet diuinum velle: siue voluntas 
+      di<lb ed="#P" n="95" break="no"/>2 uina: in se sit simplex: et vnica: et indisti  
+      <lb ed="#P" n="96"/>cta: tamen secundum denominationes extrinsecas: 
+      <lb ed="#P" n="97"/>multipliciter dicitur propter quod multe 
+      volunta<lb ed="#P" n="98" break="no"/>tes dicuntur: iuxta illud psalmiste: Exquisita in omper 
+      <lb ed="#P" n="99"/>nes voluntates eius. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e223">
+                  <lb ed="#P" n="100"/>¶ Dicitur autem diuinum velle quandoque vel  
+      <lb ed="#P" n="101"/>le beneplaciti. quandoque velle preceptiuum. 
+      quan<lb ed="#P" n="102" break="no"/>doque velle executorium. quandoque velle permissiuum. l 
+      <lb ed="#P" n="103"/>Uelle beneplaciti. est deus volens et 
+      signifi<lb ed="#P" n="104" break="no"/>cat eternum beneplacitum. Et potest diuidi in velle 
+      <lb ed="#P" n="105"/>simplicis complacentie. vel simplicis volitionis. quo 
+      <lb ed="#P" n="106"/>omnia opera sua sibi placent. quo modo dicitur in 
+      <lb ed="#P" n="107"/>psalmo: Tetabitur dominus in omnibus operibus 
+      <lb ed="#P" n="108"/>suis. Et in velle prosecutionis. quod prius execut¬ 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e245">
+                  <lb ed="#P" n="109"/>¶ uum vocaui. seu fuge. vel volitionis opposite. Et 
+      di<lb ed="#P" n="110" break="no"/>co diuidi diuinum velle. secundum modum 
+      protesta<lb ed="#P" n="111" break="no"/>tum in supposito: non quod realiter diuidatur. quia est vna e 
+      <lb ed="#P" n="112"/>indiuidua super simplex essentia: que deus est. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e257">
+                  <lb ed="#P" n="113"/>¶ Secundo sciendum quod velle preceptiuum (quid 
+      <lb ed="#P" n="114"/>vocatur a quibusdam velle signi) subdiuiditur. 
+      secun<lb ed="#P" n="115" break="no"/>dum quod diuisa sunt signa diuini beneplaciti. Quedam 
+      <lb ed="#P" n="116"/>i sunt signa benplaciti primo modo dicti. scilicet volunta 
+      <lb ed="#P" n="117"/>lis simplicis complacentie. cuiusmodi sunt 
+      precep<lb ed="#P" n="118" break="no"/>ta. consilia: prohibitiones etc. Quedam sunt signa 
+      <lb ed="#P" n="119"/>velle efficacis: et executorii seu prosecutionis: sicut 
+      <lb ed="#P" n="120"/>operationes et permissiones malorum. que sunt 
+      si<lb ed="#P" n="121" break="no"/>gna fuge: Sed differenter ista sunt signa. quia opera¬ 
+      <!--112.xml-->
+      <pb ed="#P" n="47-r"/>
+                  <lb ed="#P" n="1"/>tio est signum affirma: iuum p osecutionis: sed 
+      per<lb ed="#P" n="2" break="no"/>missio negatiuum signum fuge: quod enim deus 
+      per<lb ed="#P" n="3" break="no"/>mittit tantum: nec nult nec vult sed non vult (pro vt 
+      <lb ed="#P" n="4"/>7. non vult. non est vna dictio sed due) et isto modo 
+      <lb ed="#P" n="5"/>loquitur augustinus: enchiridion capitulo centesime 
+      <lb ed="#P" n="6"/>quarto. non fit aliquid nisi omnipotens fieri velit 
+      <lb ed="#P" n="7"/>vel sinendo vt fiat: vel ipsa faciendo: Etiam 
+      infra<lb ed="#P" n="8" break="no"/>capitulo centesimonono. etc. 
+      <lb ed="#P" n="9"/>
+                  <!-- line coord error -->
+               </p>
+               <p xml:id="oooo3o-k29502-d1e305">
+                  <lb ed="#P" n="10"/>Tertio sciendum: quod aliud est quandoque illud 
+      <lb ed="#P" n="11"/>quod deus vult: velle precepti. et aliud propter quia 
+      <lb ed="#P" n="12"/>vult. sicut aliud fuit quod precepit habrahe scilicet 
+      <lb ed="#P" n="13"/>immolatio filii: et aliud propter quod precepit: Et 
+      <lb ed="#P" n="14"/>lta quandoque est de prohibitione: et idem de consilio. 
+      <lb ed="#P" n="15"/>Quarto notade hoc quod in questione 
+      dici<lb ed="#P" n="16" break="no"/>tur: velle dei esse impedibile: quia hoc potest ymagina 
+      <lb ed="#P" n="17"/>ri: vel quia deus vult aliquid esse vel fieri et non est 
+      <lb ed="#P" n="18"/>neo fit. vel quia non vult fieri vel vult aliquid non fieri 
+      <lb ed="#P" n="19"/>et tamen fit: vel quia vult aliter quam fit vel quia non vult vel vult 
+      <lb ed="#P" n="20"/>non taliter fieri et taliter fit: tam respectu complexo 
+      <lb ed="#P" n="21"/>rum. quam respectu incomplexorumomnibus hiis 
+      mo<lb ed="#P" n="22" break="no"/>dis diuinum velle potest ymaginari impediri 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e336">
+                  <lb ed="#P" n="23"/>¶ Prima propositio Non semper quod deus vult 
+      <lb ed="#P" n="24"/>voluntate signi: vult voluntate beneplaciti: que 
+      vo<lb ed="#P" n="25" break="no"/>catur simplex complacentia. Patet quia precepit vsa ac 
+      <lb ed="#P" n="26"/>immolationem: et tamen non placuit libi eius 
+      immo<lb ed="#P" n="27" break="no"/>latio preceptum autem nunc voco signum. vel 
+      vo<lb ed="#P" n="28" break="no"/>luntatem signi: et eius obiectum accipio. illud quod 
+      <lb ed="#P" n="29"/>precipitur: et non illud propter quod precipitur. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e354">
+                  <lb ed="#P" n="30"/>¶ Secunda: deus aliquando voluntate 
+      signi<lb ed="#P" n="31" break="no"/>vult solum illud propter quod aliquid precipitur: et 
+      <lb ed="#P" n="32"/>non vult illud. quod praecipit: sic intelligo. quod deus 
+      quando<lb ed="#P" n="33" break="no"/>que habet velle preceptiuum: vel quod quandoque 
+      preci<lb ed="#P" n="34" break="no"/>pit aliquid: et illud preceptum. non est signum bene 
+      <lb ed="#P" n="35"/>placiti diuini. quod illud fiat quod precipitur: sed solum 
+      <lb ed="#P" n="36"/>est signum quia placet ei illud propter quod 
+      precipi<lb ed="#P" n="37" break="no"/>tur. Patet de precepto facto Abrahe: de 
+      immola<lb ed="#P" n="38" break="no"/>tione filii. que tamen deo fieri non placuit. sed 
+      ma<lb ed="#P" n="39" break="no"/>nifestatio obedientie ipsius: in hoc volendo 
+      face<lb ed="#P" n="40" break="no"/>re: quod preceptum erat: deo placuit. Item patet de 
+      <lb ed="#P" n="41"/>ceco illuminato. cui precepit iesus: vt nemini 
+      dice<lb ed="#P" n="42" break="no"/>ret. et tamen clamando. et dicendo: non peccauit: 
+      se<lb ed="#P" n="43" break="no"/>cundum quod dicit magister. sed illud fuit factum ad 
+      <lb ed="#P" n="44"/>stumifinem: quod non appetamus laudem hominum pro 
+      <lb ed="#P" n="45"/>pter bona facta nostra. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e391">
+                  <lb ed="#P" n="46"/>¶ Tertia non omne quod est volitum volun 
+      <lb ed="#P" n="47"/>tate signi: est volitum voluntate efficaci. vel 
+      execu<lb ed="#P" n="48" break="no"/>toria. patet quia quicquid deus precipit: hoc vult 
+      vo<lb ed="#P" n="49" break="no"/>luntate signi: iuxta predicta. et tamen non omne 
+      ta<lb ed="#P" n="50" break="no"/>le efficit. vel exequitur. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e404">
+                  <lb ed="#P" n="51"/>¶ Quarta deus multa dicitur velle permissiue 
+      <lb ed="#P" n="52"/>que tamen non potest velle. voluntate precepti. nec 
+      <lb ed="#P" n="53"/>voluntate efficaci. patet de malis culpe. Ubi nota. q 
+      <lb ed="#P" n="54"/>quando velle dei accipitur pro beneplacito 
+      execu<lb ed="#P" n="55" break="no"/>torio: tunc proprie est causa efficiens: quando autem 
+      <lb ed="#P" n="56"/>accipitur pro permittere esse: vel fieri: in hac permissione 
+      <lb ed="#P" n="57"/>multiplex est differentia: Nam quandoque deus per  
+      <lb ed="#P" n="58"/>mittit creaturam sic operari. et voluntate simplicis 
+      <lb ed="#P" n="59"/>complacentie: non complacet in illo sic velle opera 
+      <lb ed="#P" n="60"/>ri. nichilominus est causa partialis rei sic effecte: 
+      quando<lb ed="#P" n="61" break="no"/>que permittit creaturam sic operari et cum hoc 
+      sim<lb ed="#P" n="62" break="no"/>plici complacentia complacet. Exemplum primi: 
+      <lb ed="#P" n="63"/>voluntatem odire proximum: exemplum secundi. ignem 
+      <!--112.xml-->
+      <lb ed="#P" n="64"/>calefacere lignum: primum dicitur non velle. non 
+      au<lb ed="#P" n="65" break="no"/>tem dicitur velle aut nolle proprie Sed secundum 
+      pro<lb ed="#P" n="66" break="no"/>rie dicitur velle.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e444">
+      ¶ Item nota: quod deum facere 
+      so<lb ed="#P" n="67" break="no"/>la voluntate: dupliciter intelligitur. vnomodo sic quod 
+      <lb ed="#P" n="68"/>non eget aliqua virtute distincta a suo velle. 
+      Alio<lb ed="#P" n="69" break="no"/>modo quia respectu cuiuslibet: respectu cuius: vult ali 
+      <lb ed="#P" n="70"/>qualiter esse: efficit illud aliqualiter esse: hec enim 
+      dif<lb ed="#P" n="71" break="no"/>ferunt valde: Nam deus vult. possibile esse 
+      possibi<lb ed="#P" n="72" break="no"/>te: et tamen non efficit illud: ex quo sequitur. quod 
+      om<lb ed="#P" n="73" break="no"/>ne facere dei. est velle dei: sed non econtra. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e462">
+                  <lb ed="#P" n="74"/>¶ Quinta licet in casu aliquis faciendo 
+      contra<lb ed="#P" n="75" break="no"/>voluntatem signi: faciat vnum actum volitum a dco 
+      <lb ed="#P" n="76"/>esse. vel fieri: voluntate efficaci: tamen peccat: faciem 
+      <lb ed="#P" n="77"/>do sicut deus vult eum facere voluntate efficaci seu 
+      <lb ed="#P" n="78"/>beneplaciti.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e475">
+      ¶ Primo pars patet: faciens actum 
+      <lb ed="#P" n="79"/>prohibitum peccat: et per consequens facit 
+      contra<lb ed="#P" n="80" break="no"/>velle signi: seu preceptum: et tamen deus efficit cum 
+      <lb ed="#P" n="81"/>eo istum actum.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e484">
+      ¶ Confirmatur. per anselmum 
+      pri<lb ed="#P" n="82" break="no"/>no cur deus homo capitulo decimoquinto: qui 
+      po<lb ed="#P" n="83" break="no"/>lit de hoc exemplum. quia si omnia que sub celo 
+      con<lb ed="#P" n="84" break="no"/>tinentur vellent fugere de celo quanto magis fugerent 
+      <lb ed="#P" n="85"/>a celo: tanto magis appropinquarent celo. sic si 
+      ho<lb ed="#P" n="86" break="no"/>mo malus et angelus: diuine voluntati: et 
+      ordinatio<lb ed="#P" n="87" break="no"/>ni: nolit subiacere: non tamen eam fugere valet. quia 
+      <lb ed="#P" n="88"/>si fugere vult de voluntate iubente: currit sub 
+      volun<lb ed="#P" n="89" break="no"/>tate puniente. sicut patet auctoritate gregorii super 
+      <lb ed="#P" n="90"/>genesim: et ponitur libro primo di. 77. capitulo 
+      se<lb ed="#P" n="91" break="no"/>cundo multi inquit voluntatem dei peragunt. vnde 
+      <lb ed="#P" n="92"/>mutare contendunt: et consilio eius resistentes: 
+      ob<lb ed="#P" n="93" break="no"/>ecuntur. quia hoc eius dispositioni militat: quod per 
+      <lb ed="#P" n="94"/>umanum studium resultat. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e515">
+                  <lb ed="#P" n="95"/>¶ Sexta. licet quandoque deus aliud faciat quam prae 
+      <lb ed="#P" n="96"/>cipiat: nullum tamen facit facere contra preceptum 
+      <lb ed="#P" n="97"/>Prima pars patet. quia deus non precipit fieri actum 
+      <lb ed="#P" n="98"/>qui est odium dei. et tamen efficit illud vel coefficit: 
+      <lb ed="#P" n="99"/>ecunda pars patet. quia non facit aliquem peccare. 
+      <lb ed="#P" n="100"/>nec facit sortem odire. etc. et hoc de isto complexo vel 
+      <lb ed="#P" n="101"/>le dei. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e533">
+                  <lb ed="#P" n="102"/>¶ Secundum complexum est. ad extra 
+      causati<lb ed="#P" n="103" break="no"/>uum. pro quo sciendum est: quod diuinum velle: aliquam 
+      <lb ed="#P" n="104"/>do dicitur causare ad extra: efficientia: vel 
+      influen<lb ed="#P" n="105" break="no"/>tia generali: quandoque speciali 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e545">
+                  <lb ed="#P" n="106"/>¶ Pro quo vlterius notandum est. quod isti termini 
+      <lb ed="#P" n="107"/>coefficere: concausare: concurrere: iuuare: auxiliar 
+      <lb ed="#P" n="108"/>et similes: notant deum esse causam partialem. Sed 
+      <lb ed="#P" n="109"/>isti influere: causare: agere: efficere: et consimiles: sunt 
+      <lb ed="#P" n="110"/>magis communes: et notant deum agere: et 
+      dicun<lb ed="#P" n="111" break="no"/>tur de ipso etiam si solus aliquid causaret.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e561">
+      ¶ 
+      Se<lb ed="#P" n="112" break="no"/>cundo sciendum: quod cum dicitur deum influere: 
+      influ<lb ed="#P" n="113" break="no"/>cu speciali: quia ly speciale potest denotare. vel modum 
+      <lb ed="#P" n="114"/>agendi specialem non vsitatum: vniuersaliter. et 
+      sem<lb ed="#P" n="115" break="no"/>per in omnibus. vt si deus: sic coageret sorti: quod in 
+      me<lb ed="#P" n="116" break="no"/>dia hora: se transferret de roma ad parisius. etc. 
+      hu<lb ed="#P" n="117" break="no"/>iusmodi. hic esset specialitas in modo agendi. vel 
+      <lb ed="#P" n="118"/>potest ly speciale aliomodo denotare perfectiorem 
+      <lb ed="#P" n="119"/>gradum in effectu: quam secundum vsitatum modum et 
+      <lb ed="#P" n="120"/>cursum consuetum: effici possit ab aliqua causa. vt si 
+      <lb ed="#P" n="121"/>faceret deus sorti (qui non potest naturali sua 
+      poten<lb ed="#P" n="122" break="no"/>tia actiua consueta portare pondus maius centum 
+      <lb ed="#P" n="123"/>librarum) quod portaret pondus. 2oo. librarum. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e590">
+                  <lb ed="#P" n="124"/>¶ Tertio nota: quod dicitur agere specialiter vel 
+      <lb ed="#P" n="125"/>coagere dupliciter. vnomodo. quia inusitato modo agitur 
+      <!--113.xml-->
+      <pb ed="#P" n="47-v"/>
+                  <lb ed="#P" n="1"/>circa aliquem effectum. Alio modo quia speciali 
+      mo<lb ed="#P" n="2" break="no"/>do facit causam esse causam: respectu alicuius effe 
+      <lb ed="#P" n="3"/>ctus: respectu cuius non esset causa. si primo modo 
+      <lb ed="#P" n="4"/>scilicet respectu effectus: hoc contingit dupliciter 
+      <lb ed="#P" n="5"/>vno modo. quando cum eadem causa producit 
+      ma<lb ed="#P" n="6" break="no"/>iorem effectum: vt si cum sole dato: produceret lume 
+      <lb ed="#P" n="7"/>septuplum in isto hemisperio. siue etiam effectum ex 
+      <lb ed="#P" n="8"/>tensiorem. Alio modo quia velocius facit illum 
+      effe<lb ed="#P" n="9" break="no"/>ctum quam faceret illud agens: sine tali efficientia 
+      spe<lb ed="#P" n="10" break="no"/>ciali: vt si graue vt. 4. faceret descendere eque velo 
+      <lb ed="#P" n="11"/>citer: sicut graue vt centum: Si vero secundo modo 
+      <lb ed="#P" n="12"/>scilicet quod speciali modo facit causam esse causam: 
+      <lb ed="#P" n="13"/>hoc etiam contingit dupliciter vno modo quando 
+      <lb ed="#P" n="14"/>se solo facit causam esse causam aliquorum effectuum 
+      <lb ed="#P" n="15"/>quorum non esset alias. nec esse posset causa 
+      com<lb ed="#P" n="16" break="no"/>pleta partialis. vt sunt boni actus voluntatis. Alio 
+      <lb ed="#P" n="17"/>modo quando nen se solo (sed mediante habitu 
+      su<lb ed="#P" n="18" break="no"/>per naturali. actualiter inclinante: et simul cum deo 
+      <lb ed="#P" n="19"/>concurrente) facit creaturam esse causam partialem 
+      <lb ed="#P" n="20"/>dictorum effectuum. vt est habitus charitatis. et 
+      lu<lb ed="#P" n="21" break="no"/>men glorie in beatis: et licet deus possit talium 
+      ha<lb ed="#P" n="22" break="no"/>bituum causalitatem supplere: tamen non sic 
+      com<lb ed="#P" n="23" break="no"/>peteret creature: efficere tales effectus: sine ipsis si 
+      <lb ed="#P" n="24"/>cut cum ipsis eo quod dicti habitus computantur vt no 
+      <lb ed="#P" n="25"/>stra bona: ex gratia dantis. ergo habemus potiorem 
+      <lb ed="#P" n="26"/>efficientiam cum ipsis quam sine ipsis: scilicet habitibus. 
+      <lb ed="#P" n="27"/>his premissis sit de ista materia prima 
+      propo<lb ed="#P" n="28" break="no"/>sitio.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e662">
+      ¶ Concursus diuine voluntatis ad extra: 
+      ve<lb ed="#P" n="29" break="no"/>eius coefficere: cum causa non libera: non dicitur / 
+      <lb ed="#P" n="30"/>prie iuuamentum. vel auxilium. vel adiutorium 
+      spi<lb ed="#P" n="31" break="no"/>ciale: patet quia non iuuat causam dictam proprie 
+      ci<lb ed="#P" n="32" break="no"/>etiam sic posset causare quod causa secunda nichil 
+      pos<lb ed="#P" n="33" break="no"/>set facere. vt si moueret vel descendere faceret 
+      gra<lb ed="#P" n="34" break="no"/>ue vt quattuor in instanti per medium resistens: ibi 
+      <lb ed="#P" n="35"/>non esset iuuamentum: quia ibi causa secunda nichil a 
+      <lb ed="#P" n="36"/>geret. patet ergo cum specialiter coagit cum causa 
+      <lb ed="#P" n="37"/>non libera: non dicitur iuuare. sed pure efficere. 
+      ve<lb ed="#P" n="38" break="no"/>coefficere speciali modo. Iuuare enim: est facere 
+      il<lb ed="#P" n="39" break="no"/>lam rem que iuuatur magis actiuam. ipsa non 
+      au<lb ed="#P" n="40" break="no"/>cta essentialiter. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e691">
+                  <lb ed="#P" n="41"/>¶ Ex quo sequitur quod causa naturalis non libera 
+      <lb ed="#P" n="42"/>ceteris paribus non posset nec potest in maiorem 
+      efa<lb ed="#P" n="43" break="no"/>fectum: nisi vigoretur: verbigratia sol non potest in 
+      <lb ed="#P" n="44"/>maius lumen: nisi vigoretur. Ideo si deus 
+      produce<lb ed="#P" n="45" break="no"/>ret lumen maius a sole: non esset proprie coefficere 
+      <lb ed="#P" n="46"/>soli: sed efficere pure dei: lucis illius maioris. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e707">
+                  <lb ed="#P" n="47"/>¶ Secunda speciale coefficere diuinc voluntatis  
+      <lb ed="#P" n="48"/>ad extra: dicitur auxilium. vel iuuamen speciale 
+      so<lb ed="#P" n="49" break="no"/>lum respectu cause libere. Patet quia nullus iuuatur 
+      <lb ed="#P" n="50"/>nisi sponte iuuari velit 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e719">
+                  <lb ed="#P" n="51"/>¶ Tertia. respectu nullius volitionis culpabili/ 
+      <lb ed="#P" n="52"/>ter male: diuinum velle est coefficientia specialis. sed 
+      <lb ed="#P" n="53"/>solum generalis patet. quia tota latitudo ipsius 
+      coes<lb ed="#P" n="54" break="no"/>ficere specialis in effectu: videtur esse a solo deo: et 
+      <lb ed="#P" n="55"/>go cum deus non possit esse causa: vt quis malus sit etc 
+      <lb ed="#P" n="56"/>Ex qua sequitur quod ad malum culpe mortalis deo 
+      <lb ed="#P" n="57"/>non iuuante sufficit sola voluntas creata: stante 
+      con<lb ed="#P" n="58" break="no"/>cursu generali.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e739">
+      ¶ Probatur per beatum 
+      augusti<lb ed="#P" n="59" break="no"/>num libro secundo de baptismo paruulorum capitulo 
+      <lb ed="#P" n="60"/>secundo. Sicut oculus non eget iuuari a luce: vel a 
+      <lb ed="#P" n="61"/>deo: vt non videat: nec videns vt false credat: vel in 
+      <lb ed="#P" n="62"/>peritus vt non scientifice cognoscat: sic voluntas 
+      <!--113.xml-->
+      <lb ed="#P" n="63"/>ad malui vt deficiat: alias deus esset autor malo 
+      <lb ed="#P" n="64"/>rum 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e757">
+                  <lb ed="#P" n="65"/>¶ Quarta. omne speciale coefficere dei et auxi 
+      <lb ed="#P" n="66"/>lium: vel iuuamen: est respectu bene agere tantum et 
+      <lb ed="#P" n="67"/>non respectu male agere. Patet ex premissis. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e766">
+                  <lb ed="#P" n="68"/>¶ Ex qua infero. quod in quolibet actu merendi cum t 
+      <lb ed="#P" n="69"/>voluntate creata: concurrit deus citra gradum 
+      ne<lb ed="#P" n="70" break="no"/>cessitandi. patet quia quilibet talis actus: est liber libet 
+      <lb ed="#P" n="71"/>tate contradictionis: 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e777">
+                  <lb ed="#P" n="72"/>¶ Quinta licet latitudo coefficientie specialis 
+      to<lb ed="#P" n="73" break="no"/>ta: vt specialis dicitur: in effectu qui est essentia pro 
+      <lb ed="#P" n="74"/>ducta) sit mere coefficientia solius dei (vt assumitur 
+      <lb ed="#P" n="75"/>in probatione tertie immediate premisse) tamen ideo 
+      <lb ed="#P" n="76"/>dicitur creatura coefficere deo: quia istius totius 
+      coes<lb ed="#P" n="77" break="no"/>ficientie partem in quam creatura coefficit 
+      Exem<lb ed="#P" n="78" break="no"/>plum effictat deus cum sole: speciale lumen 
+      septu<lb ed="#P" n="79" break="no"/>plum respectu illius quod sol posset. et de facto 
+      po<lb ed="#P" n="80" break="no"/>test: cum coefficientia generali: tunc in toto isto 
+      lu<lb ed="#P" n="81" break="no"/>mine: est aliquid a solo deo productum. scilicet sex per 
+      <lb ed="#P" n="82"/>tes illius luminis. et respectu istorum: deus dicitur 
+      <lb ed="#P" n="83"/>agere coefficientia speciali: sed quia in totali isto 
+      lumi<lb ed="#P" n="84" break="no"/>ne est pars septima: quam coefficit sol cum deo: ideo 
+      <lb ed="#P" n="85"/>dicitur coefficere specialiter: et sol deo: et deus soli¬ 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e810">
+                  <lb ed="#P" n="86"/>¶ Sexta. solam causam liberam contingit non 
+      au<lb ed="#P" n="87" break="no"/>ctam essentialiter: esse magis et minus conantem id est 
+      ma<lb ed="#P" n="88" break="no"/>iorem effectum agere et minorem: ceteris causis non 
+      <lb ed="#P" n="89"/>liberis: vniformiter stantibus. Patet quia causam non 
+      <lb ed="#P" n="90"/>liberam non contingit. etc. per correlarium prime 
+      hu<lb ed="#P" n="91" break="no"/>ius ordinis propositionum: et liberam contingit: quia 
+      <lb ed="#P" n="92"/>experimur nos quandoque idem obiectum intentiori 
+      <lb ed="#P" n="93"/>actu velle: quandoque remissiori. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e831">
+                  <lb ed="#P" n="94"/>¶ Ex qua sequitur septima quod deus non est 
+      cau<lb ed="#P" n="95" break="no"/>sale adiutorium: nisi respectu voluntatis create. nec 
+      <lb ed="#P" n="96"/>essepotest respectu alterius adiutorium proprie: vel 
+      <lb ed="#P" n="97"/>auxilium speciale: quam respectu voluntatis create. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e842">
+                  <lb ed="#P" n="98"/>¶ Ex predictis trahuntur descriptiones 
+      coeffi<lb ed="#P" n="99" break="no"/>cientie generalis: et specialis.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e849">
+      ¶ Unde influentia  
+      <lb ed="#P" n="100"/>vel coefficientia dei generalis: est coefficientia de 
+      <lb ed="#P" n="101"/>cum creatura: tanta quantam exigit creature actiuitas. 
+      <lb ed="#P" n="102"/>vel creaturam et deum taliter coefficere (scilicet 
+      co<lb ed="#P" n="103" break="no"/>efficientia generali) est deum precise coagere taliter 
+      <lb ed="#P" n="104"/>qualiter creatura a deo accepit. posse effectualiter a 
+      <lb ed="#P" n="105"/>gere.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e865">
+      ¶ Deum autem sic coagere: est facere causam 
+      <lb ed="#P" n="106"/>creatam esse causam: taliter qualiter: causa ex 
+      natu<lb ed="#P" n="107" break="no"/>rali potentia a deo recepta: potest.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e872">
+      ¶ Unde quia 
+      gra<lb ed="#P" n="108" break="no"/>ue vt quattuor potest mouere .b. aliqua velocitate 
+      <lb ed="#P" n="109"/>proportionabili grauitati vt quattuor si modo deus 
+      <lb ed="#P" n="110"/>ad tantam velocitatem precise concurrit: tunc dicitur 
+      <lb ed="#P" n="111"/>concurrere: influentia: vel concursu generali. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e883">
+                  <lb ed="#P" n="112"/>¶ Concurrere autem deum concursu vel 
+      coeffi<lb ed="#P" n="113" break="no"/>cientia speciali est ipsum efficere vel agere supra im 
+      <lb ed="#P" n="114"/>duminstitutum vel supra modum actiuitatis 
+      crea<lb ed="#P" n="115" break="no"/>ture. non dico contra quia dei coefficere non est 
+      contra<lb ed="#P" n="116" break="no"/>causam aliquam vnquam. quamuis aliquando sit supra. 
+      Spe<lb ed="#P" n="117" break="no"/>cialis ergo coefficientia vel speciale auxilium vel in 
+      <lb ed="#P" n="118"/>uamentum est deum actuare creaturam in sua 
+      par<lb ed="#P" n="119" break="no"/>tiali actiuitate. vel est deum complere semipartiale 
+      <lb ed="#P" n="120"/>coefficere creature ad aliqualiter vel aliquid agen 
+      <lb ed="#P" n="121"/>dum sic quod subducto illo iuuamento vel 
+      complemen<lb ed="#P" n="122" break="no"/>te (stante etiam influentia generali quantacunque circa 
+      <lb ed="#P" n="123"/>effectum) non ageret aliquidista causa creata de hu¬ 
+      <!--114.xml-->
+      <pb ed="#P" n="48-r"/>
+                  <lb ed="#P" n="1"/>iusmodi effectu hoc reperitur in voluntate respectu 
+      <lb ed="#P" n="2"/>bonorum actuum quia ad hoc quod voluntas producat 
+      <lb ed="#P" n="3"/>actum meritorium sex requiruntur primum vt remo 
+      <lb ed="#P" n="4"/>ueatur prohibens scilicet peccatum Secundum 
+      vei<lb ed="#P" n="5" break="no"/>approximetur passum scilicet obiectum volibile. 
+      Ter<lb ed="#P" n="6" break="no"/>tium vt adiungatur causa scilicet charitas. Quartum 
+      <lb ed="#P" n="7"/>(vt inclinetur liberum arbitrium. Quintum vt 
+      con<lb ed="#P" n="8" break="no"/>currat deus coefficientia generali ad substantiam 
+      a<lb ed="#P" n="9" break="no"/>ctus. Sextum vt concurrat speciali auxilio ad facienm 
+      <lb ed="#P" n="10"/>dum actum esse meritorium: de istis vide infra li bro 
+      <lb ed="#P" n="11"/>secundo. q. ii. Ex quibus infero quod diffe rentia est 
+      in<lb ed="#P" n="12" break="no"/>ter influentiam generalem: efficientiam specialem: au 
+      <lb ed="#P" n="13"/>xilium generale: et gratiam specialem: et hec de 
+      pri<lb ed="#P" n="14" break="no"/>mo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k29502-Dd1e948">
+               <head xml:id="oooo3o-k29502-Hd1e950">Articulus 2</head>
+               <p xml:id="oooo3o-k29502-d1e952">
+                  <lb ed="#P" n="15"/>QUantum ad secundum articulum 
+      <lb ed="#P" n="16"/>sit suppositio prima deus est simpliciter 
+      <lb ed="#P" n="17"/>prima entitas: apocalipsis primo 
+      ego<lb ed="#P" n="18" break="no"/>sum alpha et o primus et nouissimus. 
+      <lb ed="#P" n="19"/>Secunda suppositio simpliciter in 
+      <lb ed="#P" n="20"/>finitum est summe necessarium seu sum 
+      <lb ed="#P" n="21"/>me necesse esse et econuerso. Patet quia tam 
+      immen<lb ed="#P" n="22" break="no"/>sum simpliciter quam summe necessarium includunt 
+      per<lb ed="#P" n="23" break="no"/>fectione i in summo. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e974">
+                  <lb ed="#P" n="24"/>¶ Tertia suppositio. necessitas simpliciter 
+      abso<lb ed="#P" n="25" break="no"/>luta et contingentia formaliter repugnant eidem. sic 
+      <lb ed="#P" n="26"/>quod cuicunque conuenit simpliciter necesse esse ab eodem 
+      <lb ed="#P" n="27"/>remouetur contingens qualitercunque formatur et 
+      <lb ed="#P" n="28"/>cuicunque conuenit contingentia ab eodem 
+      remoue<lb ed="#P" n="29" break="no"/>tur necesse vel necessitas: Patent ista ex secundo 
+      pe<lb ed="#P" n="30" break="no"/>riarmenias: et per rationes formales vtriusque 
+      scili<lb ed="#P" n="31" break="no"/>cet necessarii absolute et contingentis. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e994">
+                  <lb ed="#P" n="32"/>¶ Quarta suppositio que sequitur ex duabus 
+      <lb ed="#P" n="33"/>premissis : quod simpliciter infinitum et contingens 
+      for<lb ed="#P" n="34" break="no"/>maliter repugnant eidem. sic scilicet quod nichil eidem 
+      <lb ed="#P" n="35"/>potest contingens et simpliciter infinitum omnibus 
+      <lb ed="#P" n="36"/>modis et immensum conuenire: Patet quia quicquid 
+      <lb ed="#P" n="37"/>formaliter repugnat vni conuertibilium et alteri. istis 
+      <lb ed="#P" n="38"/>suppositis (capiendo agere dei ad extra pro 
+      actio<lb ed="#P" n="39" break="no"/>ne transeunte: pro vt extra distinguitur contra 
+      pro<lb ed="#P" n="40" break="no"/>ducere ad intra) sit de questionis supposito hec 
+      pri<lb ed="#P" n="41" break="no"/>ma conclusio. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1018">
+                  <lb ed="#P" n="42"/>¶ Contingentia divine actionis ad extra 
+      om<lb ed="#P" n="43" break="no"/>nium contingentiarum est prima causa: Probatur 
+      <lb ed="#P" n="44"/>per primam suppositionem quia deus est prima entitas 
+      <lb ed="#P" n="45"/>ergo eius actionis contingentia est prima. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1030">
+                  <lb ed="#P" n="46"/>¶ Correlarium si non esset contingentia diuine 
+      <lb ed="#P" n="47"/>actionis ad extra nichil esset contingenter nec foret. 
+      <lb ed="#P" n="48"/>Patet quia non existente primo etc. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1039">
+                  <lb ed="#P" n="49"/>¶ Secunda conclusio licet velle dei causatiuum 
+      <lb ed="#P" n="50"/>ad extra sit simpliciter infinitum et necessarium: quod 
+      <lb ed="#P" n="51"/>libet tamen eius agere ad extra seu quelibet eius. 
+      <lb ed="#P" n="52"/>ctio ad extra (que dicitur transiens) est simpliciter 
+      con<lb ed="#P" n="53" break="no"/>tingens et finita.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1052">
+      ¶ Prima pars patet quia diuinum 
+      <lb ed="#P" n="54"/>velle causatiuum etc. est ipsa deitas que est summe in 
+      <lb ed="#P" n="55"/>finita.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1059">
+      ¶ Secunda pars probatur per 
+      suppositio<lb ed="#P" n="56" break="no"/>nes secundam tertiam et quartam Si detur opposi 
+      <lb ed="#P" n="57"/>tum scilicet quod actio dei etc. sit infinita tunc sic agere 
+      <lb ed="#P" n="58"/>dei ad eetra est infinitum ergo ipsum est necessarium 
+      <lb ed="#P" n="59"/>per secundam suppositionem: et vl tra ergo non est 
+      <lb ed="#P" n="60"/>contingens per tertiam suppositionem: quod est 
+      con<lb ed="#P" n="61" break="no"/>tra primam conclusionem.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1075">
+      ¶ Item si tale agere est 
+      <!--114.xml-->
+      <lb ed="#P" n="62"/>necessarium: ergo deus ad extra agit necessarie quod 
+      <lb ed="#P" n="63"/>est falsun. Probatur consequentia per locum a 
+      ca<lb ed="#P" n="64" break="no"/>sibus et coniugatis quos ponit philosophus 
+      secun<lb ed="#P" n="65" break="no"/>do et primo thopicorum et boetius similiter vnde a 
+      <lb ed="#P" n="66"/>pud eos bene sequitur si iusticia est bona: ergo quod 
+      <lb ed="#P" n="67"/>iustum est bonum est etc. ergo quod iuste fit bene fit. 
+      <lb ed="#P" n="68"/>ergo sic in proposito sequitur. Si infinitum est neces 
+      <lb ed="#P" n="69"/>sarium (vt dicit prima suppositio) ergo quod 
+      infini<lb ed="#P" n="70" break="no"/>te fit necessa rio fit. ergo quod infinite agit 
+      necessa<lb ed="#P" n="71" break="no"/>rio agit quod fuit probandum.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1101">
+      ¶ Confirmatur per 
+      <lb ed="#P" n="72"/>quartam suppositionem Si deus contingenter agit 
+      <lb ed="#P" n="73"/>ad extra: ergo eius actio ad extra est contingens. 
+      <lb ed="#P" n="74"/>consequentia ista patet per dictos scilicet per philo 
+      <lb ed="#P" n="75"/>sophum et boetium vt prius. tunc vltra actio dei ad 
+      <lb ed="#P" n="76"/>extra est contingens: ergo non est infinita ad 
+      extra<lb ed="#P" n="77" break="no"/>per quartam suppositionem. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1118">
+                  <lb ed="#P" n="78"/>¶ Correlarium actio dei ad extra non est deus 
+      <lb ed="#P" n="79"/>Patet quia nichil simpliciter contingens est deus. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1125">
+                  <lb ed="#P" n="80"/>¶ Secundum deum ad extra agere non est per 
+      <lb ed="#P" n="81"/>fectionis in deo Patet quia nichil contingens est 
+      per<lb ed="#P" n="82" break="no"/>fectionis in deo.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1134">
+      ¶ Item. deus quandoque nichil a 
+      <lb ed="#P" n="83"/>git ad extra et tamen non fuit minus perfectus tunc 
+      <lb ed="#P" n="84"/>quam nunc 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1141">
+                  <lb ed="#P" n="85"/>¶ Tertium deus solum finite concurrit ad ex 
+      <lb ed="#P" n="86"/>tra Patet ex predictis. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1148">
+                  <lb ed="#P" n="87"/>¶ Tertia conclusio. latitudo diuine actionis ad  
+      <lb ed="#P" n="88"/>extra: penes eius terminum vel effectum precise est  
+      <lb ed="#P" n="89"/>attendenda.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1157">
+      ¶ Probatur tanta est precise 
+      perfe<lb ed="#P" n="90" break="no"/>ctio diuine actionis ad extra: quanta est perfectio 
+      termi<lb ed="#P" n="91" break="no"/>ni vel effectus producti: ergo. consequentia nota: sed 
+      <lb ed="#P" n="92"/>probatur antecedens: quia non minor. vt notum est nec 
+      <lb ed="#P" n="93"/>maior quia iste gradus perfectionis quo actio 
+      excede<lb ed="#P" n="94" break="no"/>ret effectum esset omnino frustra: cum nichil sibi 
+      cor<lb ed="#P" n="95" break="no"/>responderet in termino producto. relinquitur ergo 
+      <lb ed="#P" n="96"/>quod equalis.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1176">
+      ¶ Item confirmatur quia dicta actio est 
+      <lb ed="#P" n="97"/>dem realiter cum termino producto. vide de hoc 
+      e<lb ed="#P" n="98" break="no"/>gidium libro secundo di. prima questione vndecia qui 
+      <lb ed="#P" n="99"/>diffuse declarat creationem rerum non differre a 
+      ter<lb ed="#P" n="100" break="no"/>mino: nisi secundum rationem vel respectum. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1187">
+                  <lb ed="#P" n="101"/>¶ Correlarium. stat diuinum agere ad extra in 
+      <lb ed="#P" n="102"/>esse actionis intendi et remitti: Patet cum sit 
+      fini<lb ed="#P" n="103" break="no"/>tum etc. hic aduerte quod licet creare sit finitum 
+      age<lb ed="#P" n="104" break="no"/>re: non potest tamen communicari creature: et ratio 
+      <lb ed="#P" n="105"/>est quia taliter agere requirit independentiam agen  
+      <lb ed="#P" n="106"/>tis taliter: ita quod creare est independenter agere. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1203">
+                  <lb ed="#P" n="107"/>¶ Quarta conclusio pro responsione ad quesitum  
+      <lb ed="#P" n="108"/>omnis lex est possibilis ad vtrunlibet: viatori quem qo 
+      <lb ed="#P" n="109"/>obligat.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1212">
+      ¶ Probatur quia frustra imponeretur viato 
+      <lb ed="#P" n="110"/>ri lex quam nullo modo posset adimplere vel 
+      prete<lb ed="#P" n="111" break="no"/>rire: saltem lex obligans sub pena culpe. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1219">
+                  <lb ed="#P" n="112"/>¶ Correlarium. velle dei executorium ad extra t 
+      <lb ed="#P" n="113"/>non est lex obligans creatum arbitrium.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1226">
+      ¶ Patet q 
+      <lb ed="#P" n="114"/>quia tale velle est infrustrabile et intransgressibile Tex 
+      <lb ed="#P" n="115"/>lutem obligans etc. est transgressibilis per 
+      conclu<lb ed="#P" n="116" break="no"/>sionem ergo maior est scripture (vt allegatum est 
+      su<lb ed="#P" n="117" break="no"/>ra) quia non est qui possit resistere sue voluntati. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1238">
+                  <lb ed="#P" n="118"/>¶ Et confirmatur quia non stat velle dei 
+      execi<lb ed="#P" n="119" break="no"/>torium de .b. et non esse b vel fore: et tamen stat 
+      legen<lb ed="#P" n="120" break="no"/>precipere michi quod .b. sit in a et b non fore in a. ergo.  
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1247">
+                  <lb ed="#P" n="121"/>¶ Secundum si foret aliqua creatura rationalis. 
+      <!--115.xml-->
+      <pb ed="#P" n="48-v"/>
+                  <lb ed="#P" n="1"/>non libera: ipsa non esset aliqua lege obligabilis. in 
+      <lb ed="#P" n="2"/>telligendo obligari sub pena peccati. Patet 
+      percon<lb ed="#P" n="3" break="no"/>clusionem quia illa non posset ex se siue ex 
+      impossibili<lb ed="#P" n="4" break="no"/>tate sua ad vtrumlibet precepti. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1265">
+                  <lb ed="#P" n="5"/>¶ Tertium. nullus peccat volendo vel faciendo 
+      <lb ed="#P" n="6"/>llud quod deus efficaciter vel executiue vult eum. 
+      <lb ed="#P" n="7"/>velle vel facere. Patet quia tale velle necessitat rem 
+      vo<lb ed="#P" n="8" break="no"/>litam esse: nec est lex vt dicit conclusio 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1276">
+                  <lb ed="#P" n="9"/>¶ Ex quo patet responsio ad questionem dictam 
+      <lb ed="#P" n="10"/>de velle efficaci seu executorio scilicet quod ipsum nul 
+      <lb ed="#P" n="11"/>lomodo impeditionis supradicto in articulo primo 
+      <lb ed="#P" n="12"/>potest impediri. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1287">
+                  <lb ed="#P" n="13"/>¶ Quinta conclusio licet velle dei vt est signi 
+      ve<lb ed="#P" n="14" break="no"/>precepti sit lex obligatoria rationalis creature: eidem 
+      <lb ed="#P" n="15"/>tamen legi potest ipsa rationalis creatura sine 
+      culpa<lb ed="#P" n="16" break="no"/>mortali difformiter agere Prima pars patet quia 
+      pre<lb ed="#P" n="17" break="no"/>cepta obligant vt patet ex multis passibus 
+      scriptu<lb ed="#P" n="18" break="no"/>re et doctorum.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1303">
+      ¶ Secunda similiter patet de 
+      pec<lb ed="#P" n="19" break="no"/>cato veniali quod est contra legem et preceptum ergo.  
+      <lb ed="#P" n="20"/>Correlarium tale velle potest impediri 
+      quol<lb ed="#P" n="21" break="no"/>bet modorum impeditionis predictorum in articul 
+      <lb ed="#P" n="22"/>lo primo Patet quia multa fiunt que deus 
+      volunta<lb ed="#P" n="23" break="no"/>te signi vult non fieri id est precipit non fieri. simili. 
+      <lb ed="#P" n="24"/>ter multa non fiunt que precipit fieri. et multa taliter 
+      <lb ed="#P" n="25"/>fiunt qualiter fieri non precipit. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1322">
+                  <lb ed="#P" n="26"/>¶ Secundum. nullus peccat volendo vel faciendo 
+      <lb ed="#P" n="27"/>quod deus ipsum velle vel facer e precipit. Patet 
+      <lb ed="#P" n="28"/>quia tenetur velle quod deus precipit sibi vt velit 
+      nul<lb ed="#P" n="29" break="no"/>lus autem tenetur velle qualiter velle est peccare et 
+      <lb ed="#P" n="30"/>go.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1335">
+      ¶ Ex dictis apparet quid dicendum sit ad que 
+      <lb ed="#P" n="31"/>stionem et quo modo velle dei ad extra est 
+      impedibi<lb ed="#P" n="32" break="no"/>le et quomodo non 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k29502-Dd1e1343">
+               <head xml:id="oooo3o-k29502-Hd1e1345">Articulus 3</head>
+               <p xml:id="oooo3o-k29502-d1e1347">
+                  <lb ed="#P" n="33"/>QUantum ad tertium articulum 
+      re<lb ed="#P" n="34" break="no"/>spondeo ad rationes principales Ad 
+      <lb ed="#P" n="35"/>primam si intelligatur antecedens de 
+      ve<lb ed="#P" n="36" break="no"/>lito voluntate signi conceditur: et suum 
+      <lb ed="#P" n="37"/>consequens iuxta intellectum primi 
+      cor<lb ed="#P" n="38" break="no"/>relarii quinte conclusionis Si autem intelligatur an 
+      <lb ed="#P" n="39"/>tecedens de volito voluntate efficaci vel executoria 
+      <lb ed="#P" n="40"/>negandum est. vt patet ex tertio correlario. quarte 
+      <lb ed="#P" n="41"/>conclusionis.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1369">
+      ¶ Ad auctoritates respondet magit 
+      <lb ed="#P" n="42"/>ster satis in di. 4. 6. primi libri vide ibi. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1374">
+                  <lb ed="#P" n="43"/>¶ Ad secundam patet ex quinta conclusione et 
+      <lb ed="#P" n="44"/>correlariis eiusdem. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1381">
+                  <lb ed="#P" n="45"/>¶ Ad tertiam dico quod stat deum velle volunta 
+      <lb ed="#P" n="46"/>te signi vel precepti sortem libere velle puta mereri 
+      <lb ed="#P" n="47"/>eticum hoc sortem non mereri. quia tale velle potest 
+      in<lb ed="#P" n="48" break="no"/>pediri Sed non stat deum simul efficaciter etc. et 
+      sor<lb ed="#P" n="49" break="no"/>tem non mereri.
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1395">
+      ¶ Diceres ergo sortes non 
+      libe<lb ed="#P" n="50" break="no"/>re meretur quia posito quod deus sic velit de fancto 
+      effica<lb ed="#P" n="51" break="no"/>citer quod sortes mereatur in a hora libere: tunc per 
+      re<lb ed="#P" n="52" break="no"/>sponsionem sortes non poterit non mereri ergo non 
+      <lb ed="#P" n="53"/>libere: Respondeo sine preiudicio melioris 
+      doctri<lb ed="#P" n="54" break="no"/>ne quod adhuc sortem mereri est simpliciter contingens 
+      <lb ed="#P" n="55"/>licet ipsum mereri sit necessario consequens ad 
+      dcum<lb ed="#P" n="56" break="no"/>ipsum velle efficaciter etc. quia sic deum velle 
+      efficaci<lb ed="#P" n="57" break="no"/>ter est contingens ergo contingenter vult sortem effi 
+      <lb ed="#P" n="58"/>caciter velle libere. 
+    </p>
+               <p xml:id="oooo3o-k29502-d1e1417">
+                  <lb ed="#P" n="59"/>¶ Et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

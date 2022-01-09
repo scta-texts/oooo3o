@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="62-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k38729"><!--l2d6q1 -->
+            <head xml:id="oooo3o-k38729-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k38729-d1e101">
+      <!--142.xml-->
+               <pb ed="#P" n="62-r"/>
+               <lb ed="#P" n="1"/>CIrca materiam distinctionis sexte
+      <lb ed="#P" n="2"/>Quero vtrum angelus possit se mouere 
+      lo<lb ed="#P" n="3" break="no"/>caliter.
+    </p>
+            <p xml:id="oooo3o-k38729-d1e114">
+      Quod non / Angelus non potest esse in 
+      loce<lb ed="#P" n="4" break="no"/>ergo probo antecedens / si angelus sit in loco / sit 
+      <lb ed="#P" n="5"/>ergo ille loco a. tunc si b angelus est in a / ergo 
+      <lb ed="#P" n="6"/>potest esse in quolibet loco equali a consequens 
+      <lb ed="#P" n="7"/>est impossibile. quia tunc posset esse in loco quantuncumque longo.  
+      <lb ed="#P" n="8"/>cum sibi nulla figura loci repugnet. probatio. consequentie. sit 
+      lo<lb ed="#P" n="9" break="no"/>xus a quattuor pedum / certum est quod a potest extendi 
+      qua<lb ed="#P" n="10" break="no"/>drangularitur in infinitum / vel non tam longe quin longius / et 
+      quanto<lb ed="#P" n="11" break="no"/>longius extenditur tanto strictius fit. et non videtur quod figura 
+      <lb ed="#P" n="12"/>tio loci aliqua angelo repugnet. sicut non repugna 
+      <lb ed="#P" n="13"/>aque quod possit esse in quantolibet paruo stricto loco / igitur. 
+      <lb ed="#P" n="14"/>¶ Secundo quia sequitur quod indiuisibile 
+      possein<lb ed="#P" n="15" break="no"/>moueri localiter. quod est contra sextum phisicorum. quia tunc 
+      con<lb ed="#P" n="16" break="no"/>tinuum successiuum ex indiuisibilibus componentur. / quod est 
+      <lb ed="#P" n="17"/>similiter impossibile secundum philosophum ibidem. 
+    </p>
+            <p xml:id="oooo3o-k38729-d1e147">
+               <lb ed="#P" n="18"/>¶ Tertio sequitur quod posset se mouere localiter 
+      <lb ed="#P" n="19"/>in instanti / vel in non tpere. quod videtur falsum / consequentia probatur. quia 
+      <lb ed="#P" n="20"/>nichil resisteret angelo. cum sit indiuisibile / quare nec 
+      me<lb ed="#P" n="21" break="no"/>dium nec mobile causaret resistentiam. 
+    </p>
+            <p xml:id="oooo3o-k38729-d1e158">
+               <lb ed="#P" n="22"/>¶ Oppositum patet per casum luciseri de quo 
+      <lb ed="#P" n="23"/>magitur in listera. Item per scripturam luce 16. ingressus angelus 
+      <lb ed="#P" n="24"/>ad eam scilicet mariam etc. Item vsaias / volauit ad me vnus 
+      <lb ed="#P" n="25"/>de seraphim. Item actuum. 1 dixit angelus petro 
+      seque<lb ed="#P" n="26" break="no"/>re me et praecesserunt vnum. Item de tobia.
+    </p>
+            <p xml:id="oooo3o-k38729-d1e172">
+      ¶ Responsio:
+      pri<lb ed="#P" n="27" break="no"/>mus articulus erit de supposito / seu implicito in questione 
+      <lb ed="#P" n="28"/>Utrum angelus possit esse in loco de quo est difficultas prim 
+      <lb ed="#P" n="29"/>a rgumeti. Secundus erit de que sito et materia secundi 
+      argu<lb ed="#P" n="30" break="no"/>menti. Tertius erit vtrum angelus se mutare possit 
+      ilora<lb ed="#P" n="31" break="no"/>liter in non tempore / de quo petit tertium argumentum
+      </p>
+            <div xml:id="oooo3o-k38729-Dd1e185">
+               <head xml:id="oooo3o-k38729-Hd1e187">Articulus 1</head>
+               <p xml:id="oooo3o-k38729-d1e189">
+                  <lb ed="#P" n="32"/>Quantum ad primum articulum premitto diuisiones 
+      <lb ed="#P" n="33"/>Prima ex quo angelus est indiuisibilis / ipsum esse in loco 
+      indiu<lb ed="#P" n="34" break="no"/>sibiliter oportet quod potest dupliciter intelligi. Uno modo sic quod 
+      ali<lb ed="#P" n="35" break="no"/>quis sito punctualis et indiuisibilis sibi correspondeat et 
+      <lb ed="#P" n="36"/>quodlibet quantum distat diuisibiliter ab ipso / secundum quam libr partem sui. 
+      <lb ed="#P" n="37"/>sicut quantum a puncto. et ille sensus est falsus. quia non est 
+      ymi<lb ed="#P" n="38" break="no"/>ginandum de angelo vel anima / quod possit sic punctualiter esse 
+      <lb ed="#P" n="39"/>rerum natura. imino si sic esset: in nullo loco esset 
+      diffini<lb ed="#P" n="40" break="no"/>tiue. quia punctus non est aliquid. nec anima potest perficere 
+      cor<lb ed="#P" n="41" break="no"/>pus sic inextensum. Secundo modo potest intelligi indiuisibiliter id es 
+      <lb ed="#P" n="42"/>cuilibet parti loci adest angelus indiuisibilis existens sic quod 
+      <lb ed="#P" n="43"/>nihil eius abest alicui parti / et sic dicitur anima esse in corpere 
+      grandi<lb ed="#P" n="44" break="no"/>et deus sic dicitur vbique esse. et iste intellectus est veru. quia licet 
+      ange<lb ed="#P" n="45" break="no"/>los non habeat partes / sicut nec anima: potest tamen adesem habenti partes 
+      <lb ed="#P" n="46"/>Secunda diuisio esse in loco contingit tripliciter 
+      <lb ed="#P" n="47"/>Primo modo propriissie. et sic est anmbiri corpre locante / vel aliquid 
+      <lb ed="#P" n="48"/>esse in corpe locante / commensuratiue. vt locatum in loco. sicut 
+      <lb ed="#P" n="49"/>aqua est in vase. Secundo modo dicitur aliquid esse in loco minus 
+      <lb ed="#P" n="50"/>proprie vtscilicet aliquid dicitur asistere partibiliter prtibilitati alteri 
+      <lb ed="#P" n="51"/>us et vnum anbit reliquum extrisecum sibi / vel extricise 
+      anbi<lb ed="#P" n="52" break="no"/>ents ips et sic diceremus duo corpa glorificata locari si de 
+      <lb ed="#P" n="53"/>us poneret ea simul. Et vnum proprie est locb alterius 
+      <lb ed="#P" n="54"/>Tertio modo alquid dicitur esse in loco diffinitiue et hocem esse hic 
+      <lb ed="#P" n="55"/>ita quod non alibi. Et sic angelus dicitur esse in loco. 
+      <lb ed="#P" n="56"/>hs premissis sit prima conclusio angelus non 
+      <lb ed="#P" n="57"/>dicitur esse in loco praecise propter operari in loco. probatur 
+      <lb ed="#P" n="58"/>prarticulum parisiensem. 2 4. c. 7. inter antiquos quae est quod 
+      <lb ed="#P" n="59"/>substantie seperate sunt alicubi propter operationnem / et quod non 
+      <lb ed="#P" n="60"/>possunt moueri de extremo in extremum nec in mediu 
+      <lb ed="#P" n="61"/>nisi quia possunt velle operari: aut in medio / aut in extremis 
+      <lb ed="#P" n="62"/>error. si in telligatur sine operatione subiectum / vel substantia 
+      <!--142.xml-->
+      <lb ed="#P" n="63"/>non esse in loco. nec transire de loco ad locum¬ 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e263">
+                  <lb ed="#P" n="64"/>¶ Secunda conclusio angelus non potest esse 
+      in<lb ed="#P" n="65" break="no"/>quantolibet magno locoquiescenter. et hoc dico virtu 
+      <lb ed="#P" n="66"/>te sua propria. probatur. quia secundum magistrum 
+      <lb ed="#P" n="67"/>Iohannem Dama sed libro. 2. c. 3 cum angeli sunt 
+      <lb ed="#P" n="68"/>i celo non sunt in terra. et cum ad terram mittuntur non remanent 
+      <lb ed="#P" n="69"/>in celo. vnde dicit angeli non possunt hic et illic esse et operari 
+      <lb ed="#P" n="70"/>ex quo sequitur quod est aliquantus locus cui angelus non potest esse 
+      <lb ed="#P" n="71"/>praesens quiescentu 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e283">
+                  <lb ed="#P" n="72"/>¶ Tertia conclusio licet sit ceitum quod angelus possita 
+      <lb ed="#P" n="73"/>esse in loco ex se. et quod possit esse sine loco / tamen non est certu 
+      <lb ed="#P" n="74"/>an ibi determinet tantam loci quantitatem sic quod ex se non 
+      pos<lb ed="#P" n="75" break="no"/>sit esse in maiori nec in minori sicut de facto quodlibet 
+      <lb ed="#P" n="76"/>corpus facit / prima parus nota est per magistrm in mintis locis 
+      di<lb ed="#P" n="77" break="no"/>3. 41. 5. et 6. libri secundi.
+    </p>
+               <p xml:id="oooo3o-k38729-d1e299">
+      ¶ Secunda similiter patet: quia certum est quo 
+      <lb ed="#P" n="78"/>deus possem seruare angelu sun loco sicut cum loco. Tertia 
+      <lb ed="#P" n="79"/>parus patet: quia vtraque pars videtur equaliter posse sustineri. scilicet 
+      <lb ed="#P" n="80"/>quod sic et quod non. nec videntur plures vel fortiores rationes 
+      <lb ed="#P" n="81"/>pro vna parte / quam pro alia tamen credo negatiuam magis veram 
+      <lb ed="#P" n="82"/>quam coloro per hoc / quod anima non sibi determinat corpus 
+      perfe<lb ed="#P" n="83" break="no"/>ctibile certe quantitatis / isto modo quod non possit perficere 
+      ma<lb ed="#P" n="84" break="no"/>lius nec minus. sic videtur rationabiliter dicendum de angelo 
+      <lb ed="#P" n="85"/>respectu loci. 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e320">
+                  <lb ed="#P" n="86"/>¶ Quarta conclusio probabile est angelum posse esse  
+      <lb ed="#P" n="87"/>non in tam pruo loco / qui possit esse in minori quamuis 
+      oppo<lb ed="#P" n="88" break="no"/>situm sine priculo et forte eque probabiliter posse sustineri: 
+      lo<lb ed="#P" n="89" break="no"/>quor semper de loco continuo. vnde sic tenet scotus li. 2. di. 
+      <lb ed="#P" n="90"/>2. et videtur facere pro eo quod anima non potest perficere quantumlibet 
+      <lb ed="#P" n="91"/>peruum corpus et sic per eum siue angelus non potest esse in quantolibet 
+      <lb ed="#P" n="92"/>magno loco / existendo seu assistendo cuilibet parti ita nec 
+      <lb ed="#P" n="93"/>quantolibet peruo: sed probo conclusionem sic: quia nullus est loce 
+      <lb ed="#P" n="94"/>quo non habeat minorem pro loco prerciali. cui tamen totus ipse 
+      <lb ed="#P" n="95"/>angelus assistit: et non est necesse si assistat vni / quod assistat 
+      <lb ed="#P" n="96"/>alteri partiali et sic: tenet magis vgolius. verum est quod ista 
+      ra<lb ed="#P" n="97" break="no"/>tio videtur eque probare de anima. 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e349">
+                  <lb ed="#P" n="98"/>¶ Quinta conclusio possibile est locum esse non 
+      ma<lb ed="#P" n="99" break="no"/>ioris quantitatis quam prius et tamen angelus non erit praesens / 
+      cuili<lb ed="#P" n="100" break="no"/>bet parti cui erat praesens prius. patet sic de quadrato quat 
+      <lb ed="#P" n="101"/>tuor pedum fuit sic quod attingat vsque ad celum diuidendo 
+      <lb ed="#P" n="102"/>per medium et addendo ad longius. Ratio est. quia non potest 
+      <lb ed="#P" n="103"/>substantia angeli ita distanter esse quaescentur nec ex minorati 
+      <lb ed="#P" n="104"/>one latitudinis loci efficere potens vt sic sic distans 
+      a<lb ed="#P" n="105" break="no"/>celo vsque ad terram. patet etiam per casum prim argui. 
+      prin<lb ed="#P" n="106" break="no"/>cipalis et ex hoc patet solutio eiusdem argumenti 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e371">
+                  <lb ed="#P" n="107"/>¶ Sexta conclusio angelus potest esse in pluribus 
+      <lb ed="#P" n="108"/>locis totaliter distinctis quaescenter. non est dubium de potem 
+      <lb ed="#P" n="109"/>tia diuina: sed videtur michi quod etiam vertute propria dummodo 
+      <lb ed="#P" n="110"/>illa loca non plus distarent quam partes loci totalis 
+      max<lb ed="#P" n="111" break="no"/>mi in quo potest esse: vel minimi in quo non potest. probatur: quia 
+      <lb ed="#P" n="112"/>anima intellectiua perficit partes continuas sicut sanguinem et 
+      <lb ed="#P" n="113"/>carnem. et partes non continuas sicut medulam et 
+      sangui<lb ed="#P" n="114" break="no"/>nem. sic ergo posset angelus sumere corpus quod si diuidatur 
+      <lb ed="#P" n="115"/>non est necesse angelum non esse presentem partibus. 
+      <lb ed="#P" n="116"/>Septima conclusio quod etiam plures angeli possunt 
+      <lb ed="#P" n="117"/>esse in eodem loco: saltem vertute diuina. patet: quia legio de 
+      <lb ed="#P" n="118"/>monum fuit in eodem obsessio. vel in porcis. vnde Ricardo 
+      <lb ed="#P" n="119"/>q. deturminate / demones non habent propria corpora alias 
+      <lb ed="#P" n="120"/>non potuissent esse plures in eodem loco ex quo videtur quod 
+      <lb ed="#P" n="121"/>ctiam vrtute propria: quia vaertute diuina plura corpora potest 
+      <lb ed="#P" n="122"/>esse simul in eodem loco. Ex dictis sequuntur correlaria e 
+      <lb ed="#P" n="123"/>Primum est: aut est dare maximum locum in quo potest 
+      <lb ed="#P" n="124"/>angelus quiescenter: vel munimumi in quo non potest: ex. 2. et quod 
+      <!--143.xml-->
+      <pb ed="#P" n="62-v"/>
+                  <lb ed="#P" n="1"/>et. 4. conclusi onibus. conuenientius tamen datur maximum in quo 
+      <lb ed="#P" n="2"/>non sicut de anima intellectiua. 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e421">
+                  <lb ed="#P" n="3"/>¶ Secundum quia non tenet ista consequentia b potest esse in a loco 
+      <lb ed="#P" n="4"/>totali: ergo potest esse in quolet quantitatiue equali. patet ex quita 
+      <lb ed="#P" n="5"/>Tertium quia non semper quae sunt eidem praesentia: et assistunt ei 
+      <lb ed="#P" n="6"/>dem vel sunt similis eidem: sunt silis sibi. vel interse. patet ex. 6. 
+      conclu<lb ed="#P" n="7" break="no"/>¶ Quartum: quod nullus locus est ange. naturalis: 
+      pa<lb ed="#P" n="8" break="no"/>tet quia tunc quilicet alius esset sibi violentus. hec est scoti 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e437">
+                  <lb ed="#P" n="9"/>¶ Quintum non semper quod naturali virtute assistit. 
+      <lb ed="#P" n="10"/>vel praesens est extremis distantibus coexistit vel est in 
+      me<lb ed="#P" n="11" break="no"/>dio. patet ex probatione sexte conclusionis. 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e446">
+                  <lb ed="#P" n="12"/>¶ Sextum: quod concedenda sunt consequenter de angelo 
+      <lb ed="#P" n="13"/>que non implicant esse vel fieri ab elio exsente in diuersis 
+      <lb ed="#P" n="14"/>locis puta quod simul potest moueri in diuersis locis et quie 
+      <lb ed="#P" n="15"/>scere etc. quod patet per sextam conclusione. Ultimo videtur quod quam 
+      <lb ed="#P" n="16"/>to est perfectior angelus: tanto potest esse in loco maiori. 
+      <lb ed="#P" n="17"/>hoc tenet: altissi. li. 2. patet ex praedictis quo angelus: potest 
+      <lb ed="#P" n="18"/>esse in loco diffinitiue et non circunscriptiue¬ 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e465">
+                  <lb ed="#P" n="19"/>¶ Pro solutione argumenri primi principale. 
+      dicen<lb ed="#P" n="20" break="no"/>dum est: quod angelo non repugnat esse in loco quantumlicet stricto 
+      <lb ed="#P" n="21"/>tenendo quartam conclusionem: sed non potest esse per se in locoquam 
+      <lb ed="#P" n="22"/>tumlibet logo.
+    </p>
+               <p xml:id="oooo3o-k38729-d1e476">
+      ¶ Pro primcipali. proposito huius artici 
+      <lb ed="#P" n="23"/>li: videlet quod angelus sit in loco diffinitiue: non 
+      coextense<lb ed="#P" n="24" break="no"/>vel commensuratiue: seu circumscriptiue: est venerabilis 
+      <lb ed="#P" n="25"/>hugo de sancto victore: de sacrament li. 1. per. 3. ca. 18. quie 
+      di<lb ed="#P" n="26" break="no"/>cit spiritum creatum non esse in loco sed localem esse sande 
+      dubitatio<lb ed="#P" n="27" break="no"/>ne Et subdit: corpus quod dimensionem habet: loco circun 
+      <lb ed="#P" n="28"/>scribitur. quia ei secundumlocum primcipium medium et finis assignatur 
+      <lb ed="#P" n="29"/>puns non qui dimensionem non capit sed diffinitione sola 
+      te<lb ed="#P" n="30" break="no"/>minatur circunscriptionem non recipit loci et tamen loco quo 
+      <lb ed="#P" n="31"/>dammodo concluditur. quandam sil hic vel alicubi praesens sit totos ali 
+      <lb ed="#P" n="32"/>bi non inuenitur. No. tamen quod loco circunmscribi: quandoque capitur / 
+      <lb ed="#P" n="33"/>contineri vel concludi loco et sic bene conuenit angelo. sed 
+      <lb ed="#P" n="34"/>non coextendi loco. Et isto modo intelligit damascenus li. 
+      <lb ed="#P" n="35"/>3. ca. 3. cum dicit cum per verbum igitur creati sunt ones angeli: Et 
+      <lb ed="#P" n="36"/>sequitur circunscriptibiles: cum ei sunt in celo non sunt in terra 
+      <lb ed="#P" n="37"/>et subditur in intellectualibus locis sunt: non corperaliter 
+      <lb ed="#P" n="38"/>circunscripti. non enim corperaliter secundum naturam 
+      figura<lb ed="#P" n="39" break="no"/>tur neque tres habent dimensiones sed quia intellectualiter assunt 
+      <lb ed="#P" n="40"/>et operammur vbicumque iussi fuerit etc.
+    </p>
+               <p xml:id="oooo3o-k38729-d1e518">
+      ¶ Eandem 
+      senten<lb ed="#P" n="41" break="no"/>tiam ponit li. pri. ca. 16. 17. 18 concordat magitur li. primo 
+      <lb ed="#P" n="42"/>di. 3 7. vide ibi et hec de. primo articulo 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k38729-Dd1e526">
+               <head xml:id="oooo3o-k38729-Hd1e528">Articulus 2</head>
+               <p xml:id="oooo3o-k38729-d1e530">
+                  <lb ed="#P" n="43"/>QUantum ad secundum articulum vtrum 
+      <lb ed="#P" n="44"/>angelus possit se mouere localiter: sit hec 
+      <lb ed="#P" n="45"/>prima conclusio. Angelus potest seipsum mouere 
+      <lb ed="#P" n="46"/>localiter. probatur quia angelus non 
+      determi<lb ed="#P" n="47" break="no"/>nat sibi necessario istum locum: in quo est. quia 
+      <lb ed="#P" n="48"/>nullus locus est sibi naturalis ergo potest esse in alio et vi 
+      <lb ed="#P" n="49"/>detur possibile quod vertute sua propria percialiter: se faciat in 
+      a<lb ed="#P" n="50" break="no"/>tio loco igitur. Concordat huic conclusioni ambrosius li. de 
+      <lb ed="#P" n="51"/>spiritus sancto. et allegatur a magistro li. 1. senimarum di. 37. vbiditer se 
+      <lb ed="#P" n="52"/>raphin de loco ad locum transit. non enim complet omnia. 
+      concor<lb ed="#P" n="53" break="no"/>dat etiam scriptura in multis locis. vnde de christo 
+      accesse<lb ed="#P" n="54" break="no"/>runt angeli et minstrabant ei. Item de angelo thobie. etc 
+      <lb ed="#P" n="55"/>Secunda conclusio. angelus potest se mouem. 
+      locali<lb ed="#P" n="56" break="no"/>ter: praeter hoc quod assumat corpus aliquod: quod moueat. 
+      proba<lb ed="#P" n="57" break="no"/>tur quia cum a ngelus de celo empireo. descendit vsque ad 
+      <lb ed="#P" n="58"/>terram: non potest a ssumetur corpus quousque perueiat ad 
+      conc<lb ed="#P" n="59" break="no"/>ruum orbis lune. ergo saltem vsque illuc mouetur: sand 
+      cor<lb ed="#P" n="60" break="no"/>pore assumpto. quod sufficit pro conclusione. antecedens patet quia non 
+      ai<lb ed="#P" n="61" break="no"/>sumit speram vel partem spere celestis. alias corrumper 
+      <!--143.xml-->
+      <lb ed="#P" n="62"/>vel diuideret celum: in descensu suo. quod non est verum 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e578">
+                  <lb ed="#P" n="63"/>¶ Tertia conclusio. tam in assumpto corpore. quam absque 
+      <lb ed="#P" n="64"/>corpere assumpto: potest se mouere localiter in motu continuo. 
+      <lb ed="#P" n="65"/>probatur. quod absque corpere quia non est dubium qui cum corpere 
+      pos<lb ed="#P" n="66" break="no"/>nt) Et arguo sic no obstante indiuisibilitate angeli: an 
+      <lb ed="#P" n="67"/>gelus est in loco diuisibili. secundum praedicta in arti. praecedente 
+      <lb ed="#P" n="68"/>ergo potest libere successiue esse in minori vel in maiori ct 
+      <lb ed="#P" n="69"/>tra minimum in quo non potest. Item angelus quando fuit cum 
+      <lb ed="#P" n="70"/>thobiamouebat b corpus continne ergo per prius 
+      cau<lb ed="#P" n="71" break="no"/>saliter mouebat se continue et successiue. 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e600">
+                  <lb ed="#P" n="72"/>¶ Ex hoc infero correlaria. primum est: quod opinio 
+      <lb ed="#P" n="73"/>hibernici li. secundo. q. 6. non est vera (vt videu) quando dicit: 
+      <lb ed="#P" n="74"/>quod angelus non potest moueri localiter a se: nisi per 
+      acci<lb ed="#P" n="75" break="no"/>dens. scilicet ad motum corperis non tamen negat: qui possit 
+      an<lb ed="#P" n="76" break="no"/>gelus moueri adeo localiter: et successiue et 
+      subito<lb ed="#P" n="77" break="no"/>sicut deo place. et in hoc dicit verum. sed primum non 
+      videi<lb ed="#P" n="78" break="no"/>verum: per dctans rationes hibernici. et solutiones vide 
+      in<lb ed="#P" n="79" break="no"/>scripto ollrot super sententias li. 2. q. 4. in respone ad 
+      qui<lb ed="#P" n="80" break="no"/>tum primcipale. 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e622">
+                  <lb ed="#P" n="81"/>¶ Secundo infero quod ad motum localem angeli etiam 
+      si<lb ed="#P" n="82" break="no"/>ne corpere assumpto. non sequitur continuum componi ex 
+      indiuisi<lb ed="#P" n="83" break="no"/>contra motiuum praedicte opinionis: patet illud: ex quo angelo 
+      <lb ed="#P" n="84"/>coexistit locus quantus 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e634">
+                  <lb ed="#P" n="85"/>¶ Tertio sequitur: quod non minus componentur continuum 
+      <lb ed="#P" n="86"/>ex indiuisibilibus: si deus moueret angelum successiue 
+      lo<lb ed="#P" n="87" break="no"/>caliter et motu continuo: quam sy angelus moueretur 
+      conti<lb ed="#P" n="88" break="no"/>nue: a se ipso patet quia quicquid sequitur necessario ad ali 
+      <lb ed="#P" n="89"/>quid semper sequitur ad illud: a quocumque illud ponatur. et 
+      <lb ed="#P" n="90"/>tamen doctor praedictus concedit quod angelus potest moueri loca 
+      <lb ed="#P" n="91"/>liter non cum corpere a deo ergo tantum sequitur illud 
+      inconue<lb ed="#P" n="92" break="no"/>niens quod inducit scilicet quod si angelus moueretur a se ipso 
+      lo<lb ed="#P" n="93" break="no"/>caliter cum sit indiui. continuum componeretur ex indiuisibilibus 
+      <lb ed="#P" n="94"/>etc. hoc enim idem sequeretur si angelus moueretur adeo sicut 
+      <lb ed="#P" n="95"/>si moueretur a seipisco 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e660">
+                  <lb ed="#P" n="96"/>¶ Quarto sequitur quod non oportet one quod per se 
+      mo<lb ed="#P" n="97" break="no"/>uetur localiter: esse parti in termino a quo: et parti in termino ad  
+      <lb ed="#P" n="98"/>quem. patet de angelo. quia non habet partem. et partem. sed sufficit quod ipse 
+      <lb ed="#P" n="99"/>hebeat partem de primo termino localiter. distincto immedia 
+      <lb ed="#P" n="100"/>te a loco verbi primo erat / et partem de loco ad quem 
+      <lb ed="#P" n="101"/>etc et hoc soluum aliud motiuum predicti doctoris  
+    </p>
+               <p xml:id="oooo3o-k38729-d1e676">
+                  <lb ed="#P" n="102"/>¶ Quinto sequitur quod non oportet in omni motu 
+      succe<lb ed="#P" n="103" break="no"/>siuo / datur resistentiam medii vel mobilus. patet iterum. quia motos 
+      <lb ed="#P" n="104"/>otet esse liber et libere elicitus.
+    </p>
+               <p xml:id="oooo3o-k38729-d1e685">
+      ¶ Sexto et vltimo sequitur quod 
+      <lb ed="#P" n="105"/>contigit dare duos motus / quorum vnus est cum resistentia / et 
+      <lb ed="#P" n="106"/>alter sine resistentia: et tamen illum qui est cum resistentia esse velocio 
+      <lb ed="#P" n="107"/>rem: quam illum qui est sande resistentia. patet: quia angelus potest moueri 
+      ve<lb ed="#P" n="108" break="no"/>locitur et tarde sicut vult cum libetur mouetur: ignis vero nion igi¬ 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k38729-Dd1e697">
+               <head xml:id="oooo3o-k38729-Hd1e699">Articulus 3</head>
+               <p xml:id="oooo3o-k38729-d1e701">
+                  <lb ed="#P" n="109"/>QUantum ad tertium articulum 
+      sci<lb ed="#P" n="110" break="no"/>licet vtrum angelus possit se mutare lo  
+      <lb ed="#P" n="111"/>caliter / in non tempore praemirto primo pro ar  
+      <lb ed="#P" n="112"/>ticuli intellectu propositiones
+    </p>
+               <p xml:id="oooo3o-k38729-d1e712">
+      ¶ Quarum in 
+      <lb ed="#P" n="113"/>prima sit ista. a. angelum mutari de 
+      lo<lb ed="#P" n="114" break="no"/>co ad locum puta de celo ad terram / non est solum a prius 
+      <lb ed="#P" n="115"/>fuisse in celo et postea esse in terra. probatur quia a 
+      existen<lb ed="#P" n="116" break="no"/>te in celo / deus posset a annichilare: et postea a 
+      crea<lb ed="#P" n="117" break="no"/>re de nouo in terra. et tamen a non esset localiter 
+      mo<lb ed="#P" n="118" break="no"/>tus. sed habuisset duas mutationes. vnam in celo et 
+      <lb ed="#P" n="119"/>aliam in terra: quarum neutra fuisset localis 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e730">
+                  <lb ed="#P" n="120"/>¶ Secunda propositio non sequitur de forma 
+      <lb ed="#P" n="121"/>a / nuno est hic / et prius non fuit hic / sed in alio 
+      lo<lb ed="#P" n="122" break="no"/>co: ergo a est localiter mutatum patet ex praecedente 
+      <!--144.xml-->
+      <pb ed="#P" n="63-r"/>
+                  <lb ed="#P" n="1"/>Tertia: angelum mutari de celo ad terram: non 
+      <lb ed="#P" n="2"/>successiue: est a angelum praefuisse in celo: et postea transire 
+      <lb ed="#P" n="3"/>in terram / ipso remanente in rerum natura / dico aunt a 
+      prae<lb ed="#P" n="4" break="no"/>fuisse in celo per tempus vel per instans. prima 
+      par<lb ed="#P" n="5" break="no"/>patet (scilicet quod oportet a praefuisse in celo) quia si a non 
+      pri<lb ed="#P" n="6" break="no"/>fuisset in celo / sed in b instanti crearetur: in quo mutaro 
+      <lb ed="#P" n="7"/>tur de celo in terram: eque diceretur moueri de 
+      ter<lb ed="#P" n="8" break="no"/>ra in celum: sicut de celo in terram.
+    </p>
+               <p xml:id="oooo3o-k38729-d1e761">
+      ¶ Sed diceret 
+      <lb ed="#P" n="9"/>contra: quia hec esset ratio quia continue quiescit 
+      pos<lb ed="#P" n="10" break="no"/>b in terra et non in celo. Sed illud non sufficit quia 
+      si<lb ed="#P" n="11" break="no"/>cut post b quiescit in terra continue. ita possetis quie 
+      <lb ed="#P" n="12"/>cere per diuinam potentiam in celo continue post b et in 
+      a<lb ed="#P" n="13" break="no"/>re. et in toto medio inter celum et terram. vnde dico quod 
+      <lb ed="#P" n="14"/>si deus in b instanti crearet a in celo et in terra et 
+      in<lb ed="#P" n="15" break="no"/>toto medio: et continuepost b faceret ac quiescere in 
+      ce<lb ed="#P" n="16" break="no"/>lo in aere et in terra / a non diceretur vere propter hoc 
+      muta<lb ed="#P" n="17" break="no"/>ri de celo ad terram. vel ad aerem. sed fieret mutatio 
+      ipsi<lb ed="#P" n="18" break="no"/>a / a spatio maiori ad tres eius partes. sic scilicet quod a in l 
+      <lb ed="#P" n="19"/>esset in toto spatio. et in tempore sequente. b esset in 
+      tri<lb ed="#P" n="20" break="no"/>bus eius partibus. Sed si in b faceret deus quod etiam post b 
+      <lb ed="#P" n="21"/>quiesceret a id in toto medio et in celo et in terra: non esset 
+      mi<lb ed="#P" n="22" break="no"/>tatio a nisi creationis in loco. non autem esset 
+      loca<lb ed="#P" n="23" break="no"/>liter mutatum 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e797">
+                  <lb ed="#P" n="24"/>¶ Et si queratur vtrum a in casu 
+      proposito<lb ed="#P" n="25" break="no"/>crearetur. in celo vel in terra: dico quod crearetur in 
+      to<lb ed="#P" n="26" break="no"/>to spatio medio / et in celo et in terra. sed non pluries 
+      <lb ed="#P" n="27"/>crearetur. sed semel et simul / in toto isto spatio / sic eri 
+      <lb ed="#P" n="28"/>go patet prima pars propositionis. scilicet quod ad hoc quod a 
+      di<lb ed="#P" n="29" break="no"/>catur vere mutari de celo ad terram: oportet a 
+      praefuis<lb ed="#P" n="30" break="no"/>se in celo per tempus vlper instans. secunda pars (scilicet quod etiam 
+      <lb ed="#P" n="31"/>oportet a post illud instans vel tipsus quo praefuit in 
+      ce<lb ed="#P" n="32" break="no"/>lo transire ad terram) quia si nontranseat ad locum in 
+      quo<lb ed="#P" n="33" break="no"/>non erat prius: non dicitur vere mutari localiter in 
+      casupro<lb ed="#P" n="34" break="no"/>posito. tertia pars (scilicet ipso permanente in rerum 
+      natura<lb ed="#P" n="35" break="no"/>patet ex prima propositione 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e826">
+                  <lb ed="#P" n="36"/>¶ Quarta propositio: angelum mutari de 
+      celo<lb ed="#P" n="37" break="no"/>ad terram subito / siue in non tpe. potest quadrupliciter cogitari 
+      <lb ed="#P" n="38"/>vel imaginari. vno modo quod a angelus habeat in 
+      cele<lb ed="#P" n="39" break="no"/>vltimum instans. quo ibi est. et in tempore immedia 
+      <lb ed="#P" n="40"/>te sequente toto quiescat et in medio et in terra. secunde 
+      <lb ed="#P" n="41"/>modo quod in instanti vltimo sit in celo et in tpre 
+      sequen<lb ed="#P" n="42" break="no"/>ti sit quiescens in terra. numquam vero sit in medio tertio 
+      <lb ed="#P" n="43"/>modo quod a per tempus sit in celo. et in instanti exclusiue 
+      <lb ed="#P" n="44"/>terminante illud tempus / seu in vltimo instanti ipsius 
+      <lb ed="#P" n="45"/>sit in terra quiesentrer et in toto medio. Quarto moed 
+      <lb ed="#P" n="46"/>quod in vltimo instanti sit in terra solum / et nunquam in 
+      me<lb ed="#P" n="47" break="no"/>dio 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e855">
+                  <lb ed="#P" n="48"/>¶ Tunc sit prima conclusio: possibile est angelum 
+      <lb ed="#P" n="49"/>in istanti mutari / vel in tpre / de celo ad terram primo modo 
+      <lb ed="#P" n="50"/>mutationis predicto / in quarta propositione. probatur 
+      <lb ed="#P" n="51"/>quia hoc potest fieri per potentiam diuinam omnipotentem / cui 
+      nichi<lb ed="#P" n="52" break="no"/>resistit. Item deus potest velle a sic mutari. cum hoc non 
+      impli<lb ed="#P" n="53" break="no"/>cet contradictionem. nec impossibile. Confirmatur quia 
+      <lb ed="#P" n="54"/>a existens in hoc loco in instanti potest cessare esse 
+      in<lb ed="#P" n="55" break="no"/>hoc loco: et in tpre sequenti esse in alio loco. ergo. Sciendum 
+      <lb ed="#P" n="56"/>tamen quod ista mutatio proprie loquendo non esset mutatio instam 
+      <lb ed="#P" n="57"/>tanea. nec successiua. successione seu ptibilitate 
+      lo<lb ed="#P" n="58" break="no"/>ci partibiliter acquisiti vel partibilitate mobitur / sed esset solum 
+      tran<lb ed="#P" n="59" break="no"/>situs de loco in locum / de quiete in quictem sine omni mutatione 
+      <lb ed="#P" n="60"/>media successiua vel instantanea 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e886">
+                  <lb ed="#P" n="61"/>¶ Secunda conclusio: possibile est angelum 
+      mu<lb ed="#P" n="62" break="no"/>tari de celo ad terram / siue ad quantamlibet distantiam 
+      <lb ed="#P" n="63"/>tertio modo mutationis / in praemissa propoitioe quarta. pro¬ 
+      <!--144.xml-->
+      <lb ed="#P" n="64"/>batur sicut praecedens conclusio. quia hoc non videtur include 
+      <lb ed="#P" n="65"/>re repugnantiam nec impossibile. ergo hoc non est / a 
+      diuina<lb ed="#P" n="66" break="no"/>omnipotentia / fieri posse negandum 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e904">
+                  <lb ed="#P" n="67"/>¶ Istis conclusionibus propter quasdam difficul¬ p 
+      <lb ed="#P" n="68"/>tates circunstantes / adiungo per modum correlarii quat pro 
+      <lb ed="#P" n="69"/>tuor propositiones. Prima / aliud est esse angelum ex na 
+      <lb ed="#P" n="70"/>ture sue localitate quiescente a celo vsque ad terram et in 
+      <lb ed="#P" n="71"/>toto medio alid est ipsum ibi esse ex raptim mutari. quod 
+      <lb ed="#P" n="72"/>declaro sic exponendo prius / quid est esse alicubi ex 
+      <lb ed="#P" n="73"/>nature suelocalitate Unde dico quod esse sic alicubi / est esse 
+      <lb ed="#P" n="74"/>in tanto loco et tantum locum replere ipsum locatum et non 
+      ma<lb ed="#P" n="75" break="no"/>iorem quam potest occupare ex sui natura. sicut corpus 
+      <lb ed="#P" n="76"/>bipedale ex nature sue localitate / non potest esse nisi in 
+      lo<lb ed="#P" n="77" break="no"/>co bipedali et hoc sine replicatione sui. et similiter angoe 
+      <lb ed="#P" n="78"/>lus isto modo / certum spatium aut exclusiue / aut inclusiue 
+      <lb ed="#P" n="79"/>terminatum naturaliter occupare potest. et non 
+      quantumli<lb ed="#P" n="80" break="no"/>bet maius. Sed esse in loco aliquo ex mutari raptim 
+      <lb ed="#P" n="81"/>in spatio maiori / contingit per replicationem ipsius 
+      locabi<lb ed="#P" n="82" break="no"/>lis vel spatii correspondentis naturali locationi. Istis 
+      <lb ed="#P" n="83"/>priuiis / dclaro propositionem sic / si a corpus bipedalis 
+      mo<lb ed="#P" n="84" break="no"/>ueretur de celo ad terram in instati: sic quod deus faceret ipsm 
+      <lb ed="#P" n="85"/>quiescere in toto medio: tunc cerium est: quod a non est ita lon 
+      <lb ed="#P" n="86"/>gum quam longa est distantia totius medii percasum. ergo a ex 
+      <lb ed="#P" n="87"/>sue nature localitate / non est quiescens in toto 
+      me<lb ed="#P" n="88" break="no"/>dio. sed ex replicatione sui totiens quot sunt 
+      bipeda<lb ed="#P" n="89" break="no"/>lia / a celo vsque ad terram. Sic patet quod a non propter hoc 
+      <lb ed="#P" n="90"/>est immensum: si isto modo esset vbique / sed quod primo modo esset 
+      <lb ed="#P" n="91"/>replens omnem situm / verum vel imaginarium hoc esset 
+      immen<lb ed="#P" n="92" break="no"/>sum. saltem secundum quid / sic imaginandum est per omnia de angele 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e963">
+                  <lb ed="#P" n="93"/>¶ Secunda propositio si deus mutaret angelum 
+      <lb ed="#P" n="94"/>iuxta modum conclusionum sine alio miraculo / maxime 
+      <lb ed="#P" n="95"/>ad sensum secunde conclusionis: tunc per instans / angelus esset 
+      <lb ed="#P" n="96"/>i toto medio / et in ipere sequenti / esset solum in loco sibi 
+      pro<lb ed="#P" n="97" break="no"/>porcionato. vel nature sue correspondente. et hoc absque 
+      <lb ed="#P" n="98"/>mutatione alia. sed per eandem qua venit 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e980">
+                  <lb ed="#P" n="99"/>¶ Tertia propositio in casu proposito a cessaret esse 
+      <lb ed="#P" n="100"/>im medio / a celo vsque ad terram absque alio motu. patet quiapm 
+      <lb ed="#P" n="101"/>idem mutari recessisset et accessisset et venisset. i 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e989">
+                  <lb ed="#P" n="102"/>¶ Quarta propositio si angelus se mutaret vel 
+      mo<lb ed="#P" n="103" break="no"/>ueret de celo ad terram: non posset se vertute propria 
+      reti<lb ed="#P" n="104" break="no"/>uere quiescentur per totum medium. sed posset hoc in loco 
+      mi<lb ed="#P" n="105" break="no"/>p mo in quo esse non potest et sic patet quod non est immense 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e1000">
+                  <lb ed="#P" n="106"/>¶ Tertia conclusio quam non assero sed valcat quam 
+      <lb ed="#P" n="107"/>rum potest / angelus potest se mutare localiter in instanti vel in non 
+      <lb ed="#P" n="108"/>spe. probatur quia hocem possibile corperi glorificato ergo angelo 
+      <lb ed="#P" n="109"/>antecedens videtur au. in questionibus de resurrectione vbi dicit 
+      <lb ed="#P" n="110"/>quod corpusglorificatum / vtraque intualla pari celeritate 
+      per<lb ed="#P" n="111" break="no"/>tingit. vt radius solis / sed radius solis non habet succe 
+      <lb ed="#P" n="112"/>sionem aliquam. ergo. Ista conclusio videtur magistri hugolini 
+      <lb ed="#P" n="113"/>li. 2. de secunda. qui prima. articulo. 3 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e1020">
+                  <lb ed="#P" n="114"/>¶ Quarta conclusio non est possibile angelum 
+      vir<lb ed="#P" n="115" break="no"/>tute propria transire d maxia distantia / ad locum totalem non 
+      <lb ed="#P" n="116"/>transcundo per medium. probatur quia angelus non potest transire / nisi per 
+      <lb ed="#P" n="117"/>mutari. sed non potest esse mutatio creature nisi transeat 
+      me<lb ed="#P" n="118" break="no"/>dia ergo. Sed dubium est vtrum vertute propria / hoc possit 
+      infra<lb ed="#P" n="119" break="no"/>miros sui maximi loci vel minimi in quo non potest ess 
+      <lb ed="#P" n="120"/>Et videtur quod non. vnde quamuis posset forte se habere / in duobus 
+      <lb ed="#P" n="121"/>vbi distantibus infra dictum terminum: sic quod non esset in medio 
+      <lb ed="#P" n="122"/>vt in praecedentibus est persuasum / hoc tamen non essetprmutari localiter 
+      <lb ed="#P" n="123"/>quia licet desineret esse vbi prius fuit non tamen inciperet esse 
+    </p>
+               <p xml:id="oooo3o-k38729-d1e1044">
+                  <lb ed="#P" n="124"/>¶ vbi non fuit quod vbi notandumdictum est in articulo primo 
+      <lb ed="#P" n="125"/>huius quesiionis conclusione sexta 
+      <!--145.xml-->
+      <pb ed="#P" n="63-v"/>
+                  <lb ed="#P" n="1"/>¶ Quinta conclusio deus potest facere angelum 
+      <lb ed="#P" n="2"/>ilibi quam est non faciendo ipsum transire per media. pro 
+      <lb ed="#P" n="3"/>batur. quia hoc facit de corpore christi.
+    </p>
+               <p xml:id="oooo3o-k38729-d1e1062">
+      ¶ Confirmatur. 
+      <lb ed="#P" n="4"/>quia si deus creasset a in b instanti simul in celo et 
+      in<lb ed="#P" n="5" break="no"/>terra et non in medio non fuisset mutatus localiter 
+      <lb ed="#P" n="6"/>vt patet ex prima et tertia: propositionibus huius 
+      arti<lb ed="#P" n="7" break="no"/>culi. Sed si primo creasset in celo et postea in terra 
+      <lb ed="#P" n="8"/>sic quod nunquam esset in: medio posset dici aliquo modo a 
+      <lb ed="#P" n="9"/>mutatum localiter hoc autem deus potest facere ad quam 
+      <lb ed="#P" n="10"/>tamcumque distantiam finitam et hoc sine retento loco 
+      praeo<lb ed="#P" n="11" break="no"/>ri siue non retento. et psistans et per tempus sicut sibi pla 
+      <lb ed="#P" n="12"/>cet. Dicerent tamen aliqui quod hoc proprie non esset 
+      mu<lb ed="#P" n="13" break="no"/>tari: sed non est vis de vocabulo: vbi sensus est 
+      ma<lb ed="#P" n="14" break="no"/>nifestus Ad rationes primcipales patet sufficienter ex 
+      <lb ed="#P" n="15"/>dictis in articulis. etc. Et sic finis questionis
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="14-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-ke8652"><!--l1d2q1 -->
+            <head xml:id="oooo3o-ke8652-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-ke8652-d1e101">
+               <lb ed="#P" n="101"/>In speciali circa distinctionem 
+      secun<lb ed="#P" n="102" break="no"/>dam quaero. Utrum deum esse sit viatori per se 
+      <lb ed="#P" n="103"/>notum vel ex per se notis demonstrabile 
+      <lb ed="#P" n="104"/>vel demonstratum
+    </p>
+            <p xml:id="oooo3o-ke8652-d1e112">
+      ¶ Et arguitur quod sit 
+      de<lb ed="#P" n="105" break="no"/>monstrabile. quia vnum deum possibile est esse 
+      <lb ed="#P" n="106"/>ergo vnum deum necesse est esse / antecedens est notum et 
+      con<lb ed="#P" n="107" break="no"/>sequentiam probat doctor profundus libro primo capitulo 
+      <lb ed="#P" n="108"/>24. sic. si non est necesse esse / et potest esse: ergo potest incipere 
+      <lb ed="#P" n="109"/>esse. consequens est falsum: quia nec a se nec ab alio: ergo.  
+      <lb ed="#P" n="110"/>Secundo ad idem arguit doctor subtilis libro 
+      <lb ed="#P" n="111"/>primo distin. secunda sic / aliquid est effectibile: et non a 
+      <lb ed="#P" n="112"/>se / nec a nullo: ergo ab alio. tunc vltra. sit .b. illud a 
+      <lb ed="#P" n="113"/>quo est aliquid factibile / et quero vtrum .b. sit primum 
+      <lb ed="#P" n="114"/>neffectibile. et habetur propositum: vel b. est effectibile 
+      <lb ed="#P" n="115"/>ab alio / et sic in infinitum: quod est impossibile. quod pro 
+      <lb ed="#P" n="116"/>batur ex dictis domini altissidorensis libro primo capitulo 
+      <lb ed="#P" n="117"/>primo sic. quia tota multitudo vel vniuersitas 
+      causa<lb ed="#P" n="118" break="no"/>torum est causata siue sit finita siue infinita: et non 
+      ab<lb ed="#P" n="119" break="no"/>aliquo illius multitudinis / ergo ab alio. et per consequens 
+      <lb ed="#P" n="120"/>illud erit inefectibile et improductum cum non sit de tota 
+      <!--47.xml-->
+      <pb ed="#P" n="14-v"/>
+               <lb ed="#P" n="1"/> ila multitudine. et si sic: ergo est deus. ergo viatori est 
+      <lb ed="#P" n="2"/>demonstrabile et ex per se notis deum esse 
+    </p>
+            <p xml:id="oooo3o-ke8652-d1e158">
+               <lb ed="#P" n="3"/>¶ Tertio arguitur per achilem astensis si decus esset 
+      <lb ed="#P" n="4"/>implicaret contradictionem ipsum posse non esse. ergo 
+      <lb ed="#P" n="5"/>et nunc implicat ipsum posse non esse. consequentia 
+      pro<lb ed="#P" n="6" break="no"/>batur quia variatio propositionis de esse ad posse / non 
+      va<lb ed="#P" n="7" break="no"/>riat contradictione. siue enim rex sedeat et possit non 
+      <lb ed="#P" n="8"/>sedere siue non sedeat et possit sedere iste contradicunt 
+      <lb ed="#P" n="9"/>rex sedet rex non sedet. probo antecedens quia 
+      presup<lb ed="#P" n="10" break="no"/>posito quod implicet contradictionem necessarium 
+      posse<lb ed="#P" n="11" break="no"/>esse contingens / sequitur antecedens verum. nam si deus 
+      <lb ed="#P" n="12"/>essettesse vtique necesse esse. et per consequens implicaret ipsum 
+      <lb ed="#P" n="13"/>posse non esse.
+    </p>
+            <p xml:id="oooo3o-ke8652-d1e184">
+      ¶ In oppositum arguo sic deum non esse 
+      <lb ed="#P" n="14"/>non includit. euidenter formalem contradictionem ergo 
+      <lb ed="#P" n="15"/>deum esse non est per se notum. consequentia nota est 
+      <lb ed="#P" n="16"/>antecedens probaui in principio meo: ergo et cera 
+      <lb ed="#P" n="17"/>In ista questione erunt tres arculin primo ex 
+      <lb ed="#P" n="18"/>ponam terminos. secundo ponam conclusiones. tertio 
+      <lb ed="#P" n="19"/>respondebo ad rationes. 
+    </p>
+            <div xml:id="oooo3o-ke8652-Dd1e201">
+               <head xml:id="oooo3o-ke8652-Hd1e203">Articulus 1</head>
+               <p xml:id="oooo3o-ke8652-d1e205">
+                  <lb ed="#P" n="20"/>¶ Quantum ad primum per deum intelligo 
+      summi<lb ed="#P" n="21" break="no"/>ens / summe perfectum quo nichil melius cgiotari 
+      po<lb ed="#P" n="22" break="no"/>test / cui conuenit quicquid est simpliciter melius esse 
+      <lb ed="#P" n="23"/>ipsum quam non ipsum. patet ista descriptio per boetium 
+      <lb ed="#P" n="24"/>tertio de consolatione prosa. 10 et per venerabilem An 
+      <lb ed="#P" n="25"/>selmum prosologion capitulis. et. et. 3. et per beatum 
+      Au<lb ed="#P" n="26" break="no"/>gustinum primo de doctrina christiana capitulo. 4. 
+      Pre<lb ed="#P" n="27" break="no"/>dicti tamen scilicet boetius et ansellinus habuerunt ab 
+      au<lb ed="#P" n="28" break="no"/>gustino 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e227">
+                  <lb ed="#P" n="29"/>¶ Ex ista descriptione infero quattuor proposit 
+      <lb ed="#P" n="30"/>tiones / Prima esse deum est simpliciter necesse esse 
+      <lb ed="#P" n="31"/>patet / quia melius est ipsum quam non ipsum patet etiam ex 
+      <lb ed="#P" n="32"/>descriptione praemissa.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e238">
+      ¶ Secunda hec est necessaria s 
+      <lb ed="#P" n="33"/>deus est ipse est omnipotens. inimpedibilis / omnia sciens / eter 
+      <lb ed="#P" n="34"/>nus / nullius egens et sic de singulis dei proprietatibus 
+      <lb ed="#P" n="35"/>Patet describendo deum.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e247">
+      ¶ Tertia licet deum esse si 
+      <lb ed="#P" n="36"/>deum esse trinum et vnum: tamen non est euidens quod deum esse 
+      <lb ed="#P" n="37"/>trinum et vnum / sit melius ipsum quam non ipsum. patet ista / 
+      Al<lb ed="#P" n="38" break="no"/>sentiens quod deus est / non necessario assentit vel 
+      conce<lb ed="#P" n="39" break="no"/>dit quod deus est trinus et vnus. ergo propositio vera
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e259">
+                  <lb ed="#P" n="40"/>¶ Quarta Aliqua sunt in deo perfectionis / que et 
+      <lb ed="#P" n="41"/>perfectionis non est nobis euidenter notum. patet ista ex 
+      <lb ed="#P" n="42"/>immediata 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e268">
+                  <lb ed="#P" n="43"/>¶ Ubi notaquod per se notum secundum magistri 
+      <lb ed="#P" n="44"/>hugolinum / est enuntiabile semper necessario verum / quod 
+      <lb ed="#P" n="45"/>naturaliter cuilibet aduertenti est notum / absque noticia 
+      <lb ed="#P" n="46"/>alicuius extrinseci id est absque indigentia alterius noti 
+      <lb ed="#P" n="47"/>cie. Uel secundum alios et largius per se notum est 
+      com<lb ed="#P" n="48" break="no"/>plexum euidens praecise ex noticia terminorum suorum 
+      in<lb ed="#P" n="49" break="no"/>quantum sui sunt. Patet ex secundo et quarto 
+      metha<lb ed="#P" n="50" break="no"/>phisice vbi dicitur quod principia ideo per se sunt nota 
+      <lb ed="#P" n="51"/>quia sunt nota ex noticia terminorum suorum 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e290">
+                  <lb ed="#P" n="52"/>¶ Ex ista descriptione infero quattuor proposi 
+      <lb ed="#P" n="53"/>tiones / Prima esse per se notum primo et per se con 
+      <lb ed="#P" n="54"/>petit enuntiabili et non propositioni. probatur. quia priu 
+      <lb ed="#P" n="55"/>est sic esse vel non sic esse / quam propositionem enuntiantem 
+      <lb ed="#P" n="56"/>sic esse / esse veram: et sic esse est causa veritatis 
+      pro<lb ed="#P" n="57" break="no"/>positionis nec potest propositio esse nota / vel esse 
+      <lb ed="#P" n="58"/>nisi sciatur sic esse sicut ip a significat ergo.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e308">
+      ¶ 
+      Secun<lb ed="#P" n="59" break="no"/>da licet omnis propositio per se nota sit euidens non 
+      <lb ed="#P" n="60"/>tamen econuerso. patet ista propositio / de propositio 
+      <lb ed="#P" n="61"/>t nibus demonstrabilibus quae non sunt proprie per se note¬ 
+      <!--47.xml-->
+      <lb ed="#P" n="62"/>¶ Tertia licet omnis propositio per se nonta sit 
+      im<lb ed="#P" n="63" break="no"/>mediata non tamen econuerso / patet ista propositio 
+      <lb ed="#P" n="64"/>quo ad secundam partem de multis quae absque singularium 
+      <lb ed="#P" n="65"/>experientia cognosci non possunt. vt iste aliquid 
+      mo<lb ed="#P" n="66" break="no"/>uetur. omnis calor est calefactiuus. et sic de similibus
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e330">
+                  <lb ed="#P" n="67"/>¶ Quarta licet ista propositio / omne totum est maius 
+      <lb ed="#P" n="68"/>sua parte sit sillogisabilis: non tamen est 
+      demonstra<lb ed="#P" n="69" break="no"/>bilis. prima pars probatur / quia potest sic sillogari 
+      <lb ed="#P" n="70"/>omne quod continet tantundem et amplius / est maius 
+      <lb ed="#P" n="71"/>eo / omne totum continet tantundem et amplius: scilicet per 
+      <lb ed="#P" n="72"/>tem: eius ergo est maius sua parte. Sed secunda pars 
+      <lb ed="#P" n="73"/>probatur quia maior non est notior conclusione / ergo per 
+      <lb ed="#P" n="74"/>ipsam non demonstratur conclusio. consequentia nota 
+      <lb ed="#P" n="75"/>est. Antecedens patet patet quia in maiore praedicatur de 
+      dib<lb ed="#P" n="76" break="no"/>finitione dicente quid nominis subiecti conclusionis in 
+      <lb ed="#P" n="77"/>illud idem quod predicatur in conclusione de ipso 
+      sub<lb ed="#P" n="78" break="no"/>iecto. nam diffinitio quid nominis totius est. quod 
+      <lb ed="#P" n="79"/>continet aliquid et amplius et hoc subicitur in 
+      ma<lb ed="#P" n="80" break="no"/>iore. et quia apud omnem demonstratuem / et eum 
+      <lb ed="#P" n="81"/>cui demonstrat / oportet esse precognitum quid 
+      nomi<lb ed="#P" n="82" break="no"/>nis tam subiecti quam passionis sequitur: quod ille 
+      sillo<lb ed="#P" n="83" break="no"/>gismus non est demonstratio. ymo forte secundum 
+      ma<lb ed="#P" n="84" break="no"/>gistrum Gregorium est petitio primcipii: quia illud quod 
+      <lb ed="#P" n="85"/>probari deberet presupponitur esse cognitum. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-ke8652-Dd1e375">
+               <head xml:id="oooo3o-ke8652-Hd1e377">Articulus 2</head>
+               <p xml:id="oooo3o-ke8652-d1e379">
+                  <lb ed="#P" n="86"/>Secundus articulus. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e384">
+                  <lb ed="#P" n="87"/>QUantum ad secundum articulum 
+      po<lb ed="#P" n="88" break="no"/>no conclusiones / et prima sit ista. licet 
+      no<lb ed="#P" n="89" break="no"/>cesse esse / includat euidenter esse: non 
+      <lb ed="#P" n="90"/>men est per se notum vel demonstrabile 
+      <lb ed="#P" n="91"/>aliquod sit ens quod sit simpliciter 
+      ne<lb ed="#P" n="92" break="no"/>cesse esse / prima pars patet de se. cum oppositum esse 
+      <lb ed="#P" n="93"/>repugnet ei quod est necesse esse.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e402">
+      ¶ Secunda pars 
+      <lb ed="#P" n="94"/>probatur quia non est demonstrabile a priori cum 
+      ne<lb ed="#P" n="95" break="no"/>cesse esse nullum habeat prius. nec a posteriori: quia 
+      <lb ed="#P" n="96"/>vt dixi in principio meo nulla contradictio est si esse 
+      <lb ed="#P" n="97"/>affirmetur de / a / et negetur de / b / totaliter ab ipso 
+      di<lb ed="#P" n="98" break="no"/>stincto. Nec ad / a / esse sequitur / b / esse euidenter. eui 
+      <lb ed="#P" n="99"/>dentia reducibili ad primum principium si / a / et b / sint 
+      <lb ed="#P" n="100"/>res absolute: ergo conclusio vera. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e420">
+                  <lb ed="#P" n="101"/>¶ Corelarium primum deum esse non est viato 
+      <lb ed="#P" n="102"/>ri per se notum sed fide creditum. patet quia nec a 
+      <lb ed="#P" n="103"/>posteriori vt dictum est: nec a priori: cum non habeat 
+      <lb ed="#P" n="104"/>causam. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e432">
+                  <lb ed="#P" n="105"/>¶ Secundum correlarium non est per se notum 
+      <lb ed="#P" n="106"/>nichil esse necesse esse. patet ex conclusione quia 
+      con<lb ed="#P" n="107" break="no"/>dictoria sunt euidentie equalis. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e441">
+                  <lb ed="#P" n="108"/>¶ Secunda conclusio Eiusdem effectus esse 
+      plu<lb ed="#P" n="109" break="no"/>res causas essentiales: est impossibile et inferens eui 
+      <lb ed="#P" n="110"/>dentem repugnantiam.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e450">
+      ¶ Pro qua nota quid est 
+      <lb ed="#P" n="111"/>esse causam essentialem / quia est sine qua 
+      nullomo<lb ed="#P" n="112" break="no"/>do potest poni effectus. Tunc probaturconclusio quia 
+      da<lb ed="#P" n="113" break="no"/>oppositum: sequitur quod idem effecto numero posset bis: pro 
+      <lb ed="#P" n="114"/>duci quod est falsum. consequentia patet ex descriptione 
+      cau<lb ed="#P" n="115" break="no"/>se esitialis. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e463">
+                  <lb ed="#P" n="116"/>¶ Primum correlarium. Nec vnius nec plurium 
+      <lb ed="#P" n="117"/>possunt esse plures cause enitiales dicto modo. Patet 
+      <lb ed="#P" n="118"/>quia quaelibet earum esset necessario independens. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e472">
+                  <lb ed="#P" n="119"/>¶ Secundum correlarium. Non est ponendus ordo 
+      <lb ed="#P" n="120"/>causarum essentialiter ordinatarum. Patet ex 
+      immediato<lb ed="#P" n="121" break="no"/>correlario / quia plures essent independentes. Ista est 
+      <lb ed="#P" n="122"/>ratio magistri lib. primo. dist. ter. capitulo penultimo. 
+      <!--48.xml-->
+      <pb ed="#P" n="15-r"/>
+                  <lb ed="#P" n="1"/>Tertia conclusio. hec est demonstrabilis: si 
+      <lb ed="#P" n="2"/>deus est / tantum vnus deus est. supposito quid nominis 
+      <lb ed="#P" n="3"/>dei secundum quod in primo articulo dixi. probatur. si deus 
+      <lb ed="#P" n="4"/>est nullus eget / nec impediri potest: sed si essent plures 
+      <lb ed="#P" n="5"/>vnus impediret alium / et quilibet alterius amicicia 
+      <lb ed="#P" n="6"/>egeret: quod repugnat ei quod est esse deum 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e501">
+                  <lb ed="#P" n="7"/>¶ Correlarium. demonstrabile est non esse plures 
+      <lb ed="#P" n="8"/>deos: licet non sit per se notum quod tantum sit vnus 
+      <lb ed="#P" n="9"/>patet istud ex conclusione. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e511">
+                  <lb ed="#P" n="10"/>¶ Secundum correlarium. Non sequitur scio eui 
+      <lb ed="#P" n="11"/>denter non esse plures deos: ergo scio euidenter tantum 
+      <lb ed="#P" n="12"/>esse vnum deum. patet istud satis. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e520">
+                  <lb ed="#P" n="13"/>¶ Quarta conclusio. licet tantum vnum esse deum 
+      <lb ed="#P" n="14"/>non sit nobis euidenter notum: tamen vnum solum 
+      de<lb ed="#P" n="15" break="no"/>um verum esse / est sic efficaciter probatum: quod nulli 
+      <lb ed="#P" n="16"/>de veritate eadem. licet dubitare prima pars patet 
+      <lb ed="#P" n="17"/>ex dictis: et secunda tenet quia efficaciter per auctoritates 
+      <lb ed="#P" n="18"/>et rationes naturales et theologicas est probatum: 
+      <lb ed="#P" n="19"/>(vt patet in duodecimo methaphisice: et in sepiimo et 
+      <lb ed="#P" n="20"/>octauo phisicorum. et in veteri et nouo testamento. 
+      <lb ed="#P" n="21"/>Correlarium. Non solum illis est firmiter 
+      as<lb ed="#P" n="22" break="no"/>sentiendum / quibus intellectus non potest dissentire 
+      <lb ed="#P" n="23"/>vel euidenter veris. patet ex conclusione: et per articum 
+      <lb ed="#P" n="24"/>lum parisiensem dicentem / quod non teneamur assentire nisi 
+      <lb ed="#P" n="25"/>per se notis vel ex per se notis deductis: error. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e551">
+                  <lb ed="#P" n="26"/>¶ Secundum correlarium. auctoritati 
+      scriptu<lb ed="#P" n="27" break="no"/>re tam firmiter est assentiendum: sicut cuique rationi 
+      <lb ed="#P" n="28"/>demonstratiue. patet quia sine dubitatione. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e560">
+                  <lb ed="#P" n="29"/>¶ Quinta conclusio. deum esse quamquam spiritus sctuns 
+      <lb ed="#P" n="30"/>theologis inspirauerit: numquam tamen aristoteles suis phi 
+      <lb ed="#P" n="31"/>cis vel methaphisicis rationibus aliqualiter demod 
+      <lb ed="#P" n="32"/>strauit.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e571">
+      ¶ Prima pars patet ex sacra scriptura: scilicet qud 
+      <lb ed="#P" n="33"/>spiritus sanctus inspirauerit theologis et sactis. et 
+      se<lb ed="#P" n="34" break="no"/>cunda probatur: quia aristoteles semper volendo hoc 
+      pro<lb ed="#P" n="35" break="no"/>bare: vel assumpsit dubium vel admiscuit impossibile 
+      <lb ed="#P" n="36"/>sicut deducam inferius. nam. volens hoc demonstrare / 
+      <lb ed="#P" n="37"/>inter alia argumenta hoc est vnum: quia in mouentibus 
+      <lb ed="#P" n="38"/>et motis non est processus in infinitum. istud vt 
+      di<lb ed="#P" n="39" break="no"/>cit branchil numquam sufficienter demonstrauit: sed solum 
+      <lb ed="#P" n="40"/>ex testimoniis autorum et aliquibus persuasionibus 
+      <lb ed="#P" n="41"/>non euidenter notis 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e593">
+                  <lb ed="#P" n="42"/>¶ Correlarium. Si aristoteles dixisset istam 
+      propo<lb ed="#P" n="43" break="no"/>sitionem deus est: sequens eam totaliter secundum suam 
+      inten<lb ed="#P" n="44" break="no"/>tionem: necessario secutus fuisset errorem. patet quia secundum 
+      <lb ed="#P" n="45"/>mentem aristotelis implicabat taliter esse / qualiter esse 
+      <lb ed="#P" n="46"/>est impossibile / videlicet deum esse virtutem finitam non 
+      va<lb ed="#P" n="47" break="no"/>lentem de nichilo aliquid producere. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e610">
+                  <lb ed="#P" n="48"/>¶ Secundum correlarium. quod significabile illud dcum 
+      <lb ed="#P" n="49"/>esse: non est idem apud theologum et mentem 
+      aristo<lb ed="#P" n="50" break="no"/>telis. patet ex immediato. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e619">
+                  <lb ed="#P" n="51"/>¶ Ex istis patet responsio negatiua: ad quaesitamen scilicet 
+      <lb ed="#P" n="52"/>quod deum esse non est viatori per se notum etc. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-ke8652-Dd1e627">
+               <head xml:id="oooo3o-ke8652-Hd1e629">Articulus 3</head>
+               <p xml:id="oooo3o-ke8652-d1e631">
+                  <lb ed="#P" n="53"/>Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e636">
+                  <lb ed="#P" n="54"/>¶ Uantum ad tercium articulum pro 
+      <lb ed="#P" n="55"/>solutione primi argumenti (quod est 
+      docto<lb ed="#P" n="56" break="no"/>ris profundi) arguit sic. vnum deum vel deum 
+      <lb ed="#P" n="57"/>possibile est esse / ergo etc.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e647">
+      ¶ Secundo 
+      ar<lb ed="#P" n="58" break="no"/>guit idem doctor sic / quam impossibile est 
+      al<lb ed="#P" n="59" break="no"/>quid tam necessarium est aliquid: sed aliquid 
+      <!--48.xml-->
+      <lb ed="#P" n="60"/>est tam impossibile quod ipsum implicat esse: ergo aliquid est 
+      <lb ed="#P" n="61"/>tam necesse quod implicat ipsum non esse. sed quid est magis 
+      ne<lb ed="#P" n="62" break="no"/>cesse esse quam deus. ergo deum esse est necesse: et demonstra 
+      <lb ed="#P" n="63"/>bile.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e665">
+      ¶ Tertio arguit sic tam falsum est aliquid quam verum 
+      <lb ed="#P" n="64"/>est aliquid: sed aliquid est tam falsum quod ipsum esse verum 
+      contra<lb ed="#P" n="65" break="no"/>dictionem includit: ergo aliquid est tam verum quod ipsum esse fltum 
+      <lb ed="#P" n="66"/>ptradictionem includit. sed quid est verius primo vero / quod est 
+      <lb ed="#P" n="67"/>deum esse vigitur
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e677">
+      ¶ Quarto arguit sic si deus non est: ali 
+      <lb ed="#P" n="68"/>qua veritate deus non est. ergo aliqua veritas est: ergo prima veri 
+      <lb ed="#P" n="69"/>tas est. probatur quia vel illa est deus vel a deo.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e684">
+      ¶ Quinto 
+      <lb ed="#P" n="70"/>si deus non est: necesse est deum non esse. ergo aliqua 
+      necessi<lb ed="#P" n="71" break="no"/>tate alicuius necessarii deus non est. ergo aliqua necessitas 
+      <lb ed="#P" n="72"/>est. ergo prima necessitas est.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e693">
+      ¶ Sexto si deus non est: 
+      pos<lb ed="#P" n="73" break="no"/>ibile est ipsum esse vel ipsum no esse. ergo aliqua potentia 
+      <lb ed="#P" n="74"/>hoc est possibile. ergo aliqua potentia est: et aliquid est 
+      po<lb ed="#P" n="75" break="no"/>tens per illam. Sed quid est illud nisi deus
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e702">
+      ¶ Septino. si deus non 
+      <lb ed="#P" n="76"/>est. ita est quod deus non est ergo per aliquod esse ita est quod deus non est. one 
+      <lb ed="#P" n="77"/>autem esse velest primu quod est deus / vel a primo. ergo.  
+      <lb ed="#P" n="78"/>Pro responsione ad argumenta branardini 
+      pre<lb ed="#P" n="79" break="no"/>mitto quinque propositiones. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e713">
+                  <lb ed="#P" n="80"/>¶ Prima. Nulla res potest incipere esse deus per 
+      <lb ed="#P" n="81"/>essentiam. patet: quia nec a se nec ab alib. ergo 
+      pro<lb ed="#P" n="82" break="no"/>positio vera 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e722">
+                  <lb ed="#P" n="83"/>¶ Secunda si non est aliquid quod sit deus: nichil 
+      <lb ed="#P" n="84"/>potest incipere esse deus. patet ex precedenti 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e730">
+                  <lb ed="#P" n="85"/>¶ Tertia. non est euidens possibile esse absolute 
+      <lb ed="#P" n="86"/>quod sit deus: nec est euidens possibile esse absolute / quod non 
+      <lb ed="#P" n="87"/>sit deus. patet quia contradictorie sunt euidentie equalis. 
+      <lb ed="#P" n="88"/>¶ Quarta si dens non est: necesse est deum non 
+      <lb ed="#P" n="89"/>esse. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e743">
+                  <lb ed="#P" n="90"/>¶ Quinta. non est euidens quod deus sit prima 
+      ve<lb ed="#P" n="91" break="no"/>ritas nec prima necessitas.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e750">
+      ¶ Ex istis patet responsio ad 
+      <lb ed="#P" n="92"/>omnia predicta argumenta.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e755">
+      ¶ Ad primum cum dicitur vnum 
+      <lb ed="#P" n="93"/>deum possibile est esse: ergo vnum deum necesse est esse. 
+      <lb ed="#P" n="94"/>dico quod antecedens non est euidens sicut patet per tertiam 
+      <lb ed="#P" n="95"/>propositiorem: quamuis consequentia foret bona. sicut 
+      <lb ed="#P" n="96"/>patet per secundam et quartam.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e766">
+      ¶ Per idem ad 
+      se<lb ed="#P" n="97" break="no"/>cundum conceditur: maior. sed minor non est euidens 
+      <lb ed="#P" n="98"/>scilicet aliquid est tam impossibile esse quod ipsum 
+      im<lb ed="#P" n="99" break="no"/>plicat esse si li aliquid supponat pro qualibet imagi 
+      <lb ed="#P" n="100"/>nabili essentia incomplexa.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e777">
+      ¶ Ad tertium dico quod 
+      <lb ed="#P" n="101"/>verum et falsum / non sunt sic immediata / quod de 
+      quo<lb ed="#P" n="102" break="no"/>cumque predicatur verum / de eius opposito predicetur 
+      fal<lb ed="#P" n="103" break="no"/>sum: sed sufficit quod oppositum veri dicatur non verum. 
+      <lb ed="#P" n="104"/>patet de ista nichil creatum est. que fuit vera ab 
+      eter<lb ed="#P" n="105" break="no"/>no: veritate increata saltem: tamem oppositum eius 
+      <lb ed="#P" n="106"/>non fuit falsum ab eterno. et sic de multis similibus. 
+      <lb ed="#P" n="107"/>Et sic patet quod illa maior potest negari. si intelligatur 
+      <lb ed="#P" n="108"/>tamen de facto sic esse quantum ad species: conceditur 
+      <lb ed="#P" n="109"/>et similiter minor. et negatur consequentia: quia non 
+      <lb ed="#P" n="110"/>est euidens quod deum non esse sit tale impossibile. quod 
+      ta<lb ed="#P" n="111" break="no"/>men oporteret: quia propositio impossibilis falsa solum inferti 
+      <lb ed="#P" n="112"/>suam oppositam non posse esse falsam formaliter. cuius 
+      <lb ed="#P" n="113"/>oppositum videtur argumentum supponere 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e809">
+                  <lb ed="#P" n="114"/>¶ Ad quartum potest negari consequentia. sed bene 
+      <lb ed="#P" n="115"/>sequitur / deus non est: ergo non est sic quod deus est. quia 
+      <lb ed="#P" n="116"/>supposito quod omnem verum sit a deo: si deus non esset: 
+      <lb ed="#P" n="117"/>deus vere non esset. tamen conformiter dictis dico quod 
+      <lb ed="#P" n="118"/>suppositum non est euidens. vt patet per quintam 
+      propo<lb ed="#P" n="119" break="no"/>sitionem. ergo consequentie non sunt euidentes 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e825">
+                  <lb ed="#P" n="120"/>¶ Ad quintum patet similiter ex quinta: cum non sit 
+      eui<lb ed="#P" n="121" break="no"/>dens quod sit prima necessitas.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e832">
+      ¶ Ad sextum consequentia 
+      <!--49.xml-->
+      <pb ed="#P" n="15-v"/>
+                  <lb ed="#P" n="1"/>non est euidens: quia per hoc quod vna res est: non 
+      se<lb ed="#P" n="2" break="no"/>quitur euidenter quod alia res sit: aut possit esse vt alias 
+      <lb ed="#P" n="3"/>dixi.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e845">
+      ¶ Ad vltimum nego consequentiam primam: sed 
+      se<lb ed="#P" n="4" break="no"/>quitur: deus non est: ergo non est ita quod deus est: data etiam 
+      <lb ed="#P" n="5"/>prima consequentia. et secunda tamen vlterius dico quod non est 
+      eui<lb ed="#P" n="6" break="no"/>dens deum esse causam cuiuslibet esse.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e854">
+      ¶ Pro 
+      respon<lb ed="#P" n="7" break="no"/>sione ad argumenta doctoris subtilis: pono aliquas 
+      <lb ed="#P" n="8"/>propositiones. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e861">
+                  <lb ed="#P" n="9"/>¶ Prima. non omnis efficax ratio debet 
+      pro<lb ed="#P" n="10" break="no"/>rie vocari demonstratio. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e869">
+                  <lb ed="#P" n="11"/>¶ Secuuda. non est euidens quin quodlibet 
+      cau<lb ed="#P" n="12" break="no"/>sans habeat causam sine statu. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e876">
+                  <lb ed="#P" n="13"/>¶ Tercia. non est euidens oppositum istius 
+      vi<lb ed="#P" n="14" break="no"/>delicet quod de facto sint infinita: quorum quodlibet 
+      <lb ed="#P" n="15"/>sit alio nobilius. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e885">
+                  <lb ed="#P" n="16"/>¶ Quarta. tota vniuersitas causatorum est 
+      cau<lb ed="#P" n="17" break="no"/>sata: et tamen a nullo est causata tota vniuersitas causa 
+      <lb ed="#P" n="18"/>torum: et hoc scilicet accipiendo ly tota 
+      cathegoreumati<lb ed="#P" n="19" break="no"/>ce: quia sic acceptum stat confuse tantum tunc ad formam 
+      <lb ed="#P" n="20"/>dico: quod antecedens non est euidens: et patet quid dicendum ad 
+      <lb ed="#P" n="21"/>totam rationem per propositiones premissas. 
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e901">
+                  <lb ed="#P" n="22"/>¶ Ad astensem cuius est tercium argumentum 
+      <lb ed="#P" n="23"/>dico duo.
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e908">
+      ¶ Primum quod ratio sua est efficax 
+      proba<lb ed="#P" n="24" break="no"/>tio non tamen demonstratio
+    </p>
+               <p xml:id="oooo3o-ke8652-d1e913">
+      ¶ Secundo dico quod non sequitur 
+      <lb ed="#P" n="25"/>si deus esset: esset necesse esse: et impossibile non esse: 
+      <lb ed="#P" n="26"/>ergo deum esse est demonstrabile vel per se notum: sic est finis 
+      <lb ed="#P" n="27"/>questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

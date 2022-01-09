@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="103-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k64321"><!--l3d13-18q1 -->
+            <head xml:id="oooo3o-k64321-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k64321-d1e101">
+      <!--225.xml-->
+               <lb ed="#P" n="62"/>CIrca materiam decime 
+      ter<lb ed="#P" n="63" break="no"/>tie distinctionis et sequentium vsque 
+      <lb ed="#P" n="64"/>ad. 18. vbi magister tractat de 
+      sa<lb ed="#P" n="65" break="no"/>pientia et notitia anime christi et 
+      <lb ed="#P" n="66"/>de deffectibus assumptis. 
+    </p>
+            <p xml:id="oooo3o-k64321-d1e117">
+               <lb ed="#P" n="67"/>¶ Quero vtrum anima christi 
+      <lb ed="#P" n="68"/>vita verbo potuit in 
+      cognoscen<lb ed="#P" n="69" break="no"/>do proficere. Et sic anima 
+      chri<lb ed="#P" n="70" break="no"/>ti multorum noticiam non habuit: quorum tamen 
+      <lb ed="#P" n="71"/>habere potuit ergo. consequentia nota: antecedens 
+      <lb ed="#P" n="72"/>patet de multis speciebus sensibilibus et 
+      experien<lb ed="#P" n="73" break="no"/>ciis rerum in proprio genere 
+    </p>
+            <p xml:id="oooo3o-k64321-d1e135">
+               <lb ed="#P" n="74"/>¶ Secundo anima christi etiam potuit 
+      culpabi<lb ed="#P" n="75" break="no"/>liter errasse. ergo: consequentia probatur quia si errasset. 
+      <lb ed="#P" n="76"/>potuisset de facto ipsa profecisse per veram noticiam 
+      <lb ed="#P" n="77"/>illi errori oppositum: probatur antecedens: quia 
+      pe<lb ed="#P" n="78" break="no"/>certas res in proprio genere videtur potuit 
+      ludifi<lb ed="#P" n="79" break="no"/>ficari sicut ceteri homines. 
+    </p>
+            <p xml:id="oooo3o-k64321-d1e151">
+               <lb ed="#P" n="80"/>¶ Et confirmatur: quia potuit dicere non noui 
+      <lb ed="#P" n="81"/>patrem quod si dixisset assertorie culpabiliter errasset ergo 
+      <lb ed="#P" n="82"/>Tertio anima christi potuit in charitate 
+      proficen<lb ed="#P" n="83" break="no"/>et noticia consequentia nota probatur antecedens quia cum sit pura creatura 
+      <lb ed="#P" n="84"/>non fuit capax infinite charitatis aut noticie et per consequens 
+      <lb ed="#P" n="85"/>habuit solum finitam charitatem et noticiam ergo potuit habere 
+      <lb ed="#P" n="86"/>maiorem charitatem et cognitionem et per consequens 
+      <lb ed="#P" n="87"/>potuit proficere 
+    </p>
+            <p xml:id="oooo3o-k64321-d1e172">
+               <lb ed="#P" n="88"/>¶ Oppositum anima christi nouit omnia que 
+      <lb ed="#P" n="89"/>verbum et que christus secundum naturam diuinam 
+      <lb ed="#P" n="90"/>cognouit: ergo non potuit ipsam aliquod 
+      cognoscibi<lb ed="#P" n="91" break="no"/>le latere: antecedens est magistri in littera 
+      distinctio<lb ed="#P" n="92" break="no"/>nis. 13 quomodo enim aliquis sit quod anima eius ignorat 
+      <lb ed="#P" n="93"/>Primus articulus erit de quesito / secundus 
+      <lb ed="#P" n="94"/>de materia secundi argnmenti vtrum anima vnita 
+      <lb ed="#P" n="95"/>verbo potuerit peccare vel errare culpabili ignora 
+      <lb ed="#P" n="96"/>re quantum ad materiam secundi argumenti. de 
+      qua<lb ed="#P" n="97" break="no"/>magister agit in distinctione: 15. tertius articulus erit vtri 
+      <lb ed="#P" n="98"/>gratia christi vel etiam cognitio / secundum animam 
+      <lb ed="#P" n="99"/>tuerit infinita. de quo magister agit in distinctione 
+      <lb ed="#P" n="100"/>decima tertia et decima quarta. 
+    </p>
+            <div xml:id="oooo3o-k64321-Dd1e203">
+               <head xml:id="oooo3o-k64321-Hd1e205">Articulus 1</head>
+               <p xml:id="oooo3o-k64321-d1e207">
+                  <lb ed="#P" n="101"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e212">
+                  <lb ed="#P" n="102"/>QUantum ad primum premitto 
+      pre<lb ed="#P" n="103" break="no"/>ambulas declaratiuas diuisiones 
+      dein<lb ed="#P" n="104" break="no"/> de ponam conclusiones. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e221">
+                  <lb ed="#P" n="105"/>¶ Primum preambulum quod sicut 
+      in<lb ed="#P" n="106" break="no"/>e christo fuerunt due voluntates: Ita et 
+      <lb ed="#P" n="107"/>duo intellectus: scilicet diuinus et humanus patet per 
+      <lb ed="#P" n="108"/>damascenum libro tertio capitulo tridecimo. 
+      perfe<lb ed="#P" n="109" break="no"/>ctumque deum confitentes etc 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e234">
+                  <lb ed="#P" n="110"/>¶ Prima diuisio que sit secundum preambulum 
+      <lb ed="#P" n="111"/>quod aliquid esse cognoscens potest dupliciter intelligi 
+      <lb ed="#P" n="112"/>Uno modo sicut principium quo et sic anima et 
+      intelle<lb ed="#P" n="113" break="no"/>ctus dicitur cognoscere seu cognoscens. 
+      Aliomo<lb ed="#P" n="114" break="no"/>do tamquam primcipium quod et sic suppositum proprie 
+      <lb ed="#P" n="115"/>dicitur cognoscere 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e251">
+                  <lb ed="#P" n="116"/>¶ Ex quo sequitur quod licet in christo fuerunt 
+      di<lb ed="#P" n="117" break="no"/>uersa principia cognoscendi et volendi primo modo 
+      <lb ed="#P" n="118"/>non tamen fuerunt in eo plura vel diuersa secundo 
+      <lb ed="#P" n="119"/>modo / quia erat solum vnus ypostasis vol ns et agens 
+      <lb ed="#P" n="120"/>seu cognoscens secundum vtrumque principium: vt 
+      <lb ed="#P" n="121"/>dicit Damascenus. vbi supra capitulo. 14 ergo etc. 
+      <!--226.xml-->
+      <pb ed="#P" n="104-r"/>
+                  <lb ed="#P" n="1"/>Secunda diuisio proficere in cognoscendo 
+      <lb ed="#P" n="2"/>potest capi tripliciter vel quadrupliciter. primo mo 
+      <lb ed="#P" n="3"/>do pro plura cognoscere. Secundo modo pro 
+      vti<lb ed="#P" n="4" break="no"/>liora cognoscere. Tertio modo pro cognoscere ali 
+      <lb ed="#P" n="5"/>qua que prius non cognouit: et. Quarto pro 
+      perfe<lb ed="#P" n="6" break="no"/>ctiori modo cognoscere et de quolibet modorum 
+      pro<lb ed="#P" n="7" break="no"/>ficiendi potest intelligi questio. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e286">
+                  <lb ed="#P" n="8"/>¶ Quartum preambulum quod in christo fuit mul 
+      <lb ed="#P" n="9"/>tiplex modus cognoscendi: vnus per cognitionem 
+      <lb ed="#P" n="10"/>increatam inquantum deus: alius vero per creatam: et 
+      <lb ed="#P" n="11"/>ste iterum multiplex quia quidem modus fuit creatur 
+      <lb ed="#P" n="12"/>rarum in verbo cognitio: quidem fuit rerum in christo 
+      <lb ed="#P" n="13"/>genere. Modis cognoscendi in verbo fuit duplex 
+      <lb ed="#P" n="14"/>vnus communis sibi et aliis beatis ex vi vnionis 
+      bea<lb ed="#P" n="15" break="no"/>tifice: alius sibi specialis proueniens ex vi vnionis 
+      <lb ed="#P" n="16"/>postatice Cognitio rerum in proprio genere potest 
+      <lb ed="#P" n="17"/>diuidi in sensitiuam / experimentalem et intellectiuam. 
+      <lb ed="#P" n="18"/>¶ Quintum preambulum quod notitia intellecti 
+      <lb ed="#P" n="19"/>ua diuina potest accipi pro noticia simplicis 
+      cogni<lb ed="#P" n="20" break="no"/>tionis: quo modo cognoscit deus omnia presentia 
+      <lb ed="#P" n="21"/>praeterita / futura / possibilia / et impossibilia / bona et 
+      ma<lb ed="#P" n="22" break="no"/>la. Secundo potest capi pro noticia visionis. vt se 
+      <lb ed="#P" n="23"/>solum extendit ad presentia preterita / futura bona et 
+      <lb ed="#P" n="24"/>mala. Tertio pro noticia approbationis quo modo 
+      <lb ed="#P" n="25"/>solum cognoscuntur bona / de cnius opposito dicitur 
+      <lb ed="#P" n="26"/>fatuis virginibus nescio vos. Quarto pro noticia 
+      <lb ed="#P" n="27"/>indicatiua vel confirmationis quo modo vera 
+      com<lb ed="#P" n="28" break="no"/>plexa solum seu complexe significabilia vera / 
+      cogno<lb ed="#P" n="29" break="no"/>scuntur. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e336">
+                  <lb ed="#P" n="30"/>¶ Secunda pars articuli. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e341">
+                  <lb ed="#P" n="31"/>¶ Iis visis sit prima conclusio licet christus 
+      <lb ed="#P" n="32"/>secundum quod deus aliqua potuit scire scien 
+      <lb ed="#P" n="33"/>tia indicatiua que ante non sciuit sic: tamen 
+      <lb ed="#P" n="34"/>non potuit sic in cognoscendo proficet 
+      <lb ed="#P" n="35"/>re. probatur prima pars. quia aliqua 
+      po<lb ed="#P" n="36" break="no"/>tuerunt esse vera que non fuerunt vera 
+      <lb ed="#P" n="37"/>Secunda pars probatur quia in casu dato nec plura 
+      <lb ed="#P" n="38"/>nec vtiliora nec perfectiori modo cognouisset quam an 
+      <lb ed="#P" n="39"/>tea. Confirmatur quia nunc defacto aliqua sit sic / 
+      <lb ed="#P" n="40"/>que antea non sic sciuit: vt me legere etc. et tamen de 
+      <lb ed="#P" n="41"/>us ex hoc non proficit in cognoscendo. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e367">
+                  <lb ed="#P" n="42"/>¶ Secunda conclusio: licet christus secundum 
+      <lb ed="#P" n="43"/>quod deus potuerit noticia visionis (prout talis est pu 
+      <lb ed="#P" n="44"/>ta pro vt extendit se ad presentia preterita et 
+      futura<lb ed="#P" n="45" break="no"/>tantum aliqua scire que nescit sic: non tamen potuit 
+      <lb ed="#P" n="46"/>sic ingnoscendo proficere. patet prima pars quia 
+      ali<lb ed="#P" n="47" break="no"/>qua possunt esse futura que de facto non erunt. Et 
+      <lb ed="#P" n="48"/>ecunda patet sicut secunda precedentis. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e385">
+                  <lb ed="#P" n="49"/>¶ Tertia conclusio / licet christus secundum ani 
+      <lb ed="#P" n="50"/>mam ex vi vnionis cognouerit omnia que 
+      cogno<lb ed="#P" n="51" break="no"/>scit verbum. illa tamen non eque perfecte cognouit 
+      <lb ed="#P" n="52"/>vt verbum Ista conclusio est magistri libro tertio 
+      di<lb ed="#P" n="53" break="no"/>stictione. 14 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e399">
+                  <lb ed="#P" n="54"/>¶ Ex qua sequitur correlarium quod anima 
+      chri<lb ed="#P" n="55" break="no"/>sti potuit quoadmodum proficere in cognoscendo. 
+      pa<lb ed="#P" n="56" break="no"/>tet ex conclusione. quia non ita persecto modo 
+      scili<lb ed="#P" n="57" break="no"/>cet infinite cognouit sed solum perfecte finite 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e410">
+                  <lb ed="#P" n="58"/>¶ Quarta conclusio. Christus ex vi vnionis 
+      <lb ed="#P" n="59"/>beatifice (precise sibi et aliis communis secundum 
+      ani<lb ed="#P" n="60" break="no"/>mam non omnia nouit que verbum. quia tunc om¬ 
+      <!--226.xml-->
+      <lb ed="#P" n="61"/>nes beati viderent omnia quod est falsum. quia sic non 
+      <lb ed="#P" n="62"/>fierent vel fustra fierent relationes angelis et anima 
+      <lb ed="#P" n="63"/>pus sanctis. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e428">
+                  <lb ed="#P" n="64"/>¶ Ex qua patet quod anima ista tali modo vnita 
+      <lb ed="#P" n="65"/>precise potuit in cognoscendo proficere. patet quia 
+      <lb ed="#P" n="66"/>ei sicut et aliis poterant fieri reuelationes vt sic vni 
+      <lb ed="#P" n="67"/>te precise beatifice. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e439">
+                  <lb ed="#P" n="68"/>¶ Quinta conclusio anima christi cognitione 
+      <lb ed="#P" n="69"/>rerum in genere proprio potuit in cognoscendo profice 
+      <lb ed="#P" n="70"/>re et hooprobat prima ratio principalis. Et 
+      confir<lb ed="#P" n="71" break="no"/>matur quia multa chrstus secundum animam est ex 
+      <lb ed="#P" n="72"/>pertus in passione que ante non fuit expertus vt 
+      di<lb ed="#P" n="73" break="no"/>tit apostolus quia cum esset filius dei didiscit ex eis 
+      <lb ed="#P" n="74"/>que passus est obedientiam. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e457">
+                  <lb ed="#P" n="75"/>¶ Sexta conclusio Anima christi vnita verbo 
+      <lb ed="#P" n="76"/>quoadmodum et quo ad numerum scibilium in proprio 
+      <lb ed="#P" n="77"/>genere potuit in cognoscendo proficere patet illa 
+      <lb ed="#P" n="78"/>ex dictis. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e468">
+                  <lb ed="#P" n="79"/>¶ Et roboratur vna cum multis supradictis 
+      <lb ed="#P" n="80"/>lutoritate damascenis libro tertio capitulo decimo 
+      <lb ed="#P" n="81"/>tertio dicentis perfectum autem deum confitentes 
+      <lb ed="#P" n="82"/>eundem dominum nostrum ihesum christum et pere 
+      <lb ed="#P" n="83"/>fectum hominem / animus eundem et omnia habere 
+      <lb ed="#P" n="84"/>queque pater habet preter ingenerationem. et omnia 
+      <lb ed="#P" n="85"/>habere quecumque adam primus excepto solo 
+      pecca<lb ed="#P" n="86" break="no"/>to que sunt corpus et anima rationalis et intellectua 
+      <lb ed="#P" n="87"/>lis habere eum similiter cum duabus naturis ad si 
+      <lb ed="#P" n="88"/>nilitudinem duarum naturarum duas voluntates 
+      <lb ed="#P" n="89"/>atur. les diuinam et humanam et duo libera 
+      arbi<lb ed="#P" n="90" break="no"/>tria naturalia diuinum et hamanum. humonsios id est 
+      con<lb ed="#P" n="91" break="no"/>ubstantialis enim existens deo et patri libere vult et 
+      <lb ed="#P" n="92"/>agit vt deus. consubstantialis autem existens nobis 
+      <lb ed="#P" n="93"/>libere vult et agit vt homo idem ipsius enim miracu 
+      <lb ed="#P" n="94"/>la sunt ipsius et passiones ergo. quia quidem duas 
+      na<lb ed="#P" n="95" break="no"/>turas christi duas eius voluntates naturales et 
+      na<lb ed="#P" n="96" break="no"/>turalis actus animus quoniam autem vna duarum 
+      <lb ed="#P" n="97"/>naturarum eius ypostas. vnum et vnum animus vo 
+      <lb ed="#P" n="98"/>lentem agentem naturaliter secundum ambas 
+      natu<lb ed="#P" n="99" break="no"/>ras ex quibus et in quibus et que est christus deus no 
+      <lb ed="#P" n="100"/>ster velle autem et agere non substantialiter diuise sed 
+      <lb ed="#P" n="101"/>vnite vult enim et agit alterutra forma cum alterius 
+      <lb ed="#P" n="102"/>communione. Et subdit voluntaria quidem est diuina 
+      <lb ed="#P" n="103"/>natura similiter et humana volens autem est qui 
+      vti<lb ed="#P" n="104" break="no"/>tur voluntate scilicet ypostasis quia autem ergo 
+      qui<lb ed="#P" n="105" break="no"/>dem vnus est christus et vna eius ypostasis: vnus et 
+      <lb ed="#P" n="106"/>idest qui agit et vult diuine et humane et multa alia 
+      <lb ed="#P" n="107"/>dicit damascenus ibidem ad propositum vide ibi. 
+      <lb ed="#P" n="108"/>Et hec de primo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k64321-Dd1e537">
+               <head xml:id="oooo3o-k64321-Hd1e539">Articulus 2</head>
+               <p xml:id="oooo3o-k64321-d1e541">
+                  <lb ed="#P" n="109"/>¶ Secundus articulus 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e546">
+                  <lb ed="#P" n="110"/>QUantum ad secundum articulum 
+      <lb ed="#P" n="111"/>vtrum anima vnita verbo potuerit 
+      pec<lb ed="#P" n="112" break="no"/>care seu errare pono conclusiones. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e555">
+                  <lb ed="#P" n="113"/>¶ Prima impossibile est creaturam 
+      ra<lb ed="#P" n="114" break="no"/>/tionalem vniri verbo ypostatice et ipsam 
+      <lb ed="#P" n="115"/>in nullo meliorari penito. probatur quia si ita esset tunc 
+      <lb ed="#P" n="116"/>vniri verbo nullum bonum esset. nec eligibile 
+      aliquo<lb ed="#P" n="117" break="no"/>modo ex quo sibi intrinsece non esset melius. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e568">
+                  <lb ed="#P" n="118"/>¶ Secunda conclusio secundum nullam deno 
+      <lb ed="#P" n="119"/>minationem potest aliquam naruram assumere 
+      se<lb ed="#P" n="120" break="no"/>tundum quam non potest illam vnire vel esse causam 
+      <lb ed="#P" n="121"/>penominationis illius. patet quia secundum illam de 
+      <!--227.xml-->
+      <pb ed="#P" n="104-v"/>
+                  <lb ed="#P" n="1"/>nominationem assumit ergo: secundum illam 
+      deno<lb ed="#P" n="2" break="no"/>minationem viuificat ergo illius denominatonus 
+      de<lb ed="#P" n="3" break="no"/>us est causa: sed deus non potest esse causa quod illa 
+      na<lb ed="#P" n="4" break="no"/>tura peccet ergo secundum illam denominationem etc. 
+      <lb ed="#P" n="5"/>Tertia Ticet posse peccare in creatura ratio 
+      <lb ed="#P" n="6"/>nali / sit aliquis modus libertatis arbitrii: nullius 
+      ta<lb ed="#P" n="7" break="no"/>men perfectionis simpliciter debet affirmari. prima 
+      <lb ed="#P" n="8"/>pars patet quia per tale posse aliquo modo distinguit 
+      <lb ed="#P" n="9"/>creatura rationalis a potentia naturali. Secunda 
+      <lb ed="#P" n="10"/>pars probatur Ille modus non debet affirmari per 
+      <lb ed="#P" n="11"/>fectionis simpliciter qui non reddit creaturam 
+      cul<lb ed="#P" n="12" break="no"/>commpetit: perfectiorem omni illa cui non competit sed 
+      <lb ed="#P" n="13"/>sic est de posse peccare ergo maior est descriptio per 
+      <lb ed="#P" n="14"/>fectionis simpliciter et minor est nota¬ 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e615">
+                  <lb ed="#P" n="15"/>¶ Ex qua sequitur quod dei filius taliter sibi natu 
+      <lb ed="#P" n="16"/>ram vniuit humanam: quod eius non omnem modum 
+      <lb ed="#P" n="17"/>ibertatis arbitrii sumpsit. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e624">
+                  <lb ed="#P" n="18"/>¶ Secundo sequitur quod posse peccare non est 
+      de<lb ed="#P" n="19" break="no"/>nirinseca et formali ratione liberi arbitrii dicente 
+      An<lb ed="#P" n="20" break="no"/>selmo potentia peccandi (et loquitur de potentia 
+      pro<lb ed="#P" n="21" break="no"/>pinqua) addita libero arbitrio diminuit libertatem et 
+      <lb ed="#P" n="22"/>temota auget: christus autem non habuit libertatem diminutam 
+      <lb ed="#P" n="23"/>Tertio sequitur quod esse liberum proprie etper 
+      <lb ed="#P" n="24"/>se competit prime cause deo scilicet / et nulli alteri 
+      pa<lb ed="#P" n="25" break="no"/>tet per augustinum in de ciuitate libro quinto. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e644">
+                  <lb ed="#P" n="26"/>¶ Quarta conclusio Impossibile est 
+      simplici<lb ed="#P" n="27" break="no"/>ter et contradictionem includit / naturam alicuius dam 
+      <lb ed="#P" n="28"/>nati hominis / vel fatui vel furiosi / vel periuri siue 
+      in<lb ed="#P" n="29" break="no"/>tellectus eleuatione ipsa manente damnata assumi in 
+      <lb ed="#P" n="30"/>vnitatem diuini suppositi supponendo quod non suspenda 
+      <lb ed="#P" n="31"/>tur ab omni actu. probatur quia illud simpliciter est 
+      im<lb ed="#P" n="32" break="no"/>possibile quo posito sequitur simpliciter impossibile 
+      <lb ed="#P" n="33"/>sed sic est in proposito ergo probatur minor: quia 
+      om<lb ed="#P" n="34" break="no"/>nes conditiones assumpte nature (vt dictum est (pro 
+      <lb ed="#P" n="35"/>vter communicationem vdiomatum tribuuntur 
+      diui<lb ed="#P" n="36" break="no"/>no supposito assumenti: sed damnati blasphemant de 
+      <lb ed="#P" n="37"/>um et odiunt eum ergo deus blasphemaret deum et de 
+      <lb ed="#P" n="38"/>us odirent deum et cetera. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e675">
+                  <lb ed="#P" n="39"/>¶ Correlarium Contradictionem includit beate 
+      <lb ed="#P" n="40"/>truitionis actum / et actuale dei odium simul esse in 
+      ea<lb ed="#P" n="41" break="no"/>dem voluntate: quia alias idem esset inimicus et amicus dei. 
+      <lb ed="#P" n="42"/>Secundum correlarium Ticet deus possit esse 
+      <lb ed="#P" n="43"/>in pena sensus. hec tamen est impossibilis deus est 
+      <lb ed="#P" n="44"/>pampnatus / loquendo de damnato vt supra 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e691">
+                  <lb ed="#P" n="45"/>¶ Quinta conclusio Anima christi vnita verl 
+      <lb ed="#P" n="46"/>bo non potuit peccare: nec turpiter errare / 
+      proba<lb ed="#P" n="47" break="no"/>tur anima ista fuit confirmata in bono ergo 
+      conse<lb ed="#P" n="48" break="no"/>quentia nota / antecedens patet quia fuit beata in 
+      <lb ed="#P" n="49"/>instanti vnionis secundum magistrum ergo: etiam 
+      <lb ed="#P" n="50"/>patet per articulos parisienses primos quattuor no 
+      <lb ed="#P" n="51"/>uellos capitulo. 14. Et confirmatur sic impossibile 
+      fu<lb ed="#P" n="52" break="no"/>it christum peccare ergo impossibile fuit animam eius 
+      <lb ed="#P" n="53"/>peccare. consequentia nota: quia qualitercumque 
+      ope<lb ed="#P" n="54" break="no"/>rata fuisset anima principalius totaliter operata 
+      fu<lb ed="#P" n="55" break="no"/>isset persona. quia persona est proprie agens quod 
+      <lb ed="#P" n="56"/>et actiones sunt suppositorum secundum 
+      Damasce<lb ed="#P" n="57" break="no"/>num. antecedens patet quia persona christi realiter est deus. cul 
+      <lb ed="#P" n="58"/>repugnat posse peccare secundum naturam quancumque 
+      <lb ed="#P" n="59"/>Sexta conclusio Christus non tenebatur ali 
+      <lb ed="#P" n="60"/>qualiter agere secundum naturam aliquam. probat 
+      <lb ed="#P" n="61"/>quia si detur oppositum sequitur quod christus non me¬ 
+      <!--227.xml-->
+      <lb ed="#P" n="62"/>ruit omne condigno. nec quodlibet suum operari electi 
+      <lb ed="#P" n="63"/>ue fuisset omne condigno acceptabile ad premium. seu 
+      iu<lb ed="#P" n="64" break="no"/>sticia actualis omne condigno cuius oppositum est 
+      ostem<lb ed="#P" n="65" break="no"/>sum in questione precedente. patet consequentia. quia teneri 
+      <lb ed="#P" n="66"/>ad taliter operari est conditio repugnans ei quod est 
+      <lb ed="#P" n="67"/>mereri omne condigno. vt ibidem dictum est: Et 
+      confin<lb ed="#P" n="68" break="no"/>matur quia propter vnionem nature humane: ista per 
+      <lb ed="#P" n="69"/>sona puta christus non tenebatur aliqualiter opera 
+      <lb ed="#P" n="70"/>ri ad extra plus quam ante vnionem tenetur sed prius non 
+      <lb ed="#P" n="71"/>tenebatur: igitur nec nunc quare etc. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e754">
+                  <lb ed="#P" n="72"/>¶ Septima conclusio Impossibile est aliquam cre¬ 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e760">
+                  <lb ed="#P" n="73"/>¶ aturam vnitam verbo personaliter peccare seu 
+      tur<lb ed="#P" n="74" break="no"/>diter errare. probatur impossibile est verbum seu 
+      per<lb ed="#P" n="75" break="no"/>sonam diuinam peccare seu culpabiliter errare 
+      er<lb ed="#P" n="76" break="no"/>go. patet consequentia quia impossibile est stante vnione esse 
+      <lb ed="#P" n="77"/>aliquam operationem secundum istam naturam / que 
+      <lb ed="#P" n="78"/>non sit operata per personam. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e776">
+                  <lb ed="#P" n="79"/>¶ Ex quo patet quod creatura rationalis vnita ver 
+      <lb ed="#P" n="80"/>po. redditur virtute illius vnionis simpliciter 
+      impec<lb ed="#P" n="81" break="no"/>cabilis: quandiu manet vnita. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e785">
+                  <lb ed="#P" n="82"/>¶ Octaua conclusio quod si per impossibile 
+      perso<lb ed="#P" n="83" break="no"/>na diuina assumeret naturam / sic quod illam naturam 
+      la<lb ed="#P" n="84" break="no"/>teret assumptio: adhuc illa natura sic vnita peccare 
+      <lb ed="#P" n="85"/>non posset. patet per predicta. quia ipsum suppositum 
+      <lb ed="#P" n="86"/>non potest peccare nec potest esse actio ipsius 
+      natu<lb ed="#P" n="87" break="no"/>re. quam non agit persona in ipsa natura: Et illa est 
+      <lb ed="#P" n="88"/>precipua causa quare dicta natura peccare non 
+      po<lb ed="#P" n="89" break="no"/>test: quia impossibile est esse actionem vel passionem. 
+      <lb ed="#P" n="90"/>qualicunque modo: secundum naturam aliquam: que 
+      <lb ed="#P" n="91"/>non propriissime conueniat persone personanti 
+      na<lb ed="#P" n="92" break="no"/>turam. vt in prima questione huius tertii dictum est 
+      <lb ed="#P" n="93"/>qualitercunque ergo ponatur per impossibile de natu 
+      <lb ed="#P" n="94"/>ra (puta quod non habeat claram visionem: nec 
+      habe<lb ed="#P" n="95" break="no"/>it gratiam que est actus nec noticiam: vel qualiter 
+      <lb ed="#P" n="96"/>cunque ponatur composibiliter dicte vnioni) ipsa 
+      na<lb ed="#P" n="97" break="no"/>ura vnita manet impeccabilis. eo quod est principaleagens 
+      <lb ed="#P" n="98"/>ecundum ipsam (puta suppositum) est impeccabile. 
+      <lb ed="#P" n="99"/>Nona conclusio Impossibile est verbum 
+      di<lb ed="#P" n="100" break="no"/>tinum naturam rationalem assumere et ipsam solum 
+      <lb ed="#P" n="101"/>quantum ad vnam partem ymaginis substentare. 
+      pro<lb ed="#P" n="102" break="no"/>patur quia si sic sequeretur quod aliquis esset verus 
+      ho<lb ed="#P" n="103" break="no"/>mo: et tamen non haberet liberum arbitrium 
+      inquan<lb ed="#P" n="104" break="no"/>tum homo. quia ponamus quod vniat sibi animamsortis secundum 
+      <lb ed="#P" n="105"/>intellectum: et secundum voluntatem constat quod erit homo 
+      <lb ed="#P" n="106"/>Decima conclusio Secundum nullam deno 
+      <lb ed="#P" n="107"/>minationem que repugnat huic perfectioni 
+      simpli<lb ed="#P" n="108" break="no"/>citer: que est esse iustum: potest deus naturam 
+      suppo<lb ed="#P" n="109" break="no"/>sitare patet quia tunc posset substentare naturam quot 
+      <lb ed="#P" n="110"/>ageret non propter debitum finem quod non est dicendum 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e850">
+                  <lb ed="#P" n="111"/>¶ Undecima conclusio Ticet humana natura 
+      <lb ed="#P" n="112"/>nita ypostatice non possit peccare: hoc tamen 
+      pos<lb ed="#P" n="113" break="no"/>set si dimitteretur personalitati proprie prima pars 
+      <lb ed="#P" n="114"/>patet ex dictis. Secunda probatur quia voluntas 
+      hu<lb ed="#P" n="115" break="no"/>nana sibiipsi derelicta ratione sue libertatis potest 
+      <lb ed="#P" n="116"/>in bonum et in malum sed sic esset de illa ergo. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e866">
+                  <lb ed="#P" n="117"/>¶ Ex qua posset inferri quod licet in christo fuerit 
+      <lb ed="#P" n="118"/>potentia peccandi remota: non tamen propinqua. 
+      <lb ed="#P" n="119"/>Propinqua potentia est voluntas creata sue 
+      natu<lb ed="#P" n="120" break="no"/>re relicta Remota est ipsa veluntas cumaliquo sibi ad  
+      <lb ed="#P" n="121"/>tuncto preseruanta ne in actum peccati prorumpere 
+      <lb ed="#P" n="122"/>possit. cuiusmodi fuit potentia voluntatis / christi 
+      ve<lb ed="#P" n="123" break="no"/>potentia peccandi potest sumi pro ipsa voluntate 
+      <!--228.xml-->
+      <pb ed="#P" n="105-r"/>
+                  <lb ed="#P" n="1"/>creata Alio modo pro ipso velle difformiter 
+      poten<lb ed="#P" n="2" break="no"/>tia peccandi primo modo est a deo et non secundo modo. 
+      <lb ed="#P" n="3"/>Quodecima conclusio. TChristus assumpsit 
+      <lb ed="#P" n="4"/>omnes defectus humane nature non repugnantes 
+      <lb ed="#P" n="5"/>infinite perfectioni suppositi assumentis: cuiusmodi 
+      <lb ed="#P" n="6"/>sunt defectus concernentes et consequentes 
+      culpan<lb ed="#P" n="7" break="no"/>miseriam et indignitatem. defectus concernentes cul 
+      <lb ed="#P" n="8"/>pam sunt peccare: et inordinate velle: defectus 
+      con<lb ed="#P" n="9" break="no"/>cernentes miseriam vt errare damnari etc. 
+      Indi<lb ed="#P" n="10" break="no"/>gnitatem vero concerntut nescire qua scireest vtile 
+      dif<lb ed="#P" n="11" break="no"/>ficultari in acto bono: esse leprosum aut gibbosum. 
+      <lb ed="#P" n="12"/>aut alias defectuosum in membris corporis et 
+      dimi<lb ed="#P" n="13" break="no"/>nutum. et hoc patet per magistrum. Mori vero et esse 
+      <lb ed="#P" n="14"/>passibiliter / sitire / famescere et huiusmodi deffectus 
+      <lb ed="#P" n="15"/>vere fuerunt in christo. Et hec de secundo articulo 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k64321-Dd1e922">
+               <head xml:id="oooo3o-k64321-Hd1e924">Articulus 3</head>
+               <p xml:id="oooo3o-k64321-d1e926">
+                  <lb ed="#P" n="16"/>Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e931">
+                  <lb ed="#P" n="17"/>¶ U etntum ad tertium 
+      articu<lb ed="#P" n="18" break="no"/>lum vtrum christus habuit 
+      infi<lb ed="#P" n="19" break="no"/>nitam charitatem / sine gratiam et 
+      <lb ed="#P" n="20"/>noticiam actu infinitam. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e942">
+                  <lb ed="#P" n="21"/>¶ Pono primo distinctiones 
+      <lb ed="#P" n="22"/>postea conclusiones. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e949">
+                  <lb ed="#P" n="23"/>¶ Distinctio prima est quod 
+      ali<lb ed="#P" n="24" break="no"/>quid esse infinite capacitatis 
+      po<lb ed="#P" n="25" break="no"/>test intelligi dupliciter. Uno modo sic quod non potest 
+      <lb ed="#P" n="26"/>sua capacitas aliquo finito repleri. Secundo 
+      mo<lb ed="#P" n="27" break="no"/>do sic quod ipsum sit receptiuum infinite latitudinis 
+      ali<lb ed="#P" n="28" break="no"/>cuius intentionis qualitatis per diuinam potentiam 
+      <lb ed="#P" n="29"/>et hoc dupliciter: quia vel potest per diuinam potentia 
+      <lb ed="#P" n="30"/>recipere infinitam rem incomplexam: vel quia potest infinite 
+      <lb ed="#P" n="31"/>operari vtputa infinitam volitionem in se elicere / vel si 
+      <lb ed="#P" n="32"/>infinita volitio poneretur in ipsa scilicet alicuius anima 
+      <lb ed="#P" n="33"/>per potentiam diuinam: anima ipsa per totam illam 
+      <lb ed="#P" n="34"/>latitudinem infinitam volitionis et per quamlibet patet 
+      <lb ed="#P" n="35"/>tem eius equaliter intense operaretur. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e981">
+                  <lb ed="#P" n="36"/>¶ Secunda diuisio est specialiter de noticia que 
+      <lb ed="#P" n="37"/>potest pro nunc tripliciter accipi: quia quedam est 
+      com<lb ed="#P" n="38" break="no"/>fusa / quedam discretiua: et ista est duplex: discretiua 
+      <lb ed="#P" n="39"/>scilicet comprehensiua: et discretiua non comprehensiua. 
+      <lb ed="#P" n="40"/>Confusa dicitur quia non discernitur res cognita 
+      al<lb ed="#P" n="41" break="no"/>alia non ipsa sicut pueri in principio vocant omnes 
+      vi<lb ed="#P" n="42" break="no"/>ros patres et ego venientem a longe cognosco quod est 
+      <lb ed="#P" n="43"/>animal sed nescio an illius speciei: et si scio quod est 
+      ho<lb ed="#P" n="44" break="no"/>mo / nescio si est petrus. Discretiua autem per 
+      oppo<lb ed="#P" n="45" break="no"/>situm dicitur qua cognoscitur res et discernitur a quo 
+      <lb ed="#P" n="46"/>libet alio eiusdem rationis non ipso: dico autem a que 
+      <lb ed="#P" n="47"/>cunque eiusdem rationis non ipso quia alias nulla visio 
+      <lb ed="#P" n="48"/>corporalis sensitiua esset discretiua: quia virtute nulli 
+      <lb ed="#P" n="49"/>talis discernitur color a substantia: vel a forma 
+      substa<lb ed="#P" n="50" break="no"/>tiali sed bene discernitur hic color ab alio colore eiu 
+      <lb ed="#P" n="51"/>dem rationis cognitione discretiua. Comprehensi 
+      <lb ed="#P" n="52"/>ua est: a qua cognoscitur res sicut ex sui natura in 
+      se<lb ed="#P" n="53" break="no"/>est cognoscibilis. et quantum ex sui natura est visibilis 
+      <lb ed="#P" n="54"/>ex visione seu cognitione etiam eiusdem generis: id 
+      <lb ed="#P" n="55"/>est visione creata de re creata restringendo ad 
+      cres<lb ed="#P" n="56" break="no"/>turas. Unde res creata visibilis est in se finite visi 
+      <lb ed="#P" n="57"/>bilitatis: ideo non potest nisi perfectam finitam sui 
+      vi<lb ed="#P" n="58" break="no"/>sionem causare propter quod licet deus rem finitam 
+      <lb ed="#P" n="59"/>videat visione insinita hoc non est ex natura rei fini¬ 
+      <!--228.xml-->
+      <lb ed="#P" n="60"/>te sed ex visione seu vidente. Per oppositum non 
+      con<lb ed="#P" n="61" break="no"/>prehensiua discretiua est: qua potest res visa 
+      perfe<lb ed="#P" n="62" break="no"/>ctiorem causare ex sui natura¬ 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1044">
+                  <lb ed="#P" n="63"/>¶ Dimissis aliis distinctionibus puta quod quedam 
+      <lb ed="#P" n="64"/>est intuitiua / Quedam abstractiua / Quedam 
+      iudi<lb ed="#P" n="65" break="no"/>catiua etc. (quibus non est opus pro nuno 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1053">
+                  <lb ed="#P" n="66"/>¶ Sit prima conclusio: Anima christi non est 
+      <lb ed="#P" n="67"/>infinite capax primo modo diuisionis de infinita 
+      ca<lb ed="#P" n="68" break="no"/>lacitate. Probatur: Nulla creatura rationalis est 
+      <lb ed="#P" n="69"/>isto modo infinite capacitatis. ergo. Consequentia 
+      <lb ed="#P" n="70"/>nota. Antecdens probatur quia quelibet 
+      sufficien<lb ed="#P" n="71" break="no"/>ter perficitur et satiatur habitu glorie finito: vt 
+      no<lb ed="#P" n="72" break="no"/>tum est de beatis angelis et animabus sanctis: de 
+      qui<lb ed="#P" n="73" break="no"/>bus verificatur illud psalmiste Satiabor cum 
+      appa<lb ed="#P" n="74" break="no"/>ruerit gloria tua et tamen non habet aliquis beatorum in 
+      <lb ed="#P" n="75"/>finitum gaudium informans. nec habitum glorie in 
+      <lb ed="#P" n="76"/>finitum. quamuis non posset saciari vel quietari 
+      obie<lb ed="#P" n="77" break="no"/>ctiue nisi obiecto infinito. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1082">
+                  <lb ed="#P" n="78"/>¶ Secunda conclusio quod quelibet mens creata 
+      <lb ed="#P" n="79"/>est in infinitum magne capacitatis sec undo modo 
+      pri<lb ed="#P" n="80" break="no"/>me diuisionis de infinita capacitate. Probatur: quia 
+      <lb ed="#P" n="81"/>non videtur dabilis aliqua summa latitudo possibi 
+      <lb ed="#P" n="82"/>lis poni in hac anima per diuinam potentiam. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1095">
+                  <lb ed="#P" n="83"/>¶ Secundo quia materia huius lapidis est receptiua in 
+      <lb ed="#P" n="84"/>finite caliditatis: ergo non videtur quin sic possit rei 
+      <lb ed="#P" n="85"/>cipere anima accidentia spiritualia infinite 
+      intensio<lb ed="#P" n="86" break="no"/>nis. Probatur assumptum: quia si materia huius 
+      la<lb ed="#P" n="87" break="no"/>idis rarefiat in infinitum difformiter: et super 
+      quo<lb ed="#P" n="88" break="no"/>libet pedali ponatur latitudo caloris vt decem: et 
+      po<lb ed="#P" n="89" break="no"/>tea fieret corpus hominis: videtur illud corpus esse 
+      <lb ed="#P" n="90"/>infinite calidum Tertio quia anima impassibilis videtur 
+      <lb ed="#P" n="91"/>posse recipere infinitas impressiones a luce infinita 
+      <lb ed="#P" n="92"/>vel a lucidis infinitis si essent. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1119">
+                  <lb ed="#P" n="93"/>¶ Tertia conclusio: Quelibet mens creata est 
+      <lb ed="#P" n="94"/>finite operatiua Et sic nulla talis est infinite capax 
+      <lb ed="#P" n="95"/>tertio modo diuisionis prime: probatur quia quanto mens 
+      <lb ed="#P" n="96"/>aliqua est perfectius operatiua tanto ceteris 
+      pari<lb ed="#P" n="97" break="no"/>bus est perfectior. vnde magis est operatiuus 
+      intel<lb ed="#P" n="98" break="no"/>lectus angeli maioritate intensiua et multitudine quam 
+      <lb ed="#P" n="99"/>sit operatiua anima rationalis sed nulla mens 
+      crea<lb ed="#P" n="100" break="no"/>ta potest esse infinite perfecta ergo. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1140">
+                  <lb ed="#P" n="101"/>¶ Quarta conclusio: Anima christi non habet 
+      <lb ed="#P" n="102"/>nec habere potest actualem noticiam infinitam 
+      crea<lb ed="#P" n="103" break="no"/>tam intensiue nec infinitam volitionem creatam nec 
+      <lb ed="#P" n="104"/>numero infinitas equales et distinctas. Probatur 
+      <lb ed="#P" n="105"/>ex conclusione secunda vnde non apparet 
+      quomo<lb ed="#P" n="106" break="no"/>do menti finite perfectionis: possit infinita latitudo 
+      <lb ed="#P" n="107"/>vel multtitudo actuum esse actualis operatio. 
+      Di<lb ed="#P" n="108" break="no"/>nota quod licet anima christi sit operans quo et non quod 
+      <lb ed="#P" n="109"/>tamen hoc non tollit quin vere ei appareat obiectum 
+      <lb ed="#P" n="110"/>ter visionem et vere delectetur quamuis operans 
+      in<lb ed="#P" n="111" break="no"/>strumentale sit. Pro intellectu tamen autoritatum 
+      <lb ed="#P" n="112"/>et pro intentione sanctorum: hic addo quattuor 
+      pun<lb ed="#P" n="113" break="no"/>cta probabiliter 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1171">
+                  <lb ed="#P" n="114"/>¶ Primum quod anima christi visione finita videt 
+      <lb ed="#P" n="115"/>incomplexe in verbo distincte omnia fustra praesentia et praeterita / et 
+      for<lb ed="#P" n="116" break="no"/>sam infita secundum quod aliquidicunt quod vltim non approbo: probatur 
+      <lb ed="#P" n="117"/>illud punctum quo ad praesentia praeterita et furstra omnia etc. quia anima 
+      <lb ed="#P" n="118"/>christi videt deum qui potest sibi obiici vt exemplar 
+      eminentis<lb ed="#P" n="119" break="no"/>tissimum omnium predictorum distinctiue. hinc est 
+      <lb ed="#P" n="120"/>quod illi qui tenent quod videat infinita disfincte probant 
+      <!--229.xml-->
+      <pb ed="#P" n="105-v"/>
+                  <lb ed="#P" n="1"/>quia non repugnat iiifinitas: distinote cognitorum 
+      a<lb ed="#P" n="2" break="no"/>nime christi quin perfecta visione videat ipia plus 
+      <lb ed="#P" n="3"/>quam infinitas diuiue essentie quam tamen videt visione 
+      <lb ed="#P" n="4"/>finita 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1202">
+                  <lb ed="#P" n="5"/>¶ Secundum punctum verbum est anime christi 
+      <lb ed="#P" n="6"/>sicut habitus sapientialis est anime petri quo ad hoc 
+      <lb ed="#P" n="7"/>quia potest persona christi exire in actum creatum 
+      sa<lb ed="#P" n="8" break="no"/>pientie secundum animam cum vult: in actum 
+      scili<lb ed="#P" n="9" break="no"/>cet complexe assertionis: circa alia quam circa verbum 
+      <lb ed="#P" n="10"/>Et sic videtur verbum aliquo modo tenere locum 
+      <lb ed="#P" n="11"/>habitus respectu anime et loquor de habitu noticie 
+      <lb ed="#P" n="12"/>complexe. Et secundum hoc dicit apostolus quod 
+      in<lb ed="#P" n="13" break="no"/>christo sunt omnes thesauri sapientie et scientie 
+      a<lb ed="#P" n="14" break="no"/>sconditi et ideo anima eius in cuiuslibet rei creatam 
+      <lb ed="#P" n="15"/>noticiamquantumlibet perfectamiuxta possibilitatem 
+      <lb ed="#P" n="16"/>anime rationalis potest exire vt quo operans et 
+      ve<lb ed="#P" n="17" break="no"/>quod recipiens. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1233">
+                  <lb ed="#P" n="18"/>¶ Tertium: quantum ad gratiam complexe 
+      si<lb ed="#P" n="19" break="no"/>gnificabilem: est quod nulla maior gratia potest creatu 
+      <lb ed="#P" n="20"/>re conferri quam quod assumatur ad vnitatem persone dei 
+      <lb ed="#P" n="21"/>patet per augustinum de predestinatione sanctorum: 
+      <lb ed="#P" n="22"/>predestinata ex gratia est illa nature humane tanta 
+      <lb ed="#P" n="23"/>et tam summa subuentio vt quo attolleretur altius 
+      <lb ed="#P" n="24"/>non haberet. Item decimotertio de trinitate 
+      capitu<lb ed="#P" n="25" break="no"/>lo. 13. in rebus per tempus exortis illa summa gratia est 
+      <lb ed="#P" n="26"/>quod homo in vnitate persone contunctus est deo. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1255">
+                  <lb ed="#P" n="27"/>¶ Ex quo patet quod christus habet gratiam vel 
+      <lb ed="#P" n="28"/>natura aliqua vel anima illa habet gratiam qua de 
+      <lb ed="#P" n="29"/>us non potuit sibi vel alteri creature conferre 
+      ma<lb ed="#P" n="30" break="no"/>iorem et hoc suffioit pro dicto magistri 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1266">
+                  <lb ed="#P" n="31"/>¶ Quartum punctum. nulla potest esse maior 
+      <lb ed="#P" n="32"/>iusticia actualis quam fuit iusticia actualis anime 
+      chri<lb ed="#P" n="33" break="no"/>sti Et ex hoc consequenter conceditur quod nonpotuit 
+      profi<lb ed="#P" n="34" break="no"/>cere in merito quo ad melius meritum: licet posset 
+      <lb ed="#P" n="35"/>multiplicare numerum meritorium illa tamen 
+      mul<lb ed="#P" n="36" break="no"/>tiplicatio non reddebat proprie christum 
+      perfectio<lb ed="#P" n="37" break="no"/>rem. Item nec christi actio secundum animam rec 
+      <lb ed="#P" n="38"/>debatur melior propter interiorem charitatem 
+      ani<lb ed="#P" n="39" break="no"/>me accidentaliter inherentem. nec anima eius 
+      reda<lb ed="#P" n="40" break="no"/>debatur gratior deo quia nulla est intentio dilectionis 
+      <lb ed="#P" n="41"/>in deo sed solum diligit ad maius beneficium non 
+      po<lb ed="#P" n="42" break="no"/>tuit autem conferri maius benficium creature rationali quam 
+      di<lb ed="#P" n="43" break="no"/>cta personalis vnio: non enim ex hoc quod anima christi 
+      <lb ed="#P" n="44"/>haberet plus actiuitatis excederet vnionem ad 
+      per<lb ed="#P" n="45" break="no"/>sonam. Pro quinta conclusione et sequentibus 
+      sup<lb ed="#P" n="46" break="no"/>pono. quod animam christi videre verbum sit animam 
+      <lb ed="#P" n="47"/>christi habere in seformaliter noticiam creatam 
+      in<lb ed="#P" n="48" break="no"/>tuitiuam verbi vel essentie: patet ista suppositio 
+      quo<lb ed="#P" n="49" break="no"/>ad singula aduertenti. Sit igitur. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1311">
+                  <lb ed="#P" n="50"/>¶ Quinta conclusio: Omnis videns omnia 
+      <lb ed="#P" n="51"/>contenta in verbo videt simul infinita. probatur quia 
+      <lb ed="#P" n="52"/>angelos infinitos possibiles et omnes partes 
+      con<lb ed="#P" n="53" break="no"/>tinui etc. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1322">
+                  <lb ed="#P" n="54"/>¶ Sexta conclusio: Anima non potest videre 
+      <lb ed="#P" n="55"/>omnia contenta in verbo visione comprehensiua 
+      ni<lb ed="#P" n="56" break="no"/>si habeat infinitas visiones vel vnam infinitam: quia 
+      <lb ed="#P" n="57"/>vbi duo arguunt duplum et tria triplum etc. infinita 
+      <lb ed="#P" n="58"/>arguunt infinitatem sed videre duo equalis visibilita 
+      <lb ed="#P" n="59"/>tis comprehensiue est aliqualis perfectio puta 
+      du<lb ed="#P" n="60" break="no"/>plex et tria triplex. ergo etc. Ex quo sequitur per quar 
+      <lb ed="#P" n="61"/>tam eonclusionem quod isto modo scilicet comprehen¬ 
+      <!--229.xml-->
+      <lb ed="#P" n="62"/>que anima christi non poiuit videre omnia contenta 
+      <lb ed="#P" n="63"/>in verbo. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1348">
+                  <lb ed="#P" n="64"/>¶ Septima conclusio. quod anima christi cognitio 
+      <lb ed="#P" n="65"/>ne confusa cognoscit omnis contenta in verbo 
+      cau<lb ed="#P" n="66" break="no"/>saliter. Patet. ista non arguit infinitatem in visionis 
+      <lb ed="#P" n="67"/>actu nec in potentia 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1359">
+                  <lb ed="#P" n="68"/>¶ Octaua conclusio: quod visione discretiua videt  
+      <lb ed="#P" n="69"/>quima christi omnia facta et fienda / Patet quia videt 
+      <lb ed="#P" n="70"/>distincte omnia presentia preterita et futura. Dicunt 
+      <lb ed="#P" n="71"/>etiam aliqui quod discretiue videt infinita licet non 
+      con<lb ed="#P" n="72" break="no"/>prehensiue / quod sic probant quia non magis est 
+      per<lb ed="#P" n="73" break="no"/>fectionis videre discretiui vnum obiectum infinitum: 
+      <lb ed="#P" n="74"/>quam iufinita quorum quodlibet est finitum: sed primum 
+      <lb ed="#P" n="75"/>lidet anima christi: ergo secundum etc. 
+    </p>
+               <p xml:id="oooo3o-k64321-d1e1379">
+                  <lb ed="#P" n="76"/>¶ Ad rationes principales Ad primam: 
+      respon<lb ed="#P" n="77" break="no"/>sum est in primo articulo. Ad alias duas patet quid 
+      <lb ed="#P" n="78"/>dicendum est ex dictis in articulo secundo et tertio. 
+      <lb ed="#P" n="79"/>Et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

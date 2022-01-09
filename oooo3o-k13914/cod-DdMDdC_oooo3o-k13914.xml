@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="22-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k13914"><!--l1d8q1 -->
+            <head xml:id="oooo3o-k13914-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k13914-d1e101">
+               <lb ed="#P" n="17"/>CIrca distinctionem octauam Quero 
+      <lb ed="#P" n="18"/>Utrum solus deus sit simpliciter immul 
+      <lb ed="#P" n="19"/>tabilis. Quod non deus est generabilis 
+      <lb ed="#P" n="20"/>ergo deus est mutabilis. Antecedens 
+      <lb ed="#P" n="21"/>patet de filio qui generatur a patre. et 
+      <lb ed="#P" n="22"/>consequentia probatur per descriptionem ge 
+      <lb ed="#P" n="23"/>nerationis / quia generatio est progressus de non esse 
+      <lb ed="#P" n="24"/>ad esse 
+    </p>
+            <p xml:id="oooo3o-k13914-d1e121">
+               <lb ed="#P" n="25"/>¶ Secundo sic deus est mobilis: ergo est 
+      muta<lb ed="#P" n="26" break="no"/>bilis. cons equentia nota. antecedens probatur quia potest 
+      <lb ed="#P" n="27"/>esse vbi non est. vt pote extra celum: ergo potest 
+      acqui<lb ed="#P" n="28" break="no"/>rere nouum locum. et pari ratione potest desinere esse 
+      <lb ed="#P" n="29"/>vbi prius erat subito vel successiue vt sibi placet: sed 
+      <lb ed="#P" n="30"/>aliquid posse sic esse vbi prius non erat / et desinere et 
+      <lb ed="#P" n="31"/>se vbi prius erat: est posse moueri vel mutari. 
+      Con<lb ed="#P" n="32" break="no"/>firmatur nam si deus crearet aliquam creaturam extra 
+      <lb ed="#P" n="33"/>celum: ipse esset in ea: et nunc non est in ea nec in loco in 
+      <lb ed="#P" n="34"/>quo ipsa est / cum nullus talis sit. ergo.  
+    </p>
+            <p xml:id="oooo3o-k13914-d1e145">
+               <lb ed="#P" n="35"/>¶ Tertio deus potest non esse vel non esse deus 
+      <lb ed="#P" n="36"/>ergo deus est mobilis et mutabilis. Consequentia 
+      no<lb ed="#P" n="37" break="no"/>ta. et antecedens probatur sic: deus creans potest non 
+      <lb ed="#P" n="38"/>esse. ergo deus potest non esse. consequentia nota. 
+      ante<lb ed="#P" n="39" break="no"/>cedens probatur quia posito quod deus nichil creet: hec est 
+      <lb ed="#P" n="40"/>vera deus creans non est: ergo deus creans potest non 
+      <lb ed="#P" n="41"/>esse. antecedens est possibile et consequentia probatur / quia 
+      <lb ed="#P" n="42"/>ex omni propositione de inesse / sequitur propositio de 
+      <lb ed="#P" n="43"/>possibili in eisdem terminis: licet non econtrario: sicut 
+      <lb ed="#P" n="44"/>sequitur / sortes currit / ergo sortes potest currere. et 
+      <lb ed="#P" n="45"/>similiter sequitur sortes non currit ergo sortes potest 
+      <lb ed="#P" n="46"/>non currere. Et confirmatur eadem consequentia: quia ex 
+      <lb ed="#P" n="47"/>opposito consequentis sequitur oppositum antecedentis. ergo. 
+      <lb ed="#P" n="48"/>cosequentia bona. Nam sequitur deus creans non potest 
+      <lb ed="#P" n="49"/>non esse. ergo deus creans necessario est cum 
+      conuertan<lb ed="#P" n="50" break="no"/>tur adinuicem. 
+    </p>
+            <p xml:id="oooo3o-k13914-d1e182">
+               <lb ed="#P" n="51"/>¶ In oppositum arguitur per illud malachie 
+      ter<lb ed="#P" n="52" break="no"/>tio. Ego deus et non mutor. Item iacobi primo Apud 
+      <lb ed="#P" n="53"/>deum non est transiutatio. Item in psalmo mutabis eos 
+      <lb ed="#P" n="54"/>et mutabuntur tu autem idem ipse es. etc. Et per 
+      augu<lb ed="#P" n="55" break="no"/>stinum primo de trinitate capitulo primo. Et per 
+      ma<lb ed="#P" n="56" break="no"/>gistrum in distinctione octaua. 
+    </p>
+            <p xml:id="oooo3o-k13914-d1e199">
+               <lb ed="#P" n="57"/>¶ Primo premittam declarationes. 
+    </p>
+            <p xml:id="oooo3o-k13914-d1e204">
+               <lb ed="#P" n="58"/>¶ Secundo subiungam conclusiones. 
+      <lb ed="#P" n="59"/>¶ Tertio soluam rationes. 
+    </p>
+            <div xml:id="oooo3o-k13914-Dd1e211">
+               <head xml:id="oooo3o-k13914-Hd1e213">Articulus 1</head>
+               <p xml:id="oooo3o-k13914-d1e215">
+                  <lb ed="#P" n="60"/>¶ Primus articulus. 
+      </p>
+               <p xml:id="oooo3o-k13914-d1e220">
+      <!--63.xml-->
+                  <lb ed="#P" n="61"/>QUantum ad primum est sciendum 
+      <lb ed="#P" n="62"/>quod mutabile dicitur quatuor modis vnquam 
+      <lb ed="#P" n="63"/>modo dicitur mutabile omue illud quod 
+      <lb ed="#P" n="64"/>potest incipere esse simpliciter / vel 
+      desi<lb ed="#P" n="65" break="no"/>nere esse per anichilationem / 
+      corruptio<lb ed="#P" n="66" break="no"/>nem / vel destructionem. et sic omne generabile et 
+      cor<lb ed="#P" n="67" break="no"/>ruptibile est mutabile.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e240">
+      ¶ Secundo modo dicitur 
+      il<lb ed="#P" n="68" break="no"/>lud mutabile quod potest / vel est in potentia ad 
+      reci<lb ed="#P" n="69" break="no"/>piendum formam aliquam substantialem / et ipsam habitam 
+      po<lb ed="#P" n="70" break="no"/>test desinere habere. et isto modo materia dicitur 
+      mu<lb ed="#P" n="71" break="no"/>tari quando recipit formam substantialem. Unde dicit 
+      augu<lb ed="#P" n="72" break="no"/>stinus quod materia fuit mutata in primo instanti sue 
+      crea<lb ed="#P" n="73" break="no"/>tionis.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e256">
+      ¶ Tertio dicitur aliquid mutabile respectu 
+      <lb ed="#P" n="74"/>forme accidentalis acquisitiue vel deperditiue. vel 
+      <lb ed="#P" n="75"/>quantitatiue. et isto modo subiectum recipiens nouam 
+      <lb ed="#P" n="76"/>formam accidentalem vel ipsam amittens dicitur mutari. 
+      <lb ed="#P" n="77"/>¶ Quarto modo dicitur aliquid mutabile extrinsece 
+      <lb ed="#P" n="78"/>localiter vel secundum situm. vel relatiue ad aliud: vel 
+      <lb ed="#P" n="79"/>quia est alteri vnitum / quod est extrinsece vel intrinsece 
+      <lb ed="#P" n="80"/>mutabile / quomon loquitur aristoteles in sexto phisicorum 
+      <lb ed="#P" n="81"/>dicens quod mutatio est aliter se habere nunc quam prius. 
+      <lb ed="#P" n="82"/>¶ Et per oppositum tot modis dicitur immutale / et illud 
+      <lb ed="#P" n="83"/>dicitur simpliciter tale quod nullo predictorum modorum 
+      <lb ed="#P" n="84"/>est mutabile praeter quam vltimo modo qui quantum ad 
+      ali<lb ed="#P" n="85" break="no"/>quam conditionem est improprius valde videlicet quod 
+      <lb ed="#P" n="86"/>illud dicatur mutabile quod secundum alid potest 
+      muta<lb ed="#P" n="87" break="no"/>ri scilicet secundum aliquid sibi vnitum.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e290">
+      ¶ Ista distinctione 
+      <lb ed="#P" n="88"/>premissa pono aliquas propositiones 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e295">
+                  <lb ed="#P" n="89"/>¶ Prima est. esse simpliciter et omnimode 
+      immu<lb ed="#P" n="90" break="no"/>tabile / includit formaliter necesse esse. Patet ista quia 
+      <lb ed="#P" n="91"/>da oppositum quod simpliciter et omnimode immutabile non 
+      <lb ed="#P" n="92"/>includat necesse esse: sequitur quod simpliciter et 
+      omnimo<lb ed="#P" n="93" break="no"/>de immut abile / potest mutari a non esse. quod implicat 
+      <lb ed="#P" n="94"/>expresse. Ista propositio est commentatoris sententialiter 
+      <lb ed="#P" n="95"/>quinto methaphisice quinto sexto¬ 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e313">
+                  <lb ed="#P" n="96"/>¶ Secunda propositio imutabilitas omnimoda / 
+      con<lb ed="#P" n="97" break="no"/>tingentie repugnat. Patet ex immediata / quia 
+      omnimo<lb ed="#P" n="98" break="no"/>da imutabilitas / includit necesse esse: et per consequens 
+      ex<lb ed="#P" n="99" break="no"/>cludit quodlibet contingens esse. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e324">
+                  <lb ed="#P" n="100"/>¶ Tertia. immutabili simpliciter: repugnat 
+      secun<lb ed="#P" n="101" break="no"/>dum fidem ab alio dependere. Patet quia secundum 
+      <lb ed="#P" n="102"/>fidem nichil necessarium dependet ab alio. quia nichil 
+      <lb ed="#P" n="103"/>dependens necessario est. ergo nichil dependeus est 
+      <lb ed="#P" n="104"/>immutabile simpliciter. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e337">
+                  <lb ed="#P" n="105"/>¶ Quarta. immutabilisimpliciter: non repugnat 
+      <lb ed="#P" n="106"/>ab alio produci. Patet ista propositio de filio in dinis. 
+      <lb ed="#P" n="107"/>¶ Quinta. omnimoda immutabilitas et omnimoda 
+      <lb ed="#P" n="108"/>simplicitas / se mutuo consequuntur. Probatur quia ad 
+      <lb ed="#P" n="109"/>quamlibet compositionem esse potest mutatio ergo. 
+      proba<lb ed="#P" n="110" break="no"/>tur quia omnis compositio includit mutabilitatem cum 
+      <lb ed="#P" n="111"/>compositio sit naturaliter posterior componentibus. 
+      <lb ed="#P" n="112"/>Assumptum patet discurrendo per omnes compositionis 
+      <lb ed="#P" n="113"/>modos qui suntmulti. quia quidam est ex partibus 
+      <lb ed="#P" n="114"/>essentialibus / quidam ex partibus quantitatiuis. quidam 
+      <lb ed="#P" n="115"/>ex subiecto et accidente ad quos omns est mutatio. 
+      <lb ed="#P" n="116"/>Sexta propositio ad hoc quod aliquid sit mutatum 
+      <lb ed="#P" n="117"/>oportet quod nunc sic aliqualiter se habeat vel 
+      habue<lb ed="#P" n="118" break="no"/>rit / et ante non sic se habuerit vel aliquando quod sic 
+      se<lb ed="#P" n="119" break="no"/>habuerit aliqualiter et modo non se habet taliter 
+      <lb ed="#P" n="120"/>Ista propositio patet intuenti. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k13914-Dd1e375">
+               <head xml:id="oooo3o-k13914-Hd1e377">Articulus 2</head>
+               <p xml:id="oooo3o-k13914-d1e379">
+                  <lb ed="#P" n="121"/>¶ Secundus articulus.
+      </p>
+               <p xml:id="oooo3o-k13914-d1e384">
+      <!--64.xml-->
+                  <pb ed="#P" n="23-r"/>
+                  <lb ed="#P" n="1"/>QUantum ad secundum sit prima 
+      <lb ed="#P" n="2"/>conclusio ista. Deus est omnimode 
+      immu<lb ed="#P" n="3" break="no"/>tabilis / intrinsece et extrinsece primo / 
+      se<lb ed="#P" n="4" break="no"/>cundo / et tertio modis / loquendo de 
+      muta<lb ed="#P" n="5" break="no"/>tione. Probatur. deus est necesse esse 
+      <lb ed="#P" n="6"/>simplici: er: ergo est omnimode immuta 
+      <lb ed="#P" n="7"/>bilis. consequentia patet per primam propositionem. et antecedens 
+      proba<lb ed="#P" n="8" break="no"/>tur auctoritatibus sanctorum / a magistro in presenti 
+      <lb ed="#P" n="9"/>distinctione multipliciter. quas legendo textum recitabo. 
+      <lb ed="#P" n="10"/>Correlarium deus est summe et omnino 
+      sim<lb ed="#P" n="11" break="no"/>plex. Patet per suppositionem quintam et est conclusio 
+      <lb ed="#P" n="12"/>augustini et magistri in littera. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e417">
+                  <lb ed="#P" n="13"/>¶ Secundum correlarium quod solus deus est infinita 
+      <lb ed="#P" n="14"/>perfectio et nullius diuersitatis intensiue et extensiue. 
+      <lb ed="#P" n="15"/>Prima pars istius correlarii patebit ex dicendis et 
+      <lb ed="#P" n="16"/>secunda pars ex correlario immediato. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e428">
+                  <lb ed="#P" n="17"/>¶ Secunda conclusio. Nulla creatura est 
+      immu<lb ed="#P" n="18" break="no"/>tabilis intrinsece et extrinsece. Probatur quia 
+      queli<lb ed="#P" n="19" break="no"/>bet est anichilabilis ergo nulla est intrinsece et extrin 
+      <lb ed="#P" n="20"/>sece immutabilis consequentia nota est 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e440">
+                  <lb ed="#P" n="21"/>¶ Correlarium. Nulla creatura est simplex 
+      omni<lb ed="#P" n="22" break="no"/>mode. Probatur per rationem angustini sexto de tri 
+      <lb ed="#P" n="23"/>nitate capitulo octauo nichil simplex mutabile / 
+      om<lb ed="#P" n="24" break="no"/>nis creatura est mutabilis / ergo nulla est simplex 
+      <lb ed="#P" n="25"/>istud correlarium patebit etiam inferius. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e453">
+                  <lb ed="#P" n="26"/>¶ Secundum. quelibet creatura est perfectio 
+      es<lb ed="#P" n="27" break="no"/>sentialis per dei potentiam diuisibilis. Probatur 
+      <lb ed="#P" n="28"/>de angelo qui est essentia inextensa et incorporea sic: 
+      <lb ed="#P" n="29"/>angelus non infinite modice distat a non gradum sue 
+      <lb ed="#P" n="30"/>speciei: ergo continet aliquam latitudinem perfectionis 
+      <lb ed="#P" n="31"/>diuisibilis infra suam speciem. antecedens suppono verum et 
+      con<lb ed="#P" n="32" break="no"/>sequentiam probo quia da oppositum quod nullam latitudinem. 
+      <lb ed="#P" n="33"/>perfectionis diuisibilis contineat ergo infinite modi 
+      <lb ed="#P" n="34"/>ce a non gradum sue speciei distat. Et preterea sicut 
+      <lb ed="#P" n="35"/>arguit doctor luculentus magister hugolinus libro 
+      <lb ed="#P" n="36"/>primo dist. 8 articu. 1 propositione prima. si angelus 
+      in<lb ed="#P" n="37" break="no"/>tensiue esset impartibilis. sequeretur quod duo 
+      angeli<lb ed="#P" n="38" break="no"/>eiusdem speciei simul / non essent aliqua latitudo 
+      perfe<lb ed="#P" n="39" break="no"/>ctionis essentialis magis quam vnus solus et si sic ideo 
+      <lb ed="#P" n="40"/>nec infiniti. nec posset deus quemlibet eorum vnire in 
+      te<lb ed="#P" n="41" break="no"/>tium. et sic quilibet eorum esset actus purus. quia deus non 
+      <lb ed="#P" n="42"/>posset substantiam vel essentiam diminuere. hec 
+      autem<lb ed="#P" n="43" break="no"/>sunt falsa ergo.  
+    </p>
+               <p xml:id="oooo3o-k13914-d1e495">
+                  <lb ed="#P" n="44"/>¶ Correlarium indiuisibili secundum partes quam 
+      <lb ed="#P" n="45"/>titatiuas / non repugnat moueri localiter. Patet de 
+      <lb ed="#P" n="46"/>anima et angelo. Ex quo patet quod mobile et corpus 
+      <lb ed="#P" n="47"/>non dicuntur conuertibilia. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e506">
+                  <lb ed="#P" n="48"/>¶ Tertia conclusio responsiua. ad quesitum. 
+      so<lb ed="#P" n="49" break="no"/>lus deus est simpliciter immutabilis. Probatur pi 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e513">
+                  <lb ed="#P" n="50"/>¶ exponentes ambas quarum vna est prima conclusio et al 
+      <lb ed="#P" n="51"/>tera secunda / et ista conclusio est distinctio octaua. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e520">
+                  <lb ed="#P" n="52"/>¶ Quo modo autem in deo sint perfectiones 
+      attribu<lb ed="#P" n="53" break="no"/>tales. rationes causales / aut ydee plures: videbitur 
+      <lb ed="#P" n="54"/>in vigesima secunda distinctione 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e530">
+                  <lb ed="#P" n="55"/>¶ Correlarium solus deus est summe simplex et 
+      <lb ed="#P" n="56"/>omnimode necesse esse. Probatur ex dictis quia deus 
+      <lb ed="#P" n="57"/>est summe simplex per correlarium primum / et est necesse est 
+      <lb ed="#P" n="58"/>se per probationem prime conclusionis. et nulla creatura 
+      <lb ed="#P" n="59"/>est simplex omnimode nec necesse esse. quia quelibet est 
+      con<lb ed="#P" n="60" break="no"/>tingenter et potest non esse quia solum habet et deo participatum esse 
+      <!--64.xml-->
+      <lb ed="#P" n="61"/>ergo solus deus est summe simplex et omnimode necesse esse 
+      <lb ed="#P" n="62"/>Secundum. Nulla creata essentia: data vel 
+      da<lb ed="#P" n="63" break="no"/>bilis / potest esse vnitiue / essentialiter / et formaliter / tota 
+      <lb ed="#P" n="64"/>latitudo perfectionum tam intrinsecarum quam extrinsecarum. Rea 
+      <lb ed="#P" n="65"/>liter sibi possibilium inesse. Probatur nam omnis talis essi 
+      n<lb ed="#P" n="66" break="no"/>tia continue potest perfici. et nulla talis est. vbicumque potest esse 
+      <lb ed="#P" n="67"/>nec potest existere / sine deo perficiente. Insuper quaelibet habet su 
+      <lb ed="#P" n="68"/>um esse diuisum in fore / esse / et fuisse. ergo correlarium verum. 
+      <lb ed="#P" n="69"/>Deus autenmsolus est vnitiue essentialiter: et 
+      for<lb ed="#P" n="70" break="no"/>maliter / tota latitudo perfectionum intrinserarum sibi 
+      pos<lb ed="#P" n="71" break="no"/>sibilium realiter inesse. quia nullo modo potest perfici. cum sit 
+      <lb ed="#P" n="72"/>actus purus qui dicit de seipso ego sum qui sum. 
+      <lb ed="#P" n="73"/>Istud correlarium est hugolini. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e576">
+                  <lb ed="#P" n="74"/>¶ Quarta conclusio. aliqua creatura: est immuta 
+      <lb ed="#P" n="75"/>bilis ad formam in ea receptibilem. Probatur quia multe 
+      <lb ed="#P" n="76"/>creature sunt quae non possunt perfici / per formas in eis subie 
+      <lb ed="#P" n="77"/>ctiue receptibiles saltem naturaliter ex sui natura. er 
+      <lb ed="#P" n="78"/>go conclusio vera / consequentia nota. antecedens probatur. quia aliter esset 
+      pro<lb ed="#P" n="79" break="no"/>cessus in infinitum in formis essentialiter ordinatis re 
+      <lb ed="#P" n="80"/>ceptibilibus in hoc subiecto demonstrato. Nam data a 
+      <lb ed="#P" n="81"/>creatura / vtpote charitate quaeritur aut est receptiua 
+      si<lb ed="#P" n="82" break="no"/>ue subiectum alterius forme vel non: si non habetur intentum. 
+      <lb ed="#P" n="83"/>si sic / sit alia forma / b / ergo / a / et / b / differunt ratione speci 
+      <lb ed="#P" n="84"/>fica. sicut subiectum et forma / et sic quem / a / de / b / aut 
+      er<lb ed="#P" n="85" break="no"/>go dabitur quod aliqua creatura est qua non poterit perfici 
+      <lb ed="#P" n="86"/>er formam / vel erit in talibus processus in infinitum quod 
+      phi<lb ed="#P" n="87" break="no"/>losophis et theologis est absurdum. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e609">
+                  <lb ed="#P" n="88"/>¶ Correlarium multe creature sunt vel esse possunt 
+      <lb ed="#P" n="89"/>simplices simplicitate opposita componi ex subecto 
+      <lb ed="#P" n="90"/>et forma patet ex conclusione precedenti. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e618">
+                  <lb ed="#P" n="91"/>¶ Nulla tamen creatura potest esse simplex 
+      sim<lb ed="#P" n="92" break="no"/>plicitate opposita cuicumque compositioni vt dictum est 
+      <lb ed="#P" n="93"/>in primo correlario secunde conclusionis. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e627">
+                  <lb ed="#P" n="94"/>¶ Tertium correlarium quanto aliquid magis 
+      <lb ed="#P" n="95"/>accedit ad immutabilitatem: tanto plus accedit ad 
+      im<lb ed="#P" n="96" break="no"/>mutabilitatem.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e636">
+      ¶ Patet istud ex dictis. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e639">
+                  <lb ed="#P" n="97"/>¶ Quinta conclusio. si similitudo vel equalitas 
+      <lb ed="#P" n="98"/>vel inequalitas / et huiusmodi relationes: sint res distincte a 
+      <lb ed="#P" n="99"/>suis fundamentis: tunc est dare creatam entitatem per 
+      <lb ed="#P" n="100"/>se immutabilem: licet non per accidens.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e650">
+      ¶ Probatur 
+      <lb ed="#P" n="101"/>quia tales rationes non possunt esse termini per se 
+      ali<lb ed="#P" n="102" break="no"/>cuius mutationis / nec subiecta immediata / tamen 
+      dicte<lb ed="#P" n="103" break="no"/>entitates essent mutabiles per mutationem 
+      funda<lb ed="#P" n="104" break="no"/>mentorum. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e661">
+                  <lb ed="#P" n="105"/>¶ Impossibile est aliqua esse distincta qualia. et 
+      <lb ed="#P" n="106"/>non esse similia vel dissimilia. patet quia alias ratio 
+      <lb ed="#P" n="107"/>posset corrumpi / remanentibus fundamentis. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e670">
+                  <lb ed="#P" n="108"/>¶ Secundum stante auctoritate vel veritate 
+      con<lb ed="#P" n="109" break="no"/>clusionis / deus non posset quamlibet rem solam 
+      destrue<lb ed="#P" n="110" break="no"/>re: nisi destrueret aliam que non est ipsa. patet quia non 
+      <lb ed="#P" n="111"/>posset destruere qualia: quin destrueret similitudinem 
+      <lb ed="#P" n="112"/>vel dissimilitudinem. que ponuntur esse a 
+      fundamen<lb ed="#P" n="113" break="no"/>to distincta. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e686">
+                  <lb ed="#P" n="114"/>¶ Sexta capiendo mntabile pro illo quod est per 
+      <lb ed="#P" n="115"/>aliud mutabile sibi vnitum (quod tamen proprie non 
+      di<lb ed="#P" n="116" break="no"/>citur) deus potest isto modo dici mutabilis / scilicet 
+      <lb ed="#P" n="117"/>secundum naturam assumptam. et secundum locum. et se 
+      <lb ed="#P" n="118"/>cundum formam.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e699">
+      ¶ Probatur quod fuerit mutabilis 
+      <lb ed="#P" n="119"/>quo ad primam partem: quia christus localiter motus 
+      <!--65.xml-->
+      <pb ed="#P" n="23-v"/>
+                  <lb ed="#P" n="1"/>est in terra.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e711">
+      ¶ Item ascendit in celum etc. quo ad secundam 
+      <lb ed="#P" n="2"/>partem etiam patet / quia christus multa vidit et audiuit 
+      <lb ed="#P" n="3"/>secundum naturam assumptam / per organa corporeas / sentiendo 
+      <lb ed="#P" n="4"/>vno tempore: que non audierat alio tempore. ipse etiam 
+      <lb ed="#P" n="5"/>vulneratus est et mortuus. secundum quod docet et 
+      pre<lb ed="#P" n="6" break="no"/>dicat catholica fides. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e724">
+                  <lb ed="#P" n="7"/>¶ Correlarium. localiter moueri vel vulnerari 
+      <lb ed="#P" n="8"/>et cera similia praedicata / per communicationem vdiomatum 
+      <lb ed="#P" n="9"/>attribuuntur filio dei. Patet quia per prius conuenis 
+      <lb ed="#P" n="10"/>bant humanitati et ex vi vnionis attribuuntur filio de 
+      <lb ed="#P" n="11"/>ita quod prius requirebatur hec vnio quam tantum 
+      predica<lb ed="#P" n="12" break="no"/>torum attributio. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e740">
+                  <lb ed="#P" n="13"/>¶ Secundum correlarium. Ticet dicto modo 
+      sci<lb ed="#P" n="14" break="no"/>licet secundum naturam assumptam possit dici deus 
+      mutabi<lb ed="#P" n="15" break="no"/>lis: non tamen debet dici esse creatura sic absolute
+    </p>
+               <p xml:id="oooo3o-k13914-d1e749">
+                  <lb ed="#P" n="16"/>¶ Pro quo sciendum (secundum quod dicit adam libro primo 
+      <lb ed="#P" n="17"/>distin. 8. q. 1. arti. 1) quod aliqua sunt predicata que non 
+      <lb ed="#P" n="18"/>sunt nata predicari vel verificari in propria forma: n 
+      <lb ed="#P" n="19"/>si de hus de quibus immediate dicuntur. et talia numquam 
+      <lb ed="#P" n="20"/>dicuntur de alio / per communicationem vdiomatum. Ex 
+      <lb ed="#P" n="21"/>emplum. accidens dicitur de albo et non de sorte qui est 
+      <lb ed="#P" n="22"/>albus. modo talia predicata sunt huiusmodi scilicet 
+      <lb ed="#P" n="23"/>creatura. compositum. distinctum a deo. que non possunt 
+      ve<lb ed="#P" n="24" break="no"/>rificari nisi de hiis de quibus immediate dicuntur 
+      <lb ed="#P" n="25"/>Ideo non possunt dici de deo. nec sibi connenire. nec 
+      <lb ed="#P" n="26"/>etiam per communicationem vdiomatum. quid 
+      au<lb ed="#P" n="27" break="no"/>tem sit communicatio vdiomatum / dicam in tertio 
+      <lb ed="#P" n="28"/>domino concedente. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k13914-Dd1e781">
+               <head xml:id="oooo3o-k13914-Hd1e783">Articulus 3</head>
+               <p xml:id="oooo3o-k13914-d1e785">
+                  <lb ed="#P" n="29"/>¶ Tertius articulus 
+      <lb ed="#P" n="30"/>d 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e792">
+                  <lb ed="#P" n="31"/>QUantum ad articulum tertium pro 
+      solu<lb ed="#P" n="32"/>
+                  <!-- line coord error -->
+                  <lb ed="#P" n="33" break="no"/>tione primi argumenti premitto quod 
+      gene<lb ed="#P" n="34" break="no"/>ratio in diuinis / est origo viuentis a 
+      prin<lb ed="#P" n="35"/>
+                  <!-- line coord error -->
+                  <lb ed="#P" n="36" break="no"/>¶ cipio viuente quod non est essentialiter 
+      di<lb ed="#P" n="37"/>
+                  <!-- line coord error -->
+                  <lb ed="#P" n="38" break="no"/>¶ stinctum / sed est simile in natura. Ista 
+      de<lb ed="#P" n="39"/>
+                  <!-- line coord error -->
+                  <lb ed="#P" n="40" break="no"/>¶ scriptio patet ex dictis sancti doctoris 
+      <lb ed="#P" n="41"/>prima parte summe / questione. 27. arti. 2.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e827">
+      ¶ Ex 
+      qua<lb ed="#P" n="42" break="no"/>infero quinque propoitioes / quibus connectam quinque conclusiones. 
+      <lb ed="#P" n="43"/>Prima propositio. licet inter gignens et genitum 
+      <lb ed="#P" n="44"/>necessario sit distinctio realis: non tamen semper requiri 
+      <lb ed="#P" n="45"/>distinctio essentialis. patet in diuinis. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e838">
+                  <lb ed="#P" n="46"/>¶ Secunda. generatio isto modo dicta non 
+      ne<lb ed="#P" n="47" break="no"/>cessario est mutatio. Patet quia talis origo de 
+      facto<lb ed="#P" n="48" break="no"/>est rei immutabilis / ergo potest dici origo generatio 
+      <lb ed="#P" n="49"/>sed non mutatio. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e850">
+                  <lb ed="#P" n="50"/>¶ Tertia. non est perfectionis in generatione quod 
+      <lb ed="#P" n="51"/>per ipsam aliquid producatur de non esse ad esse: sed 
+      <lb ed="#P" n="52"/>est imperfectionis et accidentale generationi. Pro 
+      <lb ed="#P" n="53"/>batur quia alias generatio in diuinis careret illa per 
+      <lb ed="#P" n="54"/>fectione. quod est falsum. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e863">
+                  <lb ed="#P" n="55"/>¶ Quarta propositio. in omni generatione aliquid 
+      <lb ed="#P" n="56"/>habet esse per generationem. et est productum distincta 
+      <lb ed="#P" n="57"/>res a producente. Probatur quia impossibile est 
+      relati<lb ed="#P" n="58" break="no"/>uum esse sine termino quia non est possibile quod sit 
+      gene<lb ed="#P" n="59" break="no"/>ratio et tamen nichil generetur nec est possibile quod ali 
+      <lb ed="#P" n="60"/>quis sit pater et non habeat filium. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e879">
+                  <lb ed="#P" n="61"/>¶ Quinta. Non oportet quod generationis 
+      termi<lb ed="#P" n="62" break="no"/>nus formalis habeat esse per generationem. Patet 
+      <lb ed="#P" n="63"/>quia si aliqua albedo posset seipsam communicare 
+      alte<lb ed="#P" n="64" break="no"/>ri albo producto de nouo. illa albedo esset terminum 
+      <lb ed="#P" n="65"/>formalis dealbationis producte: et tamen non haberet 
+      <lb ed="#P" n="66"/>esse per productionem et sic de qualibet alia re que pos¬ 
+      <!--65.xml-->
+      <lb ed="#P" n="67"/>set seipsam communicare. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e899">
+                  <lb ed="#P" n="68"/>¶ his premissis sit prima conclusio: licet essentia 
+      <lb ed="#P" n="69"/>in diuinis nec passiue / nec actiue sit generabilis: 
+      ip<lb ed="#P" n="70" break="no"/>sa tamen generationis est formalis terminus. Prima 
+      <lb ed="#P" n="71"/>pars patet / per multas auctoritates augustini et 
+      ma<lb ed="#P" n="72" break="no"/>gistri allegatas lib. 1 distin. 5. et ponit conclusionem 
+      sub<lb ed="#P" n="73" break="no"/>istis verbis / quod essentia diuina nec generat nec 
+      gene<lb ed="#P" n="74" break="no"/>ratur. Secunda pars probatur quia essentia est per se et primo 
+      fi<lb ed="#P" n="75" break="no"/>lio communicata a patre per gratiationem / ergo ipsa est formalis 
+      ter<lb ed="#P" n="76" break="no"/>minus assumptum patet extra de summa trinitate cap¬. cuiamn aimus
+    </p>
+               <p xml:id="oooo3o-k13914-d1e921">
+                  <lb ed="#P" n="77"/>¶ Preterea infilio non est nisi proprietas personalis et 
+      <lb ed="#P" n="78"/>essentia / sed proprietas personalis non est primus 
+      ter<lb ed="#P" n="79" break="no"/>minus et formalis: ergo essentia. Probatio minoris 
+      <lb ed="#P" n="80"/>quia relatio illa vel proprietas personalis / presupponit 
+      <lb ed="#P" n="81"/>suum fundamentum / quod est essentia coicata: ergo 
+      <lb ed="#P" n="82"/>non est primus terminus et formalis.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e937">
+      ¶ Confirmatur etiam 
+      <lb ed="#P" n="83"/>per illud tohannis. 5. pater quod dedit michi maius 
+      <lb ed="#P" n="84"/>omnibus est. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e945">
+                  <lb ed="#P" n="85"/>¶ Secunda conclusio licet essentia sit terminus 
+      for<lb ed="#P" n="86" break="no"/>malis generationis (vt dicit conclusio precedens) non tamen 
+      <lb ed="#P" n="87"/>essentia est formalis terminus / primo terminans 
+      rela<lb ed="#P" n="88" break="no"/>tionem gatiationis actiue in patre. Prima pars patet ex 
+      <lb ed="#P" n="89"/>dictis. Secunda pars propbatur quia talis terminus oportet 
+      <lb ed="#P" n="90"/>quod sit realiter distinctus a patre. vt apparet ex prima 
+      <lb ed="#P" n="91"/>et quarta proposionibus huius articuli. Certum est autem 
+      <lb ed="#P" n="92"/>quod pater non distinguitur ab essentia ergo etc. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e965">
+                  <lb ed="#P" n="93"/>¶ Tertia conclusio. proprietas personalis fili: est 
+      <lb ed="#P" n="94"/>terminus formalis et primus terminus terminans 
+      rela<lb ed="#P" n="95" break="no"/>tionem paterne generationis vel actiue generationis 
+      in<lb ed="#P" n="96" break="no"/>patre. Probatur per idem in filio terminatur paternitas 
+      <lb ed="#P" n="97"/>patris et generatio actiua / sed proprietas vel filiatio 
+      <lb ed="#P" n="98"/>est terminus paternitatis proprietatis / ergo est 
+      ter<lb ed="#P" n="99" break="no"/>mmus actiue vel passiue generationis. Maior nota 
+      <lb ed="#P" n="100"/>minor probatur quia filius ratione essentie / sicut non 
+      <lb ed="#P" n="101"/>distinguitur a patre: ita nec ratione essentie est 
+      termi<lb ed="#P" n="102" break="no"/>nus relationis in patre. relinquitur ergo quod sit 
+      termi<lb ed="#P" n="103" break="no"/>nus ratione proprietatis. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e991">
+                  <lb ed="#P" n="104"/>¶ Quarta conclusio. generatio in diuinis est 
+      ma<lb ed="#P" n="105" break="no"/>xime vniuoca. Probatur quia est termini vdemptitas 
+      <lb ed="#P" n="106"/>totaliter cum primcipio ergo.  
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1000">
+                  <lb ed="#P" n="107"/>¶ Quinta conclusio illud quod habet esse et est 
+      <lb ed="#P" n="108"/>per gratiationem in diuinis: est filius vt proprictas 
+      re<lb ed="#P" n="109" break="no"/>latiua. patet quia filius est terminus generationis 
+      in<lb ed="#P" n="110" break="no"/>patre (vt dicit tertia conclusio) ergo vt sic est illud quod 
+      <lb ed="#P" n="111"/>habet esse per grantiationem in diuinis.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1013">
+      ¶ Confirmatur 
+      <lb ed="#P" n="112"/>per beatum augustinum septimo de trinitate capitulo 
+      <lb ed="#P" n="113"/>exto substantia patris id est per substantiam patris ipse 
+      <lb ed="#P" n="114"/>pater est / non quo pater est id est non quo est pater: sed quia 
+      <lb ed="#P" n="115"/>est. vbi vult quod pater est ratione essentie non ratione 
+      proprie<lb ed="#P" n="116" break="no"/>tatis. sed est pater ratione proprietatis non essentie. sic ergo 
+      <lb ed="#P" n="117"/>de filio pater quis dicere / quod est filius proprietatis ratione 
+      <lb ed="#P" n="118"/>non essentie. licet ratione essentie habeat esse. sed vt fil 
+      <lb ed="#P" n="119"/>us / est per generationem filius. ergo conclusio vera. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1033">
+                  <lb ed="#P" n="120"/>¶ Ex quibus conclusionibus sequitur primo: quod 
+      <lb ed="#P" n="121"/>licet essentia per generationem habeat esse in filio. 
+      ta<lb ed="#P" n="122" break="no"/>men per eandem non habet esse simpliciter: sicut filius 
+      <lb ed="#P" n="123"/>simpliciter habet esse per generationem. patet istud 
+      <lb ed="#P" n="124"/>ex dictis conclusionibus. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1047">
+                  <lb ed="#P" n="125"/>¶ Secundo sequitur. quod aliud est esse terminum 
+      <lb ed="#P" n="126"/>relationis que est actina generatio in patre et esse 
+      ter<lb ed="#P" n="127" break="no"/>minum formalem gratiationis in filio qui est terminus 
+      gratia<lb ed="#P" n="128" break="no"/>tianis. Patet quia primum conuenit proprietati quia proprietas 
+      <!--66.xml-->
+      <pb ed="#P" n="24-r"/>
+                  <lb ed="#P" n="1"/>est terminus relationis per secundam conclusionem. secundum 
+      <lb ed="#P" n="2"/>cautem conuenit essentie vt patet per primam. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1067">
+                  <lb ed="#P" n="3"/>¶ Tertio sequitur quod aliud est per generationem 
+      <lb ed="#P" n="4"/>produci et habere. esse: aliud est per generationem 
+      con<lb ed="#P" n="5" break="no"/>municari. Patet quia secundum conuenit essentie non 
+      <lb ed="#P" n="6"/>autem primum 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1078">
+                  <lb ed="#P" n="7"/>¶ Per hec ad formam eiusdem argumenti 
+      ne<lb ed="#P" n="8" break="no"/>gatur consequentia ista / deus est generabilis ergo 
+      mu<lb ed="#P" n="9" break="no"/>tabilis. sicut patet per secundam propositionem huius a 
+      <lb ed="#P" n="10"/>ticuli. antecedens enim est verum. vnde concedendum eet quod deus 
+      <lb ed="#P" n="11"/>generat deum. et quod deus generatur a deo sicut patet per 
+      <lb ed="#P" n="12"/>magistrum distinctione quinta primi. 
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1094">
+                  <lb ed="#P" n="13"/>¶ Pro solutione secundi argumenti 
+      premitto<lb ed="#P" n="14" break="no"/>tres suppositiones / ex quibus inferam vnam conclusionem. 
+      <lb ed="#P" n="15"/>Prima suppositio per prius natura est a. hic causa 
+      <lb ed="#P" n="16"/>ri: quam a hic esse.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1105">
+      ¶ Secunda per prius est b hic esse 
+      <lb ed="#P" n="17"/>quam causare vel agere.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1110">
+      ¶ Tertia deus potest aliquie 
+      <lb ed="#P" n="18"/>de nouo extra totum mundum nunc existentem causare. 
+      <lb ed="#P" n="19"/>¶ Ex quibus sequitur conclusio quod modo de 
+      facto<lb ed="#P" n="20" break="no"/>deus est in vacuo ymaginario infinito. patet deus 
+      po<lb ed="#P" n="21" break="no"/>aliquid facere de nouo extra totum mundum sicut dici 
+      <lb ed="#P" n="22"/>tertia suppositio. ponatur inesse tunc sic per prius et 
+      <lb ed="#P" n="23"/>deum creare a extra mundum quam a esse extra totum 
+      mi<lb ed="#P" n="24" break="no"/>dum vt dicit prima suppositio et per prius est deum. 
+      <lb ed="#P" n="25"/>esse extra totum mundum quam carisare a extra totum 
+      mun<lb ed="#P" n="26" break="no"/>dum vt dicit secunda. ergo per prius est deum esse 
+      extra<lb ed="#P" n="27" break="no"/>totum mundum quam a sit extra mundum quod erat probandum
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1135">
+                  <lb ed="#P" n="28"/>¶ Confirmatur sit a locus huius mundi .b. sit) 
+      yma<lb ed="#P" n="29" break="no"/>ginarius alterius mundi creabilis. et moueat deus 
+      <lb ed="#P" n="30"/>istum mundum de. a. et collocet in b sicut possibile est 
+      <lb ed="#P" n="31"/>per articulum parisiensem qui dicit: quod deus non possit 
+      mo<lb ed="#P" n="32" break="no"/>uere totum mundum motu recto error. hoc ergo facto 
+      <lb ed="#P" n="33"/>te deus nunc est in .b. vel ergo prius fuit in .b. et ha 
+      <lb ed="#P" n="34"/>betur intentum quia pari modo vtrobique fuit et nunc 
+      <lb ed="#P" n="35"/>est in tali spatio infinito. si non prefuit in .b. ergo 
+      pa<lb ed="#P" n="36" break="no"/>ri ratione nunc non est ina. et prius fuit in a ergo 
+      re<lb ed="#P" n="37" break="no"/>cessit cum mundo aba et venit in .b. quod est falsum et fal 
+      <lb ed="#P" n="38"/>ciliter per dictas suppositiones refutandum. 
+      relinqui<lb ed="#P" n="39" break="no"/>ergo quod conclusio sit vera.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1164">
+      ¶ Ex quo patet quod si deus 
+      crea<lb ed="#P" n="40" break="no"/>ret aliquod corpus extra vltimum celum non incipiet 
+      propter<lb ed="#P" n="41" break="no"/>hoc deus esse alicubi vbi prius non fuit.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1171">
+      ¶ Per 
+      ho<lb ed="#P" n="42" break="no"/>ad rationem negandum est antecedens ad probationem pe 
+      <lb ed="#P" n="43"/>tet ex dictis.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1178">
+      ¶ Ad confirmationem negatur antecedens / ac 
+      <lb ed="#P" n="44"/>probationem patet ex dictis.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1183">
+      ¶ Ad tertium negatur 
+      ante<lb ed="#P" n="45" break="no"/>cedens ad probationem negatur iterum antecedens. Et concedo 
+      <lb ed="#P" n="46"/>quod deus creans non potest non esse. quae est imposita. Sed 
+      <lb ed="#P" n="47"/>nego istam ergo creans non potest non esse creans. 
+      <lb ed="#P" n="48"/>Secundo dico ad probationem antecedentis / stante casu adhuc 
+      <lb ed="#P" n="49"/>hec est falsa deus creans non est. licet ista sit. 
+      possi<lb ed="#P" n="50" break="no"/>bilis deus non est creans. io nego antecedens et consequentiam 
+      <lb ed="#P" n="51"/>quia inferant ergo deus creans potest non esse. Ad pro 
+      <lb ed="#P" n="52"/>bationem consequentie qua dicitur quod ex omni propositione 
+      <lb ed="#P" n="53"/>de inesse. etc. Dico quod ista regula non tenet nisi vbi  
+      <lb ed="#P" n="54"/>dicatum consequentis non conuenit nisi illis quibus 
+      co<lb ed="#P" n="55" break="no"/>uenit vel conuenire potest subiectum antecedentis. et ideo ista 
+      com<lb ed="#P" n="56" break="no"/>sequentia non valet. chimera non est / ergo chimera 
+      po<lb ed="#P" n="57" break="no"/>test non esse quia non esse quod est praedicatum consequentis 
+      con<lb ed="#P" n="58" break="no"/>uenit multis de quibus non potest vcrificari esse chi 
+      <lb ed="#P" n="59"/>meram. Similiter est in proposito quia non esse deum vel non 
+      <lb ed="#P" n="60"/>esse / multis conuenit de quibus non potest verificari 
+      <lb ed="#P" n="61"/>esse creantem vel deum creantem.
+    </p>
+               <p xml:id="oooo3o-k13914-d1e1222">
+      ¶ Et ad confirmatio¬ 
+      <!--66.xml-->
+      <lb ed="#P" n="62"/>nem concedo istam deus creans non potest non esse. 
+      <lb ed="#P" n="63"/>nego istam ergo deus creans necessario est / sicut ista 
+      <lb ed="#P" n="64"/>non valet chimera non potest non esse / ergo 
+      chi<lb ed="#P" n="65" break="no"/>mera necessario est Et ad id quod dicitur quia consequentu. 
+      adin<lb ed="#P" n="66" break="no"/>uicem. Negatur isto quialadhoc quod non posse non esse / 
+      <lb ed="#P" n="67"/>conuertatur cum necessario esse / requiritur constantia 
+      sub<lb ed="#P" n="68" break="no"/>iecti. et tunc est consequentia bona. sequitur enim est et non 
+      <lb ed="#P" n="69"/>potest non esse / ergo necessario est. Unde secundum aliquos 
+      <lb ed="#P" n="70"/>ista a non potest non esse. habet triplicem causam 
+      veri<lb ed="#P" n="71" break="no"/>tatis vel scilicet quod a necessario est. vel quia impossibile est 
+      <lb ed="#P" n="72"/>esse. vel quia aliquid potest esse a. et omne tale necessario 
+      <lb ed="#P" n="73"/>est. Prima causa verificat istam deus non potest non 
+      <lb ed="#P" n="74"/>esse. Secunda istam chimera non potest non esse. Tertia istam 
+      <lb ed="#P" n="75"/>crans non potest non esse deus. Quod etiam patet ex aliquae 
+      <lb ed="#P" n="76"/>quia ista deus creans necessario est / non contradicit huiec 
+      <lb ed="#P" n="77"/>deus creans potest non esse. quia secundum aliquos sunt simul 
+      <lb ed="#P" n="78"/>false quando deus nichil creat. propter falsam: implicationem. Si 
+      <lb ed="#P" n="79"/>quis tamen vellet concedere istam deus creans potest non 
+      <lb ed="#P" n="80"/>esse. habet negare consequentiam ergo deus potest non 
+      <lb ed="#P" n="81"/>esse. nec arguitur ab inferiori ad superius / quia 
+      suppos<lb ed="#P" n="82" break="no"/>to quod deus nichil creet. hec est falsa deus creans est 
+      <lb ed="#P" n="83"/>deus propt falsam implicationem. et sic deus creans non est 
+      <lb ed="#P" n="84"/>inferius ad deum / et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

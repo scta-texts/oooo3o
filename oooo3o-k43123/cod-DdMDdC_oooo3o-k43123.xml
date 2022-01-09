@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="68-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k43123"><!--l2d16-18q1 -->
+            <head xml:id="oooo3o-k43123-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k43123-d1e101">
+               <lb ed="#P" n="113"/>¶ Primum argumentum 
+      <lb ed="#P" n="114"/>principale.
+    </p>
+            <p xml:id="oooo3o-k43123-d1e108">
+      <!--156.xml-->
+               <pb ed="#P" n="69-r"/>
+               <lb ed="#P" n="1"/>CIrca distinctionem. xvi. xvii. et 
+      <lb ed="#P" n="2"/>xviii. Quero vtrum sit euidente 
+      <lb ed="#P" n="3"/>probabile: quod anima intellectiui 
+      <lb ed="#P" n="4"/>sit forma substantialis hominis
+    </p>
+            <p xml:id="oooo3o-k43123-d1e124">
+               <lb ed="#P" n="5"/>Quod non. quia euidenter est pro 
+      <lb ed="#P" n="6"/>babile in lumine naturali: aliquam 
+      <lb ed="#P" n="7"/>esse formam substantialem in ha 
+      <lb ed="#P" n="8"/>mine: que non est anima 
+      intelle<lb ed="#P" n="9" break="no"/>ctiua ergo. consequentia est nota quia si cum hoc an 
+      <lb ed="#P" n="10"/>ma esset forma substantialis: due vel plures essent 
+      for<lb ed="#P" n="11" break="no"/>me substantiales in eodem homine: quod videtur 
+      fal<lb ed="#P" n="12" break="no"/>sum et antecedens probabitur inferius 
+    </p>
+            <p xml:id="oooo3o-k43123-d1e144">
+               <lb ed="#P" n="13"/>¶ Secundo animam esse est sola fide creditum: 
+      eri<lb ed="#P" n="14" break="no"/>go consequentia nota: quia que sola fide tenemus. 
+      <lb ed="#P" n="15"/>non possumus euidenter probare in lumine 
+      natura<lb ed="#P" n="16" break="no"/>li. Probatur antecedens quia si non. sequitur quod 
+      pos<lb ed="#P" n="17" break="no"/>sumus cognoscere euidenter animam esse creatam 
+      <lb ed="#P" n="18"/>a deo. quod est falsum. vel ipsam esse eductam de 
+      po<lb ed="#P" n="19" break="no"/>tentia materie. et hoc est falsum. vel fuisse sine 
+      initio<lb ed="#P" n="20" break="no"/>sui esse / quod similiter videtur falsum.: ergo ipsam est 
+      <lb ed="#P" n="21"/>se formam corporis est sola fide creditum. 
+    </p>
+            <p xml:id="oooo3o-k43123-d1e167">
+               <lb ed="#P" n="22"/>¶ Tertio si sic. verisimiliter est / quod excellentes 
+      phi<lb ed="#P" n="23" break="no"/>losophi (vt Aristoteles) cognouissent hoc / et eius 
+      con<lb ed="#P" n="24" break="no"/>mentator auerroys: consequentia nota: cum isti 
+      pre<lb ed="#P" n="25" break="no"/>ceteris / magis prediti fuerint naturali lumine: Sed 
+      <lb ed="#P" n="26"/>ipsi hoc non viderunt. immo commentator ex 
+      inten<lb ed="#P" n="27" break="no"/>tione philosophi et sua: conatur oppositum 
+      demon<lb ed="#P" n="28" break="no"/>strare tertio de anima commento quinto 
+    </p>
+            <p xml:id="oooo3o-k43123-d1e185">
+               <lb ed="#P" n="29"/>¶ Oppositum quia tunc sequens rationem na 
+      <lb ed="#P" n="30"/>turalem puram: haberet concedere formam 
+      perfectis<lb ed="#P" n="31" break="no"/>simam hominis. / esse eiusdem generis propiqui 
+      cum<lb ed="#P" n="32" break="no"/>anima bruti: et non esse impossibile / dare animal bri 
+      <lb ed="#P" n="33"/>tum / nobilius homine. quod est falsum. Probatur 
+      <lb ed="#P" n="34"/>consequentia quia nullius generis potest dari 
+      supre<lb ed="#P" n="35" break="no"/>ma species possibilis / nec possunt dari due 
+      absolu<lb ed="#P" n="36" break="no"/>te equales. ergo possibilis esset forma perfectior qua 
+      <lb ed="#P" n="37"/>cunque data eiusdem generis propinqui: et hoc per 
+      ge<lb ed="#P" n="38" break="no"/>nerationem.
+    </p>
+            <p xml:id="oooo3o-k43123-d1e209">
+      ¶ Primus articulus / vtrum plures 
+      <lb ed="#P" n="39"/>forme substantiales sint in eodem homine.
+      ¶ Se<lb ed="#P" n="40" break="no"/>cundus de principali quesito. ¶ Tertius an 
+      eque<lb ed="#P" n="41" break="no"/>probabile sit animam intellectiuam esse formam ho 
+      <lb ed="#P" n="42"/>minis.: sicut quod anima sensitiua est forma leonis. 
+      <lb ed="#P" n="43"/>Primus articulus. 
+    </p>
+            <div xml:id="oooo3o-k43123-Dd1e222">
+               <head xml:id="oooo3o-k43123-Hd1e224">Articulus 1</head>
+               <p xml:id="oooo3o-k43123-d1e226">
+                  <lb ed="#P" n="44"/>QUantum ad primum dimissis 
+      op<lb ed="#P" n="45" break="no"/>nionibus diuersis: sit prima suppositio
+      <lb ed="#P" n="46"/>¶ Anima intellectiva est forma 
+      substan<lb ed="#P" n="47" break="no"/>tialis hominis. Patet per decretale: 
+      <lb ed="#P" n="48"/>in clementinis extra de summa trinita 
+      <lb ed="#P" n="49"/>te et fi. catho.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e242">
+      ¶ Item patet per 
+      ar<lb ed="#P" n="50" break="no"/>ticulum parrhisiensi: primum inter antiquos cap. octa 
+      <lb ed="#P" n="51"/>uo / qui est quod intellectus non est forma hominis nisi si 
+      <lb ed="#P" n="52"/>cut nauta nauis: nec est perfectio essentialis homins 
+      <lb ed="#P" n="53"/>error. Adem dicitur articulo primo decimi capituli 
+      <lb ed="#P" n="54"/>Secunda suppositio: humana natura in christo 
+      <lb ed="#P" n="55"/>est similis in specie vel differentia primcipali 
+      specifica<lb ed="#P" n="56" break="no"/>et eiusdem speciei cum naturis aliorum hominum. 
+      <lb ed="#P" n="57"/>Patet: quia christus vere fuit homo. et veraciter 
+      for<lb ed="#P" n="58" break="no"/>mam serui accepit. Patet per dama. in pluribus 
+      lo<lb ed="#P" n="59" break="no"/>cis libri tertii 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e266">
+                  <lb ed="#P" n="60"/>¶ Tertia corpus christi fuit idem numero viuum 
+      <lb ed="#P" n="61"/> et mortuum: quia non assumpsit aliud corpus in mor¬ 
+      <!--156.xml-->
+      <lb ed="#P" n="62"/>te nec corrumpebatur corpus iam mortuum in anime 
+      <lb ed="#P" n="63"/>remotione: sed idem corpus numero quod assumpsit 
+      <lb ed="#P" n="64"/>nunquam dimisit. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e282">
+                  <lb ed="#P" n="65"/>¶ Conclusio prima. anima / vt intellectiua / muli 
+      <lb ed="#P" n="66"/>tiplicatur secundum multiplicitatem hominum. 
+      Pa<lb ed="#P" n="67" break="no"/>tet quia oppositum est error commentatoris 
+      ponem<lb ed="#P" n="68" break="no"/>tis vnum intellectum in omnibus. quod est contra 
+      fi<lb ed="#P" n="69" break="no"/>dem: et est damnatum pisiis. vt patet articulo sexto 
+      capi<lb ed="#P" n="70" break="no"/>tulo octauo quo dicitur quod intellectus est vnus nu¬ 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e299">
+                  <lb ed="#P" n="71"/>¶ mero omnium: licet omnino separetur a corpore hoc: 
+      <lb ed="#P" n="72"/>non tamen abomni / error. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e306">
+                  <lb ed="#P" n="73"/>¶ Secunda conclusio / quod in nullo homine sunt  
+      <lb ed="#P" n="74"/>pulres anime informantes. Probatur quia tunc 
+      ho<lb ed="#P" n="75" break="no"/>mo. esset compositus ex animali et anima 
+      intellecti<lb ed="#P" n="76" break="no"/>ua quod est falsum. consequentia nota. falsitas 
+      con<lb ed="#P" n="77" break="no"/>sequentis probatur: quia tunc christus non solum 
+      as<lb ed="#P" n="78" break="no"/>sumpsisset hominem sed etiam pecus vel brutum: quia 
+      <lb ed="#P" n="79"/>tunc vtique illud anital brutum esset seu pecus: sed 
+      <lb ed="#P" n="80"/>hoc est error reprobatus per Augustinum. 83. q. q. 
+      go<lb ed="#P" n="81" break="no"/>si enim (inquit Augustinus) christus assumpsisset a 
+      nu<lb ed="#P" n="82" break="no"/>mam irrationalem: vtique assumpsisset beluam seu 
+      pe<lb ed="#P" n="83" break="no"/>xus: Item patet dicta conclusio per Augu. in 
+      eccle<lb ed="#P" n="84" break="no"/>siasticis dogmatibus. capitulo. xv. Neque duas animas 
+      <lb ed="#P" n="85"/>dicimus in homine vno (sicut Iacobus hereticus et 
+      <lb ed="#P" n="86"/>alii. sprorum scribunt) vnam animalem quae animetur 
+      cor<lb ed="#P" n="87" break="no"/>pus et immixta sit sanguini et aliam spiritualem que 
+      <lb ed="#P" n="88"/>rationem ministrat: sed dicimus vnam esse 
+      eandem<lb ed="#P" n="89" break="no"/>que que sua societate viuificat corpus et semetipsam 
+      <lb ed="#P" n="90"/>in sua ratione disponat. habens liberum arbitrium 
+      <lb ed="#P" n="91"/>et cetera. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e350">
+                  <lb ed="#P" n="92"/>¶ Ex quo infero quod vna et eademest anima 
+      ve<lb ed="#P" n="93" break="no"/>getatiuas / sensitiua: et intellectiua in homine. Patet 
+      <lb ed="#P" n="94"/>ex prima suppositione et secunda conclusione.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e359">
+      ¶ Et confirmatur 
+      <lb ed="#P" n="95"/>p Damascenum lib. ii cap. xiii. anima (iquit) 
+      rationa<lb ed="#P" n="96" break="no"/>lis vegetatiua augmentatiua est. organico ei vtitur 
+      cor<lb ed="#P" n="97" break="no"/>pore et eo est vite et sensus tributiua. Item Aug. x. supe 
+      <lb ed="#P" n="98"/>Gen. ea. xii. anima rationalis non solum praebet carni animalem 
+      <lb ed="#P" n="99"/>vitam: verum et secundum ipsam carnem aliquid concupiscit: et 
+      <lb ed="#P" n="100"/>sic patet conclusio simul et correlarium etc. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e375">
+                  <lb ed="#P" n="101"/>¶ Tertia conclusio in quolibet homine sunt 
+      plu<lb ed="#P" n="102" break="no"/>res forme substantiales non tamen per quamlibet  
+      <lb ed="#P" n="103"/>est homo seu animatum: sed alia est forma ossis: alia san 
+      <lb ed="#P" n="104"/>guinis. probatur in christo homine fuerunt et de 
+      facto<lb ed="#P" n="105" break="no"/>sunt plures forme substantiales ergo in quolibet alio 
+      <lb ed="#P" n="106"/>homine. consequentia patet. ex suppositione secunda / antecedens probatur in triduo 
+      <lb ed="#P" n="107"/>mortis: corpus christi non fuit sine forma substantis 
+      <lb ed="#P" n="108"/>li / et fuit sine anima informante: quia anima fuit se pacata: ergo 
+      <lb ed="#P" n="109"/>alia fuit forma in corpere christi quam anima: et nulla fuit 
+      ge<lb ed="#P" n="110" break="no"/>nerata de nouo in anime christi sepratione nec corrupta 
+      <lb ed="#P" n="111"/>in eiusdem remotione: alioquin non fuisset idem 
+      cor<lb ed="#P" n="112" break="no"/>pus numero antem mortem: et in morte et post / quod est 
+      con<lb ed="#P" n="113" break="no"/>tra ter. supposi. Sed eadem est nunc anima quae fuit tipsne 
+      mor<lb ed="#P" n="114" break="no"/>tis christi. Et per consequens plures sunt in christo forme 
+      <lb ed="#P" n="115"/>substantiales. Consequentia patet etiam ex prima 
+      suppos<lb ed="#P" n="116" break="no"/>tione.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e412">
+      ¶ Similiter sanguis christi non fuit sine forma 
+      substan<lb ed="#P" n="117" break="no"/>tiali quando decurrebat in terram. et tamen non informa 
+      <lb ed="#P" n="118"/>baturlanima intellectiua: quando iam erat extra corpus. et 
+      <lb ed="#P" n="119"/>amen non accepit no. formam: quando cepit esse extra corpus: quia 
+      <lb ed="#P" n="120"/>tunc non fuisset idem sanguis christi in numero et 
+      <lb ed="#P" n="121"/>specie in corpore. et extracorpus. quod totum est 
+      <lb ed="#P" n="122"/>salsum: nec sanguis iste fuit materia sine omni foro 
+      <lb ed="#P" n="123"/>ma substantiali pari ratione. ergo.  
+      <!--157.xml-->
+      <pb ed="#P" n="69-v"/>
+                  <lb ed="#P" n="1"/>¶ Secundo glo. super illud psalmus. Non dabis sanctum 
+      <lb ed="#P" n="2"/>tuum videre corruptionem dicit. fuisse enim caro 
+      chri<lb ed="#P" n="3" break="no"/>ni corrupta nisi speciali dono fuisset seruata quero 
+      <lb ed="#P" n="4"/>quid intelligitur per corruptionem / non potest dicit 
+      <lb ed="#P" n="5"/>alteratio. quia illud corpus bene fuit alteratum. et 
+      <lb ed="#P" n="6"/>go oportet quod intelligatur omne corruptione substantia 
+      <lb ed="#P" n="7"/>li: aut ergo in cruce dimisso spiritu / mansit sola 
+      ma<lb ed="#P" n="8" break="no"/>teria cum accidentibus / Sed quid mirum: quod ista 
+      <lb ed="#P" n="9"/>materia non fuit corrupta: cum sit incorruptibilis 
+      ab<lb ed="#P" n="10" break="no"/>agente naturali: aut fuit noua forma introducta et 
+      <lb ed="#P" n="11"/>habetur contra tertiam suppositionem. Item 
+      quo<lb ed="#P" n="12" break="no"/>modo potest panis / virtute consecrationis in corpo 
+      <lb ed="#P" n="13"/>ris substantiam transsubstantiari id est in solam 
+      mate<lb ed="#P" n="14" break="no"/>riam: et vinum in sanguinem: cum tamen materia 
+      prae<lb ed="#P" n="15" break="no"/>tise capta non sit caro nec sanguis.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e468">
+      ¶ Item quare 
+      <lb ed="#P" n="16"/>ymum potius transsubstantietur in sanguinem quam in 
+      car<lb ed="#P" n="17" break="no"/>nem: vel econuerso: si videlicet conuersio est tantum in 
+      ma<lb ed="#P" n="18" break="no"/>teriam vel fuisset tantum in materiam in tempore mortis 
+      <lb ed="#P" n="19"/>christi / petrus consecrasset: non videtur ratio. Item 
+      <lb ed="#P" n="20"/>mirabile videtur quod in instanti mortis suspensi 
+      alici<lb ed="#P" n="21" break="no"/>lius in aere: generentur tot forme substantiales: 
+      pu<lb ed="#P" n="22" break="no"/>ta alia ossis alia nerui / alia sanguis / alia carnis / alia 
+      <lb ed="#P" n="23"/>medulle et sic de aliis. neque a quo gener ante qui sit 
+      <lb ed="#P" n="24"/>ante virtutis vt omnes tales possit in instanti 
+      prodi<lb ed="#P" n="25" break="no"/>cere. Non enim ab aere fiunt / nec a celo distante: nec 
+      <lb ed="#P" n="26"/>a deo fiunt miraculose. ergo oportet dicere quam 
+      pre<lb ed="#P" n="27" break="no"/>fuerunt cum anima / Sed nunquid cum dens anima 
+      <lb ed="#P" n="28"/>lis euelliter et sanguis continue exit de foramine: 
+      con<lb ed="#P" n="29" break="no"/>tinue aer generat formam substantialem in exitu: in 
+      <lb ed="#P" n="30"/>sanguine: videtur quod non. relinquitur ergo cum 
+      san<lb ed="#P" n="31" break="no"/>guis exiens non sit precise materia cum 
+      accidenti<lb ed="#P" n="32" break="no"/>bus: quod prefuit in ipsa forma substantialis / alia 
+      pre<lb ed="#P" n="33" break="no"/>ter animam.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e510">
+      ¶ Danc conclusionem tenet magister 
+      <lb ed="#P" n="34"/>hugolinus ordinis heremitarum. Concordat 
+      do<lb ed="#P" n="35" break="no"/>ctor solemnis quolibetoxii. que. x. Item paulus de 
+      <lb ed="#P" n="36"/>perusio libro secundo questione octaua quia homo 
+      <lb ed="#P" n="37"/>non dicitur compositus ex anima et materia sed ex 
+      <lb ed="#P" n="38"/>anima et corpore organico / quod non dicitur corpus 
+      <lb ed="#P" n="39"/>or ganicum propter sola accedentia in materia. Deus est 
+      <lb ed="#P" n="40"/>fecit corpus hominis de limo terre vt dicitur Gen. pri. 
+      <lb ed="#P" n="41"/>certum est autem quod non fecit massam illam de limo / 
+      <lb ed="#P" n="42"/>nec animam: ergo formauit quoddam compositum 
+      <lb ed="#P" n="43"/>quod fuit probandum. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e534">
+                  <lb ed="#P" n="44"/>¶ Ex ista conclusione infero correla. prim. quod non 
+      <lb ed="#P" n="45"/>quilibet homo est eiusdem speciei contiguitionis 
+      di<lb ed="#P" n="46" break="no"/>ferentiam specificam excludentis simpliciter a 
+      prin<lb ed="#P" n="47" break="no"/>cipio vsque ad finem: Probatur / quia forme alique 
+      <lb ed="#P" n="48"/>substantiales humorum neruorum et ce tera cum 
+      <lb ed="#P" n="49"/>maioritate et excellentia quadam sunt in ipso 
+      homi<lb ed="#P" n="50" break="no"/>ne perfecto que non sunt in ipso puero vel 
+      decrepi<lb ed="#P" n="51" break="no"/>to.  
+    </p>
+               <p xml:id="oooo3o-k43123-d1e554">
+                  <lb ed="#P" n="52"/>¶ Secundo quod non quilibet duo homines sunt 
+      <lb ed="#P" n="53"/>eiusdem speciei. excludentis quamlibet differentiam 
+      <lb ed="#P" n="54"/>substantialem altius et altius grado eiusdem 
+      perfectio<lb ed="#P" n="55" break="no"/>nis seu nobilitatis. Patet quia puer et vir / ethiops 
+      <lb ed="#P" n="56"/>et anglicus habent neruos et ossa: continentes 
+      ma<lb ed="#P" n="57" break="no"/>loritatem plurium humorum cum differentia 
+      substan<lb ed="#P" n="58" break="no"/>tiali. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e572">
+                  <lb ed="#P" n="59"/>¶ Tertio capiendo idem specie pro 
+      principali<lb ed="#P" n="60" break="no"/>parte indiuidui contigui: sic omnes homines sunt 
+      <lb ed="#P" n="61"/>eiusdem speciei specialissime. Patet propter identi 
+      <lb ed="#P" n="62"/>tatem specificam omnium animarum intellectiuarum 
+      <!--157.xml-->
+      <lb ed="#P" n="63"/>Quarto. omne idem specie per prius in nobis 
+      <lb ed="#P" n="64"/>causaliter dicitur de animabus quam de hominibus et 
+      <lb ed="#P" n="65"/>deo falsa est opinio que ponit quod partes non sunt in 
+      <lb ed="#P" n="66"/>specie. Patet ex precedenti correlario immediate 
+      sa<lb ed="#P" n="67" break="no"/>tis clare. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e596">
+                  <lb ed="#P" n="68"/>¶ Quinto quod homo non est perfectioris speciei 
+      <lb ed="#P" n="69"/>quam anima intellectiua. Patet aliqualiter ex duobus 
+      <lb ed="#P" n="70"/>immediate premissis. Et confirmatur quia quicquid 
+      <lb ed="#P" n="71"/>est perfectionis in genere sensitiuo corporalium 
+      sub<lb ed="#P" n="72" break="no"/>stantiarum / anima multo nobiliori modo continet: et per 
+      <lb ed="#P" n="73"/>fectiori. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e613">
+                  <lb ed="#P" n="74"/>¶ Sexto quod homo non addit super animam 
+      perfectio<lb ed="#P" n="75" break="no"/>nem / indiuisibiliter distantem / a non gradum 
+      perfectio<lb ed="#P" n="76" break="no"/>nis simpliciter id est materiam primam solam. 
+      Pa<lb ed="#P" n="77" break="no"/>tet ex predictis cum corpus non sit sola materia im 
+      <lb ed="#P" n="78"/>mo continet multos actus substantiales. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e626">
+                  <lb ed="#P" n="79"/>¶ Contra tertiam conclusionem arguit quidam 
+      <lb ed="#P" n="80"/>doctor modernus. primo quod sequeretur quod homo non 
+      <lb ed="#P" n="81"/>esset aliquid per se / consequentia probatur: quia ex 
+      <lb ed="#P" n="82"/>duobus entibus in actu / non fit aliquid per se vnum 
+      <lb ed="#P" n="83"/>substantialiter. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e639">
+                  <lb ed="#P" n="84"/>¶ Secundo quia esset vna generatio sine corru 
+      <lb ed="#P" n="85"/>tione quod videtur inconueniens saltem in brutis 
+      <lb ed="#P" n="86"/>consequentia nota est / quia ante aduentum anime ed 
+      <lb ed="#P" n="87"/>sunt forme substantiales: et ille remanent igitur.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e650">
+      ¶ 
+      Con<lb ed="#P" n="88" break="no"/>firmatur quia tunc concesso quod generatio fieret 
+      sine<lb ed="#P" n="89" break="no"/>corruptione: generatio solum esset alteratio. quia 
+      ma<lb ed="#P" n="90" break="no"/>neret idem subiectum secundum nomen et diffusionem 
+      <lb ed="#P" n="91"/>substantialiter: sed illud est inconueniens. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e661">
+                  <lb ed="#P" n="92"/>¶ Ad ista respondet hugolinus. Ad primam 
+      <lb ed="#P" n="93"/>nego consequentiam quia licet homo sit indiuiduum 
+      <lb ed="#P" n="94"/>vnum contiguum: tamen partes se habent vt forma 
+      <lb ed="#P" n="95"/>et materia vel forma substantialis. anima enim 
+      infor<lb ed="#P" n="96" break="no"/>mat compositum cuius pars per se est materia. Et 
+      <lb ed="#P" n="97"/>hoc sufficit. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e677">
+                  <lb ed="#P" n="98"/>¶ Ad secundum concedit quod generatio potest e¬ 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e683">
+                  <lb ed="#P" n="99"/>¶ se sine corruptione et econuerso corruptio sine gene 
+      <lb ed="#P" n="100"/>ratione. etiam in brutis. sed philosophus intelligit 
+      <lb ed="#P" n="101"/>dictum suum de simplicibus elementis. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e692">
+                  <lb ed="#P" n="102"/>¶ Ad confirmationem negat consequentiam 
+      <lb ed="#P" n="103"/>et dicit quod si graestiationis substantialis tiffinitom totalis est 
+      <lb ed="#P" n="104"/>sentialiter dicebatur et modo non dicitur: quod tunc 
+      <lb ed="#P" n="105"/>est vera corruptio. et vbi nunc dicitur: et prius 
+      non<lb ed="#P" n="106" break="no"/>est vera generatio: sed nullum illorum contingit in 
+      so<lb ed="#P" n="107" break="no"/>la alteratione: ergo negandum est assumptum in 
+      pro<lb ed="#P" n="108" break="no"/>batione consequentie / videlicet quod si fieret generatio 
+      <lb ed="#P" n="109"/>sine corruptione maneret idem subiectum secundum 
+      <lb ed="#P" n="110"/>nomen etc.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e714">
+      ¶ Contra secundam conclusionem 
+      ar<lb ed="#P" n="111" break="no"/>guit hibernicus tripliciter. vide rationes et 
+      solutio<lb ed="#P" n="112" break="no"/>nes in littera hugolini libro secundo distinctione de 
+      <lb ed="#P" n="113"/>cimasexta questione prima. de quo vide etiam 
+      Gre<lb ed="#P" n="114" break="no"/>gorium in secundo super eandem distinctionem que 
+      <lb ed="#P" n="115"/>stione secunda qui tamen fuit alterius opinionis. Et 
+      <lb ed="#P" n="116"/>sic finit primus articulus. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k43123-Dd1e731">
+               <head xml:id="oooo3o-k43123-Hd1e733">Articulus 2</head>
+               <p xml:id="oooo3o-k43123-d1e735">
+                  <lb ed="#P" n="117"/>¶ Secundus 
+      <lb ed="#P" n="118"/>Articulus. 
+      </p>
+               <p xml:id="oooo3o-k43123-d1e742">
+      <!--158.xml-->
+                  <pb ed="#P" n="70-r"/>
+                  <lb ed="#P" n="1"/>QUantum ad secundum articulum qui 
+      <lb ed="#P" n="2"/>est responsiuus ad quesitum sit prima 
+      con<lb ed="#P" n="3" break="no"/>clusio.
+    </p>
+               <p xml:id="oooo3o-k43123-d1e755">
+      ¶ Cuilibet homini vtenti ratio 
+      <lb ed="#P" n="4"/>ne est euidenter probabile quod habet 
+      cor<lb ed="#P" n="5" break="no"/>pus. cui principium viuendi et sentiendi vni 
+      <lb ed="#P" n="6"/>tur non solum vt motor. prima pars scilicet 
+      <lb ed="#P" n="7"/>quod probabile sit quod habet corpus. patet quia ex passione 
+      <lb ed="#P" n="8"/>et motu et ex multis est euidens: quod homo habet 
+      cor<lb ed="#P" n="9" break="no"/>pus. quia loquitur et anbulat etc. Secunda pars patet: quia ex 
+      cor<lb ed="#P" n="10" break="no"/>pore mortuo simillimo ipsi viuo euidens est quod corpus 
+      <lb ed="#P" n="11"/>non est principium viuendi in ipso viuo. ergo sibi 
+      vni<lb ed="#P" n="12" break="no"/>tum est principium etc. Sed tertia pars / scilicet quod non 
+      so<lb ed="#P" n="13" break="no"/>lum vnitur illud principium corpori vt motor: probatur. quia 
+      <lb ed="#P" n="14"/>si sic tunc ille motor non plus videret in vna parte et 
+      au<lb ed="#P" n="15" break="no"/>liret plus in vna quam in alia. probatur consequentia: quia ille motor. 
+      <lb ed="#P" n="16"/>que esset vita / eque presens esset secundum se et quod libet 
+      <lb ed="#P" n="17"/>sui cuilibet parti et secundum se et in selem eque visiuus. sensi 
+      <lb ed="#P" n="18"/>tiuus. et auditiuus. et sic non indiget officiali 
+      orga<lb ed="#P" n="19" break="no"/>no Secundo ex alteratione corporis vel lesione / cui 
+      <lb ed="#P" n="20"/>vnitur motor / prec ise vt motor et non vt forma. nunquam 
+      <lb ed="#P" n="21"/>motor cruciatur. vel delectatur: hoc apparet in 
+      homi<lb ed="#P" n="22" break="no"/>nibus. quia ex alteratione nauis nauta non patitur etc sed 
+      <lb ed="#P" n="23"/>experimur quod ex alteratione corporis delectamur e 
+      <lb ed="#P" n="24"/>dolemus igitur. Item tertio si vniretur praecise vt motor 
+      <lb ed="#P" n="25"/>posse a parte illa corporis vbi est lesio motor ille 
+      re<lb ed="#P" n="26" break="no"/>cedere et postea redire si placeret sibi. sed vita non 
+      po<lb ed="#P" n="27" break="no"/>test recedere ab aliqua parte corporis: et post 
+      lesio<lb ed="#P" n="28" break="no"/>nem iterum redire. sicut placet igitur. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e812">
+                  <lb ed="#P" n="29"/>¶ Secunda conclusio Cuilibet homini vtenti 
+      ra<lb ed="#P" n="30" break="no"/>tione: est euidens euidentia intrinseca quod ipse viuit. sa 
+      <lb ed="#P" n="31"/>pit. discernit. intelligit. cogitat. et libere vult / et 
+      cete<lb ed="#P" n="32" break="no"/>ras operationes solius principii intellectiui in se esse 
+      <lb ed="#P" n="33"/>cognoscit. patet quia quilibet potest ratiocinari de his 
+      <lb ed="#P" n="34"/>que non cadunt sub sensu. cuiusmodi sunt proportio 
+      <lb ed="#P" n="35"/>nes numerorum et similia. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e831">
+                  <lb ed="#P" n="36"/>¶ Tertia conclusio Cuilibet vtenti ratione cui est 
+      <lb ed="#P" n="37"/>euidens quod sentit et intelligit etiam est conuincibile et 
+      <lb ed="#P" n="38"/>euidenter probabile quod eodem principio sentit et 
+      intelli<lb ed="#P" n="39" break="no"/>git: probatur non est magis euidens quod idem sit 
+      princi<lb ed="#P" n="40" break="no"/>pium intelligendi et reminiscendi quam quod sit idem primcipium 
+      sen<lb ed="#P" n="41" break="no"/>tiendi et intelligendi: sed primum est euidens cuilibet 
+      <lb ed="#P" n="42"/>ergo secundum. probatur maior: quia sic experior quod per 
+      <lb ed="#P" n="43"/>idem principium audio hanoc vocem deus creat et 
+      signi<lb ed="#P" n="44" break="no"/>ficatum eius intelligo et ei assentio. Sicut experior quod 
+      <lb ed="#P" n="45"/>ter idem principium intellexi illudsignificatum et 
+      recor<lb ed="#P" n="46" break="no"/>dor me intellexisse et assentiisse. Item euidens est michi 
+      <lb ed="#P" n="47"/>quod idem principium videt in me hoc a esse totum et hoc 
+      <lb ed="#P" n="48"/>b esse partem et quod assentit huic. omne totum est maius 
+      <lb ed="#P" n="49"/>sua parte et huic conclusioni: ergo a est maius b hoc 
+      <lb ed="#P" n="50"/>enim experior euidenter in me. Item magis est 
+      mi<lb ed="#P" n="51" break="no"/>di euidens et conuincibile ratione euidenti / quod tu 
+      intel<lb ed="#P" n="52" break="no"/>ligas et assentias per idem principium: quam quod equus per 
+      <lb ed="#P" n="53"/>vnam animam sentiat et delectetur et timeat. vel eti 
+      <lb ed="#P" n="54"/>am hinniat. sed secundum videtur euidens ergo primum 
+      <lb ed="#P" n="55"/>Quarta conclusio Simpliciter est euidens et 
+      <lb ed="#P" n="56"/>efficaoi ratione probabile naturali: quod principium viu 
+      en<lb ed="#P" n="57" break="no"/>di / sentiendi / et intelligendi: est in nobis vt formaseu 
+      <lb ed="#P" n="58"/>pars essentialis. et non precise vt motor. patet ex 
+      di<lb ed="#P" n="59" break="no"/>ctis in tertia parte prime conclusionis huius articuli et 
+      <lb ed="#P" n="60"/>ex predictis conclusionibus: et confirmatur ratione sic. 
+      <lb ed="#P" n="61"/>uilibet vtens ratione / experiri potest euidenter. quod 
+      di<lb ed="#P" n="62" break="no"/>cernit. intelligit et sentit etc. et esse naturalirone conuinci 
+      <!--158.xml-->
+      <lb ed="#P" n="63"/>bile: quod homo per nullam rem (que non est ipse vel ali 
+      <lb ed="#P" n="64"/>quid eius intrinsece substantialiter vel essentialiter) est per 
+      <lb ed="#P" n="65"/>se sensitiuus. vel discernens experimentaliter quia viuens 
+      <lb ed="#P" n="66"/>ergo conclusio vera. consequentia nota. prima pars antedentis 
+      <lb ed="#P" n="67"/>est conclisio secunda. probatur secunda pars antecedentis (quamuis 
+      con<lb ed="#P" n="68" break="no"/>muniter sit concessa) per experientiam enim patet. quia si a res 
+      <lb ed="#P" n="69"/>est discernens se viuere seu cognoscere et b nec est 
+      <lb ed="#P" n="70"/>a. nec aliquid eius essentiale: quo modo experitur 
+      se<lb ed="#P" n="71" break="no"/>viuere per b plus quam lapis se viuere experitur si vita 
+      <lb ed="#P" n="72"/>et lapis essent simul in eodem loco proprio Item 
+      pro<lb ed="#P" n="73" break="no"/>patur eadem pars secunda. quia si non: tunc possibile esset 
+      <lb ed="#P" n="74"/>hanc consequentiam non valere: experior me viuere 
+      <lb ed="#P" n="75"/>go sum vita: vel ergo vita est essentia mea. quod 
+      ap<lb ed="#P" n="76" break="no"/>pare tfalsum. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e925">
+                  <lb ed="#P" n="77"/>¶ Ex quo sequitur responsio ad quesitum quod eui 
+      <lb ed="#P" n="78"/>denter est probabile: quod anima intellectiua est forma 
+      <lb ed="#P" n="79"/>ubstantialis hominis. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k43123-Dd1e935">
+               <head xml:id="oooo3o-k43123-Hd1e937">Articulus 3</head>
+               <p xml:id="oooo3o-k43123-d1e939">
+                  <lb ed="#P" n="80"/>In tertio articulo videndum est vtrum 
+      <lb ed="#P" n="81"/>sit eque conuincibile in lumine 
+      natura<lb ed="#P" n="82" break="no"/>turali quod anima intellectiua sit forma 
+      ho<lb ed="#P" n="83" break="no"/>minis: sicut est probabile et conuincibile quod 
+      <lb ed="#P" n="84"/>anima sensitiua sit forma substantialis leonis 
+      <lb ed="#P" n="85"/>de quo sit prima conclusio. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e955">
+                  <lb ed="#P" n="86"/>¶ Eque probabile est et conuinci potest quod leo sic. 
+      <lb ed="#P" n="87"/>habeat in se principium / sentiendi et viuendi intrinsece 
+      <lb ed="#P" n="88"/>sicut quod leo sentiat vel viuat. probatur quia per quancunque 
+      <lb ed="#P" n="89"/>experientiam probatur secundum. probari potest per eandem et 
+      <lb ed="#P" n="90"/>prim. vnde nihil nosti quod leo viuit: nisi ex operibus et 
+      sen<lb ed="#P" n="91" break="no"/>sationibus. Item patet quod impossibile est ipsum viuere 
+      <lb ed="#P" n="92"/>nisi sit vita: vel nisi habeat vitam sibi vnitam: sed non 
+      <lb ed="#P" n="93"/>olum fide tenetur quod leo viuit et sentit ymo secundum 
+      <lb ed="#P" n="94"/>philosophiam est conuincibile: ergo secunda conclusio. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e977">
+                  <lb ed="#P" n="95"/>¶ Secunda conclusio Quod vtenti ratione euidem 
+      <lb ed="#P" n="96"/>lius est quod ipse viuat / sentit / quandoque timet quando 
+      <lb ed="#P" n="97"/>que delectatur quam probabile sit viatori quod leo viuat 
+      sen<lb ed="#P" n="98" break="no"/>tiat et cetera probatur: quia in ista euidentia 
+      intrin<lb ed="#P" n="99" break="no"/>seca est simpliciter impossibile michi apparere / quod vt 
+      <lb ed="#P" n="100"/>o et tamen quod non viuam: sed improbabilitate 
+      secun<lb ed="#P" n="101" break="no"/>di non est simpliciter impossibile ergo etc. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e995">
+                  <lb ed="#P" n="102"/>¶ Tertia conclusio Cuilibet vtenti ratione est eui 
+      <lb ed="#P" n="103"/>lens euidentia reducibili ad prim principium quod vel ipse 
+      <lb ed="#P" n="104"/>est vita. vel habet principium viuendi Sequitur ista 
+      <lb ed="#P" n="105"/>ex duabus premissis proximis cum probationibus. 
+      <lb ed="#P" n="106"/>¶ Quarta conclusio Cuilibet homini vtenti ra¬ 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e1009">
+                  <lb ed="#P" n="107"/>¶ ione / est euidenter probabile euidentia intrinseca quod 
+      <lb ed="#P" n="108"/>vsi ipse non est vita secundum corpus / seu principi 
+      <lb ed="#P" n="109"/>um viuendi quod secundum aliam partem essentie sue 
+      <lb ed="#P" n="110"/>est vita seu viuendi principium. patet per primam 
+      con<lb ed="#P" n="111" break="no"/>clusionem huius articuli et per secundam. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e1022">
+                  <lb ed="#P" n="112"/>¶ Ex quibus sequitur responsio ad articulum 
+      <lb ed="#P" n="113"/>p eque vel magis est ratione naturali conuincibile 
+      <lb ed="#P" n="114"/>cuilibet vtenti ratione. quod anima intellectiua est eius 
+      <lb ed="#P" n="115"/>forma substantialis quam anima sensitiua / sit forma 
+      sub<lb ed="#P" n="116" break="no"/>stantialis leonis patet ex secunda conclusione huius 
+      <lb ed="#P" n="117"/>articuli tuncta quarta articuli immediate praecedentis et 
+      <lb ed="#P" n="118"/>ex dictis aliis superius. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e1040">
+                  <lb ed="#P" n="119"/>¶ Ad rationes principales Ad primem patet quod 
+      <lb ed="#P" n="120"/>oncludit verum secundum quod visum est in primo 
+      arti<lb ed="#P" n="121" break="no"/>culo huius questionis. Ad secundam negatur antecedens ad  
+      <lb ed="#P" n="122"/>probationem dico quod dato quod non sit euidenter con¬ 
+      <!--159.xml-->
+      <pb ed="#P" n="70-v"/>
+                  <lb ed="#P" n="1"/>uincibile: animam esse creatam: est tamen persuasibili 
+      <lb ed="#P" n="2"/>vel potest aliter fingi de eius introductione multis 
+      <lb ed="#P" n="3"/>modis Ulterius dico quod non sequitur non est euidens 
+      <lb ed="#P" n="4"/>animam introduci per creationem vel alio modo 
+      er<lb ed="#P" n="5" break="no"/>go non est euidens ipsam esse formam corporis 
+      sub<lb ed="#P" n="6" break="no"/>stantialem: sicut non sequitur non est michi euidens 
+      <lb ed="#P" n="7"/>qualiter incepisti esse hic ergo est michi euidens q 
+      <lb ed="#P" n="8"/>es hic. et ideo dato quod sola fide tenetur quod anima 
+      crea<lb ed="#P" n="9" break="no"/>tur et creando infunditur. non tamen oportet propter 
+      <lb ed="#P" n="10"/>hoc quod ipsam esse in corpore tanquam formam inherentem 
+      <lb ed="#P" n="11"/>sit sola fide creditum. 
+    </p>
+               <p xml:id="oooo3o-k43123-d1e1079">
+                  <lb ed="#P" n="12"/>¶ Ad tertiam dico quod videtur quod aristoteles hoc 
+      <lb ed="#P" n="13"/>sensit quamuis commentator dicat oppositum. dicit eni 
+      <lb ed="#P" n="14"/>in primo de anima: quod anima est actus corporis 
+      or<lb ed="#P" n="15" break="no"/>ganici: sed actus corporis est forma corporis. Item 
+      <lb ed="#P" n="16"/>prala est qua viuimus sentimus et intelligimus: dicit e 
+      <lb ed="#P" n="17"/>quod sicut simpliciter figura corporis est communis ad  
+      <lb ed="#P" n="18"/>omnes figuras: sic anima est communis ad omnes 
+      <lb ed="#P" n="19"/>operationes. vt habetur ex secundo de anima et a 
+      da<lb ed="#P" n="20" break="no"/>masceno libro secundo. capitulo decimotertio 
+      dicen<lb ed="#P" n="21" break="no"/>te anima rationalis vegetatiua et augmentatiua est: 
+      <lb ed="#P" n="22"/>organi co enim vtitur corpore: et ei est vite et sensus 
+      <lb ed="#P" n="23"/>tributiua. Et sic est finis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

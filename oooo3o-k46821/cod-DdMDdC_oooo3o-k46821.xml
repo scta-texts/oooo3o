@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="74-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k46821"><!--l2d25-26q2 -->
+            <head xml:id="oooo3o-k46821-Hd1e99">Quaestio 2</head>
+            <p xml:id="oooo3o-k46821-d1e101">
+               <lb ed="#P" n="69"/>COnsequenter Circa materiam in 
+      <lb ed="#P" n="70"/>ceptam vicesime quinte et vicesime 
+      sex<lb ed="#P" n="71" break="no"/>te distinctionis. Quero secundo vtrum liberum 
+      <lb ed="#P" n="72"/>arbitrium creature: liberius agat in 
+      a<lb ed="#P" n="73" break="no"/>ctibus bonis: quam in malis vel econuerso¬ 
+    </p>
+            <p xml:id="oooo3o-k46821-d1e114">
+               <lb ed="#P" n="74"/>¶ ¶ Et arguitur quod liberius in malis. quia /I 
+      <lb ed="#P" n="75"/>in bonis non agit libere libertate contingentie: sed 
+      per<lb ed="#P" n="76" break="no"/>in malis sic. ergo. antecedens quo ad primam 
+      par<lb ed="#P" n="77" break="no"/>tem probatur. quia in bonis preuenitur arbitrium 
+      mo<lb ed="#P" n="78" break="no"/>tione diuina qua posita: non est in potestate arbitri 
+      <lb ed="#P" n="79"/>creati: non conformiter exequi. sed in malis non sic 
+      <lb ed="#P" n="80"/>preuenitur. vt predictum est prius. et sic patet etiam 
+      <lb ed="#P" n="81"/>secunda pars antecedentis. sed probatur assumptum 
+      <lb ed="#P" n="82"/>in probatione antecedentis scilicet quod non stat 
+      pre<lb ed="#P" n="83" break="no"/>motio diuina ad bonum: cum potestate arbitrui ad 
+      <lb ed="#P" n="84"/>oppositum. quia si posita. c. motione diuina ad .b. 
+      <lb ed="#P" n="85"/>actum bonum: arbitrium possei non elicere .b. aut 
+      <lb ed="#P" n="86"/>tunc sic est: quod deus vult a voluntatem elicere b 
+      me<lb ed="#P" n="87" break="no"/>diante. c. vel non vult. si secundum ergo. c. 
+      motio<lb ed="#P" n="88" break="no"/>non est ad b quod est impossibile. quia per positum. 
+      <lb ed="#P" n="89"/>e. fuit: nec potest non fuisse. et ex alio sequitur: quod 
+      im<lb ed="#P" n="90" break="no"/>possibile est a elicere b quia impossibile est a 
+      volunta<lb ed="#P" n="91" break="no"/>tatem elicere b bonum: deo non preuolente a 
+      elice<lb ed="#P" n="92" break="no"/>re b et per consequens non est in potestate a stante 
+      <lb ed="#P" n="93"/>c. non elicere b: quod fuit probandum. quia alias vel 
+      <lb ed="#P" n="94"/>et diuinum posset frustrari. Confirmatur si stante. c. a 
+      <lb ed="#P" n="95"/>elioiat .b. tunc deus eternaliter preuoluit a elicere .b. 
+    </p>
+            <p xml:id="oooo3o-k46821-d1e164">
+               <lb ed="#P" n="96"/>¶ mediante. c. et si existente. c. a. non elictat .b. deus eE 
+      <lb ed="#P" n="97"/>tunquam preuoluit a eliciturum b mediante. c. similiter isi i 
+      <lb ed="#P" n="98"/>stante. c. a. non eliciat quia non vult: sequitur quod in 
+      po<lb ed="#P" n="99" break="no"/>testate. a. voluntatis / est quod deus nunquam preuoluit .b. 
+      <lb ed="#P" n="100"/>et similiter si eliciat: sequitur quod in potestate sua est 
+      de<lb ed="#P" n="101" break="no"/>um eternaliter preuoluisse .b. produci: quod est falsum. 
+    </p>
+            <p xml:id="oooo3o-k46821-d1e180">
+               <lb ed="#P" n="102"/>¶ Secundo arbitrium liberum facilius agit in 
+      erg<lb ed="#P" n="103" break="no"/>malis / et facilius agit malum / et difficilius elicit 
+      bo<lb ed="#P" n="104" break="no"/>num: ergo liberius est ad malum quam ad bonum 
+      conse<lb ed="#P" n="105" break="no"/>quentia nota / probatur antecedens. quia paucioribus eget 
+      <lb ed="#P" n="106"/>iuuamentis ad malum. et pluribus ad bonum. vt patet 
+      <lb ed="#P" n="107"/>ex dictis superius. ergo / probatio assumpti: quia ex 
+      <lb ed="#P" n="108"/>solis naturalibus potest cum influentia dei 
+      genera<lb ed="#P" n="109" break="no"/>li elicere malum. non autem potest precise ex eisdem 
+      <lb ed="#P" n="110"/>in bonum secundum predicta ergo.  
+    </p>
+            <p xml:id="oooo3o-k46821-d1e203">
+               <lb ed="#P" n="111"/>¶ Tertio arbitrium rectum ad bonum potest et 
+      <lb ed="#P" n="112"/>necessitari. et nullo modo potest necessitari ad malum 
+      <lb ed="#P" n="113"/>ergo liberius est ad malum. quia liberum libertate 
+      <lb ed="#P" n="114"/>contradictionis est ad malum. sed antecedens 
+      pro<lb ed="#P" n="115" break="no"/>patur / per supradicta in confirmatione beatorum 
+      di<lb ed="#P" n="116" break="no"/>stinctione septima articulo tertio.
+    </p>
+            <p xml:id="oooo3o-k46821-d1e219">
+      ¶ Oppositum quam 
+    </p>
+            <p xml:id="oooo3o-k46821-d1e221">
+               <lb ed="#P" n="117"/>¶ to arbitrium plus peccat seu grauius: tanto magis 
+      ie<lb ed="#P" n="118" break="no"/>captiuatur in seruitute peccati. et subiicitur cupidita se 
+      <lb ed="#P" n="119"/>ti et per consequens plus distat a libertate spiritus 
+    </p>
+            <p xml:id="oooo3o-k46821-d1e230">
+               <lb ed="#P" n="120"/>¶ de qua secunde ad oorrinthios. 3. Ubi spiritus ibi 
+      <lb ed="#P" n="121"/>libertas / quod exponit augu. de spiritu et littera 
+      ca<lb ed="#P" n="122" break="no"/>16 ad marcellinum. ideo (inquit) vbi spiritus dei ibi 
+      li<lb ed="#P" n="123" break="no"/>bertas arbitiii: quia spiritus dei est cuius dono 
+      liustifi<lb ed="#P" n="124" break="no"/>camur. quo fit in nobis vt non peccare delectet vbi 
+      <lb ed="#P" n="125"/>est libertas sicut praeter hunc spiritum peccare delectat vbi 
+      <lb ed="#P" n="126"/>est seruitus. 
+      <!--168.xml-->
+      <pb ed="#P" n="75-r"/>
+               <lb ed="#P" n="1"/>Ex qua auctoritate et intentione augustini sequuntur 
+      <lb ed="#P" n="2"/>tria.
+    </p>
+            <p xml:id="oooo3o-k46821-d1e256">
+      ¶ Primum quod displicentia de peccato / nolle / seu 
+      <lb ed="#P" n="3"/>fuga / ordinatur in complacentiam et delectationem. 
+      <lb ed="#P" n="4"/>dei que est libertas.
+    </p>
+            <p xml:id="oooo3o-k46821-d1e263">
+      ¶ Secundum est quod nihile st 
+      fugi<lb ed="#P" n="5" break="no"/>bile quin aliud sit magis vel eque fugibile.
+    </p>
+            <p xml:id="oooo3o-k46821-d1e269">
+      ¶ 
+      Ter<lb ed="#P" n="6" break="no"/>tium quod non tantam complacentiam potest habere a 
+      <lb ed="#P" n="7"/>bitrium creatum / vel ex se elicere de malo: qui in 
+      ma<lb ed="#P" n="8" break="no"/>iorem delectationem elicere possit per spiritum 
+      san<lb ed="#P" n="9" break="no"/>ctum libere coefficientem in bono. quia potentior est 
+      <lb ed="#P" n="10"/>deus ad inclinandum et actuandum ipsum arbitrium 
+      cre<lb ed="#P" n="11" break="no"/>atum ad bonum: quam aliqua creatura inclinare possit. 
+      <lb ed="#P" n="12"/>ad malum 
+    </p>
+            <p xml:id="oooo3o-k46821-d1e287">
+               <lb ed="#P" n="13"/>¶ Primus articulus erit de quesito 
+      principali<lb ed="#P" n="14" break="no"/>Secundus erit de materia primi argumenti. Utrum 
+      <lb ed="#P" n="15"/>preuolitio diuina / sit necessitas antecedens ad actum 
+      <lb ed="#P" n="16"/>elicitum bonum vel malum arbitrii viatoris. Tertius 
+      <lb ed="#P" n="17"/>erit de materia secundi et tertii argumentorum Utrum 
+      <lb ed="#P" n="18"/>arbitrium creatum possit in aliquo actu elicito diffi 
+      <lb ed="#P" n="19"/>cultari vel necessitari 
+    </p>
+            <div xml:id="oooo3o-k46821-Dd1e305">
+               <head xml:id="oooo3o-k46821-Hd1e307">Articulus 1</head>
+               <p xml:id="oooo3o-k46821-d1e309">
+                  <lb ed="#P" n="20"/>¶ Primus articulus. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e314">
+                  <lb ed="#P" n="21"/>QUantum ad primum articulum 
+      pre<lb ed="#P" n="22" break="no"/>mitto declarantiones. et est prima de 
+      intel<lb ed="#P" n="23" break="no"/>lectu questionis. quia potest esse multi: 
+      <lb ed="#P" n="24"/>plex. primus Utrum arbitrium iustum. 
+      <lb ed="#P" n="25"/> sit liberius quam iniustum. Secundus sensus 
+      <lb ed="#P" n="26"/>Utrum arbitrium viatoris iustum sit liberius ad 
+      pec<lb ed="#P" n="27" break="no"/>candum. vel ad iuste agendum. Tertius An arbitrium 
+      <lb ed="#P" n="28"/>iniutum / liberius possit male velle quam bene vel 
+      econ<lb ed="#P" n="29" break="no"/>uerso: etiam potest poni quartus sensus. Utrum a 
+      <lb ed="#P" n="30"/>bitrium iusti liberius sit ad bene et iuste volendum quam 
+      <lb ed="#P" n="31"/>arbitrium iusti sit liberum ad male volendum. 
+      Quin<lb ed="#P" n="32" break="no"/>tus enim sensus scilicet Utrum viatoris arbitrium in 
+      <lb ed="#P" n="33"/>stum / sit liberius ad malum quam arbitrium viatoris in 
+      <lb ed="#P" n="34"/>iustum sit liberum ad bonum non est dubius sed 
+      quat<lb ed="#P" n="35" break="no"/>tuor aliis modis tractanda est questio. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e349">
+                  <lb ed="#P" n="36"/>¶ Secundo declaro illum comparatiuum liboe 
+      <lb ed="#P" n="37"/>rius qui potest tripliciter exponi quantum ad presens 
+      <lb ed="#P" n="38"/>sufficit. vnomodo liberius idest minus contra 
+      incli<lb ed="#P" n="39" break="no"/>nationem. vel minus difficulter. Secundo modo libe 
+      <lb ed="#P" n="40"/>rius idest paucioribus egens auxiliis ad sponte agen 
+      <lb ed="#P" n="41"/>dum taliter vel omittendum. Tertio modo liberius.  
+      <lb ed="#P" n="42"/>minus subditum vel subiectum cui subiici non debet 
+      <lb ed="#P" n="43"/>quo modo loquitur augustinus in epistola ad 
+      anasta<lb ed="#P" n="44" break="no"/>sium cum dicit sine spiritu sancto non est voluntas 
+      ho<lb ed="#P" n="45" break="no"/>minis libera. cum cupiditatibus vniatur non est 
+      li<lb ed="#P" n="46" break="no"/>bera / ad bonum: nisi liberata fuerit non autem libe: 
+      <lb ed="#P" n="47"/>ratur / nisi per spiritum sanctum charitas infundatur 
+      <lb ed="#P" n="48"/>etc. Item inde spiritu et littera. c. i6 mandatum / si si 
+      <lb ed="#P" n="49"/>timore pene non amore iustitie: seruiliter fit non liberalite 
+      <lb ed="#P" n="50"/>Tertio declaro istum terminum arbitrium 
+      <lb ed="#P" n="51"/>vnde arbitrium dicitur de arbitrando et rationali c 
+      <lb ed="#P" n="52"/>sideratione discernendo / quid eligat quid ve recuset 
+      <lb ed="#P" n="53"/>secundum augustinum yponens. responsione. 13. Diciut 
+      <lb ed="#P" n="54"/>autem liberum arbitrium non a libertate arbitrandi 
+      <lb ed="#P" n="55"/>sed a libertate voluntarie exequendi illud / quod est 
+      <lb ed="#P" n="56"/>arbitrandum. quia quedam sunt practica 
+      dictami<lb ed="#P" n="57" break="no"/>na quibus recta ratio non corrupta non potest 
+      dis<lb ed="#P" n="58" break="no"/>sentire ergo respectu talium arbitrium non est liberum 
+      <lb ed="#P" n="59"/>libertate contingentie. est tamen circa talia liberum. 
+      <lb ed="#P" n="60"/>quod potest circa illa non arbitrari numquam tamen potest 
+      <lb ed="#P" n="61"/>arbitrium non corruptum de talibus false iudicare 
+      <lb ed="#P" n="62"/>quia vera pro falsis acceptare seu errare non est na 
+      <!--168.xml-->
+      <lb ed="#P" n="63"/>ture iustificati hominis / sed pena damnati: vt dicit 
+      <lb ed="#P" n="64"/>augustinus. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e417">
+                  <lb ed="#P" n="65"/>¶ Ex quo sequitur quod naturalius est arbitriore 
+      <lb ed="#P" n="66"/>cte arbitrari / et rationi naturalius est recte iudicare 
+      <lb ed="#P" n="67"/>quam erronee 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e427">
+                  <lb ed="#P" n="68"/>¶ Secundo sequitur quod voluntati est 
+      connatu<lb ed="#P" n="69" break="no"/>ralius conformiter exequi recte rationi quam difformiter. 
+      <lb ed="#P" n="70"/>Ex quo vlterius patet quod libertas in 
+      pecca<lb ed="#P" n="71" break="no"/>do et libertas in bene faciendo accipitur 
+      quodam<lb ed="#P" n="72" break="no"/>nodo equiuoce. vnde augustinus enchyri. 26. 
+      li<lb ed="#P" n="73" break="no"/>bero arbitrio male vtens homo et se perdidit et ipsum. 
+      <lb ed="#P" n="74"/>cum enim libero arbitrio peccaretur: victore 
+      pecca<lb ed="#P" n="75" break="no"/>to amissum est et liberum arbitrium. A quo enim quis 
+      <lb ed="#P" n="76"/>deuictus est: huic seruus addiotus est idest 
+      submis<lb ed="#P" n="77" break="no"/>us et frustra ad iustitiam faciendam non erit aliquis 
+      <lb ed="#P" n="78"/>liber / nisi a peccatis liberatus / Iustitie ceperit esse 
+      <lb ed="#P" n="79"/>seruus. et ipsa est vera libertas propter recti facti 
+      li<lb ed="#P" n="80" break="no"/>centiam: simul et pia seruitus propter precepti obedi 
+      <lb ed="#P" n="81"/>entiam / est alia libertas non vera / male seruienti ad 
+      <lb ed="#P" n="82"/>iuncta que est ad malum faciendum / vbi ratio 
+      dssen<lb ed="#P" n="83" break="no"/>tit a voluntate iudicans non esse faciendum quod 
+      <lb ed="#P" n="84"/>voluntas appetit. Ad bonum enim faciendum 
+      con<lb ed="#P" n="85" break="no"/>cordat ratio voluntati. ideo ibi est vera libertas. et 
+      <lb ed="#P" n="86"/>dia¬ 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e471">
+                  <lb ed="#P" n="87"/>¶ Ex quo patet quarto correlarie quod seruitus  
+      <lb ed="#P" n="88"/>iustitie: est formaliter vera libertas. vnde christus 
+      <lb ed="#P" n="89"/>si filius vos liberauit veri liberi estis. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e480">
+                  <lb ed="#P" n="90"/>¶ his premissis sit prima conclusio Responsi  
+      <lb ed="#P" n="91"/>ua in primo sensu ad questionem / iustum arbitrium 
+      <lb ed="#P" n="92"/>viatoris / tribus modis libertatis predictis: est libe 
+      <lb ed="#P" n="93"/>rius quolibet arbitrio iniusto / et capio iustum et 
+      in<lb ed="#P" n="94" break="no"/>iustum cum suis connotatis. Iustum enim 
+      conno<lb ed="#P" n="95" break="no"/>tat vel includit iustitiam creatam / et deum actualiter 
+      <lb ed="#P" n="96"/>iustificantem. iustum autem concernit culpam. non 
+      <lb ed="#P" n="97"/>habitum infusum malum / continue mentem 
+      actuali<lb ed="#P" n="98" break="no"/>ter agentem iniustum quia hoc est impossibile / sic 
+      in<lb ed="#P" n="99" break="no"/>tellecta consequentia conclusio probatur. sicquia est gratia sui 
+      <lb ed="#P" n="100"/>veri finis et optimi ergo primo modo est etc. Item quia 
+      <lb ed="#P" n="101"/>non subicitur alicui illicite dominationi ergo liberi 
+      <lb ed="#P" n="102"/>us. Tertio modo / vnde augustinus vbi supra: 
+      ser<lb ed="#P" n="103" break="no"/>ui addicti que potest esse libertas et cetera y quasi 
+      di<lb ed="#P" n="104" break="no"/>cat nulla. Item quia habet principia et virtutes 
+      suf<lb ed="#P" n="105" break="no"/>ficienter ad delectabiliter operandum secundum 
+      confor<lb ed="#P" n="106" break="no"/>mitatem rationis reote. sed iniustum non habet ergo. 
+      <lb ed="#P" n="107"/>liberius primo modo et secundo modo. Item iniustum 
+      <lb ed="#P" n="108"/>concernit necessitatem peccandi / iuxta illud video le 
+      <lb ed="#P" n="109"/>gem aliam in membris meis et cetera. Iustum autem 
+      <lb ed="#P" n="110"/>non sic necessitatur ad peccandum. quia dicit 
+      apo<lb ed="#P" n="111" break="no"/>stolus consequenter Infelix ego homo quis me 
+      li<lb ed="#P" n="112" break="no"/>berabit de corpore mortis huius / et respondet gratia 
+      <lb ed="#P" n="113"/>domini iesu christi. et hec est ratio augustini de 
+      per<lb ed="#P" n="114" break="no"/>fectione iustitie. Item eo potest in plura genera 
+      ope<lb ed="#P" n="115" break="no"/>randi quam arbitrium iniustum: quia potest libere bene 
+      <lb ed="#P" n="116"/>et male agere non sic iniustum ergo. Item quia est 
+      <lb ed="#P" n="117"/>liberum a miseria. et in via seu in dispositione ad 
+      li<lb ed="#P" n="118" break="no"/>pertatem a pena et corruptione / et necessitatibus 
+      fu<lb ed="#P" n="119" break="no"/>gibilibus de quibus orat liberari psalmista dicens 
+      in<lb ed="#P" n="120" break="no"/>ersona peccatoris / de necessitatibus meis libera 
+      me<lb ed="#P" n="121" break="no"/>domine et eripe me¬ 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e552">
+                  <lb ed="#P" n="122"/>¶ Secunda conclusio quantum ad secundum sensum. 
+      <lb ed="#P" n="123"/>questionis: accipiendo liberius idest paucioribus e¬ 
+      <!--169.xml-->
+      <pb ed="#P" n="75-v"/>
+                  <lb ed="#P" n="1"/>gens: iustum arbitrium et similiter iniustum est 
+      libe<lb ed="#P" n="2" break="no"/>rius ad male agere: quam ad bene agere. probatur quia 
+      <lb ed="#P" n="3"/>arbitrium quodlibet sufficit ex se: sine preuentione 
+      <lb ed="#P" n="4"/>diuina ad male agere. sed ex se non sufficit bene 
+      a<lb ed="#P" n="5" break="no"/>tere. vt patet per predicta: ergo.  
+    </p>
+               <p xml:id="oooo3o-k46821-d1e574">
+                  <lb ed="#P" n="6"/>¶ Tertia conclusio libertate vera arbitrium 
+      iu<lb ed="#P" n="7" break="no"/>stum est liberius: ad bonum quam ad malum. probatur 
+      <lb ed="#P" n="8"/>ex predictis verbis aug. quia libertas ad malum non 
+      <lb ed="#P" n="9"/>est proprie libertas. nec vera libertas. et ideo magis 
+      <lb ed="#P" n="10"/>dicitur liberum quia potest bene agere. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e587">
+                  <lb ed="#P" n="11"/>¶ Quarta conclusio. ad tertium sensum questionis 
+      <lb ed="#P" n="12"/>Arbitrium iniustum: libertus potest male agere. pri 
+      <lb ed="#P" n="13"/>mo modo et secundo modo liberius capiendo: quam 
+      pos<lb ed="#P" n="14" break="no"/>sit bene agere. probatur cum minori difficultate 
+      po<lb ed="#P" n="15" break="no"/>test male velle: quam bene. quia ex se nichil ponst bene 
+      vel<lb ed="#P" n="16" break="no"/>le nec tot eget auxiliis ad male volendum sicut ad  
+      <lb ed="#P" n="17"/>bene volendum ergo.  
+    </p>
+               <p xml:id="oooo3o-k46821-d1e606">
+                  <lb ed="#P" n="18"/>¶ Quinta conclusio. de quarto sensu questionis 
+      <lb ed="#P" n="19"/>Arbitrium iniustum liberius potest male velle 
+      acdi<lb ed="#P" n="20" break="no"/>piendo secundo modo liberius: quam ad bene velle 
+      pos<lb ed="#P" n="21" break="no"/>suint arbitrium iustum. probatur arbitrium iustum et 
+      <lb ed="#P" n="22"/>get ad bene volendum: premotione diuina: sed 
+      tali<lb ed="#P" n="23" break="no"/>ter non eget arbitrium iniustum ad male volendum 
+      <lb ed="#P" n="24"/>et nullo indiget arbitrium iniustum tanquamnecessario 
+      <lb ed="#P" n="25"/>requisitum ad male volendum: quin eodem vel simili ind 
+      <lb ed="#P" n="26"/>geat arbitrium iustum ad bene volendum et vltra hoc ind 
+      <lb ed="#P" n="27"/>get actuatione diuina. sed siquae ras de quinto sensu si capiatur 
+      <lb ed="#P" n="28"/>liberius primo modo (quia de tertio modo non est dubium) dico quod 
+      iu<lb ed="#P" n="29" break="no"/>stum arbitrium est liberius ad malum quam arbitrium viatoris 
+      <lb ed="#P" n="30"/>iniustum sit liberum ad bonum
+    </p>
+               <p xml:id="oooo3o-k46821-d1e637">
+      ¶ Sed nunquid facilius 
+      <lb ed="#P" n="31"/>elicit iustus / bene quam iniustus male velle. Responsio 
+      <lb ed="#P" n="32"/>quod sic vbi est perfectio gratie et plenitudo et potest eli 
+      <lb ed="#P" n="33"/>se. vt iustum arbitrium tanto facilitaretur ad bonum 
+      <lb ed="#P" n="34"/>vel plus quam hoc arbitrium datum iniustum facilitari 
+      po<lb ed="#P" n="35" break="no"/>test in malum certum. et quandoque est econuerso 
+      se<lb ed="#P" n="36" break="no"/>cuudum exigentiam habitus boni iniusto et habit 
+      <lb ed="#P" n="37"/>icquisiti relicti post peccatum in iniusto. vel ex alia 
+      <lb ed="#P" n="38"/>parte secundum exigentiam habituum moraliter viti 
+      <lb ed="#P" n="39"/>osorum acquisitorum in iusto nouiter iustificato a a 
+      <lb ed="#P" n="40"/>tequaem iustus fieret 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k46821-Dd1e662">
+               <head xml:id="oooo3o-k46821-Hd1e664">Articulus 2</head>
+               <p xml:id="oooo3o-k46821-d1e666">
+                  <lb ed="#P" n="41"/>¶ E secundo articulo qui est vtrum 
+      <lb ed="#P" n="42"/>diuina preuolutio sit antecedens 
+      necess<lb ed="#P" n="43" break="no"/>tas / ad actum liberum voluntatis elici 
+      <lb ed="#P" n="44"/>tum / Premitto preambula. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e677">
+                  <lb ed="#P" n="45"/>¶ primum preambulum aliud volitum 
+      <lb ed="#P" n="46"/>ist a voluntatem premoueri vt eliciat .b. actum suum 
+      <lb ed="#P" n="47"/>quem deus vult elici: et aliud volitum est. a. moueri 
+      mo<lb ed="#P" n="48" break="no"/>tione sufficienti / vt posit elicere. b. probatur: quia 
+      se<lb ed="#P" n="49" break="no"/>cundum potest esse sine primo. licet primum non 
+      pos<lb ed="#P" n="50" break="no"/>sit esse sine secundo. vnde sicut non est idem velle quo 
+      <lb ed="#P" n="51"/>vellem te actualiter currere et quo vellem te esse 
+      po<lb ed="#P" n="52" break="no"/>tentem ad adtualiter currendum si velles: sic ymagi. 
+      <lb ed="#P" n="53"/>nandum est in proposito 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e699">
+                  <lb ed="#P" n="54"/>¶ Secundum preambulum est descriptio huius 
+      <lb ed="#P" n="55"/>complexi necessitas antecedens. hec scilicet: 
+      ne<lb ed="#P" n="56" break="no"/>cessit as antecedens est causa actiua qua posita cum 
+      <lb ed="#P" n="57"/>omnibus preuie requisitis: ad aliquem effectum 
+      pro<lb ed="#P" n="58" break="no"/>ducendum et cum quibus effectus ille producitur 
+      <lb ed="#P" n="59"/>non stat effectum illum non produci. probatur ista: 
+      <lb ed="#P" n="60"/>quia si staret aliqua causa actiua cum dictis 
+      condi<lb ed="#P" n="61" break="no"/>tionibus: et non produceretur effectus: talis non est 
+      <lb ed="#P" n="62"/>set tota causa necessitatis. nec per consequens ante¬ 
+      <!--169.xml-->
+      <lb ed="#P" n="63"/>cedens necessitas. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e725">
+                  <lb ed="#P" n="64"/>¶ Prima propositio Causam producere effectum / 
+      <lb ed="#P" n="65"/>non est dispositio preuia ad effectum producendum 
+      <lb ed="#P" n="66"/>patet quia non antecedit ipsum producere. sed est 
+      <lb ed="#P" n="67"/>idem. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e737">
+                  <lb ed="#P" n="68"/>¶ Secunda propositio Nulla causa libertate con¬ 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e742">
+                  <lb ed="#P" n="69"/>¶ tingentie libera: est necessitas antecedens: respectu 
+      <lb ed="#P" n="70"/>sui effectus cuiuslibet. probatur quia quacunque 
+      dispo<lb ed="#P" n="71" break="no"/>sitione preuia: ad effectum liberum: cuiuscunque 
+      cau<lb ed="#P" n="72" break="no"/>se libere posita: stat illum effectum non produci 
+      er<lb ed="#P" n="73" break="no"/>go: consequentia nota est per descriptionem sed 
+      an<lb ed="#P" n="74" break="no"/>tecedens probatur: quia ex hoc solo dicitur aliqua 
+      <lb ed="#P" n="75"/>casa libera libertate contradictionis: quia positis omni 
+      <lb ed="#P" n="76"/>bus causaliter preuiis et requisitis: ad effectum 
+      po<lb ed="#P" n="77" break="no"/>test agere vel non agere igitur. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e764">
+                  <lb ed="#P" n="78"/>¶ Tertia Necessitas antecedens solum dicitur 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e769">
+                  <lb ed="#P" n="79"/>¶ deus. relatiue ad causam non liberam adtiuam. sic  
+      <lb ed="#P" n="80"/>scilicet quod dei voluntate cum omnibus preuiis ad. b 
+      <lb ed="#P" n="81"/>effectum ignis producendum posita: non est in pote 
+      <lb ed="#P" n="82"/>state ignis .b. no produci quamuis sit in potestate ipsius 
+      <lb ed="#P" n="83"/>dei non produci. b. et ideo deus est necessitas 
+      ante<lb ed="#P" n="84" break="no"/>cedens respectu ignis. vt ignis sit causans b / sed non 
+      <lb ed="#P" n="85"/>simpliciter quia positis omnibus etc. ad b: effectum 
+      <lb ed="#P" n="86"/>ignis producendum stat b non causari ab igne / sed 
+      <lb ed="#P" n="87"/>noc potestate dei non potastate ignis. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e791">
+                  <lb ed="#P" n="88"/>¶ Quarta si deus ageret naturaliter ad actum 
+      <lb ed="#P" n="89"/>liberum a voluntatis producendum: adhuc voluntas 
+      <lb ed="#P" n="90"/>a non esset necessitas antecedens respectu sui actus 
+      <lb ed="#P" n="91"/>patet quia libera 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e802">
+                  <lb ed="#P" n="92"/>¶ his habitis sit hec prima conclusio diuina 
+      <lb ed="#P" n="93"/>preuolutio non est necessitas antecedens respectu 
+      <lb ed="#P" n="94"/>cuiuslibet actus liberi voluntatis create. probatur 
+      <lb ed="#P" n="95"/>quia deus non necessitat voluntatem / ad 
+      quamli<lb ed="#P" n="96" break="no"/>bet operationem eius liberam ergo consequentia no 
+      <lb ed="#P" n="97"/>ta. probatur antecedens. quia non necessitat ipsam 
+      <lb ed="#P" n="98"/>ad actum primum quo se auertit a vita et a deo: nec 
+      <lb ed="#P" n="99"/>ad actum fruendi creaturis et vtendi deo. sed illi sunt 
+      <lb ed="#P" n="100"/>liberi actus. ergo minor nota est / maior est de 
+      inten<lb ed="#P" n="101" break="no"/>tione augustini. 3 de libero arbitrio / vnde dicit sic nul 
+      <lb ed="#P" n="102"/>a re fieri posse mentem seruam est libidinis / nam 
+      ne<lb ed="#P" n="103" break="no"/>que a superiori nec ab equali eam posse ad hoc dede 
+      <lb ed="#P" n="104"/>cus cogi. quia iniustum est / nec ab inferiori. quia non 
+      <lb ed="#P" n="105"/>potest. restat ergo vt eius sit proprius iste motus quo 
+      <lb ed="#P" n="106"/>fruendo voluntatem ad creaturam a creatore 
+      con<lb ed="#P" n="107" break="no"/>uertit. Pro ista conclusione sunt articuli complures 
+      <lb ed="#P" n="108"/>inter nouellos parisius condemnatos / puta tricesst 
+      <lb ed="#P" n="109"/>mus quintus / 3. et. 3 capitulo sexto. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e845">
+                  <lb ed="#P" n="110"/>¶ Secunda conclusio. licet deus possit necessi 
+      <lb ed="#P" n="111"/>tare: quamlibet creaturam: ad esse: sic quod non est 
+      com<lb ed="#P" n="112" break="no"/>possibile (deo faciente creaturam esse) eandem 
+      crea<lb ed="#P" n="113" break="no"/>turam non esse: voluntas tamen diuina: non est 
+      ne<lb ed="#P" n="114" break="no"/>cessitas antecedens ad quamlibet creaturam. Prima 
+      <lb ed="#P" n="115"/>lars probatur quia nulla creatura: potest impedire 
+      vo<lb ed="#P" n="116" break="no"/>luntatem dei efficientem: qua res efficit inesse. cum 
+      <lb ed="#P" n="117"/>sit omnipotens. Secunda pars patet ex descriptio 
+      <lb ed="#P" n="118"/>ne necessitatis antecedentis. Item patet etiam ex se¬ 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e867">
+                  <lb ed="#P" n="119"/>¶ cunda propositione hic preuia.
+    </p>
+               <p xml:id="oooo3o-k46821-d1e872">
+      ¶ Ex qua sequitur o 
+      <lb ed="#P" n="120"/>correlarie: quod non est idem conuertibiliter: deum 
+      ne<lb ed="#P" n="121" break="no"/>cessitare creaturam ad esse: et esse necessitatem 
+      ante<lb ed="#P" n="122" break="no"/>cedentem ad creaturam esse. patet hec ex partibus 
+      <lb ed="#P" n="123"/>conclusionis. 
+      <!--170.xml-->
+      <pb ed="#P" n="76-r"/>
+                  <lb ed="#P" n="1"/>
+                  <lb ed="#P" n="2"/>Tertia conclusio. voluntas diuina est 
+      es<lb ed="#P" n="3" break="no"/>sentialiter libera: ad contradictionem. sic 
+      intelli<lb ed="#P" n="4" break="no"/>gendo quod voluntas diuina qua vult actualiter 
+      <lb ed="#P" n="5"/>b. fore est equaliter libera ad producendum. b. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e898">
+                  <lb ed="#P" n="6"/>¶ et ad non producendum. Ita quod ista consequentia non 
+      <lb ed="#P" n="7"/>valet deus vult b esse / ergo b est: nec ista deus vult 
+      <lb ed="#P" n="8"/>b fore: ergo b erit. nisi addatur efficaciter vult: et sic 
+      <lb ed="#P" n="9"/>non capio conclusionem sed dico simpliciter vult. et 
+      <lb ed="#P" n="10"/>stat ratio in hoc quia non sequitur deus vult b esse: 
+      <lb ed="#P" n="11"/>ergo vult effica citer b esse / scilicet de voluntate 
+      sim<lb ed="#P" n="12" break="no"/>plicis complacentie: et de beneplacito executorio. 
+      <lb ed="#P" n="13"/>¶Quarta conclusio / non respectu cuiuslibet ali 
+      <lb ed="#P" n="14"/>qualiter operari voluntatis create. deus potest esse 
+      <lb ed="#P" n="15"/>necessitas antecedens. patet quia non respectu illius 
+      <lb ed="#P" n="16"/>quo voluntas sponte odit deum et proximum. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e924">
+                  <lb ed="#P" n="17"/>¶ Quinta conclusio / diuina voluntas siue 
+      di<lb ed="#P" n="18" break="no"/>uinum / preuelle seu premotio diuinalad hoc quod a 
+      ve<lb ed="#P" n="19" break="no"/>luntas / possit producere b actum: non est 
+      antecedens<lb ed="#P" n="20" break="no"/>necessitas / ad b essectum ab a / producendum. 
+      pro<lb ed="#P" n="21" break="no"/>batur quia stante tali motione vel preuolitione cum 
+      <lb ed="#P" n="22"/>omnibus preuiis ad b / stat a non producere b: ergo 
+      <lb ed="#P" n="23"/>conclusio vera consequentia patet per descriptionem 
+      <lb ed="#P" n="24"/>necessitatis antecedentis: et assumptum patet ex 
+      se<lb ed="#P" n="25" break="no"/>cunda et quarta propositionibus: cum a sit causa 
+      li<lb ed="#P" n="26" break="no"/>bera. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e948">
+                  <lb ed="#P" n="27"/>¶ Ex quo sequitur / quod possibile est in casustare c. 
+      <lb ed="#P" n="28"/>motione dei / ad a producere b / et tamen deum non vel 
+      <lb ed="#P" n="29"/>le efficaciter a producere b / quamuis ista motione: 
+      scili<lb ed="#P" n="30" break="no"/>cet c / a sit potens / et sufficiens producere b / patet hoc 
+      <lb ed="#P" n="31"/>ex propotioe prima preambula non stat tamen deum vel 
+      <lb ed="#P" n="32"/>le b elici ab a / c mediante et b non elici. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e965">
+                  <lb ed="#P" n="33"/>¶ Ex quo sequitur secundo quod deficere vel non 
+      <lb ed="#P" n="34"/>conari ipsius a precise sufficit ad hoc quod stante c / de 
+      <lb ed="#P" n="35"/>us non est coeffector ipsius ad b / vnde si stante c a non 
+      <lb ed="#P" n="36"/>efficit b: nec deus efficit tunc b nec c efficit. dato quod 
+      <lb ed="#P" n="37"/>c sit motio creata: et ideo in tali non efficere non 
+      so<lb ed="#P" n="38" break="no"/>lum deest conatus ipsius a / sed etiam efficere dei. 
+      <lb ed="#P" n="39"/>Quapropter consequenter. sequitur tertio 
+      <lb ed="#P" n="40"/>quod conatus ipsius a non sufficit ad b / quia nec a 
+      co<lb ed="#P" n="41" break="no"/>nari sufficit ad b / nisi deo actuante ipsum a immo  
+      <lb ed="#P" n="42"/>a conetur: deus et gratia est causa principalior. 
+      Un<lb ed="#P" n="43" break="no"/>de Augustinus de christi gratia et peccato 
+      origina<lb ed="#P" n="44" break="no"/>i29. non solum posse minimum: donat atque iuuat: 
+      <lb ed="#P" n="45"/>sed etiam velle et operari operatur in nobis. Et 
+      sub<lb ed="#P" n="46" break="no"/>dit non quia nos non volumus: aut non agimus per 
+      <lb ed="#P" n="47"/>liberum arbitrium: sed quia sine dei adiutorio nec 
+      vo<lb ed="#P" n="48" break="no"/>lumus aliquid boni nec agimus. et in hoc 
+      verifica<lb ed="#P" n="49" break="no"/>tur illud collecte qua petimus: vota nostra 
+      aspiran<lb ed="#P" n="50" break="no"/>do preueni et adiuuando prosequere etc. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1007">
+                  <lb ed="#P" n="51"/>¶ Sed diceres voluntas a si elicit b actum: 
+      me<lb ed="#P" n="52" break="no"/>diante c: ex dono dei est: quia nec habet aliquis quod 
+      <lb ed="#P" n="53"/>non accepit quare / ergo voluntas / d: cum 
+      preuen<lb ed="#P" n="54" break="no"/>tione c non assentiens trahitur sicut a cum equali 
+      prae<lb ed="#P" n="55" break="no"/>uentione: et cur deus non tam efficaciter operatur 
+      <lb ed="#P" n="56"/>ipsi d voluntati vt trahatur sicut operatur cum a¬ 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1023">
+                  <lb ed="#P" n="57"/>¶ Istam questionem mouet sibi Augustinus de 
+      spiri<lb ed="#P" n="58" break="no"/>tu et littera ad marcellinum post solutionem questi¬ 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1030">
+                  <lb ed="#P" n="59"/>¶ nis: de credere vocationi dei. Unde querit quare vni 
+      <lb ed="#P" n="60"/>suadetur: ita vt persuadeatur: alteri autem non etc. 
+      <lb ed="#P" n="61"/>Idem. 26. omentis. super Iohannem. Responsio vide 
+      <!--170.xml-->
+      <lb ed="#P" n="62"/>tur mihi dicendum cum Augustino super isto verbo 
+      <lb ed="#P" n="63"/>Ioannis sexto. nemo venit ad me nisi pater meus 
+      tra<lb ed="#P" n="64" break="no"/>xerit eum: et quare non trahit: noli velle iudicare: si 
+      <lb ed="#P" n="65"/>non vis errare. et quare petrus fuit vocatus et non 
+      <lb ed="#P" n="66"/>hic homo: quare deus hunc predestinauit et non hunc 
+      <lb ed="#P" n="67"/>August. noli iudicare etc. hoc autem firmiter tene quod 
+      <lb ed="#P" n="68"/>non est iniquitas apud deum: et quod nullus damnatur 
+      ni<lb ed="#P" n="69" break="no"/>si iuste et citra condignum. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1059">
+                  <lb ed="#P" n="70"/>¶ Ex predictis patet solutio ad primam 
+      ratio<lb ed="#P" n="71" break="no"/>nem principalem. vnde ad formam neganda est pripr 
+      <lb ed="#P" n="72"/>ma pars antecedentis primi: ad probationem negao 
+      <lb ed="#P" n="73"/>tur assumptum: sicut patet per quintam conclusionem 
+      <lb ed="#P" n="74"/>hic positam et corre. eiusdem. Ad probationem cum 
+      <lb ed="#P" n="75"/>dicitur: aut sic est: quod deus vult a voluntatem elicere 
+      <lb ed="#P" n="76"/>b mediante c etc. Dico quod hoc consistit in facto: quia 
+      <lb ed="#P" n="77"/>potest esse et potest non esse: Recorderis hic de 
+      pri<lb ed="#P" n="78" break="no"/>na propositione preambula huius articuli. Et cum 
+      <lb ed="#P" n="79"/>dicitur si non vult etc. ergo a non est efficiens etc. 
+      di<lb ed="#P" n="80" break="no"/>co si non vult a elicere b / quod a non elicit b / cum hoc 
+      ta<lb ed="#P" n="81" break="no"/>men stat quod a potens est elicere b / si conetur ergo ne 
+      <lb ed="#P" n="82"/>ganda est consequentia: Unde licet deus (si a non 
+      <lb ed="#P" n="83"/>elicit b) non velit a elicere b per c / tamen vult a esse 
+      <lb ed="#P" n="84"/>potens elicere b per c / si non negligat 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1094">
+                  <lb ed="#P" n="85"/>¶ Ad confirmationem negatur consequentia. 
+      <lb ed="#P" n="86"/>vt patet per tertium corre. quinte conclusionis 
+      hu<lb ed="#P" n="87" break="no"/>ius articuli. Et hoc sit dictum de isto articulo:
+    </p>
+            </div>
+            <div xml:id="oooo3o-k46821-Dd1e1104">
+               <head xml:id="oooo3o-k46821-Hd1e1106">Articulus 3</head>
+               <p xml:id="oooo3o-k46821-d1e1108">
+                  <lb ed="#P" n="88"/>Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1113">
+                  <lb ed="#P" n="89"/>QUantum ad tertium articulum qui 
+      <lb ed="#P" n="90"/>est / vtrum arbitrium creatum possit ad  
+      <lb ed="#P" n="91"/> actum liberum vel elicitum difficultari vel 
+      <lb ed="#P" n="92"/>necessitari premitto suppositiones. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1124">
+                  <lb ed="#P" n="93"/>¶ Prima quod quilibet vtens ratione experitur in 
+      <lb ed="#P" n="94"/>seipso: quod non eque faciliter appetit tristari: vel illud per 
+      <lb ed="#P" n="95"/>quod triste est sicut delectabile. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1133">
+                  <lb ed="#P" n="96"/>¶ Secunda suppositio quia non eque facile quis: 
+      <lb ed="#P" n="97"/>vult bene moraliter sine habitu vertutius quam cum 
+      habi<lb ed="#P" n="98" break="no"/>tu patet quia virtuosus facilius eligit viuere 
+      secun<lb ed="#P" n="99" break="no"/>dum virtutem quam vitiosus. Et sic de multius potest ista 
+      <lb ed="#P" n="100"/>suppositio declarari. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1147">
+                  <lb ed="#P" n="101"/>¶ Ex ista suppositione sequitur tertia quod volunt 
+      <lb ed="#P" n="102"/>tas vt libera est: est difficultabilis ad actus liberos 
+      <lb ed="#P" n="103"/>patet ex declaratione premisse suppositionis / quia 
+      <lb ed="#P" n="104"/>vitiosus puta incontinens cum difficultate elicit 
+      a<lb ed="#P" n="105" break="no"/>ctus temperati. Confirmatur auctoritate 
+      philoso<lb ed="#P" n="106" break="no"/>phi quarto vel tertio ethicorum: qui dicit difficilius 
+      <lb ed="#P" n="107"/>est tristitiam sustinere: quam a delectabilibus abstinere 
+      <lb ed="#P" n="108"/>ergo voluntas difficilius elicit sufferentiam tristium 
+      <lb ed="#P" n="109"/>quam abstinentiam delectabilium. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1169">
+                  <lb ed="#P" n="110"/>¶ Quarta suppositio omne difficultans 
+      volun<lb ed="#P" n="111" break="no"/>tatem (vt libertas est) aut est passio actualis aut in 
+      <lb ed="#P" n="112"/>linatio habitualis: vel iudicium de aliqualiter esse 
+      <lb ed="#P" n="113"/>displicibilitatis vel nolitio contrario modo se habens 
+      <lb ed="#P" n="114"/>Ita quod omne difficultans ad alterum istorum 
+      quat<lb ed="#P" n="115" break="no"/>tuor habet reduci. probatur quia si volo hodie 
+      ab<lb ed="#P" n="116" break="no"/>stinere a vitio / tentatio vel tentans extrinsecum nul 
+      <lb ed="#P" n="117"/>lo modo difficultat voluntatem: nisi excitet in ea 
+      ali<lb ed="#P" n="118" break="no"/>quem actum / vel passionem aliquam: et ideo passio 
+      <lb ed="#P" n="119"/>sensualitatis: vel iudicium quo iudico illud mihi no 
+      <lb ed="#P" n="120"/>ciuum: vel inclinatio habitualis ad oppositum vel 
+      <!--171.xml-->
+      <pb ed="#P" n="76-v"/>
+                  <lb ed="#P" n="1"/>contraria volitio difficultat voluntatem / vnde si volo 
+      <lb ed="#P" n="2"/>existens in mari salutem meam et cum hoc esse diues: 
+      <lb ed="#P" n="3"/>cum difficultate proiicio merces etc / vnde si 
+      subito<lb ed="#P" n="4" break="no"/>quis perderet vsum rationis. vel si deus non coefficeret 
+      <lb ed="#P" n="5"/>non esset voluntas difficultata quia non haberet liberum. 
+      <lb ed="#P" n="6"/>arbitrium neque tale iudicium. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1213">
+                  <lb ed="#P" n="7"/>¶ Sit ergo prima conclusio: Omne immediate 
+      <lb ed="#P" n="8"/>ipsam voluntatem difficultans. est in anima 
+      subiecti<lb ed="#P" n="9" break="no"/>ue. probatur: quodlibet predictorum quattuor est 
+      ip<lb ed="#P" n="10" break="no"/>anima subiectiue. vt patet inducendo per singula. et 
+      <lb ed="#P" n="11"/>go. consequentia tenet per quartam suppositionem. 
+      <lb ed="#P" n="12"/>¶ Nota hic quod non est idem passio sensualis et 
+      affe<lb ed="#P" n="13" break="no"/>ctio commodi vel timor incommodi in homine. 
+      pri<lb ed="#P" n="14" break="no"/>mum enim est partis sensitiue / secundum partis 
+      ra<lb ed="#P" n="15" break="no"/>tionalis deserte a gratia saltem secundum coefficiem 
+      <lb ed="#P" n="16"/>tiam vel inclinationem. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1237">
+                  <lb ed="#P" n="17"/>¶ Secunda conclusio non quanto iudicium est 
+      de<lb ed="#P" n="18" break="no"/>maiori bono adipiscendo vel maiori malo fugiendo: 
+      <lb ed="#P" n="19"/>tanto est maior difficultas nolendi bonum vel volem 
+      <lb ed="#P" n="20"/>di malum / scilicet indirecte nolendi bonum et indiro 
+      <lb ed="#P" n="21"/>cte malum. Dicitur autem aliquis indirecte velle 
+      ma<lb ed="#P" n="22" break="no"/>lum quando vult id ad quod sequitur malum. quamuis 
+      <lb ed="#P" n="23"/>nollet istud sequi. et similiter indirecte nolle bonum est 
+      <lb ed="#P" n="24"/>velle illud ad quod sequitur priuatio boni vel nolle 
+      <lb ed="#P" n="25"/>illud ad quod sequitur habitio boni. probatur 
+      con<lb ed="#P" n="26" break="no"/>clusio quia si detur oppositum: sequitur quod iudicium 
+      <lb ed="#P" n="27"/>quod pena infernalis esset infinite mala: infinite 
+      difficul<lb ed="#P" n="28" break="no"/>taret voluntatem ad indirecte volendum ipsam. quod 
+      <lb ed="#P" n="29"/>est falsum. Similiter potest argui de beatitudine. 
+      Ra<lb ed="#P" n="30" break="no"/>tio autem huius conclusionis est: quia non secundum 
+      <lb ed="#P" n="31"/>quantitatem rei exterioris crescit difficultas que est 
+      sub<lb ed="#P" n="32" break="no"/>iectiue in anima 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1274">
+                  <lb ed="#P" n="33"/>¶ Tertia conclusio. Quanto affectio 
+      commo<lb ed="#P" n="34" break="no"/>di vel iusti fuerit intentior: tanto difficilius est 
+      volun<lb ed="#P" n="35" break="no"/>tati velle oppositum affectari vel nolle ipsum. 
+      proba<lb ed="#P" n="36" break="no"/>tur quia ista affectio de directo / trahit voluntatem et 
+      <lb ed="#P" n="37"/>difficultat ipsam / vt libera est. vnde si voluntas esset 
+      <lb ed="#P" n="38"/>equilibra et in genere actuum liberorum traheretur 
+      <lb ed="#P" n="39"/>per b certa latitudine / tractus versus sinistram / scili 
+      <lb ed="#P" n="40"/>cet versus male velle non posset vinci b affectio in 
+      <lb ed="#P" n="41"/>si mouentia ad contrarium preualerent et ratio est 
+      <lb ed="#P" n="42"/>quia quelibet equalis Tatitudo affectionis 
+      equa<lb ed="#P" n="43" break="no"/>litatis trahit et difficultat. Si ergo voluntas 
+      contra<lb ed="#P" n="44" break="no"/>talem inclinationem sola libertate sua fortiter 
+      reni<lb ed="#P" n="45" break="no"/>tendo non illud agat: patet quod difficultatur sed 
+      ta<lb ed="#P" n="46" break="no"/>men non cogitur seruire libidini 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1307">
+                  <lb ed="#P" n="47"/>¶ Et sic patet quod non est dare latitudinem 
+      affe<lb ed="#P" n="48" break="no"/>ctionis ad malum infinite intensam. nec per 
+      conse<lb ed="#P" n="49" break="no"/>quens oportet conatum ad bonum esse infinitum. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1317">
+                  <lb ed="#P" n="50"/>¶ Quarta conclusio: impossibile est in volunta 
+      <lb ed="#P" n="51"/>te iusta / esse tantam affectionem commodi malam 
+      <lb ed="#P" n="52"/>quam nequeat superare: patet quia nulla est iustitio 
+      <lb ed="#P" n="53"/>compossibilis nisi venialis et illam potest vincere er 
+      <lb ed="#P" n="54"/>go prima pars antecedentis nota est: et secunda 
+      si<lb ed="#P" n="55" break="no"/>militer quia quelibet latitudo gratie / cum proportio 
+      <lb ed="#P" n="56"/>nali iuuamento actuali dei: sufficit ad victoriam al 
+      <lb ed="#P" n="57"/>fectionis commodi venialis. quod etiam probat 
+      Ar<lb ed="#P" n="58" break="no"/>gustinus quod nihil potest voluntatem iustam cogere seruire 
+      <lb ed="#P" n="59"/>cupiditati: ex quo sequitur quod voluntas iusta per nul 
+      <lb ed="#P" n="60"/>lam affectionem potest necessitari ad malum. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1343">
+                  <lb ed="#P" n="61"/>¶ Quinta conclusio nulla passio sensualis quantum 
+      <lb ed="#P" n="62"/>libet intensa potest necessitare voluntatem iustam 
+      <!--171.xml-->
+      <lb ed="#P" n="63"/>ad peccandum mortaliter. probatur quia 
+      quantuncun<lb ed="#P" n="64" break="no"/>que intendatur passio sensualis (dummodo maneat 
+      <lb ed="#P" n="65"/>vsus rationis) Iusta voluntas potest libere velle 
+      pa<lb ed="#P" n="66" break="no"/>tienter sustinere et dolere de difficultate. exemplum de 
+      <lb ed="#P" n="67"/>martpribus. Item alias sequeretur quod voluntas iu 
+      <lb ed="#P" n="68"/>sta non sufficeret seruare rectitudinem nec haberet 
+      <lb ed="#P" n="69"/>sufficientiam ad salutem quod est falsum. Ex quo 
+      se<lb ed="#P" n="70" break="no"/>quitur quod solus deus potest voluntatem iustam. 
+      ne<lb ed="#P" n="71" break="no"/>cessitare ad bonum tantum. 
+    </p>
+               <p xml:id="oooo3o-k46821-d1e1372">
+                  <lb ed="#P" n="72"/>¶ Sexta conclusio: voluntatem iiustam potest 
+      a<lb ed="#P" n="73" break="no"/>affectio commodi vel passio sensualis / in casu 
+      necessi<lb ed="#P" n="74" break="no"/>tare. vt male velit et praue operetur nisi de nouo 
+      de<lb ed="#P" n="75" break="no"/>us singulariter subueniat. probatur quia talis 
+      volun<lb ed="#P" n="76" break="no"/>tas subiecta est cuprditati et serutre peccato 
+      oogitur<lb ed="#P" n="77" break="no"/>cum sit serua peccati. Unde Augustinus primo 
+      re<lb ed="#P" n="78" break="no"/>tract. ca. xiiii. qui cogente cupiditate / bona voluntate 
+      <lb ed="#P" n="79"/>resistere non potest. et ideo facit contra precepta iu 
+      <lb ed="#P" n="80"/>stitie: Ita est hoc peccatum vt sit et pena peccati. 
+      vn<lb ed="#P" n="81" break="no"/>de psalmista istud considerans / in persona 
+      peccato<lb ed="#P" n="82" break="no"/>ris / dicit: de necessitatibus meis erue me. Item 
+      Au<lb ed="#P" n="83" break="no"/>gustinus contra iulianum libro quinto. ca. vii. et 
+      po<lb ed="#P" n="84" break="no"/>nitur in glosa ad Romanos primo. Propter quod 
+      <lb ed="#P" n="85"/>tradidit illos in desideria cordis eorum etc. Inquit 
+      <lb ed="#P" n="86"/>Augustinus homo traditur desideriis suis / quando 
+      <lb ed="#P" n="87"/>desertus a deo cedit eis. atque consentit. capitur 
+      vin<lb ed="#P" n="88" break="no"/>citur trahitur possidetur. a quo enim deuictus est 
+      ho<lb ed="#P" n="89" break="no"/>mo ei seruus adictus est. Confirmatur quia alias 
+      <lb ed="#P" n="90"/>voluntas iniusta: posset quamlibet tentationem 
+      for<lb ed="#P" n="91" break="no"/>tem superare contra dicta superius. Ex hiis patet 
+      <lb ed="#P" n="92"/>ad secundam rationem principalem. et consequenter 
+      <lb ed="#P" n="93"/>ad tertiam. Et sic est finis questionis 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

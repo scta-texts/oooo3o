@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 2</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 2</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="20-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k12799"><!--l1d5-7q2 -->
+            <head xml:id="oooo3o-k12799-Hd1e99">Quaestio 2</head>
+            <p xml:id="oooo3o-k12799-d1e101">
+               <lb ed="#P" n="83"/>ITerum circa predicas distinctiones. 
+      <lb ed="#P" n="84"/>Quero vtrum principia sillogistice forme 
+      <lb ed="#P" n="85"/>regulatiua teneant in diuinis. 
+    </p>
+            <p xml:id="oooo3o-k12799-d1e110">
+               <lb ed="#P" n="86"/>¶ Et arguitur primo quod non quia forme 
+      <lb ed="#P" n="87"/>regulate per principia sillogistica / non 
+      <lb ed="#P" n="88"/>enent in diuinis: ergo principia sillogistice formare 
+      <lb ed="#P" n="89"/>regulatiua non tenent in diuinis. consequentia nota. 
+      <lb ed="#P" n="90"/>assumptum probatur primo / quod non teneant in prima fi 
+      <lb ed="#P" n="91"/>gura sic: omnis essentia est pater / omnis filius est essentia 
+      <lb ed="#P" n="92"/>ergo omnis filius est pater.
+    </p>
+            <p xml:id="oooo3o-k12799-d1e128">
+      ¶ Item in secunda figura 
+      <lb ed="#P" n="93"/>non tenet forma per principia sillogistica 
+      regulata<lb ed="#P" n="94" break="no"/>arguendo sic: nulla essentia diuina generat / omnis 
+      pa<lb ed="#P" n="95" break="no"/>ter generat / ergo nullus pater est essentia diuina. 
+    </p>
+            <p xml:id="oooo3o-k12799-d1e137">
+               <lb ed="#P" n="96"/>¶ Item non tenet in tertia sic / arguendo / hec essentia 
+      <lb ed="#P" n="97"/>est pater / hec essentia est filius: ergo pater est filius 
+      <lb ed="#P" n="98"/>in omnibus istis premisse sunt vere / et conclusiones. 
+      <lb ed="#P" n="99"/>false / et nullibi capiunt instantiam dicte forme syllogisti 
+      <lb ed="#P" n="100"/>ce preterquam in diuinis / ergo antecedens verum. 
+    </p>
+            <p xml:id="oooo3o-k12799-d1e151">
+               <lb ed="#P" n="101"/>¶ Secundo in diuinis non tenet ista regula: 
+      que<lb ed="#P" n="102" break="no"/>cumque vni. et idem sunt eadem inter se sunt eadem / quia 
+      <lb ed="#P" n="103"/>pater et filius sunt idem vni et eidem essentie: et tamen 
+      <lb ed="#P" n="104"/>non sunt eadem inter se¬ 
+    </p>
+            <p xml:id="oooo3o-k12799-d1e162">
+               <lb ed="#P" n="105"/>¶ Tertio. hec regula medio existente hoc aliquid 
+      <lb ed="#P" n="106"/>necesse est extrema communiungi vel vniri / non tenct in 
+      di<lb ed="#P" n="107" break="no"/>uinis. quia hec forma non valet / hec essentia est pateni 
+      <lb ed="#P" n="108"/>tas / filiatio est hec essentia / ergo filiatio est hec 
+      pa<lb ed="#P" n="109" break="no"/>ternitas: ergo videtur quod nulla regula in diuinis teneat. 
+      <lb ed="#P" n="110"/>In oppositum. principia syllogistice forme re 
+      <lb ed="#P" n="111"/>gulatiua / aut tenent gratia forme aut gratia materie. si 
+      <lb ed="#P" n="112"/>tenent gratia forme: ergo tenent in omni materia et per 
+      <lb ed="#P" n="113"/>sedens in diuinis. si tenent gratia materie: ergo non sunt 
+      <lb ed="#P" n="114"/>principia et ergo nulla erunt primcipia syllogistice 
+      for<lb ed="#P" n="115" break="no"/>me. regulatiua. si dentur alia illa tenent in omni materia. 
+      <lb ed="#P" n="116"/>Primo premittam declarationes. secundo subiu
+      <lb ed="#P" n="117"/>gam quaestiones. Et tertio ponam palogismorum solutiones. 
+    </p>
+            <div xml:id="oooo3o-k12799-Dd1e193">
+               <head xml:id="oooo3o-k12799-Hd1e195">Articulus 1</head>
+               <p xml:id="oooo3o-k12799-d1e197">
+                  <lb ed="#P" n="118"/>Primus articulus. 
+      </p>
+               <p xml:id="oooo3o-k12799-d1e202">
+      <!--60.xml-->
+                  <pb ed="#P" n="21-r"/>
+                  <lb ed="#P" n="1"/>QUantum ad primum sciendum: quod 
+      fuit<lb ed="#P" n="2" break="no"/>opinio olram / et aliquorum aliorum / quod 
+      re<lb ed="#P" n="3" break="no"/>gule aristotelis non tenent in diuinis. 
+      <lb ed="#P" n="4"/>Supponunt enim aliqua ex quibus 
+      infe<lb ed="#P" n="5" break="no"/>urunt duo correlaria. Primo supponunt 
+      <lb ed="#P" n="6"/>quod regule quas dant philosophi / pro aliqua certa 
+      ma<lb ed="#P" n="7" break="no"/>teria tantum non tenent in alia materia. secundo 
+      suppo<lb ed="#P" n="8" break="no"/>nunt quod regule quas dedit philosophus / date sunt 
+      <lb ed="#P" n="9"/>tantum pro aliqua materia. quia ab eo quod res est vel 
+      <lb ed="#P" n="10"/>non est oratio dicitur vera vel falsa. et ideo quia 
+      plhi<lb ed="#P" n="11" break="no"/>losophus vidit naturas rerum tales / quod nulla res erat 
+      <lb ed="#P" n="12"/>dueres vel tres. ideo ipse dixit quod medio existente hoc 
+      <lb ed="#P" n="13"/>aliquid / necesse est extrema coniungi. Tertio 
+      suppo<lb ed="#P" n="14" break="no"/>uunt. quod si aristoteles vidisset vnam simplicem et 
+      sin<lb ed="#P" n="15" break="no"/>gularem esse tres res: ipse excepisset eam ab ista 
+      re<lb ed="#P" n="16" break="no"/>gula / Medio existente etc. Quarto supponunt quod 
+      ea<lb ed="#P" n="17" break="no"/>dem res simplex scilicet essentia diuina est tres res. Ex 
+      <lb ed="#P" n="18"/>istis inferunt primo quod obligatus ex fide ad 
+      tenen<lb ed="#P" n="19" break="no"/>dum istam veritatem quod vna res est tres res: non 
+      obli<lb ed="#P" n="20" break="no"/>gatur tenere regulas philosophi. que sunt facte pro 
+      <lb ed="#P" n="21"/>alia materia. Secundo inferunt quod pauce regule vel 
+      <lb ed="#P" n="22"/>nulle ab aristotele posite sunt formales. et hoc quia 
+      <lb ed="#P" n="23"/>non tenent in omni materia. Uerum ista opinio (
+      se<lb ed="#P" n="24" break="no"/>cundum quod dicit doctor auctenticus magister 
+      gre<lb ed="#P" n="25" break="no"/>gorius libro primo distinctione quinta) est omnino 
+      <lb ed="#P" n="26"/>irrationabilis / eo quod sic dicere non est aliud quam 
+      dicer<lb ed="#P" n="27" break="no"/>fidem nostram et doctrinam catholicam / recte 
+      ra<lb ed="#P" n="28" break="no"/>tioni esse contrariam / et ipsam derisioni hereticorum 
+      <lb ed="#P" n="29"/>exponere. quomodo enim posset aliquis respondem 
+      <lb ed="#P" n="30"/>re. profide: si negaret omnem modum arguendi / et ideo 
+      <lb ed="#P" n="31"/>talibus obuians augustinus in epistola ad marcet 
+      <lb ed="#P" n="32"/>linum dicit / Si manifestissime certeque rationi veluit 
+      <lb ed="#P" n="33"/>scripturarum obicitur auctoritas / non intelligit qui 
+      <lb ed="#P" n="34"/>hoc facit et non scripturarum illarum sensum ad quem 
+      <lb ed="#P" n="35"/>penetrare non potuit. sed suum potius obiicit verita 
+      <lb ed="#P" n="36"/>ti. frustra enim studuissent doctores et sancti / ad 
+      sol<lb ed="#P" n="37" break="no"/>uendas rationes impugnantium veritatem 
+      catho<lb ed="#P" n="38" break="no"/>licam. quia facile erat dicere quod rationes contrarie 
+      <lb ed="#P" n="39"/>in aliis valebant et non in diuinis. quod est omnino 
+      <lb ed="#P" n="40"/>frtuolum dicere 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e296">
+                  <lb ed="#P" n="41"/>¶ Ideo sequendo oppositam opinionem: Pro 
+      <lb ed="#P" n="42"/>terminorum declaratione: est primo sciendum quod si 
+      <lb ed="#P" n="43"/>logismorum quidam sunt affirmatiui et quidam 
+      ne<lb ed="#P" n="44" break="no"/>gatiui et ideo due sunt regule generales omnium 
+      sil<lb ed="#P" n="45" break="no"/>logismorum. Prima est affirmatiuorum hec scilic 
+      <lb ed="#P" n="46"/>quecunque sunt idem vniuersaliter vni et eidem ade 
+      <lb ed="#P" n="47"/>quate: inter se sunt eadem. que regula haberi 
+      po<lb ed="#P" n="48" break="no"/>test ex primo elenchorum et primo priorum in 
+      mu<lb ed="#P" n="49" break="no"/>tis locis. Secunda regula est negatiuorum hec scilic 
+      <lb ed="#P" n="50"/>quecunque vniuersaliter vni et eidem adequate sun 
+      <lb ed="#P" n="51"/>diuersa: inter se sunt diuersa. que habetur vbi prius 
+      <lb ed="#P" n="52"/>licet non ita modificate. et quanuis dictem regule sic. 
+      <lb ed="#P" n="53"/>modificate sint vere: tamen logicaliter et communiter 
+      <lb ed="#P" n="54"/>loquendo dico quod principium et regula omnium 
+      si<lb ed="#P" n="55" break="no"/>logismorum cuiuslibet trium figurarum / est dici de 
+      <lb ed="#P" n="56"/>omni vel dici de nullo / sicut primo priorum per dici 
+      de<lb ed="#P" n="57" break="no"/>omni regulantur affirmatiui. per dici de nullo 
+      ne<lb ed="#P" n="58" break="no"/>gatiui. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e338">
+                  <lb ed="#P" n="59"/>¶ Secundo sciendum est quod ille sillogismus 
+      di<lb ed="#P" n="60" break="no"/>citur regulari per dici de omni / qui componitur ex 
+      pre<lb ed="#P" n="61" break="no"/>missis et conclusione dispositis in modo et figura / 
+      <lb ed="#P" n="62"/>quarum vna requiritur quod sit vniuersalis / denotans quod 
+      <!--60.xml-->
+      <lb ed="#P" n="63"/>nichil sit sumere sub sublecto de quo non predicetur 
+      <lb ed="#P" n="64"/>predicatum. Ille vero dicitur regulari per dici 
+      dem<lb ed="#P" n="65" break="no"/>nullo qui componitur ex premissis dicto modo 
+      dispo<lb ed="#P" n="66" break="no"/>sitis / denotans quod nihil est sumere sub subiecto de quo 
+      <lb ed="#P" n="67"/>non remouetur predicatum 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e363">
+                  <lb ed="#P" n="68"/>¶ Tertio notandum quod sicut dicit anerroys primo 
+      <lb ed="#P" n="69"/>priorum. differentia est inter propositionem vniuersalem 
+      <lb ed="#P" n="70"/>et dici de omni. Per propositionem enim vniuersalem 
+      <lb ed="#P" n="71"/>denotatur nisi quod propositio verificetur de quolibet 
+      <lb ed="#P" n="72"/>supposito vel singulari subiecti: sic quod quelibet 
+      singu<lb ed="#P" n="73" break="no"/>laris sumpta sub subiecto sit vera. vt verbi gratia si 
+      <lb ed="#P" n="74"/>dicatur omne animal est corpus denotatur quod hoc 
+      ani<lb ed="#P" n="75" break="no"/>mal est corpus et istud et sic de aliis. Sed per dici de 
+      <lb ed="#P" n="76"/>omni vltra hoc denotatur quod de quocumque verificatur 
+      <lb ed="#P" n="77"/>subiectum verificetur et predicatum. vt omne 
+      anima<lb ed="#P" n="78" break="no"/>est corpus id est omne illud quod est animal est corpus. 
+      <lb ed="#P" n="79"/>similiter de ista omnis pater generat.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e392">
+      ¶ Ex istis 
+      infe<lb ed="#P" n="80" break="no"/>ro aliquas propositiones. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e397">
+                  <lb ed="#P" n="81"/>¶ Prima si propositio que dicitur vniuersalis non 
+      <lb ed="#P" n="82"/>denotet hoc quod est dici de omni: ipsa non est sufficiem 
+      <lb ed="#P" n="83"/>ter vniuersalis / vniuersalitate requisita ad formam 
+      <lb ed="#P" n="84"/>syllogisticam. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e408">
+                  <lb ed="#P" n="85"/>¶ Secunda infero quod et si propositio sit sufficienter 
+      <lb ed="#P" n="86"/>vniuersalis: tamen si sumatur aliquid in minori pro quo 
+      <lb ed="#P" n="87"/>non fuit distributum sub subiecto maioris / non valet illa 
+      <lb ed="#P" n="88"/>tio formaliter. patet quia non regulatur per dici de omni. 
+      <lb ed="#P" n="89"/>Tertia quod omnis syllogismus ex singularibus 
+      <lb ed="#P" n="90"/>formatur / virtualiter tenet per dici de omni vel dici de nullo. 
+      <lb ed="#P" n="91"/>¶ Quarta quod termini singulares sunt 
+      vniuersa<lb ed="#P" n="92" break="no"/>tes.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e428">
+      ¶ Patet ex immediata propositione.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e430">
+      ¶ Propter 
+      <lb ed="#P" n="93"/>uod sciendum quod aliqui sunt termini vniuerales 
+      vni<lb ed="#P" n="94" break="no"/>uersitate distributa sicut termini connes distributi / per 
+      <lb ed="#P" n="95"/>hoc signum omnis vel nullus. aliqui sunt termini 
+      vni<lb ed="#P" n="96" break="no"/>uersales vniuersalitate adequatiua sicut termini 
+      sin<lb ed="#P" n="97" break="no"/>gulares vel etiam connes modificati per istos terminos 
+      <lb ed="#P" n="98"/>adequate vel totaliter vt dicendo sortes est adequate 
+      <lb ed="#P" n="99"/>animal id est quicquid est sortes est animal. similiter 
+      di<lb ed="#P" n="100" break="no"/>cendo homo est adequate anima id est quicquid est 
+      ho<lb ed="#P" n="101" break="no"/>mo est animali¬ 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e453">
+                  <lb ed="#P" n="102"/>¶ Ex hispatet descriptio forme sillogistice que 
+      <lb ed="#P" n="103"/>sit ista / forma syllogistica est ordo propositionum / in 
+      <lb ed="#P" n="104"/>modo et figura / per regulam que est dici de omni 
+      <lb ed="#P" n="105"/>vel dici de nullo sufficienter regulatus. Patet ista 
+      <lb ed="#P" n="106"/>descriptio ex dictis ex qua sequuntur tres propositiones 
+      <lb ed="#P" n="107"/>Prima quod precise falsitas propositionum non im 
+      <lb ed="#P" n="108"/>pedit formam syllogisticam. Patet ista quia dictus 
+      <lb ed="#P" n="109"/>ordo potest ita bene seruari in propositionibus 
+      fal<lb ed="#P" n="110" break="no"/>sis sicut in veris. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e475">
+                  <lb ed="#P" n="111"/>¶ Secunda propositio. Nullus paralogismus 
+      <lb ed="#P" n="112"/>peccat precise in materia. Patet quia quamuis 
+      pre<lb ed="#P" n="113" break="no"/>misse sint false et non desitforma sipllogistica erit 
+      bo<lb ed="#P" n="114" break="no"/>nus syllogismus cum falsitas non impediat / vt patet 
+      <lb ed="#P" n="115"/>per precedentem propositionem. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e488">
+                  <lb ed="#P" n="116"/>¶ Tertia. omnis paralogismus ex eo solum 
+      di<lb ed="#P" n="117" break="no"/>citur sic / quia peccat in forma. patet ista propositio 
+      <lb ed="#P" n="118"/>ex secunda. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k12799-Dd1e498">
+               <head xml:id="oooo3o-k12799-Hd1e500">Articulus 2</head>
+               <p xml:id="oooo3o-k12799-d1e502">
+                  <lb ed="#P" n="119"/>¶ Secundus articulus.
+      </p>
+               <p xml:id="oooo3o-k12799-d1e507">
+      <!--61.xml-->
+                  <pb ed="#P" n="21-v"/>
+                  <lb ed="#P" n="1"/>QUantum ad secundum pono 
+      conclu<lb ed="#P" n="2" break="no"/>siones. Et sit prima conclusio ista. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e518">
+                  <lb ed="#P" n="3"/>¶ Primum principium tenet in omni 
+      ma<lb ed="#P" n="4" break="no"/>teria et perconsequens in diuinis. Pro 
+      <lb ed="#P" n="5"/>batur illud quod tenet gratia forme et 
+      <lb ed="#P" n="6"/>in quacumque materia saluata sua forma tenet in omnibus 
+      <lb ed="#P" n="7"/>sed primum principium est huiusmodi: ergo tenet in 
+      omni<lb ed="#P" n="8" break="no"/>bus. maior nota. inor probatur / quia da oppositum / 
+      se<lb ed="#P" n="9" break="no"/>quitur quod primum principium non tenet gratia forme sed 
+      <lb ed="#P" n="10"/>gratia materie quod est falsum. Preterea quecumque 
+      repu<lb ed="#P" n="11" break="no"/>gnant per eandem formam repugnantie / equaliter 
+      re<lb ed="#P" n="12" break="no"/>pugnant. sed in omi materia contradictoria repugnant 
+      <lb ed="#P" n="13"/>per eandem formam / ergo in omnibus materiis equaliter 
+      <lb ed="#P" n="14"/>repugnant. maior est nota. et minor est aristotelis primo 
+      <lb ed="#P" n="15"/>posteriorum.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e549">
+      ¶ Preterea vbi non tenet primum 
+      prin<lb ed="#P" n="16" break="no"/>cipium tenet oppositum primi principii. et per consequens 
+      <lb ed="#P" n="17"/>implicatio contradictionis que opposita primo 
+      prin<lb ed="#P" n="18" break="no"/>cipio tenebit diuinis. quod est absurdum. quia oppositum 
+      <lb ed="#P" n="19"/>primi principii est simpliciter impossibile. etiam quia 
+      <lb ed="#P" n="20"/>hoc esset fidem exponere derisioni vt dictum est. 
+      Prete<lb ed="#P" n="21" break="no"/>rea sequeretur quod tolleretur fides nostra disputatione. et 
+      <lb ed="#P" n="22"/>sic de nostra lege verum esset quod dicit commentator 
+      ter<lb ed="#P" n="23" break="no"/>cio phisicorum: quedam leges prohibent disputare. loqui 
+      <lb ed="#P" n="24"/>tur de sarracenorum lege. Preterea sequitur quod de 
+      di<lb ed="#P" n="25" break="no"/>uinis nullam certitudinem haberemus. quia nesciremu. 
+      <lb ed="#P" n="26"/>que pars contradictionis esset vera vel qua falsa 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e576">
+                  <lb ed="#P" n="27"/>¶ Scedaconclusio. Primcipium regulatiuum forme 
+      syr<lb ed="#P" n="28" break="no"/>logistice dici de omni vel nullo tenet in diuinis. 
+      Pro<lb ed="#P" n="29" break="no"/>batur quia aut tale principium tenet gratia materie 
+      <lb ed="#P" n="30"/>aut gratia forme. si gratia forme ergo tenet in omni 
+      ma<lb ed="#P" n="31" break="no"/>teria. et per consequens in materia diuina. si tenet 
+      gratia<lb ed="#P" n="32" break="no"/>materie ergo nullus syllogismus tenet gratia forme. cum 
+      <lb ed="#P" n="33"/>forma syllogistica nion sit maioris roboris quam primcipium 
+      <lb ed="#P" n="34"/>Tertia conclusio. forma syllogistica tenet in 
+      di<lb ed="#P" n="35" break="no"/>uinis. Probatur quia aut habemus aliquem 
+      syllo<lb ed="#P" n="36" break="no"/>gismum tenentem gratia forme aut omnes tenentur gratia 
+      <lb ed="#P" n="37"/>materie. si habemus aliquem tenentem gratia forme: ergo 
+      <lb ed="#P" n="38"/>ille tenebit in diuinis. Si autem tenet gratia materie ergo 
+      <lb ed="#P" n="39"/>omnis syllogismus peccat in forma et per consequens 
+      <lb ed="#P" n="40"/>sequitur quod tota logica sit communiugatio inutilis. quod 
+      <lb ed="#P" n="41"/>non est credendum. Preterea secundum gregorium 
+      <lb ed="#P" n="42"/>si forma sillogistica non valeret in diuinis: tolleretur 
+      <lb ed="#P" n="43"/>omnis via ad probandum vel reprobandum aliquid cu 
+      <lb ed="#P" n="44"/>ca diuina. probatur nam cum catholici vellent aliquid 
+      <lb ed="#P" n="45"/>probare contra hereticos: pro libito et de facili 
+      pos<lb ed="#P" n="46" break="no"/>sent dicere discursum vel probationem nin valere. esto quod 
+      <lb ed="#P" n="47"/>forma esset perfecte regulata. et sic nichil ex dictis 
+      <lb ed="#P" n="48"/>aut in scriptura contentis poterimus contra ipsos 
+      ar<lb ed="#P" n="49" break="no"/>guere (quod absit) ergo tenendum est quod forma etc. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e628">
+                  <lb ed="#P" n="50"/>¶ Quarta conclusio. Nullus syllogismus ex 
+      ter<lb ed="#P" n="51" break="no"/>minis singularibus / non modificatus / tenet gratia 
+      <lb ed="#P" n="52"/>forme. Probatur quia non tenet sine 
+      modificatio<lb ed="#P" n="53" break="no"/>ne in omnibus terminis similiter dispositis. ergo in 
+      <lb ed="#P" n="54"/>tenet in terminis singularibus sine modificatione 
+      <lb ed="#P" n="55"/>consequentia nota. assumptum probatur in creaturis 
+      <lb ed="#P" n="56"/>quia non sequitur hec anima est simul cum capite 
+      <lb ed="#P" n="57"/>hec anima est simul cum pede / ergo caput est simul 
+      cum<lb ed="#P" n="58" break="no"/>pede. bene tamen sequitur cum modificatione / sic 
+      di<lb ed="#P" n="59" break="no"/>cendo / hecanima est adequate simul cum capite / hec anima 
+      <lb ed="#P" n="60"/>est adequate simul cum pede / ergo pes est simul 
+      ci<lb ed="#P" n="61" break="no"/>capite sed tunc premisse sunt false et sillogismus bo¬ 
+      <!--61.xml-->
+      <lb ed="#P" n="62"/>nus. Confirmatur per philosophum primo 
+      prio<lb ed="#P" n="63" break="no"/>tum capitulo / quo modo autem reducemus / vbi 
+      ar<lb ed="#P" n="64" break="no"/>guit sic micalus musicus corrumpetur cras / 
+      mica<lb ed="#P" n="65" break="no"/>lus est micalus musicus / ergo micalus 
+      corrumpe<lb ed="#P" n="66" break="no"/>tur cras. hoc autem falsum dicit philosophus / et 
+      <lb ed="#P" n="67"/>subdit causam. non enim vniuersaliter verum / 
+      quo<lb ed="#P" n="68" break="no"/>niam micalus musicus corrumpetur cras ita quod 
+      ma<lb ed="#P" n="69" break="no"/>ior non est vniuersalis. sed si forma debet valere 
+      opor<lb ed="#P" n="70" break="no"/>tet quod maior sit vniuersalis / sub ista forma omne quod 
+      <lb ed="#P" n="71"/>est siue quicquid est micalus musicus corrumprctur 
+      <lb ed="#P" n="72"/>cras. et quicquid est micalus est micalus musicus 
+      <lb ed="#P" n="73"/>ergo micalus corrumpetur cras. et tunc maior et 
+      mi<lb ed="#P" n="74" break="no"/>or sunt false. et forma bona. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e687">
+                  <lb ed="#P" n="75"/>¶ Quinta conclusio que sequitur ex ista quod 
+      term<lb ed="#P" n="76" break="no"/>ni singulares non sunt sufficienter hoc aliquid quoem 
+      <lb ed="#P" n="77"/>requiritur hoc aliquid in sillogismo expositorio 
+      sine<lb ed="#P" n="78" break="no"/>modificatione. Patet ista conclusio ex dictis 
+      immedia<lb ed="#P" n="79" break="no"/>te. quia secundum philosophum quando medium est sufficienter 
+      <lb ed="#P" n="80"/>hoc aliquid: necesse est extrema contungi sed sine 
+      mo<lb ed="#P" n="81" break="no"/>dificatione non possunt extrema coniungi in sillogismo 
+      <lb ed="#P" n="82"/>ex terminis singularibus / vel expositorio: ergo tales 
+      <lb ed="#P" n="83"/>termini non sunt sufficienter hoc aliquid modo requisito 
+      <lb ed="#P" n="84"/>Sexta conclusio omnes paralogismi in quacumque 
+      <lb ed="#P" n="85"/>materia fiant etiam in diuinis / peccant in principio 
+      <lb ed="#P" n="86"/>illo / quod est dici de omni vel dici de nullo: siue in 
+      re<lb ed="#P" n="87" break="no"/>gulis datis in primo priorum principio. Probatur quia 
+      <lb ed="#P" n="88"/>per dictum principium solui possunt oes paralogismi 
+      <lb ed="#P" n="89"/>ortunati tam de diuinis quam de creaturis vt in 
+      solu<lb ed="#P" n="90" break="no"/>tione paralogismorum in. 3 capitulo patebit. ergo 
+      <lb ed="#P" n="91"/>questio vera 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k12799-Dd1e727">
+               <head xml:id="oooo3o-k12799-Hd1e729">Articulus 3</head>
+               <p xml:id="oooo3o-k12799-d1e731">
+                  <lb ed="#P" n="92"/>¶ Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e736">
+                  <lb ed="#P" n="93"/>¶ Uantum ad tertium articulum pono 
+      <lb ed="#P" n="94"/>paralogismos quorum primus est / hec 
+      <lb ed="#P" n="95"/>essentia est filius. hec paternitas non est 
+      <lb ed="#P" n="96"/>filius ergo hec paternitas non est 
+      essen<lb ed="#P" n="97" break="no"/>tia / conclusio est falsa / et permisse sunt vere. 
+      <lb ed="#P" n="98"/>
+               </p>
+               <p xml:id="oooo3o-k12799-d1e752">
+      ¶ Secundus iste pater generat iste pate 
+      <lb ed="#P" n="99"/>est essentia / ergo essentia generat.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e757">
+      ¶ Tertius omnis 
+      <lb ed="#P" n="100"/>essentia diuina est filius / nulla paternitas est filius  
+      <lb ed="#P" n="101"/>ergo nulla paternitas est essentia. in camestres. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e765">
+                  <lb ed="#P" n="102"/>¶ Quartus. hic pater generat / hec essentia non 
+      ge<lb ed="#P" n="103" break="no"/>nerat / ergo hec essentia non est iste pater.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e772">
+      ¶ 
+      Quin<lb ed="#P" n="104" break="no"/>tus. omne illud quod est pater est pater. filius est 
+      <lb ed="#P" n="105"/>omne illud quod est pater / ego filius est pater. conclusio 
+      <lb ed="#P" n="106"/>est falsa. Forma bona in darii et premisse vere ergo. 
+      <lb ed="#P" n="107"/>¶ Sextus. omne illud quod est pater est pater / omne 
+      <lb ed="#P" n="108"/>illud quod est deitas est illud quod est pater / ergo 
+      om<lb ed="#P" n="109" break="no"/>ne illud quod est deitas est pater 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e788">
+                  <lb ed="#P" n="110"/>¶ Septimus de nullo eodem verificantur 
+      contradi<lb ed="#P" n="111" break="no"/>ctoria / de patre et essentia verificantur contradictoria 
+      <lb ed="#P" n="112"/>ergo pater non est essentia.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e797">
+      ¶ Octauus pater 
+      gen<lb ed="#P" n="113" break="no"/>rat et filius generatur sed pater et filius sunt deitas 
+      <lb ed="#P" n="114"/>ergo deitas generat et generatur.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e804">
+      ¶ Nonus. de 
+      pa<lb ed="#P" n="115" break="no"/>tre et filio verificantur predicta contradictoria. patet 
+      <lb ed="#P" n="116"/>et filius sunt idem. ergo de eodem verificantur contradi 
+      <lb ed="#P" n="117"/>ctoria.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e813">
+      ¶ Decimus. omnis proprietas patris 
+      repu<lb ed="#P" n="118" break="no"/>gnat filio / essentia est proprietas patris / ergo essentia 
+      <lb ed="#P" n="119"/>repugnat filio.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e821">
+      ¶ Undecimus. omnis pater 
+      gene<lb ed="#P" n="120" break="no"/>rat nulla essentia generat: ergo nulla essentia 
+      diui<lb ed="#P" n="121" break="no"/>na est pater. Multi alii paralogismi possent 
+      forma<lb ed="#P" n="122" break="no"/>ri sed sufficiat de istis. 
+      <!--62.xml-->
+      <pb ed="#P" n="22-r"/>
+                  <lb ed="#P" n="1"/>Tirca autem soluendi istos paralogismos: 
+      po<lb ed="#P" n="2" break="no"/>no aliquas propositiones. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e839">
+                  <lb ed="#P" n="3"/>¶ Prima. licet regula anselmi posita in libro de 
+      <lb ed="#P" n="4"/>processis spiritus sancti sit sufficiens ad 
+      paralogis<lb ed="#P" n="5" break="no"/>mos ostendendum: non tamen ad soluendum. quare sequitur quod 
+      <lb ed="#P" n="6"/>per illam non possunt solui.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e850">
+      ¶ Ubi sciendum quod anselmus 
+      <lb ed="#P" n="7"/>(vbi supra) ponit istam regulam in virtute / quod in bona 
+      <lb ed="#P" n="8"/>consequentia: ex vnitate diuine essentie non potest inferri 
+      ali<lb ed="#P" n="9" break="no"/>quod repugnans personarum pluralitati. nec 
+      econtra<lb ed="#P" n="10" break="no"/>rio ex personarum pluralitate potest inferri aliquod 
+      <lb ed="#P" n="11"/>repugnans vnitati diuine essentie. per istam regulam 
+      po<lb ed="#P" n="12" break="no"/>test cognosci circa materiam vnitatis essentialis / et 
+      per<lb ed="#P" n="13" break="no"/>sonalis pluralitatis / qui sillogismi sunt boni vel 
+      ma<lb ed="#P" n="14" break="no"/>li. sed non potest cognosci per ipsam causa apparentie 
+      <lb ed="#P" n="15"/>ergo propositio vera. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e872">
+                  <lb ed="#P" n="16"/>¶ Secunda propositio. Non sufficit pro solutione 
+      <lb ed="#P" n="17"/>paralogismorum dicere quod in talibus paralogismis 
+      <lb ed="#P" n="18"/>non seruetur vnitas medii sufficiens ad connexionem 
+      <lb ed="#P" n="19"/>extremorum: licet sufficiat quo ad multos. Probatur 
+      <lb ed="#P" n="20"/>quod non sufficiat quo ad aliquos: quia non sufficit pro 
+      solu<lb ed="#P" n="21" break="no"/>tione istius paralogismi secundi / hic pater generat 
+      <lb ed="#P" n="22"/>hic pater est deitas / ergo deitas generat. quia hic non 
+      <lb ed="#P" n="23"/>variatur medium.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e892">
+      ¶ Secunda pars patet quia sufficit pro 
+      <lb ed="#P" n="24"/>tertio paralogismo superius posito et suis similibus. 
+      <lb ed="#P" n="25"/>Tertia. Non sufficit ad soluendum etc. 
+      regu<lb ed="#P" n="26" break="no"/>la que dicit propositiones exponendas per 
+      vniuersali<lb ed="#P" n="27" break="no"/>ter vel particulariter. verbi gratia dicendo hec esset 
+      <lb ed="#P" n="28"/>tia est pater. si exponatur vniuersaliter dicendo / 
+      om<lb ed="#P" n="29" break="no"/>ne quod est hec essentia est pater quia tunc esset falsa 
+      <lb ed="#P" n="30"/>Probatur propositio. quia per eam non soluitur paralo 
+      <lb ed="#P" n="31"/>gismus sextus scilicet omne illud quod est pater est 
+      pa<lb ed="#P" n="32" break="no"/>ter omne illud quod est deitas est illud quod est 
+      pa<lb ed="#P" n="33" break="no"/>ter ergo omne illud quod est deitas est pater. hic non 
+      <lb ed="#P" n="34"/>sufficit predicta regula. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e918">
+                  <lb ed="#P" n="35"/>¶ Quarta propositio. Regula formarum 
+      sillogits<lb ed="#P" n="36" break="no"/>morum posita in primo articulo huius questionis / suter 
+      <lb ed="#P" n="37"/>ficit ad soluendu omnes paralogismos. Probatur 
+      <lb ed="#P" n="38"/>quia rectum est iudex sui et obliqui ergo per rectum (quod 
+      <lb ed="#P" n="39"/>est dicta regula) potest haberi distinctio sufficientie 
+      <lb ed="#P" n="40"/>et deficientie cuiuslibet forme syllogistice. Ueritas 
+      <lb ed="#P" n="41"/>huius conclusionis patebit in solutionibus. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e937">
+                  <lb ed="#P" n="42"/>¶ Premitto tamen vnum notandum quod aristoteles in 
+      <lb ed="#P" n="43"/>primo priorum quandoque loquens de forma syllogistica / 
+      lo<lb ed="#P" n="44" break="no"/>cutus est in terminis generalibus non circumlocutis 
+      <lb ed="#P" n="45"/>vt dicendo omne / c / est / a / omne / c / est / b / ergo omne / b. 
+      <lb ed="#P" n="46"/>est / a / quandoque autem vsus est circumlocutione ista / sed 
+      <lb ed="#P" n="47"/>idem a / sit idem / b / si idem / c / idem / a / ergo si idem / 
+      c<lb ed="#P" n="48" break="no"/>idem b. Modo dictum est in primo articulo / quod in 
+      quo<lb ed="#P" n="49" break="no"/>libet bono sillogismo tenente gratia forme / 
+      requiri<lb ed="#P" n="50" break="no"/>tur circumlocutio / vt sufficienter sit regulatus per 
+      dici<lb ed="#P" n="51" break="no"/>de omni vel dici de nullo. Unde ista propositio 
+      om<lb ed="#P" n="52" break="no"/>nis homo currit. ad hoc quod possit poni pro premissa. 
+      <lb ed="#P" n="53"/>in sillogismo regulato per dici de omni vel dici de 
+      <lb ed="#P" n="54"/>nullo: oportet quod equiualeat vni de subiecto circumlo 
+      <lb ed="#P" n="55"/>cuto isto modo: omne illud quod est homo currit. pr 
+      <lb ed="#P" n="56"/>vter quod dico / quod forme syllogistic e facte sine circum 
+      <lb ed="#P" n="57"/>locutione / non tenerent apud theologos. nec etiam 
+      a<lb ed="#P" n="58" break="no"/>pud philosophos. Et ideo dubitatur quis modus 
+      <lb ed="#P" n="59"/>circumloquendi sit ponendus.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e979">
+      ¶ Ad quod 
+      respon<lb ed="#P" n="60" break="no"/>deo per propositiones. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e984">
+                  <lb ed="#P" n="61"/>¶ Prima. talis modus circumloquendi est poner¬ 
+      <!--62.xml-->
+      <lb ed="#P" n="62"/>dus / per quam maior in prima figura reddatur 
+      suffi<lb ed="#P" n="63" break="no"/>cienter vniuersalis: sic scilicet quod subiectum nulli 
+      conue<lb ed="#P" n="64" break="no"/>niat: quin predicatum conueniat eidem. quia tunc sufficienter 
+      <lb ed="#P" n="65"/>regulatur sillogismus per dici de omni vel dici de nul 
+      <lb ed="#P" n="66"/>lo et non aliter. et sic suo modo de negatiua¬ 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1002">
+                  <lb ed="#P" n="67"/>¶ Secunda propositio. Non sufficit talis 
+      circun<lb ed="#P" n="68" break="no"/>locutio. Illud quod est / si precise addatur subiecto.  
+      <lb ed="#P" n="69"/>Probatur / in multis exemplis talis processus 
+      defici<lb ed="#P" n="70" break="no"/>ergo generaliter non sufficit. consequentia nota. antecedens 
+      <lb ed="#P" n="71"/>probatur arguendo / sic / omne illud quod est pater est pater 
+      <lb ed="#P" n="72"/>rilius est illud quod est patar. ergo filius est pater. et 
+      <lb ed="#P" n="73"/>etiam omne illud quod est tres persone est trinitas et patet 
+      <lb ed="#P" n="74"/>est illud quod est tres persone: ergo et cetera. et sic de 
+      <lb ed="#P" n="75"/>multis aliis. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1024">
+                  <lb ed="#P" n="76"/>¶ Tertia propositio sufficit circumlocutio 
+      Aristo<lb ed="#P" n="77" break="no"/>teles in primo priorum / et in multis locis vbi dicit / in quo 
+      <lb ed="#P" n="78"/>a / in quo .b. in quo. c. in quo a. ergo in quo. c. in 
+      quo<lb ed="#P" n="79" break="no"/>b. loco istius in quo / dico idem a idem . b. Probatur quia 
+      <lb ed="#P" n="80"/>ista numquam capit instantiam / et per illam sufficienter quilibet 
+      <lb ed="#P" n="81"/>sillogismus erit regulatus per dici de omni vel dici de 
+      <lb ed="#P" n="82"/>nullo: ergo propositio vera. consequentia nota per primam 
+      <lb ed="#P" n="83"/>propositionem huius dubii antecedens patet discurendo per 
+      <lb ed="#P" n="84"/>omens paralogismos factos et alios. 
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1046">
+                  <lb ed="#P" n="85"/>¶ Unde ad primum cum dicitur hec essentia est 
+      <lb ed="#P" n="86"/>filius etc. si circumloquatur sic omne idem essentie est 
+      fi<lb ed="#P" n="87" break="no"/>lius. maior est falsa et forma bona.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1056">
+      ¶ Si liter ad 
+      se<lb ed="#P" n="88" break="no"/>cundum iste pater generat / omne idem patri generat 
+      <lb ed="#P" n="89"/>etc.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1063">
+      ¶ Ad tertium omnis essentia diuina est filius 
+      cir<lb ed="#P" n="90" break="no"/>cumloquitur omnem idem essentie diuine est filius / que est 
+      <lb ed="#P" n="91"/>falsa. Ad quartum hic pater generat circumloquitur / omne 
+      <lb ed="#P" n="92"/>idem patri generat falsa.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1072">
+      ¶ Ad quintum omne illud 
+      <lb ed="#P" n="93"/>quod est pater est pater / non sufficit ista circumlocutio 
+      <lb ed="#P" n="94"/>per secundam propositionem supra: sed ista omne idem 
+      <lb ed="#P" n="95"/>patri est pater quae est falsa.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1081">
+      ¶ Ad sextum patet per idem. 
+      <lb ed="#P" n="96"/>¶ Ad septimum dico quod conclusio non sequitur sed ista de 
+      <lb ed="#P" n="97"/>diis que sunt idem verificantur contradictoria.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1088">
+      ¶ Ad 
+      <lb ed="#P" n="98"/>octauum dico quod debet sic inferri. ergo que sunt 
+      idem<lb ed="#P" n="99" break="no"/>vnum generat et alid generatur.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1095">
+      ¶ Ad nonum dico quod non 
+      <lb ed="#P" n="100"/>regulatur per dici de omni.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1101">
+      ¶ Secundo dico quod debet sic 
+      <lb ed="#P" n="101"/>inferri ergo de hiis quae sunt idem praedicantur 
+      contradicto<lb ed="#P" n="102" break="no"/>ria.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1108">
+      ¶ Ad decimum et vndecimum patet sicut ad primum. 
+      <lb ed="#P" n="103"/>Ad rationes ante oppositum. ad primam. ad 
+      pa<lb ed="#P" n="104" break="no"/>ralogismos tres ibi factos seu formatos patet quid 
+      <lb ed="#P" n="105"/>dicendum.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1117">
+      ¶ Ad secundum argumentum cum probatur 
+      <lb ed="#P" n="106"/>quod istud principium quecumque vni et eidem etc. non tenet in 
+      <lb ed="#P" n="107"/>diuinis: dico quod istud principium potest quadrupliciter 
+      <lb ed="#P" n="108"/>intelligi.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1126">
+      ¶ Primo. quod quecumque vni et eidem respecti 
+      <lb ed="#P" n="109"/>extrinseco sunt eadem / inter se sunt eadem. et sic est 
+      fal<lb ed="#P" n="110" break="no"/>sum / patet quia licet dico corpora in eodem loco / ita qod 
+      <lb ed="#P" n="111"/>denominarentur idem logicaliter / et duo accedentia in 
+      eo<lb ed="#P" n="112" break="no"/>dem subiecto / vel due partes in eodem toto: non 
+      conclu<lb ed="#P" n="113" break="no"/>derentur eadem realiter.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1139">
+      ¶ Secundo potest intelligi respectu 
+      <lb ed="#P" n="114"/>eiusdem tertii / quod tertium est intrinsecum sicut materia 
+      <lb ed="#P" n="115"/>et forma et sic etiam non est verum. quia si duo corpora 
+      <lb ed="#P" n="116"/>paberent eandem materiam vel eandem formam non oporte 
+      <lb ed="#P" n="117"/>ret quod essent eadem.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1150">
+      ¶ Tercio secundum sensum quem 
+      pre<lb ed="#P" n="118" break="no"/>tendit videlicet quod sunt aliqua et quod alicui sunt eadent 
+      <lb ed="#P" n="119"/>et sic etiam non est verum. quia si sint aliqua sunt plura. 
+      <lb ed="#P" n="120"/>et si sunt eidem eadem non sunt plura: et sic sunt patura. et non pitura 
+      <lb ed="#P" n="121"/>quod est falsum.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1162">
+      ¶ Quarto modo potest intelligi sic / quod 
+      <lb ed="#P" n="122"/>quando maior et minor extremitates / vniumur alicui medio 
+      <lb ed="#P" n="123"/>vere / secundum debitum modum et debitam figuram / et formam / 
+      <!--63.xml-->
+      <pb ed="#P" n="22-v"/>
+                  <lb ed="#P" n="1"/>de hiis personaliter sumptis et significatiue 
+      verifi<lb ed="#P" n="2" break="no"/>catur vel predicatur esse idem inter se. et sic est 
+      veru<lb ed="#P" n="3" break="no"/>et tenet in omnibus. Ad formam igitur argumenti 
+      <lb ed="#P" n="4"/>cum dicitur / quod pater et filius vniuntur in essentia / et 
+      <lb ed="#P" n="5"/>non vniuntur inter se / sic dicendo hec essentia est 
+      pa<lb ed="#P" n="6" break="no"/>ter hec essentia est filius / ergo pater est filius: dico 
+      <lb ed="#P" n="7"/>quod numquam in debito modo / et in debita figura vtraque 
+      prae<lb ed="#P" n="8" break="no"/>missarum existente vera: vniuntur pater et filius. ita quod ista 
+      <lb ed="#P" n="9"/>propositio concludatur pater est filius vel econtrario: sed 
+      <lb ed="#P" n="10"/>semper altera premissarum erit falsa. si sillogismus sit. 
+      <lb ed="#P" n="11"/>debite regulatus.
+    </p>
+               <p xml:id="oooo3o-k12799-d1e1197">
+      ¶ Ad tertium argumentum dico quod 
+      <lb ed="#P" n="12"/>istud principium medio existente etc. tenet semper 
+      quan<lb ed="#P" n="13" break="no"/>do sillogismus regulatur equiualenter per dici de 
+      om<lb ed="#P" n="14" break="no"/>ni vel dici de nullo sed cum in diuinis sic possit 
+      regu<lb ed="#P" n="15" break="no"/>lari sillogismus concludo quod tale principium tenet in 
+      <lb ed="#P" n="16"/>diuinis et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

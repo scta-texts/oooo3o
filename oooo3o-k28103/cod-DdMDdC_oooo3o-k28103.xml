@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="44-v"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k28103"><!--l1d42-44q1 -->
+            <head xml:id="oooo3o-k28103-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k28103-d1e101">
+               <lb ed="#P" n="44"/>CIrca distinctionem quadragesima: 
+      <lb ed="#P" n="45"/>secundam quadragesimam tertiam et 
+      quadra<lb ed="#P" n="46" break="no"/>gesimam quartam sit / vbi agitur de diuinalo 
+      <lb ed="#P" n="47"/>potentia. Querc vtrum per omnipotentiam dei 
+      inf<lb ed="#P" n="48" break="no"/>nitam: aliquod infinitum possit ad extra produci
+    </p>
+            <p xml:id="oooo3o-k28103-d1e114">
+               <lb ed="#P" n="49"/>Quod non quia nec infinitum in magnitudine. nec in 
+      multi<lb ed="#P" n="50" break="no"/>tudine. nec infinitum in vigore. ergo. probatur de singulis. et 
+      <lb ed="#P" n="51"/>primo quod nullum infinitum multitudine. quia hic est 
+      contradictio<lb ed="#P" n="52" break="no"/>quod sit numerus infinito. Item nec magnitudine infinitum. 
+      <lb ed="#P" n="53"/>quia nec lineam / nec corpus / nec superficiem. quod non corpus / quia 
+      <lb ed="#P" n="54"/>omnem corpus est figuratum. et per consequens sicut implicat contradictio 
+      <lb ed="#P" n="55"/>nem esse figuram infinitam. ita contradictio sequitur ad 
+      infini<lb ed="#P" n="56" break="no"/>tum corpus esse. Eadem ratio est de superficie. Sed quod nec l 
+      <lb ed="#P" n="57"/>nea. patet quiaiclauditur vel rerminatur duobus punctis / 
+      se<lb ed="#P" n="58" break="no"/>cundum euclidem. ergo deinde probatur quod non possit prodiici infi 
+      <lb ed="#P" n="59"/>nitum in entitate ad extra. quia hoc esset deus. Nec in 
+      perfe<lb ed="#P" n="60" break="no"/>ctione eadem ratione nec in potentia actu vel posse / seu 
+      <lb ed="#P" n="61"/>vigore propter eandem causam quia quodlibet tale esset deus. ergo 
+      vi<lb ed="#P" n="62" break="no"/>detur quod nullo modo potest produci aliquod infinitum ad extra. 
+    </p>
+            <p xml:id="oooo3o-k28103-d1e147">
+               <lb ed="#P" n="63"/>¶ Secundo de ratione cuiuslibet ad extra producti velpr 
+      <!--107.xml-->
+      <lb ed="#P" n="64"/>ducibilis: est esse finitum et limitatum. ergo cuilibet ad 
+      ex<lb ed="#P" n="65" break="no"/>tra producto repugnat omnis infinitas. / consequentia tenet quia 
+      <lb ed="#P" n="66"/>qua ratione sibi conueniret vnus modo infinitatis: ea 
+      <lb ed="#P" n="67"/>dem ratione non repugnaret sibi quilibet. sed antecedens 
+      <lb ed="#P" n="68"/>est notum ex dictis augusti. sexto de trinitate / vbi agit 
+      <lb ed="#P" n="69"/>de vestigio. Item ex libro sapientie / omnia in certo nume¬ 
+      <lb ed="#P" n="70" break="no"/>ro pondere / et mensura constituisti.
+    </p>
+            <p xml:id="oooo3o-k28103-d1e169">
+      ¶ Tertio sequeretur quod 
+      <lb ed="#P" n="71"/>deus respectu alicuius producilis ad extra posset se 
+      fa<lb ed="#P" n="72" break="no"/>cere impotentem quod est falsum. probatur consequentia. quia si 
+      prodi<lb ed="#P" n="73" break="no"/>ceret infinitum in magnitudine: non posset illius 
+      ratio<lb ed="#P" n="74" break="no"/>nis aliquod producere postea. quia one illius rationis 
+      incli<lb ed="#P" n="75" break="no"/>deretur in illo infinito. ergu. 
+    </p>
+            <p xml:id="oooo3o-k28103-d1e183">
+               <lb ed="#P" n="76"/>¶ Oppositum patet quia non includit 
+      contradictio<lb ed="#P" n="77" break="no"/>nem infinitam iuultitudinem esse. et similiter infinitam mag¬ 
+      <lb ed="#P" n="78"/>nitudinem. et infinitam intensiue qualitatem. ergo. consequentia 
+      bo<lb ed="#P" n="79" break="no"/>na. antecedens probabitur infra.
+    </p>
+            <p xml:id="oooo3o-k28103-d1e194">
+      ¶ Primo ponam pro 
+      declara<lb ed="#P" n="80" break="no"/>tione terminorum diuisiones et notabilia. secundo ponam 
+      con<lb ed="#P" n="81" break="no"/>clusiones et correlaria. tertio respondebo ad rationes 
+      <lb ed="#P" n="82"/>et mouebo dubia. 
+    </p>
+            <div xml:id="oooo3o-k28103-Dd1e203">
+               <head xml:id="oooo3o-k28103-Hd1e205">Articulus 1</head>
+               <p xml:id="oooo3o-k28103-d1e207">
+                  <lb ed="#P" n="83"/>QUantum ad primum de. isto termino 
+      <lb ed="#P" n="84"/>omnipotentia aduertendum est quod in isto 
+      ter<lb ed="#P" n="85" break="no"/>mino / ly potentia non dicitur pro omni potentia 
+      for<lb ed="#P" n="86" break="no"/>maliter. vt deus dicatur omnipotens quia 
+      ha<lb ed="#P" n="87" break="no"/>bet quamlibet formaliterpotentiam vel quia 
+      <lb ed="#P" n="88"/>in eo est formaliter omnis potentia. quia alique per otentie 
+      di<lb ed="#P" n="89" break="no"/>cunt imperfectionem. vt potentie passiue et quaedam 
+      potenti<lb ed="#P" n="90" break="no"/>actiue in creaturis / propter iperfectionem annexam et 
+      limi<lb ed="#P" n="91" break="no"/>tationem: non ponuntur in deo formaliter sed vrtualiter. si 
+      <lb ed="#P" n="92"/>cut potentia ad currendum vel ad loquendum. etc. Alie ante 
+      <lb ed="#P" n="93"/>potetie quae sunt perfectionis simpliciter / vt potentia 
+      inte<lb ed="#P" n="94" break="no"/>ligendi / volendi sunt formaliter in deo sine omni imperfectione 
+      conse<lb ed="#P" n="95" break="no"/>quente huiusmodi potentias in creaturis. Attenditur an 
+      <lb ed="#P" n="96"/>omnipotentia respectu possibilis contingentis non 
+      necessa<lb ed="#P" n="97" break="no"/>rii secundum quod dixi superius. vbi de personarum diuinarum 
+      equa<lb ed="#P" n="98" break="no"/>litate disputabam. videlicet super distinctione. 19 vbi dixi 
+      <lb ed="#P" n="99"/>aliquas propositiones / quae ad praesens locum habent. et sunt iste 
+      <lb ed="#P" n="100"/>Prima nullum producere ad intracadit sub obio 
+      <lb ed="#P" n="101"/>cto omnipotentie communi tribus personis. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e251">
+                  <lb ed="#P" n="102"/>¶ Secunda est omnipotentem non estesse potentem: ad quod 
+      <lb ed="#P" n="103"/>libet producibile producendum. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e258">
+                  <lb ed="#P" n="104"/>¶ Tertia non ideo deus dicitur omnipotens quia 
+      pos<lb ed="#P" n="105" break="no"/>sit facere quicquid non implicat contradictionem. 
+      <lb ed="#P" n="106"/>¶ Quarta diuina omni potentia non bene expremitur 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e267">
+                  <lb ed="#P" n="107"/>¶ per posse facere quicquid fieri non implicat contradictionem in 
+      <lb ed="#P" n="108"/>patet de peccato. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e275">
+                  <lb ed="#P" n="109"/>¶ Quita aliqualiter potest esse qualiter esse deus 
+      <lb ed="#P" n="110"/>per omnipotentiam suam non potest facere immediate 
+      <lb ed="#P" n="111"/>Sexta hec consequentia non valet deus non 
+      <lb ed="#P" n="112"/>potest peccare ergo est aliqualiter nulllipotens. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e286">
+                  <lb ed="#P" n="113"/>¶ Septima: omne factibile et solum tale cadit 
+      sub<lb ed="#P" n="114" break="no"/>omnipotentia quod fieri ab omnipotente / non claudit contradi¬ 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e293">
+                  <lb ed="#P" n="115"/>¶ ctionem. patet quia nihil repugnans fieri ab omnipotem e 
+      <lb ed="#P" n="116"/>te est obiectum omnipotentie. et quodlibet aliud sic. 
+      <lb ed="#P" n="117"/>Octaua: nullum necesse esse cadit sub obiecto 
+      <lb ed="#P" n="118"/>omnipotentie. patet quia tale repugnat fieri / quae pro isti 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e304">
+                  <lb ed="#P" n="119"/>¶ termini declaratione videntur opportune / quibus pro t 
+      <lb ed="#P" n="120"/>nunc addo istas propositiones. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e311">
+                  <lb ed="#P" n="121"/>¶ Prima possibile esse rci possibilis: non sumitur 
+      pro<lb ed="#P" n="122" break="no"/>a diuina omnipotentia. sic scilicet / quod ista res ideo dicatur 
+      <lb ed="#P" n="123"/>possibilis: quia a diuina omnipotentia est causabil / probatur 
+      <!--108.xml-->
+      <pb ed="#P" n="45-r"/>
+                  <lb ed="#P" n="1"/>pato quod producens non esset / adhuc possibile esset 
+      possi<lb ed="#P" n="2" break="no"/>bile. sicut apparet de effectibus possibilibus in 
+      crea<lb ed="#P" n="3" break="no"/>toris:. Non enim id eo b potest esse vel fieri ab a (sicut a 
+      <lb ed="#P" n="4"/>sorte) quia sortes potest facere b. scilicet potius et 
+      conuerso<lb ed="#P" n="5" break="no"/>Secunda: ratio possibilitatis rei possibilis: ra 
+      <lb ed="#P" n="6"/>dicatur extrincise / scilicet in ratione principii exemplaris 
+      <lb ed="#P" n="7"/>et effectiu et finalis sumitur ab omnipotentia diuina / 
+      pro<lb ed="#P" n="8" break="no"/>batur quia nullum possibile potest esse in actu a 
+      seipso<lb ed="#P" n="9" break="no"/>sed quodlibet incomplexum ens possibile positiuum est 
+      <lb ed="#P" n="10"/>a diuina potentia. ergo.  
+    </p>
+               <p xml:id="oooo3o-k28103-d1e346">
+                  <lb ed="#P" n="11"/>¶ Ex istis sequitur tertia: quod non ideo antichristum 
+      <lb ed="#P" n="12"/>esse est possibile: quia deus potest facere ipsum sede 
+      con<lb ed="#P" n="13" break="no"/>uerso: ideo deus potest facere ipsum esse / quia 
+      possi<lb ed="#P" n="14" break="no"/>bile est ipsum esse. patet ex dictis
+    </p>
+               <p xml:id="oooo3o-k28103-d1e358">
+      ¶ Et confirmatur 
+      pos<lb ed="#P" n="15" break="no"/>sibile esse rei est eternum et increabile simpliciter. ergo. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e363">
+                  <lb ed="#P" n="16"/>¶ Quarta: non ideo est aliquid impossibile esse 
+      <lb ed="#P" n="17"/>vel fore / quia a diuina omnipotentia non potest fieri 
+      ve<lb ed="#P" n="18" break="no"/>esse. probatur Nulla impossibilitas rei dependet a 
+      di<lb ed="#P" n="19" break="no"/>uina omnipotentia. ergo consequentia nota. 
+      antece<lb ed="#P" n="20" break="no"/>dens probatur. quia si pymaginationem deus non esset 
+      <lb ed="#P" n="21"/>impossibile esset deum esse. et tamen ista impossibiliter 
+      <lb ed="#P" n="22"/>tas non esset a deo. Ex quo sequitur / quod ideo deus non 
+      <lb ed="#P" n="23"/>potest contradictoria simul vera facere. quia hoc ex 
+      <lb ed="#P" n="24"/>natura rei est impossibile sede conuerso. Ex qua 
+      pro<lb ed="#P" n="25" break="no"/>positione probatur bene prima premissa apparenter 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e387">
+                  <lb ed="#P" n="26"/>¶ Quinta: omnipotentia diuina non fecit nec fal 
+      <lb ed="#P" n="27"/>cit nec facere potest preteritum fuisse / proprie loquem 
+      <lb ed="#P" n="28"/>do. nec futurumifore / ita intelligendo quod sii vel esse 
+      <lb ed="#P" n="29"/>possit causa preteritionis rei preterite / vel futuritio 
+      <lb ed="#P" n="30"/>nis rei future. probatur quia futurilio rei future non 
+      <lb ed="#P" n="31"/>est factibilis. quia secuudum predicta in questione de 
+      <lb ed="#P" n="32"/>futuris / deus non potest facere quod futurum sit futurum 
+      <lb ed="#P" n="33"/>quia alias futurum posset. incipere esse futurum. Similiter 
+      <lb ed="#P" n="34"/>de preteritione / vnde dico quod proprie loquendo de 
+      fa<lb ed="#P" n="35" break="no"/>cere: deus non facit preteritum fuisse. sed facit 
+      prete<lb ed="#P" n="36" break="no"/>ritum esse presens. antequam fuit preteritum nec facit 
+      fu<lb ed="#P" n="37" break="no"/>turum fore sed facit futurum esse presens. Que omnia 
+      <lb ed="#P" n="38"/>confirmo per hoc quod nullum necessarium vel eternum vel 
+      <lb ed="#P" n="39"/>non potens incipere esse de nouo tale quale 
+      denomi<lb ed="#P" n="40" break="no"/>natur esse etc. nullum (inquan) talium / est diuine 
+      omnipo<lb ed="#P" n="41" break="no"/>tentie obiectum. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e424">
+                  <lb ed="#P" n="42"/>¶ Sexta conclusio: omne possibile esse: est eque possi 
+      <lb ed="#P" n="43"/>bile esse: sicut aliquod possibile esse / est possibile esse 
+      <lb ed="#P" n="44"/>patet quia omnem eque disiat a suo opposito. scilicet ab 
+      im<lb ed="#P" n="45" break="no"/>possibili. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e435">
+                  <lb ed="#P" n="46"/>¶ Septima: tanta necessitate est possibilis 
+      crea<lb ed="#P" n="47" break="no"/>tura. quanta est deus infinite potentie. patet quia vtrunque 
+      <lb ed="#P" n="48"/>contradictorum claudit contradictionem inesse. vnde ista 
+      <lb ed="#P" n="49"/>nulla creatura potest esse / infert istam ergo nulla potentia est 
+      <lb ed="#P" n="50"/>vel potest esse. quae pecssit facere / quod aliqua creatura sit. ergo 
+      omni<lb ed="#P" n="51" break="no"/>potentia infinita dei non est. quia eet et nullius potens esset 
+      <lb ed="#P" n="52"/>ergo sequitur quod creaturam esse possibilem / est sic necesse esse: 
+      si<lb ed="#P" n="53" break="no"/>cut necesse est dei omnipotentiam infinitam esse / sed dei 
+      po<lb ed="#P" n="54" break="no"/>tentiam infinitam esse / est ita necesse esse / quod a nullo potest 
+      de<lb ed="#P" n="55" break="no"/>pendere esse / nec ab aliquo effectiue. lic ergo et creatu 
+      <lb ed="#P" n="56"/>tam esse possibilem. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e461">
+                  <lb ed="#P" n="57"/>¶ Octaua alqualiter esse: qualiter esse: non est 
+      <lb ed="#P" n="58"/>deum esse: fuit eternaliter et est necesse esse patet quia 
+      crea<lb ed="#P" n="59" break="no"/>turam possibile esse est / huiuimodi. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e471">
+                  <lb ed="#P" n="60"/>¶ Nona aliqualiter non este: qualiter non esse 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e476">
+                  <lb ed="#P" n="61"/>¶ est necesse: non est a potentia actiua creatoris probatur 
+      <lb ed="#P" n="62"/>quia creaturam non esse deum / est equaliter non esse / qualiter 
+      <!--108.xml-->
+      <lb ed="#P" n="63"/>non esse / est necesse esse / et tamen etc. Et hoc de isto termino omni 
+      <lb ed="#P" n="64"/>potentia 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e489">
+                  <lb ed="#P" n="65"/>¶ Secundus terminus est infinitum. qua quanmdoque 
+      ca<lb ed="#P" n="66" break="no"/>ditur sincathegorimatice. quandoque cathegorimatice. dicit 
+      <lb ed="#P" n="67"/>etiam aliue infinitum in perfectione. et hoc etiam simpliciter / vel secundum 
+      <lb ed="#P" n="68"/>genus vel secundum speciem dicitur etiam aliud infinitum entitati 
+      <lb ed="#P" n="69"/>ue / vel in vigore / vel inpotentia agendi. et secundum omnes 
+      <lb ed="#P" n="70"/>istos modos poterit questio variari. Ideo de 
+      emi<lb ed="#P" n="71" break="no"/>bus istis ponende sunt conclusiones. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k28103-Dd1e508">
+               <head xml:id="oooo3o-k28103-Hd1e510">Articulus 2</head>
+               <p xml:id="oooo3o-k28103-d1e512">
+                  <lb ed="#P" n="72"/>¶ Secundus articulus 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e517">
+                  <lb ed="#P" n="73"/>QUantum igitur ad secundum: suppono 
+      <lb ed="#P" n="74"/>illud quod in titulo quaestionis supponiti: scilicet 
+      <lb ed="#P" n="75"/>quod diuina omnipotentia est simpliciter 
+      infini<lb ed="#P" n="76" break="no"/>ta. hoc ei probatum est supra. Tunc sit 
+      pri<lb ed="#P" n="77" break="no"/>maconclusio ista. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e530">
+                  <lb ed="#P" n="78"/>¶ Nullus effectus productus vel producibilis 
+      <lb ed="#P" n="79"/>est vel esse potest diuine omnipotentie terminus adequato in 
+      <lb ed="#P" n="80"/>probatur: quia si aliquis esset etc. sequeretur quod / ipso producto de 
+      <lb ed="#P" n="81"/>us non possit aliud producere: nisi destrueret istum 
+      effe<lb ed="#P" n="82" break="no"/>ctum in toto vel in parte. consequens videtur inconueniens quia 
+      <lb ed="#P" n="83"/>tunc omnipotentia dei esset exhausta. et probo 
+      consequen<lb ed="#P" n="84" break="no"/>tiam quia ex quo ille effecto adequaret etc. ipse contineret 
+      <lb ed="#P" n="85"/>omnes perfectiones produci possibiles. et per consequens nul 
+      <lb ed="#P" n="86"/>la produci posset: nisi destructa aliqua vel si non continet 
+      <lb ed="#P" n="87"/>ones: sequitur quod non fuit adequatus. quod est 
+      contradi<lb ed="#P" n="88" break="no"/>ctio. quia esset adequatus et non adequato. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e556">
+                  <lb ed="#P" n="89"/>¶ Correlarium: quod linca imaginabilis perfectionum e 
+      <lb ed="#P" n="90"/>producibilium: est infinita in sursum ymaginare / incipiens 
+      <lb ed="#P" n="91"/>a non esse simpliciter. patet ex conclusione. alias esset dare 
+      <lb ed="#P" n="92"/>supremam possibilem perfectionem / ad extra producibilem. 
+      <lb ed="#P" n="93"/>et illa esset adequata diuine omnipotentie. que est 
+      respe<lb ed="#P" n="94" break="no"/>ctu possibilium ad extra perfectionum. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e573">
+                  <lb ed="#P" n="95"/>¶ Secundum correlarium: impossibile est totam 
+      lati<lb ed="#P" n="96" break="no"/>tudinem producibilium a diuina potentia esse productam. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e580">
+                  <lb ed="#P" n="97"/>¶ Tertium qualibet perfectione creata: contigit 
+      da<lb ed="#P" n="98" break="no"/>re maiorem perfectionem in duplo. 3 in triplo. et sic sinepro 
+      <lb ed="#P" n="99"/>portione. patet totum per conclusionem. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e589">
+                  <lb ed="#P" n="100"/>¶ Secunda conclusio licet deus per suam infinitam quae 
+      <lb ed="#P" n="101"/>potentiam / producere posset aliquod infinite perfectum / in geastne per 
+      <lb ed="#P" n="102"/>accidentis non potest producere aliquod infinite perfectionis in grgaesteone 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e598">
+                  <lb ed="#P" n="103"/>¶ substantie. probatur prima pars quia posset deus producere albe 
+      <lb ed="#P" n="104"/>dinem / quae esset iufinite perfecta albedo. licet non esset 
+      infini<lb ed="#P" n="105" break="no"/>te perfectum accidens. hoc ei non videturincludere contradi 
+      <lb ed="#P" n="106"/>ctionem vel impossibile esse 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e609">
+                  <lb ed="#P" n="107"/>¶ Secunda pars probatur: quia substantia infinite 
+      perfe<lb ed="#P" n="108" break="no"/>ctionis inesse substantie: esset simpliciter independens. et deus. sed 
+      <lb ed="#P" n="109"/>deus non potest producere ad extra alium deum. etc.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e618">
+      ¶ Primum 
+      <lb ed="#P" n="110"/>correlarium / hec consequentia non valet: a est infinite 
+      perfe<lb ed="#P" n="111" break="no"/>cta albedo / ergo a est infinite perfecta qualitas quia si esset a 
+      <lb ed="#P" n="112"/>albedo infinite perfecta in specie albedinis b. 
+      chari<lb ed="#P" n="113" break="no"/>tas esset perfectior qualitas. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e630">
+                  <lb ed="#P" n="114"/>¶ Ex quo vlterius sequitur: quod non quanto aliquid perqu 
+      <lb ed="#P" n="115"/>ficitur in sua specie: tanto perficitur in sue speciei 
+      gratioe<lb ed="#P" n="116" break="no"/>patet ex premissa conclusione. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e639">
+                  <lb ed="#P" n="117"/>¶ Tertio sequitur: quod non quanto aliquis plus 
+      di<lb ed="#P" n="118" break="no"/>stat a non gradum sue speciei tanto plus distat a non 
+      <lb ed="#P" n="119"/>gradu essendi simpliciter. patet quia albedo infinite per 
+      <lb ed="#P" n="120"/>fecta (si foret) infinite distaret a non esse albedinis: 
+      <lb ed="#P" n="121"/>non tamen infinite distaret an gradu entitatis. vel per 
+      <lb ed="#P" n="122"/>fectionis simpliciter de qua alias videbitur. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e655">
+                  <lb ed="#P" n="123"/>¶ Ubi nota quod res absolute exisientes: diuidun 
+      <!--109.xml-->
+      <pb ed="#P" n="45-v"/>
+                  <lb ed="#P" n="1"/>tur in sex genera. primum et infimum / est qualitates 
+      <lb ed="#P" n="2"/>corporales: secundum est qualitates spirituales 
+      <lb ed="#P" n="3"/>tertium est substantie materiales seu potentiales. 
+      <lb ed="#P" n="4"/>quartum cmnes substantie naturales seu forme que 
+      <lb ed="#P" n="5"/>non sunt sensitiue. quintum omnes anime sensitiue 
+      <lb ed="#P" n="6"/>et non intellectiue. sextum est omnes anime. 
+      intelle<lb ed="#P" n="7" break="no"/>ctiue et angeli¬ 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e679">
+                  <lb ed="#P" n="8"/>¶ Secundo nota: quod sub quolibet predictorum 
+      <lb ed="#P" n="9"/>generum / sunt ponibiles infinite species. quarum nul 
+      <lb ed="#P" n="10"/>la est immediata alteri. Infimum enim genus 
+      inci<lb ed="#P" n="11" break="no"/>pit a non esse simpliciter / seu a non gradu 
+      perfectio<lb ed="#P" n="12" break="no"/>nis exclusiue. et terminatur in sursum ad secundum 
+      <lb ed="#P" n="13"/>exclusiue. sic quod nulla est suprema species possibilis 
+      <lb ed="#P" n="14"/>in primo gratioe / supra quam non sit altera perfectior 
+      possibi<lb ed="#P" n="15" break="no"/>et nulla est infima in secundo genere infra quam. etc. 
+      <lb ed="#P" n="16"/>Secundum vero genus incipit a primo exclusiue. et 
+      <lb ed="#P" n="17"/>terminatur ad tertium exclusiue et sic de aliis. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e703">
+                  <lb ed="#P" n="18"/>¶ Tertio nota quod quedam est perfectio generis: 
+      <lb ed="#P" n="19"/>quedam speciei / quedam indiuidui. Prima vocatur 
+      <lb ed="#P" n="20"/>perfectio essentialis. secunda gradus specificus: 
+      ter<lb ed="#P" n="21" break="no"/>tia portio speciei. seu latitudo bonitatis specifice 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e714">
+                  <lb ed="#P" n="22"/>¶ Correlarium. contigit dare infinitam 
+      perfe<lb ed="#P" n="23" break="no"/>ctionem in indiuiduo que tamen est finita specifice. vt 
+      <lb ed="#P" n="24"/>patet de infinita albedine 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e724">
+                  <lb ed="#P" n="25"/>¶ Tertia conclusio esse aliquam speciem 
+      infini<lb ed="#P" n="26" break="no"/>nite perfectam claudit contradictionem. probatur 
+      <lb ed="#P" n="27"/>impossibile est supra infinite nobilem colorem / esse 
+      <lb ed="#P" n="28"/>perfectiorem colorem. et necesse est quolibet 
+      gradu<lb ed="#P" n="29" break="no"/>coloris. posse esse nobiliorem colorem. quia alioqui 
+      <lb ed="#P" n="30"/>dato supremo gradu esset immediatus ad 
+      propin<lb ed="#P" n="31" break="no"/>quum / vt puta ad lucem. et sic gradus generis colo 
+      <lb ed="#P" n="32"/>ris et gradus lucis non essent diuisibiliter. quod est 
+      <lb ed="#P" n="33"/>impossibile 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e746">
+                  <lb ed="#P" n="34"/>¶ Quarta conclusio licet deus producere 
+      pos<lb ed="#P" n="35" break="no"/>sit actu infinita: non tamen potest producere 
+      infini<lb ed="#P" n="36" break="no"/>tum numerum Prima pars probatur. quia ad hoc 
+      <lb ed="#P" n="37"/>quod sit actu multuudo infinita / nullum sequitur 
+      impos<lb ed="#P" n="38" break="no"/>sibile. vt videbitur in solutione rationum quibus ali 
+      <lb ed="#P" n="39"/>qui ntuntur deducere ad impossibile.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e762">
+      ¶ Item quia non 
+      <lb ed="#P" n="40"/>est maior impossibilitas / esse infinita distincta in 
+      acti<lb ed="#P" n="41" break="no"/>quorum vnum non facit camen reliquo vnum nec omnia vnum: quam quod 
+      <lb ed="#P" n="42"/>sint infinita distincta essentialiter facientia vnum sed 
+      se<lb ed="#P" n="43" break="no"/>cundum non est impossibile / ymo de facto sunt infinit: 
+      <lb ed="#P" n="44"/>talia in quolibet continuo. ergo primum non est 
+      im<lb ed="#P" n="45" break="no"/>possibile.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e778">
+      ¶ Tertio quia si deus crearet vnum 
+      ange<lb ed="#P" n="46" break="no"/>lum / in prima medietate huius hore: et in secunda 
+      me<lb ed="#P" n="47" break="no"/>di etate secunde medietatis alium / et in tertia tertium 
+      <lb ed="#P" n="48"/>continuando per tot em horam. et conseruaret 
+      om<lb ed="#P" n="49" break="no"/>nes istos angelos simul: infine hore multitudo ac 
+      <lb ed="#P" n="50"/>gelorum esset infinita. sed hoc totum est possibile. ergo. 
+      <lb ed="#P" n="51"/>Confirmatur quarto: quia si imaginatio 
+      ph<lb ed="#P" n="52" break="no"/>losophi de eternitate mundi esset vera: tunc infinitihe 
+      <lb ed="#P" n="53"/>mines essent preteriti. et per consequens deus / omnes 
+      <lb ed="#P" n="54"/>animas illorrum infinitorum hominim praeteritorum conseruasset et de 
+      <lb ed="#P" n="55"/>facto essent infinite anime in actuigitur (cum secundum 
+      philosophum<lb ed="#P" n="56" break="no"/>antecedens foret possibile. et secundum theologos non videatur in 
+      <lb ed="#P" n="57"/>cludere repugnantiam mundum fuisse ab eterno 
+      li<lb ed="#P" n="58" break="no"/>cet de facto sit productus in principio) non debet 
+      no<lb ed="#P" n="59" break="no"/>gari quin deus possit infinitam multitudinem produce 
+      <lb ed="#P" n="60"/>re. etc.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e813">
+      ¶ Secunda pars conclusionis probatur / q 
+      <lb ed="#P" n="61"/>omnis numerus / est alicuius speciei numeri. quaelibet 
+      <!--109.xml-->
+      <lb ed="#P" n="62"/>autem species talis numeri est finita. quia est par vel 
+      <lb ed="#P" n="63"/>impar. et per vnitatem augeri potest / ergo cum 
+      pa<lb ed="#P" n="64" break="no"/>vel impar sit propria passio numeri / et implicet 
+      passi<lb ed="#P" n="65" break="no"/>onem remoueri a subiecto proprio / in secundo mode 
+      <lb ed="#P" n="66"/>per scilicum sequitur quod deus non potest facere numerum 
+      <lb ed="#P" n="67"/>qui non sit par vel impar / et vniuersaliter deus non 
+      <lb ed="#P" n="68"/>potest facere quod propositio per se in secudo modosit 
+      <lb ed="#P" n="69"/>alsa / sic scilicet quod subiectum possit stare / sub 
+      oppo<lb ed="#P" n="70" break="no"/>sito predicati. de hoc vide thomam anglicum in 
+      quo<lb ed="#P" n="71" break="no"/>libetis. q. 13. Utrum deus possit in propositione per se 
+      in<lb ed="#P" n="72" break="no"/>secundo modo / facere subiectum sub opposito praedicati. vbi 
+      <lb ed="#P" n="73"/>soluit rationes et auctoritates aristotelis. vide ibi 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e846">
+                  <lb ed="#P" n="74"/>¶ Ex conclusione infero contra opinionem cuiusdam do 
+      <lb ed="#P" n="75"/>ctoris. quod deus non praetifacere quod implicat contradictiounem. 
+      <lb ed="#P" n="76"/>¶ Quinta conclusio: licet deus posset facerein 
+      <lb ed="#P" n="77"/>finitum corpus. non tamen potest facere 
+      infinitan<lb ed="#P" n="78" break="no"/>figuram.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e860">
+      ¶ Prima pars probatur / quia sicut deus 
+      po<lb ed="#P" n="79" break="no"/>test facere infinitas animas vel angelos / ita potest 
+      <lb ed="#P" n="80"/>facere infinitos lapides pedalis quantitatis / et illos 
+      <lb ed="#P" n="81"/>continuare. quod si faceret: totum illud corpus 
+      compo<lb ed="#P" n="82" break="no"/>situm ex istis lapidibus pedalibus infinitis: esset 
+      in<lb ed="#P" n="83" break="no"/>finitum. ergo.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e873">
+      ¶ Secunda pars probatur / quia implicat 
+      <lb ed="#P" n="84"/>contradictionem. quod aliqua spera sit infinita / vel ali 
+      <lb ed="#P" n="85"/>quis triangulus. et sic de qualibet figura. ergo 
+      pa<lb ed="#P" n="86" break="no"/>tet per descriptionem figure cuiuscunquam date. quia 
+      <lb ed="#P" n="87"/>spera est figura / cuius linee ducte a centro ad circum 
+      <lb ed="#P" n="88"/>ferentiam sunt equales. ergo.  
+    </p>
+               <p xml:id="oooo3o-k28103-d1e886">
+                  <lb ed="#P" n="89"/>¶ Prrelarium quod non omnis 
+      magmi<lb ed="#P" n="90" break="no"/>tudo mobilis possibilis / vel non omne 
+      <lb ed="#P" n="91"/>corpus possibile esse / est possibile figura 
+      <lb ed="#P" n="92"/>ri. patet per secundam partem 
+      conclu<lb ed="#P" n="93" break="no"/>sionis. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e899">
+                  <lb ed="#P" n="94"/>¶ Secundum quod non quelibet recta linea 
+      possibi<lb ed="#P" n="95" break="no"/>bilis / est terminabilis / patet de linea recta infinita 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e906">
+                  <lb ed="#P" n="96"/>¶ Sexta conclusio deus potest facere qualitatem. 
+      <lb ed="#P" n="97"/>intensiue infinitam in sua specie probatur / quia faciat deus 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e913">
+                  <lb ed="#P" n="98"/>¶ in prima medietate huius hore / charitatem alicutus cer 
+      <lb ed="#P" n="99"/>te intentionis. et in medietate residui faciat equalem / et  
+      <lb ed="#P" n="100"/>sic consequenter per totam horam continue actionem suam 
+      ve<lb ed="#P" n="101" break="no"/>locitando. et secundum partes proportionabiles hore / 
+      infini<lb ed="#P" n="102" break="no"/>tas graduales portiones equales producendo (quod totum 
+      <lb ed="#P" n="103"/>est possibile tunc infine hore / est producta charitas in 
+      <lb ed="#P" n="104"/>finita intensiue. Similiter potest facere de qualibet alia 
+      <lb ed="#P" n="105"/>forma intensibili et remissibili.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e934">
+      ¶ Item non implicat esne 
+      <lb ed="#P" n="106"/>tradictionem / esse infinitam talem formam intensiue. ergo 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e939">
+                  <lb ed="#P" n="107"/>¶ Ex quo sequitur quod licet deus possit efficere 
+      <lb ed="#P" n="108"/>ifinitam intensiue dilectionem / vel cognitionem alicuius. in 
+      men<lb ed="#P" n="109" break="no"/>tevnon tamen potest producere vel extra causare / dilectionem 
+      ve<lb ed="#P" n="110" break="no"/>cognitionem infinite perfectam simpliciter.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e950">
+      ¶ Prima patrs 
+      pa<lb ed="#P" n="111" break="no"/>tet per conclusionem secundam.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e955">
+      ¶ Secunda probatur quia sola sua (sci. 
+      <lb ed="#P" n="112"/>dei cognitio) vna cognoscit se / et alia. est infinite 
+      perfe<lb ed="#P" n="113" break="no"/>cta cognitio / et sua dilectio que est ipse est sola 
+      perfe<lb ed="#P" n="114" break="no"/>cta infinite 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e964">
+                  <lb ed="#P" n="115"/>¶ Secundo si foret aliquod corpus grauitatis  
+      <lb ed="#P" n="116"/>infinite intensiue rillud descenderet subito. patet quia sibi nichil 
+      <lb ed="#P" n="117"/>resisteret nec extrincisc nec intrincise. quia infinite 
+      gra<lb ed="#P" n="118" break="no"/>uitati nihil potest resistere / finite existens resistentie 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e975">
+                  <lb ed="#P" n="119"/>¶ Teptima conclusio non est productio alicuius et 
+      <lb ed="#P" n="120"/>fecto tam minimi / quin ex illa argui possit infinitas primi 
+      <lb ed="#P" n="121"/>principii. probatur quia ex qualibet tali / possumus arguere 
+      <lb ed="#P" n="122"/>independentiamrgo. 
+      <!--110.xml-->
+      <pb ed="#P" n="46-r"/>
+                  <lb ed="#P" n="1"/> Octaua conclusio. Non est possibilis aliqua 
+      <lb ed="#P" n="2"/>creatura tam suprema: quin tantum distet a deo: sicut 
+      <lb ed="#P" n="3"/>ima etilo quor de distantia que attenditur: penes 
+      pro<lb ed="#P" n="4" break="no"/>portionem geometricam. Probatur quia semper vtra 
+      <lb ed="#P" n="5"/>que distaret infinite 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1002">
+                  <lb ed="#P" n="6"/>¶ Nona conclusio. a diuina omnipotentia non 
+      <lb ed="#P" n="7"/>potesti produci ad extra: aliquod infinitum simplici 
+      <lb ed="#P" n="8"/>ter in perfectione. vel in potentia actiua. nec 
+      infini<lb ed="#P" n="9" break="no"/>tum in entitate. Probatur quia omne tale perfectum 
+      <lb ed="#P" n="10"/>aliquo istorum modorum dictorum: haberet 
+      indepen<lb ed="#P" n="11" break="no"/>denter esse. sed implicat contradictionem / secundum 
+      <lb ed="#P" n="12"/>fidem. quod aliquid extra productum / sit independens 
+      <lb ed="#P" n="13"/>a deo. ergo
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1022">
+      ¶ Item quodlibet infinite perfectum 
+      <lb ed="#P" n="14"/>vel infinite ens / vel infinite potens / esset deus. ergo 
+      <lb ed="#P" n="15"/>nullum tale potest. etc. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1029">
+                  <lb ed="#P" n="16"/>¶ Correlarium: licet creature sit 
+      communicab<lb ed="#P" n="17" break="no"/>lis omniscientia: non tamen potest creature 
+      commu<lb ed="#P" n="18" break="no"/>nicari omnipotentia. Prima pars patet per magi 
+      <lb ed="#P" n="19"/>strum libro. 3 di. 14. qui dicit animam christi scire. 
+      <lb ed="#P" n="20"/>omnia que deus scit / Secunda pars patetietiam ex 
+      <lb ed="#P" n="21"/>conclusione / quia anima christi est creatura / et 
+      depen<lb ed="#P" n="22" break="no"/>det a deo. vt patet / et sic non est omnipotens.
+    </p>
+            </div>
+            <div xml:id="oooo3o-k28103-Dd1e1048">
+               <head xml:id="oooo3o-k28103-Hd1e1050">Articulus 3</head>
+               <p xml:id="oooo3o-k28103-d1e1052">
+                  <lb ed="#P" n="23"/>Articulus Tertius 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1057">
+                  <lb ed="#P" n="24"/>QUantum ad tertium articulum 
+      <lb ed="#P" n="25"/>patet quid dicendum. ad primam 
+      ra<lb ed="#P" n="26" break="no"/>tionem principalem ex conclusionibus 
+      <lb ed="#P" n="27"/>Non enim sequitur. deus non potest fal 
+      <lb ed="#P" n="28"/>cere numerum infinitum in actu ergo non 
+      <lb ed="#P" n="29"/>potest facere multitudinem.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1073">
+      ¶ Et similiter non 
+      se<lb ed="#P" n="30" break="no"/>quitur. non potest facere speram / vel figuram 
+      infini<lb ed="#P" n="31" break="no"/>tam / ergo nec corpus. Sed quod dicitur de linea quod 
+      <lb ed="#P" n="32"/>est clausa punctis / dicendum quod verum est / de linea 
+      <lb ed="#P" n="33"/>finita 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1084">
+                  <lb ed="#P" n="34"/>¶ Ad secundam patet. per nonam conclusionem 
+      <lb ed="#P" n="35"/>eo enim ipso quod est creatura / deficit aliqua 
+      perfectio<lb ed="#P" n="36" break="no"/>et dicitur limitata / dato etiam quod sit aliquo modo 
+      infi<lb ed="#P" n="37" break="no"/>nita / quia tamen infinita multitudo / et infinita 
+      magni<lb ed="#P" n="38" break="no"/>tudo / et similiter forma intensiue infinita / est 
+      limita<lb ed="#P" n="39" break="no"/>ta / Ideo sequitur quod non est simpliciter infinita / 
+      pe<lb ed="#P" n="40" break="no"/>hoc etiam patet aliquo modo ad tertiam partem 
+      pri<lb ed="#P" n="41" break="no"/>mi argumenti. et ad idem. per secundam et tertiam 
+      con<lb ed="#P" n="42" break="no"/>clusiones cum suis declarationibus 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1107">
+                  <lb ed="#P" n="43"/>¶ Ad tertiam negatur consequentia: ad 
+      proba<lb ed="#P" n="44" break="no"/>tionem pono quattuor propositiones. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1114">
+                  <lb ed="#P" n="45"/>¶ Prima non qualibet magnitudine data: vel 
+      <lb ed="#P" n="46"/>dabilir deus potest facere magnitudinem maiorem. 
+      <lb ed="#P" n="47"/>¶ Probatur. quia non potest facere magnitudine 
+      in<lb ed="#P" n="48" break="no"/>finita maiorem. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1125">
+                  <lb ed="#P" n="49"/>¶ Secunda qualibet magnitudine finita. vel 
+      <lb ed="#P" n="50"/>infinita creata. deus potest facere aliam finitam vel 
+      <lb ed="#P" n="51"/>infinitam.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1134">
+      ¶ Ex quibus sequitur / quod deus posset fal 
+      <lb ed="#P" n="52"/>cere vnum corpus actu infinitum in magnitudine: 
+      <lb ed="#P" n="53"/>quo (licet non posset facere maius) posset tamen 
+      fal<lb ed="#P" n="54" break="no"/>cere aliud infinitum: vel sicut sibi placeret. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1143">
+                  <lb ed="#P" n="55"/>¶ Diceres contra. illud corpus infinitum 
+      occu<lb ed="#P" n="56" break="no"/>paret omnem locum possibilem. ergo aliud non 
+      pos<lb ed="#P" n="57" break="no"/>set habere locum. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1152">
+                  <lb ed="#P" n="58"/>¶ Dico quod deus posset illud aliud corpus: siue 
+      <lb ed="#P" n="59"/>esset infinitum siue esset finitum / ponere in eodem 
+      lo<lb ed="#P" n="60" break="no"/>co cum priore) 
+      <!--110.xml-->
+      <lb ed="#P" n="61"/>Tertia propositio de multitudine: quod non quaque 
+      <lb ed="#P" n="62"/>libet multitudine data vel dabili: deus potest 
+      face<lb ed="#P" n="63" break="no"/>re maiorem: que contineat plures vnitates: patet quia 
+      <lb ed="#P" n="64"/>infinita multitudo est dabilis secundum dicta. et 
+      cum<lb ed="#P" n="65" break="no"/>nulla potest esse multitudo que contineat plures vni 
+      <lb ed="#P" n="66"/>tates quam infinita. quia continet infinitas sequitur etc. 
+      <lb ed="#P" n="67"/>¶ Quarta conclusio. quod qualibet multitudine 
+      <lb ed="#P" n="68"/>finita vel infinita data contingit dare aliam 
+      mul<lb ed="#P" n="69" break="no"/>titudinem finitam vel infinitam. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1184">
+                  <lb ed="#P" n="70"/>¶ Ex hiis patet ad argumentum Ex hoc a 
+      ppa<lb ed="#P" n="71" break="no"/>tet quod non bene dixit: qui ponit (Scilicet paulus de 
+      <lb ed="#P" n="72"/>deruisio) primo libro. q. 2. d. 412. dubio tertio. 
+      secun<lb ed="#P" n="73" break="no"/>di articuli. quod si deus causaret aliquam aquam 
+      infi<lb ed="#P" n="74" break="no"/>nitam: non posset vltra causare aliam aquam. dico qu 
+      <lb ed="#P" n="75"/>ymo: quia nulla repugnantia est. non ex parte dei. nec 
+      <lb ed="#P" n="76"/>aque. quia certum est quod si corrumperet vel 
+      annichila<lb ed="#P" n="77" break="no"/>ret istam: quod posset postea producere aliam infinitam 
+      <lb ed="#P" n="78"/>et non necessario produceret eandem quam pnus: 
+      <lb ed="#P" n="79"/>ergo et nunc ita conseruare potest aliam. et ponere 
+      <lb ed="#P" n="80"/>cum illa: et secundam: et tertiam: et infinitas. ergo etc. 
+      <lb ed="#P" n="81"/>Rimum dubium: numquid si fore) 
+      <lb ed="#P" n="82"/>aliquod corpus infinitum ipsum posset 
+      <lb ed="#P" n="83"/>moueri localiter 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1217">
+                  <lb ed="#P" n="84"/>¶ Et videtur quod non quia occuparet om¬ 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1222">
+                  <lb ed="#P" n="85"/>¶ nem locum. nec potest per. consequens 
+      <lb ed="#P" n="86"/>mutare locum. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1229">
+                  <lb ed="#P" n="87"/>¶ Oppositum: quia mobile est propria passio 
+      cor<lb ed="#P" n="88" break="no"/>poris. ergo per conclusionem quartam. et eius 
+      corre<lb ed="#P" n="89" break="no"/>larium: deus non potest etc. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1238">
+                  <lb ed="#P" n="90"/>¶ Ad istud dubium: dico primo: quod si aliquod 
+      cor<lb ed="#P" n="91" break="no"/>pus infinitum esset. posset moueri localiter giratiue. 
+      <lb ed="#P" n="92"/>vel circulariter.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1247">
+      ¶ Probatur quia si esset corpus co 
+      <lb ed="#P" n="93"/>lumnaris figure infinitum secundum longitudinem 
+      <lb ed="#P" n="94"/>non videretur: quin posset illud girare vel voluere: si 
+      <lb ed="#P" n="95"/>cut mouetur celum: vel axis rote 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1257">
+                  <lb ed="#P" n="96"/>¶ Secundo dico: quod tale corpus infinitum si esset 
+      <lb ed="#P" n="97"/>posset moueri motu recto.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1264">
+      ¶ Patet quia versus duo 
+      <lb ed="#P" n="98"/>latera finita: posset moueri. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1269">
+                  <lb ed="#P" n="99"/>¶ Tertio dico: quod si esset aliquod corpus vndum 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1274">
+                  <lb ed="#P" n="100"/>¶ quaque infinitum: secundum cmnem dimensionem: 
+      ta<lb ed="#P" n="101" break="no"/>le corpus non posset moueri motu recto. sed circul 
+      <lb ed="#P" n="102"/>ri.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1283">
+      ¶ Probatur: quia si per ymaginationem suprema 
+      <lb ed="#P" n="103"/>spera: versus conuexum esset infinita) esset corpus 
+      <lb ed="#P" n="104"/>dicto modo infinitum et tamen non obstante 
+      isto<lb ed="#P" n="105" break="no"/>adhuc in quolibet instanti: posset esse respectus: 
+      cu<lb ed="#P" n="106" break="no"/>iuslibet partis in illius concauo: alius et alius ad 
+      <lb ed="#P" n="107"/>partes terre.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1296">
+      ¶ Itemlaristoteles non demonstrauit 
+      <lb ed="#P" n="108"/>quod celum vltimum sit finitum. et tamen mouetur 
+      mo<lb ed="#P" n="109" break="no"/>tu circulari 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1304">
+                  <lb ed="#P" n="110"/>¶ Sed diceres: si celum esset infinitum. non esset 
+      <lb ed="#P" n="111"/>spericum: nec circulare: ergo non moueretur 
+      circu<lb ed="#P" n="112" break="no"/>ariter
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1313">
+      ¶ Item nec esset centrum: circa quod 
+      moue<lb ed="#P" n="113" break="no"/>retur corpus. dato quod esset omnibus modis infinitum 
+      <lb ed="#P" n="114"/>Ad primam dico negando primam 
+      consequen<lb ed="#P" n="115" break="no"/>tiam certum est enim quod ostium modo in proprio car  
+      <lb ed="#P" n="116"/>dine suo meuetur circulariter. et tamen non est figu. 
+      <lb ed="#P" n="117"/>ra circularis.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1326">
+      ¶ Ad secundam dico cum gregorio 
+      <lb ed="#P" n="118"/>ibro primo. d. 43 et. 44. q. vltima. articulo. 3. quod deus 
+      <lb ed="#P" n="119"/>posset fingere centrum vbicumque vellet: et illud corpus 
+      <lb ed="#P" n="120"/>circa illud centrum moueretur. simile est deilancea 
+      <!--111.xml-->
+      <pb ed="#P" n="46-v"/>
+                  <lb ed="#P" n="1"/>cui potes figere clauum in quacunque parte 
+      volue<lb ed="#P" n="2" break="no"/>ris. et circa illum clauum mouere: Multo plura 
+      di<lb ed="#P" n="3" break="no"/>dia mouet ibi. et soluit: que gratia breuitatis 
+      omit<lb ed="#P" n="4" break="no"/>to. vide ibi 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1348">
+                  <lb ed="#P" n="5"/>¶ Ad rationem dubii respondetur. quod non 
+      opor<lb ed="#P" n="6" break="no"/>tet: in omni locali motu: mobile mutare locum. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1355">
+                  <lb ed="#P" n="7"/>¶ Ecundum dubium: numquid si esset 
+      <lb ed="#P" n="8"/>linea. vel corpus: columnare infinitum. 
+      <lb ed="#P" n="9"/>versus ambo extrema secundum longum: 
+      <lb ed="#P" n="10"/>et deus in vna parte substraheret illi 
+      cor<lb ed="#P" n="11" break="no"/>pori longitudinem pedalem: deus 
+      pos<lb ed="#P" n="12" break="no"/>set postea illud corpus continuare: vel istas partes 
+      <lb ed="#P" n="13"/>infinitas remanentes per surreptionem illius 
+      peda<lb ed="#P" n="14" break="no"/>lis longitudinis: diuisas reiungere. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1375">
+                  <lb ed="#P" n="15"/>¶ Respondet paulus et dicit: vbi prius dubio 
+      <lb ed="#P" n="16"/>primo secundi dicti: quod non. Sed videtur michi quod sic 
+      <lb ed="#P" n="17"/>quia non video quare non posset. ymo infinitas partes 
+      <lb ed="#P" n="18"/>finitas: potest deus annichilare: et semper postea per 
+      <lb ed="#P" n="19"/>tes taliter diuisas in extremis: siue extremitatibus 
+      <lb ed="#P" n="20"/>finitis: vnire. quia non repugnat infinitum: secundun 
+      <lb ed="#P" n="21"/>illud quod est finitum moueri. 
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1394">
+                  <lb ed="#P" n="22"/>¶ Ertium dubium est contra 
+      conclu<lb ed="#P" n="23" break="no"/> siones. Tertiam. quartam. quintam. et 
+      <lb ed="#P" n="24"/>sextam. Propter rationes multorum 
+      do<lb ed="#P" n="25" break="no"/>ctorum tenentium contradictorias: 
+      vn<lb ed="#P" n="26" break="no"/>Ide monachus libro secundo. q. sexta. 
+      te<lb ed="#P" n="27" break="no"/>net oppositum dictorum: in dictis conclusionibus. 
+      <lb ed="#P" n="28"/>¶ Item iohannes de poliaco. quarto quolibeto. q. 
+      <lb ed="#P" n="29"/>vltima.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1414">
+      ¶ Item durandus in primo libro. d. 413. q. 
+      <lb ed="#P" n="30"/>secunda.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1419">
+      ¶ Item nauarensis. in primo libro. d. 44 
+      <lb ed="#P" n="31"/>q. vltima.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1424">
+      ¶ Item brauardinus. libro primo. 
+      capi<lb ed="#P" n="32" break="no"/>tulo primo. parte. 4o. Et quamplures alii faciunt ratio 
+      <lb ed="#P" n="33"/>nes multas: ideo pro earum solutione. Nota quod mul 
+      <lb ed="#P" n="34"/>ti fundantur in hoc: quia sequeretur quod totum non esset 
+      <lb ed="#P" n="35"/>maius sua parte. vel vnum infinitum esset maius a 
+      <lb ed="#P" n="36"/>lio. et sequeretur specialiter ex sexta conclusione: quod 
+      <lb ed="#P" n="37"/>infinita forma intensiue: ageret in instanti. et per 
+      co<lb ed="#P" n="38" break="no"/>sequens: ita cito sicut deus. idcirco secundum 
+      gre<lb ed="#P" n="39" break="no"/>gorium de arimino vbi supra articulo secundo: Ad 
+      <lb ed="#P" n="40"/>uerte quod aliquid dicitur totum respectu alterius 
+      dupli<lb ed="#P" n="41" break="no"/>citer. Uno modo quia continet tanta vel tot secundum 
+      <lb ed="#P" n="42"/>numerum quantum aliud. et cum hoc plura. et isto 
+      mo<lb ed="#P" n="43" break="no"/>do multuudo senarii: est totumrespectu quaternarim 
+      <lb ed="#P" n="44"/>et sic nulla multitudo infinita: est totum respectu a 
+      <lb ed="#P" n="45"/>terius multitudinis infinite: Alio modo dicitur 
+      ali<lb ed="#P" n="46" break="no"/>quid totum improprie quia continet tot et tanta quot 
+      <lb ed="#P" n="47"/>et reliquum: et cum hoc continet aliqua que non 
+      con<lb ed="#P" n="48" break="no"/>tinet aliud. (verbi gratia) infinite multitudini si 
+      ad<lb ed="#P" n="49" break="no"/>dantur quattuor vnitates: illud aggregatum dicitur 
+      <lb ed="#P" n="50"/>totum isto moco respectu multitudinis: que fuit an 
+      <lb ed="#P" n="51"/>te additionem quattuor vnitatum: et sic vnum 
+      infini<lb ed="#P" n="52" break="no"/>tum potest dici totum respectu alterius et alterun 
+      <lb ed="#P" n="53"/>pars.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1474">
+      ¶ Secundo sciendum: quod aliquid dicitur 
+      ma<lb ed="#P" n="54" break="no"/>lius alio dupliciter. vnomodo quia continet tanta et tot 
+      <lb ed="#P" n="55"/>quantum aliud. et cum hoc plura. Alio modo dicitur 
+      <lb ed="#P" n="56"/>maius: quod continet tot etitanta quantum aliud: et 
+      cum<lb ed="#P" n="57" break="no"/>hoc aliqua que non continet aliud.
+    </p>
+               <p xml:id="oooo3o-k28103-d1e1485">
+      ¶ Per has 
+      di<lb ed="#P" n="58" break="no"/>tinctiones pessunt solui omnes obiectiones facte 
+      <lb ed="#P" n="59"/>in oppositum dictarum conclusionum. quas quidem 
+      <lb ed="#P" n="60"/>soluit idem gregorius. vbi supra. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

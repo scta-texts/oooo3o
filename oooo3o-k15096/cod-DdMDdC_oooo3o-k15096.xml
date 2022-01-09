@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="24-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k15096"><!--l1d9-13q1 -->
+            <head xml:id="oooo3o-k15096-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k15096-d1e101">
+               <lb ed="#P" n="85"/>CIrca distinctiones nonam decimam vnde  
+      <lb ed="#P" n="86"/>cimam duodecimam et tertiam decimam simul 
+      <lb ed="#P" n="87"/>et vbi magister agit de passione filii et spiritus 
+      <lb ed="#P" n="88"/>i sancti. Quero primo. Utrum eterna gratia 
+      <lb ed="#P" n="89"/>etio verbi et spiratio spiritus sancti in eodam 
+      <lb ed="#P" n="90"/>era supposito patris vel filii realiter 
+      distin<lb ed="#P" n="91" break="no"/>guantur 
+    </p>
+            <p xml:id="oooo3o-k15096-d1e119">
+               <lb ed="#P" n="92"/>¶ Quod non in diuinis quecumque realiter 
+      distin<lb ed="#P" n="93" break="no"/>guuntur / adiuicem opponuntur. dicentibus anselmo et 
+      <lb ed="#P" n="94"/>boetio quod omnia sunt idem in diuinis / vbi non obuiat 
+      rela<lb ed="#P" n="95" break="no"/>tionis oppositio: sedi gencratio et spiratio adiuicem 
+      <lb ed="#P" n="96"/>non opponuntur: ergo non in eodem supposito realiter 
+      <lb ed="#P" n="97"/>distinguuntur. Maior est predictorum doctorum. Et 
+      <lb ed="#P" n="98"/>minor de se patet 
+    </p>
+            <p xml:id="oooo3o-k15096-d1e137">
+               <lb ed="#P" n="99"/>¶ Pretcrea si eterna generatio verbi distingu 
+      <lb ed="#P" n="100"/>retur aspiratione spiritus scii: sequitur quod in dinis esset 
+      <lb ed="#P" n="101"/>quaternitas. consequens est falsum / per decretalem extra de 
+      <lb ed="#P" n="102"/>summa trinitate et fide catholica capitulo damnamus / 
+      <lb ed="#P" n="103"/>consequentia probatur quia ibi essent tres persone / et gresteoatio et 
+      <lb ed="#P" n="104"/>spiratio realiter distincte / ergo ibi esset quaternitas. 
+      <lb ed="#P" n="105"/>Tertio nullum simplicissimum compatitur 
+      secun<lb ed="#P" n="106" break="no"/>aliquam distinctionem. sed quodlibet suppositum diuinum. 
+      <lb ed="#P" n="107"/>est simplicissimum / ergo nullum suppositum diuinum 
+      compati<lb ed="#P" n="108" break="no"/>tur secum aliquam distictionem / minor nota et maior 
+      ap<lb ed="#P" n="109" break="no"/>paret quia si compateretur iam non esset simplicissimum. 
+      <lb ed="#P" n="110"/>In oppositum arguitur. Si generatio in 
+      diui<lb ed="#P" n="111" break="no"/>nis esset realiter spiratio spiritus sancti esset vere / 
+      ge<lb ed="#P" n="112" break="no"/>nitus et spiritus sanctuns vere spiratus / consequens est falsum ergo 
+      <lb ed="#P" n="113"/>et antecedens. probatur quia bene sequitur grantiatio est productio: 
+      <lb ed="#P" n="114"/>ergo grantiatum est productum: ergo sequitur grgantiatio est 
+      <lb ed="#P" n="115"/>spiratio ergo genitum est spiratum / et econuerso spira 
+      <lb ed="#P" n="116"/>tio est grgentioatio ergo spiratum est graeneiatum. 
+    </p>
+            <p xml:id="oooo3o-k15096-d1e179">
+               <lb ed="#P" n="117"/>¶ Preterea sicut se habet generare ad generari  
+      <lb ed="#P" n="118"/>ita spirare ad spirari. ergo a transmutata proportione sicut 
+      <lb ed="#P" n="119"/>spirari ad gratioari / se habet gratiare ad spirare. sed 
+      spi<lb ed="#P" n="120" break="no"/>rari et greateioari realiter distinguuntur ergo gratioare et spira 
+      <lb ed="#P" n="121"/>re et per consequens spiratio et grestiatio. Panc rationem. 
+      <lb ed="#P" n="122"/>facit durandus in prima distinctione. 13. questione pri¬ 
+      <!--67.xml-->
+      <pb ed="#P" n="24-v"/>
+               <lb ed="#P" n="1"/>ma / articulo secundo.
+    </p>
+            <p xml:id="oooo3o-k15096-d1e202">
+      ¶ Primo praemittam declarationes. 
+      <lb ed="#P" n="2"/>Secundo ponam conclusiones. Tertio soluam rationes 
+    </p>
+            <div xml:id="oooo3o-k15096-Dd1e207">
+               <head xml:id="oooo3o-k15096-Hd1e209">Articulus 1</head>
+               <p xml:id="oooo3o-k15096-d1e211">
+                  <lb ed="#P" n="3"/>¶ Quantum ad primum est sciendum. quod 
+      gene<lb ed="#P" n="4" break="no"/>ratio quedam est actiua. quedam passiua. et similiter 
+      <lb ed="#P" n="5"/>quedam spiratio est actiua. quedam passiua. generat 
+      <lb ed="#P" n="6"/>tio actiua dicitur de patre / et generatio passiua dicitur 
+      <lb ed="#P" n="7"/>de filio: de patre dicitur generare: de filio vero 
+      gene<lb ed="#P" n="8" break="no"/>rari. Item spiratio actiua dicitur de patre et filio. et 
+      <lb ed="#P" n="9"/>spiratio passiua in dicitur de spiritu sancto¬ 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e229">
+                  <lb ed="#P" n="10"/>¶ Secundo notandum quod licet eadem res sit 
+      fi<lb ed="#P" n="11" break="no"/>lius et verbum tamen alia ratione dicitur filius et alia 
+      <lb ed="#P" n="12"/>ratione dicitur verbum. sicut etiam aliud est generare et 
+      <lb ed="#P" n="13"/>aliud dicere. Nam generare est actus suppositi 
+      diuini<lb ed="#P" n="14" break="no"/>inquantum absolute est suppositum nature commnicabilis. 
+      <lb ed="#P" n="15"/>dicere vero est actus eiusdem suppositi inquantum est 
+      <lb ed="#P" n="16"/>suppositum nature intellectualis. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e247">
+                  <lb ed="#P" n="17"/>¶ Tertio notandum quod dicere ad intra in 
+      diui<lb ed="#P" n="18" break="no"/>nis / potest accipi dupliciter: vno modo pro nosse. et 
+      <lb ed="#P" n="19"/>sic est conne tribus personis. Alio modo vt sit idem quod 
+      in<lb ed="#P" n="20" break="no"/>tellectualiter producere: sic quod principaliter 
+      anteceden<lb ed="#P" n="21" break="no"/>ter notet productionem et ex consequenti intellectionem 
+      <lb ed="#P" n="22"/>et hoc modo dicere: conuenit soli patri. scilicet intellectuali 
+      <lb ed="#P" n="23"/>ter ad intra producere 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e265">
+                  <lb ed="#P" n="24"/>¶ Quarto notandum quod aliud est dicere verbo 
+      <lb ed="#P" n="25"/>et aliud est dicere verbum / nam primum conuenit tribus 
+      perso<lb ed="#P" n="26" break="no"/>nis diuinis et cuilibet earum. sicut patet in 
+      productio<lb ed="#P" n="27" break="no"/>nibus ad extra. quia sicut quelibet dicit ad extra sic fi 
+      <lb ed="#P" n="28"/>sicut ergo insepabiliter operantur sic etiam vnico 
+      ver<lb ed="#P" n="29" break="no"/>bo dicunt. sed dicere verbum soli patri conuenit vt 
+      ar<lb ed="#P" n="30" break="no"/>parebit. Ex quo sequitur quod non omne intelligere / est 
+      <lb ed="#P" n="31"/>dicere ad intra: quamquam econuerso sumendo ly dicere 
+      <lb ed="#P" n="32"/>pro producere 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e288">
+                  <lb ed="#P" n="33"/>¶ Quinto notandum quod licet in diuinis sint tres 
+      <lb ed="#P" n="34"/>persone: non tamen sunt ibi nisi duo modi producendim 
+      <lb ed="#P" n="35"/>vnus per intellectum alius per voluntatem. Per modum 
+      <lb ed="#P" n="36"/>intellectus producitur filius per generationem / per 
+      me<lb ed="#P" n="37" break="no"/>dum voluntatis producitur spiritus sanctus per spira 
+      <lb ed="#P" n="38"/>tionem. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e304">
+                  <lb ed="#P" n="39"/>¶ Sexto notandum quod verbum potest sic 
+      descrih<lb ed="#P" n="40" break="no"/>Uerbum est terminus actionis intellectualis / emanans 
+      <lb ed="#P" n="41"/>ab intelligente secundum actum in ipso intelligente manens 
+      <lb ed="#P" n="42"/>Alterius declaratiuum. hec descriptio conuenit tam 
+      <lb ed="#P" n="43"/>increato quam creato verbo. In ipsa ponuntur quinque 
+      <lb ed="#P" n="44"/>particule vel conditiones per quas excluduntur omnia 
+      <lb ed="#P" n="45"/>animalia / quibus (licet aliquo modo) non tamen eis 
+      con<lb ed="#P" n="46" break="no"/>uenit perfecta ratio verbi. Dico autem primo quod 
+      ver<lb ed="#P" n="47" break="no"/>bum est terminus ad excludendum rationem verbi 
+      ab<lb ed="#P" n="48" break="no"/>obiecto intellectuali quod quidem potius est formale prim 
+      <lb ed="#P" n="49"/>cipium intellectualis operationis quam terminus eius 
+      <lb ed="#P" n="50"/>Secundo dico operationis intellectualis ad differentiam 
+      <lb ed="#P" n="51"/>volitionis seu amoris / qui est terminus actionis 
+      vo<lb ed="#P" n="52" break="no"/>luntarie. Tertio dicitur emanans aut procedens 
+      inessein<lb ed="#P" n="53" break="no"/>ab intelligente secundum actum / ad tollendum rationem 
+      ver<lb ed="#P" n="54" break="no"/>bi a simplici intelligentia quae potius emanat ab 
+      intel<lb ed="#P" n="55" break="no"/>ligente secundum habitum quam secundum actum. Quarto 
+      di<lb ed="#P" n="56" break="no"/>manens in ipso intelligente ad differentiam verbi 
+      vo<lb ed="#P" n="57" break="no"/>calis / quod corporaliter extra mittitur et est signum 
+      sub<lb ed="#P" n="58" break="no"/>ordinatum ad significandum verbo mentali quod nullius 
+      <lb ed="#P" n="59"/>est lingue. de quo dicit augustinus quod sint quedam est 
+      <lb ed="#P" n="60"/>tantum in mente manent. etc. Quinto et vltimo dicitur 
+      <lb ed="#P" n="61"/>quod est declaratiuum alterius. ad differentiam cuiuscumque 
+      <lb ed="#P" n="62"/>conceptus vel noticie quae non sit alterius declaratiua. 
+      <!--67.xml-->
+      <lb ed="#P" n="63"/>Ex istis infero duodecim propositiones. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e363">
+                  <lb ed="#P" n="64"/>¶ Prima nullus obiecti simplex apprehensio est 
+      ver<lb ed="#P" n="65" break="no"/>bum respectu eiusdem obiecti. Probatur quia ver bum. 
+      <lb ed="#P" n="66"/>est noticia declaratiua quantitatis obiecti et per consequens 
+      <lb ed="#P" n="67"/>complexa noticia ergo nulla simplex apprehensio est 
+      <lb ed="#P" n="68"/>verbum.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e376">
+      ¶ Et preterea verbum est semper ab intelligente 
+      <lb ed="#P" n="69"/>secundum actum. noticia vero simplex emanat ab 
+      intel<lb ed="#P" n="70" break="no"/>ligente secundum habitum. ergo nullius obiecti simplex 
+      ap<lb ed="#P" n="71" break="no"/>prehensio est verbum. respectu eiusdem obiecti. quod 
+      <lb ed="#P" n="72"/>erat probandum. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e387">
+                  <lb ed="#P" n="73"/>¶ Secunda propositio. Necesse est prius obiectum 
+      <lb ed="#P" n="74"/>quodlibet simpliciter apprehendi quam verbum aliquod 
+      <lb ed="#P" n="75"/>formetur de eodem.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e396">
+      ¶ Patet ista quia secundum beatum 
+      au<lb ed="#P" n="76" break="no"/>gustinum. 15 de trinitate capitulo nono verbum est not 
+      <lb ed="#P" n="77"/>cia de noticia id est noticia complexa de noticia 
+      simplici<lb ed="#P" n="78" break="no"/>Patet etiam quod res prius cognoscitur incomplexe 
+      <lb ed="#P" n="79"/>que conplexe. Iste due sunt vere de verbo nostro etc. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e408">
+                  <lb ed="#P" n="80"/>¶ Tertia prius est primam personam diuinam 
+      sim<lb ed="#P" n="81" break="no"/>pliciter apprehendere essentiam diuinam: quam aliqua alia 
+      <lb ed="#P" n="82"/>persona diuina.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e417">
+      ¶ Probatur quia quelibet noticia inest 
+      <lb ed="#P" n="83"/>cuilibet alteri persone divine. a. prima persona sicut et esse 
+      <lb ed="#P" n="84"/>ergo sicut esse cuiustlibet alterius persone est. a. prima 
+      perso<lb ed="#P" n="85" break="no"/>na: sic etiam et noticia 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e426">
+                  <lb ed="#P" n="86"/>¶ Quarta propositio. prius est memoriam paternam 
+      <lb ed="#P" n="87"/>esse actuatam specie deitatis quam memoriam cuiuslibet 
+      <lb ed="#P" n="88"/>alterius persone divine. ista patet ex immediata. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e435">
+                  <lb ed="#P" n="89"/>¶ Quinta. primus actus memorie paterne: 
+      actua<lb ed="#P" n="90" break="no"/>te specie deitatis: est simplex intelligentia eiusdem. ist 
+      <lb ed="#P" n="91"/>sequitur ex secunda propositione premissa. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e444">
+                  <lb ed="#P" n="92"/>¶ Sexta. actus intellectiuus quo adequate ex 
+      <lb ed="#P" n="93"/>primitur essentia dei prius conuenit persone paterne qua 
+      <lb ed="#P" n="94"/>alteri persone. que patet ex tertia propositione 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e453">
+                  <lb ed="#P" n="95"/>¶ Septima. talis actus intellectus est 
+      producti<lb ed="#P" n="96" break="no"/>uus cuiuscumque quantecumque sapientie / et per consequens 
+      cuiuscun<lb ed="#P" n="97" break="no"/>que et quanticumque verbi producibilis in diuinis. Proba 
+      <lb ed="#P" n="98"/>tur quia si non sequitur quod tale verbum non esset 
+      declara<lb ed="#P" n="99" break="no"/>tio quidditatis essentie divine perfecte adequate 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e467">
+                  <lb ed="#P" n="100"/>¶ Octaua. nullo actu intellectus alicuius alterius 
+      <lb ed="#P" n="101"/>persone diuine est producibile diuinum verbum. Probatur 
+      <lb ed="#P" n="102"/>quia da oppositum tunc per actum intellectiuum paternum 
+      <lb ed="#P" n="103"/>non esset productiuum quodcumque et quantumque verbum 
+      pro<lb ed="#P" n="104" break="no"/>ducibile in diuinis. cuius oppositum est dictum 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e480">
+                  <lb ed="#P" n="105"/>¶ Nona. tantum nosse paternum quod est dicere 
+      <lb ed="#P" n="106"/>se prima noticia complexa / est verbalis suppositi pro 
+      <lb ed="#P" n="107"/>ductiuum. Probatur quia si non sequeretur quod possibilia 
+      <lb ed="#P" n="108"/>essent plura verba in diuinis quod est hereticum. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e491">
+                  <lb ed="#P" n="109"/>¶ Decima propositio: quantumlibet quelibet alia 
+      per<lb ed="#P" n="110" break="no"/>sona diuina a patre / dicat se vel aliam / non plus ex hoc 
+      <lb ed="#P" n="111"/>actu intellectus producit verbum quam producat 
+      sapien<lb ed="#P" n="112" break="no"/>tiam essentialem vel personalem in diuinis 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e502">
+                  <lb ed="#P" n="113"/>¶ Undecima propositio. licet pater intelligat 
+      se<lb ed="#P" n="114" break="no"/>vel dicat se non tamen sequitur quod producat se. Patet  
+      <lb ed="#P" n="115"/>ista propositio de se. quia est impossibile. etc. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e511">
+                  <lb ed="#P" n="116"/>¶ Quodecima ad generationem verbi in patre 
+      <lb ed="#P" n="117"/>prerequiritur actualis noticia de sua essentia. Patet 
+      <lb ed="#P" n="118"/>ista propodio per secundam propositionem superius positam. 
+      <lb ed="#P" n="119"/>Ex istis proponibus sequuntur quatuor correlaria
+    </p>
+               <p xml:id="oooo3o-k15096-d1e522">
+                  <lb ed="#P" n="120"/>¶ Primum. in patre noticia essentialis presupponitur 
+      <lb ed="#P" n="121"/>personali. patet per immediatam propositionem.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e530">
+      ¶ Secundum 
+      <lb ed="#P" n="122"/>quod per prius est quamlibet creaturam esse cognitam a pa¬ 
+      <!--68.xml-->
+      <pb ed="#P" n="25-r"/>
+                  <lb ed="#P" n="1"/>tre in diuina essentia: quam filium vel spiritum sanctum originari 
+      <lb ed="#P" n="2"/>ab eodem. quod sic intelligo quia de plenitudine fecunditas 
+      <lb ed="#P" n="3"/>menorie paterne verbum gignitur / ergo talis fecunditas praecedit. 
+      <lb ed="#P" n="4"/>Tertium. quod non omnis relucentia alicuius obiecti in in 
+      <lb ed="#P" n="5"/>telligentia prius latentis in memoria est verbum eiusdem
+    </p>
+               <p xml:id="oooo3o-k15096-d1e550">
+                  <lb ed="#P" n="6"/>¶ Probatur ex immediato sic. per prius est creaturam 
+      relu<lb ed="#P" n="7" break="no"/>cere in intelligentia patris quam verbum originari: et tamen non 
+      <lb ed="#P" n="8"/>prius habetur verbum de creatura a patre quam verbum originetur 
+      <lb ed="#P" n="9"/>ergo non ominis relucentia est verbum quod fuit probandum
+    </p>
+               <p xml:id="oooo3o-k15096-d1e561">
+                  <lb ed="#P" n="10"/>¶ Quartum correlarium. ex dictis habetur differen 
+      <lb ed="#P" n="11"/>tia verbi diuini. a verbo nostro. quae est quituplex. Prima qui 
+      <lb ed="#P" n="12"/>verbum nostrum non semper gignitur de scientia sed aliquando 
+      <lb ed="#P" n="13"/>de ignorantia: quia ignoramus / et scimus nos igonorare 
+      <lb ed="#P" n="14"/>non sic autem verbum diuinum dicente augustino. 13 de tri 
+      <lb ed="#P" n="15"/>capitulo. 1. numquid verbum nostrum de sola scientia nostra 
+      <lb ed="#P" n="16"/>nascitur: Nonne multa dicimus etiam qua nescimus nec 
+      dubi<lb ed="#P" n="17" break="no"/>tantes ea dicimus: sed vera esse arbitrantes: qua si forte 
+      vera<lb ed="#P" n="18" break="no"/>sunt in ipsis rebus de quibus loquimur non in verbo nostr 
+      <lb ed="#P" n="19"/>vera sunt. quia verbum verum non est nisi quod de re qua scitu 
+      <lb ed="#P" n="20"/>gignitur. falsum est ergo isto modo verbum nostrum non 
+      ci<lb ed="#P" n="21" break="no"/>mentitur sed cum fallimur. diuinum vero verbum sper gigni 
+      <lb ed="#P" n="22"/>tur de scientia dei. et ex quo vere ver tas est: ei falsum ha 
+      <lb ed="#P" n="23"/>rere aliquid numquam potest.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e594">
+      ¶ Secunda differentia est quia verbum 
+      <lb ed="#P" n="24"/>nostrum vel scientia nostra est amasibilis seu corruptibilis 
+      <lb ed="#P" n="25"/>et secundum varietatem scientie fit etiam varietas verborum in 
+      <lb ed="#P" n="26"/>nobis. Diuina vero scientia penito est inuariabilis et 
+      <lb ed="#P" n="27"/>vnica et ideo solum est ibi vnicum possibile verbum. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e605">
+                  <lb ed="#P" n="28"/>¶ Tertia differentia quia verbum nostrum aliquando est informe 
+      <lb ed="#P" n="29"/>quando cogitamus primo de re / quandoque est formatum. diuinum autm 
+      <lb ed="#P" n="30"/>verbum numquam est informe sed sper formatum: dicente 
+      augus<lb ed="#P" n="31" break="no"/>no libro de trinitate capitulo. 16. quod in diuinis non est 
+      co<lb ed="#P" n="32" break="no"/>gitatio. sed verbum ne aliquid esse quasi volubile creda 
+      <lb ed="#P" n="33"/>tur in deo (et subdit infra) cogitatio quippe nostra pue 
+      <lb ed="#P" n="34"/>niens ad id quod scimus / atque inde formata verbum nostrum 
+      <lb ed="#P" n="35"/>verum est.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e625">
+      ¶ Quarta differentia. quia non de omnibus scitis 
+      <lb ed="#P" n="36"/>possumus habere noticiam actualem / vel verbum actuale 
+      <lb ed="#P" n="37"/>verbum autem diuinum potest. dicente augustino libro. 5. di 
+      <lb ed="#P" n="38"/>trinitate capitulo nono. Non potest simul acies animi omnia 
+      <lb ed="#P" n="39"/>que menoria tenet vno aspectu contueri / diuinum vero 
+      <lb ed="#P" n="40"/>verbum gignitur ex tota scientia dei
+    </p>
+               <p xml:id="oooo3o-k15096-d1e639">
+      ¶ Ex quo sequitur 
+      <lb ed="#P" n="41"/>quinta differentia / quod verbum diuinum est vnicum solum 
+      <lb ed="#P" n="42"/>possibile. nostrum autem verbum est plurificabile. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e646">
+                  <lb ed="#P" n="43"/>¶ Septimo et vltimo notandum pro declaratione 
+      <lb ed="#P" n="44"/>terminorum (quia in titulo ponitur istud verbum distinguitur) q 
+      <lb ed="#P" n="45"/>ista quattuor se habent secundum ordinem praioris et posteri 
+      <lb ed="#P" n="46"/>ris secundum naturam scilicet distinctio. vnio rsolutio. et compositi. 
+      <lb ed="#P" n="47"/>Probatur quia omnia vnibilia vel vnita sunt distincta et non 
+      <lb ed="#P" n="48"/>econuerso. Item omnia composita sunt resolubilia et non 
+      econ<lb ed="#P" n="49" break="no"/>uerso. Ex quo notabili sequuntur tres propositiones. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e664">
+                  <lb ed="#P" n="50"/>¶ Prima quod omnis vnio distinctionem formaliter 
+      inclu<lb ed="#P" n="51" break="no"/>dit. patet istaquia nichil est sibiipsi vnibile vel vnitum proprie
+    </p>
+               <p xml:id="oooo3o-k15096-d1e671">
+                  <lb ed="#P" n="52"/>¶ Secunda quod essentie diuine vnio ad personam vel 
+      ecoue<lb ed="#P" n="53" break="no"/>so: est impossibilis. seper loquendo stricte. Patet ista quia 
+      nu<lb ed="#P" n="54" break="no"/>la est distinctio essentie ad personam nececonuerso ergo propotio 
+      va<lb ed="#P" n="55" break="no"/>Tertia ista consequentia non est formalis in 
+      <lb ed="#P" n="56"/>a. est distinctio ergo in a est compositio vel 
+      aggrega<lb ed="#P" n="57" break="no"/>tio. patet ex dictis quia licet compositio vel aggregatio 
+      <lb ed="#P" n="58"/>inferat foraliter distinctionem: tamen non econuersogrgo. Ex quo 
+      <lb ed="#P" n="59"/>posset inferri: quod personarum in essentia pluralitas / debet 
+      <lb ed="#P" n="60"/>vocari vdemptitas. Et hec de primo articulo. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k15096-Dd1e694">
+               <head xml:id="oooo3o-k15096-Hd1e696">Articulus 2</head>
+               <p xml:id="oooo3o-k15096-d1e698">
+                  <lb ed="#P" n="61"/>Secundus articulus 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e703">
+                  <lb ed="#P" n="62"/>¶ Quantum ad secundum articulum sit prima conclusio 
+      <lb ed="#P" n="63"/>iita. Licet spiratio passiua sit constitutiua persone spi¬ 
+      <!--68.xml-->
+      <lb ed="#P" n="64"/>ratio tamen actiua nullius persone est constitutiua. Prima 
+      <lb ed="#P" n="65"/>pars patet quia spiritus sictuns constituitur spiratione passiua. 
+      <lb ed="#P" n="66"/>Secunda patrs probatur quia nullum communicabile constituit 
+      sup<lb ed="#P" n="67" break="no"/>positum incommunicabile. sed spiratio actiua est communicabilis quia 
+      <lb ed="#P" n="68"/>de facto communicatur filio: ergo spiratio actiua non constituis 
+      <lb ed="#P" n="69"/>suppositum incommunicabile. Preterea circunscripta 
+      spi<lb ed="#P" n="70" break="no"/>ratione actiua in diuinis / pater adhuceset constitutus et 
+      <lb ed="#P" n="71"/>similiter filius: ergo spiratio actiua non est persone constitutiua 
+      <lb ed="#P" n="72"/>Correlarium spiratio passiua est incommunicabilis 
+      <lb ed="#P" n="73"/>probatur quia est persone constitutiua. spiratio autm actiua est 
+      con<lb ed="#P" n="74" break="no"/>municabilis. quia est persone productiua non constitutiua. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e736">
+                  <lb ed="#P" n="75"/>¶ Secunda conclusio. spiratio actiua non est 
+      pater<lb ed="#P" n="76" break="no"/>nitas nec filiatio: quamuis sit in patre et filio. Prima 
+      <lb ed="#P" n="77"/>pars probatur quia nullum communicabile est incommunicabile: sed spira 
+      <lb ed="#P" n="78"/>tio actiua est communicabilis et patenitas vel filiatio 
+      incon<lb ed="#P" n="79" break="no"/>municabilis. ergo spiratio actiua non est paternitas nec 
+      fili<lb ed="#P" n="80" break="no"/>atio. Item filiatio repugnat paternitati / et 
+      econuersor<lb ed="#P" n="81" break="no"/>spiratio vero actiua neutri repugnat quiymo est 
+      in<lb ed="#P" n="82" break="no"/>vtroque scilicet patre et filio: ergo stat conclusio vera. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e756">
+                  <lb ed="#P" n="83"/>¶ Correlarium nomen proprietatis non predicatur 
+      <lb ed="#P" n="84"/>de nomine nocionali patet ex conclusione / quia ista est falsa 
+      spi<lb ed="#P" n="85" break="no"/>ratio est paternitas. vel filiatio.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e766">
+      ¶ Tertia conclusio spira 
+      <lb ed="#P" n="86"/>tio actiua et grantiatio actiua in patre: non sunt idem conuertibiliter 
+      <lb ed="#P" n="87"/>et adequate. probatur sic: quod est adequate grninatio actiua / 
+      <lb ed="#P" n="88"/>est tantum grantiatio actiua: sed spiratio actiua non est tantum graestenatio 
+      <lb ed="#P" n="89"/>actiua: ergo spiratio actiua et grieniatio actiua in patre non si 
+      <lb ed="#P" n="90"/>idem conuertibiliter et adequate. Item quorum vnum inuenitur vbi 
+      <lb ed="#P" n="91"/>alterum nin inuenitur nsion sunt idem conuertibiliter et adequate. (patet 
+      <lb ed="#P" n="92"/>ista ex termins) sed spiratio actiua inuenitur in filio / vbi 
+      <lb ed="#P" n="93"/>gniatio actiua non inuenitur. igitur spiratio actiua 
+      <lb ed="#P" n="94"/>et generatio actiua non sunt etc. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e788">
+                  <lb ed="#P" n="95"/>¶ Correlarium: gratnatio passiua et spiratio actiua 
+      <lb ed="#P" n="96"/>filio nion sunt idem conuertibiliter et adequate. patet eadem ratione 
+      <lb ed="#P" n="97"/>sicut conclusio praecedens.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e797">
+      ¶ Quarta conclusio. Spirati 
+      <lb ed="#P" n="98"/>actiua / et grantiatio actiua in patre sunt due relationes: velre 
+      <lb ed="#P" n="99"/>lationes distincte. probatur ista (licet in ista communiter concordent 
+      do<lb ed="#P" n="100" break="no"/>ctores) quia ista ad distinctos terminos referuntur. graestiona 
+      <lb ed="#P" n="101"/>tio enim actiua refertur ad filium: et spiratio actia ad spiritus  
+      <lb ed="#P" n="102"/>sctum. ergo sunt due vel distincte relationes
+    </p>
+               <p xml:id="oooo3o-k15096-d1e810">
+      ¶ Preterea non 
+      <lb ed="#P" n="103"/>potest per eandem relationem idem producens productionibus 
+      alte<lb ed="#P" n="104" break="no"/>rius rationis / ad ista referri. sublata enim spiratione 
+      actiua<lb ed="#P" n="105" break="no"/>pater nion refertur ad spiritum sanctum / et remota graeneinatione 
+      acti<lb ed="#P" n="106" break="no"/>ua non refertur ad filium. Sed idem est producens pater productioni 
+      <lb ed="#P" n="107"/>pus alterius rationis. quarum vna producit filium scilicet grganiatione 
+      <lb ed="#P" n="108"/>actiua: reliqua spiritum sanctum scilicet spiratione actiua. erg 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e826">
+                  <lb ed="#P" n="109"/>¶ iste erunt relationes distincte.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e831">
+      ¶ Correlarium pluralitas  
+      <lb ed="#P" n="110"/>relationum nion arguit pluralitatem essentiarum. patet istum quia 
+      <lb ed="#P" n="111"/>si sic sequeretur quod in diuinis esset quaternitas essentiari 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e839">
+                  <lb ed="#P" n="112"/>¶ Quita. spiratio actiua et grniatio passiua in filio si 
+      <lb ed="#P" n="113"/>relationes simpliciter distincte. probatur quia 
+      abla<lb ed="#P" n="114" break="no"/>ta spiratione / filius non refertur ad spiritum sanctum 
+      <lb ed="#P" n="115"/>generatione passiua per quam refertur ad patrem: 
+      <lb ed="#P" n="116"/>gitur iste relationes sunt simplicitur distincte.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e852">
+      ¶ 
+      Pre<lb ed="#P" n="117" break="no"/>terea ille relationes sunt distincte que sunt ad 
+      distin<lb ed="#P" n="118" break="no"/>ctos terminos: sed spiratio actiua et generatio 
+      pas<lb ed="#P" n="119" break="no"/>siua sunt huiusmodoi. ergo etc. Maior nota / minor pro 
+      <lb ed="#P" n="120"/>batur vt superius est dictum 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e863">
+                  <lb ed="#P" n="121"/>¶ Correlarium. Generatio passiua: et 
+      spiratio<lb ed="#P" n="122" break="no"/>passiua: realiter distinguuntur. patet quia filius non 
+      <lb ed="#P" n="123"/>est spiritussanctus nec econtra.
+    </p>
+               <p xml:id="oooo3o-k15096-d1e872">
+      ¶ Quantum ad 
+      con<lb ed="#P" n="124" break="no"/>clusionem responsalem (que est sexta) discordantia est 
+      in<lb ed="#P" n="125" break="no"/>ter doctores. quidam dicunt (sicut narrat durandus 
+      <lb ed="#P" n="126"/>libro primo distinctione. 13 quod generare et spirare 
+      <!--69.xml-->
+      <pb ed="#P" n="25-v"/>
+                  <lb ed="#P" n="1"/>aliter non distinguntur. sed bene generari et spirari. 
+      <lb ed="#P" n="2"/>et de isto secundo non est dubium. sed de primo. Nam 
+      <lb ed="#P" n="3"/>partem affirmatiuam tenent doctor solemnis in summa 
+      ar<lb ed="#P" n="4" break="no"/>ticulo. 6. questione secunda. durandus vbi supra. 
+      the<lb ed="#P" n="5" break="no"/>mas anglicus in determinationibus suis questione 
+      <lb ed="#P" n="6"/>quarta Rodondon landulphus et multi alii vtponit 
+      <lb ed="#P" n="7"/>dominus alfonsus libro primo distinctione. 13 articul 
+      <lb ed="#P" n="8"/>lo secundo. sed partem negatiuam tenent doctores / istius 
+      <lb ed="#P" n="9"/>scole: dominus egidius: dominus alphonsus: 
+      magi<lb ed="#P" n="10" break="no"/>ster thomas de argentina: et etiam doctot sancto lib. 
+      <lb ed="#P" n="11"/>primo distinctione. 2. 7. et paulus de perusio. ibro 
+      prae<lb ed="#P" n="12" break="no"/>mo distinctione nona. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e911">
+                  <lb ed="#P" n="13"/>¶ Ideo conformiter doctoribus nostris pono 
+      <lb ed="#P" n="14"/>partem negatiuam. videlicet quod eterna grantiatio verbi  
+      <lb ed="#P" n="15"/>piratio: in eodem supposito patris vel filii / realiter non 
+      <lb ed="#P" n="16"/>distinguntur. Istam conclusionem probo vnica ratione 
+      <lb ed="#P" n="17"/>licet plenius probent eam doctores predicti) et 
+      <lb ed="#P" n="18"/>arguo sic: in diuinis omnis res per se distincta 
+      rea<lb ed="#P" n="19" break="no"/>liter ab alia / est per se subsistens. Ista propositio 
+      pa<lb ed="#P" n="20" break="no"/>tet. quia omnis res quae non estalteri inherens / et per 
+      se<lb ed="#P" n="21" break="no"/>subsistens. in diuinis autem: nichil est inherens alteri 
+      <lb ed="#P" n="22"/>ergo si grantiatio et spiratio actiua in patre essent 
+      plu<lb ed="#P" n="23" break="no"/>res res realiter distincte: essent due res per se 
+      subsi<lb ed="#P" n="24" break="no"/>stentes / et per consequens duo supposita. quo 
+      posi<lb ed="#P" n="25" break="no"/>to sequitur quod pater sit duo supposita et non tantum vnum 
+      <lb ed="#P" n="26"/>quod est erroneum. ymaginantur enim doctores 
+      prae<lb ed="#P" n="27" break="no"/>dicti: quod sicut essentia diuina non est tantum paternitas 
+      <lb ed="#P" n="28"/>cum sit filiatio et spiratio passiua que non sunt 
+      pa<lb ed="#P" n="29" break="no"/>ternitas) et tamen hoc non obstante non est res 
+      di<lb ed="#P" n="30" break="no"/>stincta ab aliquo istorum: sic etiam suo modo licet spira 
+      <lb ed="#P" n="31"/>tio actiua non sit tantum generatio actiua cum sit 
+      gene<lb ed="#P" n="32" break="no"/>ratio passiua: non tamen est res distincta a 
+      genera<lb ed="#P" n="33" break="no"/>tione actiua in patre. Principalis ratio ergo (vt 
+      di<lb ed="#P" n="34" break="no"/>cit dominus alphonsus que videtur mouere eos) est: 
+      <lb ed="#P" n="35"/>quia tenendo partem affirmatiuam apparet: quod 
+      cogamun<lb ed="#P" n="36" break="no"/>ponere quatuor res in diuinis: vel quaternitatem. quod 
+      <lb ed="#P" n="37"/>repugnat determinationi ecclesie. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e968">
+                  <lb ed="#P" n="38"/>¶ Primum correlarium generatio passiua et 
+      spi<lb ed="#P" n="39" break="no"/>tatio acriua non distinguntur realiter in filio patet vt conclusio 
+      <lb ed="#P" n="40"/>Secundum correlarium. Ista consequentia non 
+      <lb ed="#P" n="41"/>valet. tenendo hanc opinionem. a. et .b. sunt relationes 
+      <lb ed="#P" n="42"/>due. ergo sunt due res realiter distincte¬ 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k15096-Dd1e982">
+               <head xml:id="oooo3o-k15096-Hd1e984">Articulus 3</head>
+               <p xml:id="oooo3o-k15096-d1e986">
+                  <lb ed="#P" n="43"/>¶ Tertius articulus. 
+    </p>
+               <p xml:id="oooo3o-k15096-d1e991">
+                  <lb ed="#P" n="44"/>¶ Quantum ad tertium reaspondeo ad duas rationes factas i 
+      <lb ed="#P" n="45"/>oppositum. ad primam nego consequentiam. et ratio est. quia ad hoc 
+      <lb ed="#P" n="46"/>spiritussanctus nonsit genitus nec filius spiratus. sus 
+      <lb ed="#P" n="47"/>ficit quod generatio actiua: et spiratio actiua non sinti 
+      <lb ed="#P" n="48"/>idemiconuertibiliter et adequate / nec probatio valet 
+      <lb ed="#P" n="49"/>quia spiratio non est superius ad generationem sicut 
+      <lb ed="#P" n="50"/>est productio. Ad secundum nego commutatam 
+      propo<lb ed="#P" n="51" break="no"/>tionem / quia generare sic se habet ad generari: quod vnum 
+      <lb ed="#P" n="52"/>istorum conuenit tantum vni persone / et est constitutiuum ipsius. 
+      <lb ed="#P" n="53"/>spirare vero sic se non habet ad spirari: cum spirare 
+      con<lb ed="#P" n="54" break="no"/>ueniat duobus et non sit constitutiuum alicuius. et sic 
+      <lb ed="#P" n="55"/>est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

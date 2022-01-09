@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#DionysiusdeMontina">Dionysius de Montina</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-09">January 09, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="P" n="cod-DdMDdC">Paris 1511</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-09" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#P" n="51-r"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="oooo3o-k31708"><!--l2d1q1 -->
+            <head xml:id="oooo3o-k31708-Hd1e99">Quaestio 1</head>
+            <p xml:id="oooo3o-k31708-d1e101">
+      <!--120.xml-->
+               <pb ed="#P" n="51-r"/>
+               <lb ed="#P" n="1"/>Circa Secundum Librum Sententia 
+      <lb ed="#P" n="2"/>rum et presertim circa primam 
+      di<lb ed="#P" n="3" break="no"/>stinctionem vbi agitur de 
+      re<lb ed="#P" n="4" break="no"/>rum creatione quantum ad 
+      prin<lb ed="#P" n="5" break="no"/>cipium efficiens in 
+      gene<lb ed="#P" n="6" break="no"/>rali queritur primo. 
+    </p>
+            <p xml:id="oooo3o-k31708-d1e121">
+               <lb ed="#P" n="7"/>¶ Primum Argumentum. 
+    </p>
+            <p xml:id="oooo3o-k31708-d1e126">
+               <lb ed="#P" n="8"/>VTrum voluntas 
+      diui<lb ed="#P" n="9" break="no"/>na omn:um que fiunt sit 
+      ef<lb ed="#P" n="10" break="no"/>ficiens causa prima.
+    </p>
+            <p xml:id="oooo3o-k31708-d1e135">
+      Et 
+      <lb ed="#P" n="11"/>arguo quod non quia aut esse 
+      <lb ed="#P" n="12"/>causa efficiens rei ad 
+      ex<lb ed="#P" n="13" break="no"/>tra per agere finitum vel  
+      <lb ed="#P" n="14"/>infinitum. si per finitum ergo 
+      il<lb ed="#P" n="15" break="no"/>lud posset suppleri per age 
+      <lb ed="#P" n="16"/>re creature: cum quodlibet 
+      <lb ed="#P" n="17"/>finitum agere non repugnet 
+      <lb ed="#P" n="18"/>creature. et per consequens 
+      <lb ed="#P" n="19"/>causa secunda potest agere sine coactione vel 
+      coef<lb ed="#P" n="20" break="no"/>ficientia prime cause quod est falsum. si autem agit 
+      <lb ed="#P" n="21"/>ad extra per agere infinitum: ergo tam infinita a 
+      <lb ed="#P" n="22"/>ctione deus ageret ad extra: quam infinita actione agit 
+      <lb ed="#P" n="23"/>ad intra: quod videtur vni articulo parisien. no 
+      <lb ed="#P" n="24"/>uo repugnare qui dicit quod sicut vnigenitus infinita 
+      <lb ed="#P" n="25"/>et eterna gignitione ad intra seu immanente (que est 
+      <lb ed="#P" n="26"/>infi nita dilectio) producitur sic quodlibet acciss 
+      infi<lb ed="#P" n="27" break="no"/>nita et eterna creatione ad extra seu transeunte (que 
+      <lb ed="#P" n="28"/>est infinite dilecta) fit in subiecto seu causatur error. 
+      <lb ed="#P" n="29"/>Secundo. ergo deus esset principium efficiens 
+      <lb ed="#P" n="30"/>seu causa cuiuslibet sic. esse qualiter est. aut causa sic 
+      <lb ed="#P" n="31"/>fore qualiter erit quod est falsum. quia tunc esset 
+      ef<lb ed="#P" n="32" break="no"/>ficiens seu causa cuiuslibet culpabiliter esse. siue 
+      pec<lb ed="#P" n="33" break="no"/>cati quod est falsum. consequentia nota quia talia 
+      <lb ed="#P" n="34"/>esse dicuntur et fore. falsitas consequentis. 
+      proba<lb ed="#P" n="35" break="no"/>tur per articulum vnum de nouellis parisius 
+      con<lb ed="#P" n="36" break="no"/>demnatis: qui dicit: quod qualitercun quod sit: deus vult ei 
+      <lb ed="#P" n="37"/>ficaciter sic esse: et quod voluntas diuina cuiuslibet rei 
+      <lb ed="#P" n="38"/>qualitercunque ipsa sit et qualitercumque ab aliquo fiat 
+      <lb ed="#P" n="39"/>est efficiens prima causa: error.
+    </p>
+            <p xml:id="oooo3o-k31708-d1e201">
+      ¶ Item alius 
+      arti<lb ed="#P" n="40" break="no"/>culus dicit quod deus facit malum et peccatum esse et 
+      <lb ed="#P" n="41"/>ror¬ 
+    </p>
+            <p xml:id="oooo3o-k31708-d1e208">
+               <lb ed="#P" n="42"/>¶ Tertio. quia aut est primum efficiens 
+      necessa<lb ed="#P" n="43" break="no"/>rio idest necio efficiens vel contingenter non primem 
+      <lb ed="#P" n="44"/>quia tunc non posset non efficere. nec secundum quia 
+      <lb ed="#P" n="45"/>tunc efficere dei: esset contingens. et sic non esset deus 
+      <lb ed="#P" n="46"/>cum nullum contingens possit esse deus 
+    </p>
+            <p xml:id="oooo3o-k31708-d1e221">
+               <lb ed="#P" n="47"/>¶ Oppositum arguitur. per augustinum tertio 
+      <lb ed="#P" n="48"/>de trinitate et allegatur a magistro. libro primo 
+      di<lb ed="#P" n="49" break="no"/>stinctione. 413 capitulo voluntas. ergo voluntas 
+      <lb ed="#P" n="50"/>dei est prima et summa causa omnium specierum ad 
+      <lb ed="#P" n="51"/>motionum: nichil ei fii quod non de interiore atque 
+      in<lb ed="#P" n="52" break="no"/>telligibili: aula supremi imperatoris egrediatur etc 
+      <lb ed="#P" n="53"/>Et supra in eandem distinctione concludit magiste 
+      <lb ed="#P" n="54"/>hec itaque summe bona voluntas causa est omnium que 
+      <lb ed="#P" n="55"/>naturaliter fiunt vel facta sunt siue futura sunt que 
+      nu<lb ed="#P" n="56" break="no"/>la preuenta est causa etc.
+    </p>
+            <p xml:id="oooo3o-k31708-d1e245">
+      ¶ Primo premittam 
+      decla<lb ed="#P" n="57" break="no"/>tationes. secundo ponam conclusiones. tertio 
+      respon<lb ed="#P" n="58" break="no"/>debo ad rationes. 
+    </p>
+            <div xml:id="oooo3o-k31708-Dd1e252">
+               <head xml:id="oooo3o-k31708-Hd1e254">Articulus 1</head>
+               <p xml:id="oooo3o-k31708-d1e256">
+      <!--120.xml-->
+                  <lb ed="#P" n="59"/>Quantum ad primum. sciendum est 
+      <lb ed="#P" n="60"/>quod aliud est esse causam. vt alia res sit: et 
+      <lb ed="#P" n="61"/>aliud est esse causam: vt illa res sit 
+      cau<lb ed="#P" n="62" break="no"/>sa Et sic dupliciter potest intelligi 
+      ali<lb ed="#P" n="63" break="no"/>quid esse causam primam. vnomodo vt 
+      <lb ed="#P" n="64"/>esse primam causam omniem vt sint. Secundo modo vt cum hoc sit 
+      cau<lb ed="#P" n="65" break="no"/>sa omnim causatorum vt causent et vt sint causa. Secundi 
+      <lb ed="#P" n="66"/>sciendum quod aliquid potest dici efficiens alterius dupliciter: 
+      <lb ed="#P" n="67"/>vnomodo quia producit alterum de non esse ad esse: Secundo mo 
+      <lb ed="#P" n="68"/>do quia productum conseruat continue in esse.
+    </p>
+               <p xml:id="oooo3o-k31708-d1e282">
+      ¶ 
+      Ter<lb ed="#P" n="69" break="no"/>tio. notandum est quod voluntas dei dicitur causa 
+      diue<lb ed="#P" n="70" break="no"/>sis modis vno modo: dicitur causa effectiua. 
+      Aliomo<lb ed="#P" n="71" break="no"/>do causa permissiua: et aliquando non prohibendo 
+      <lb ed="#P" n="72"/>Pro quorum pleniori intellectu sit prima propositio 
+      <lb ed="#P" n="73"/>Ticet cuiuslibet cause secunde voluntas diuina 
+      <lb ed="#P" n="74"/>sit causa: vt sit: non tamen est cuiuslibet causationis se ¬ 
+      <lb ed="#P" n="75"/>cum de cause causa: vt scilicet sue cuiusim causationis sit causa 
+      <lb ed="#P" n="76"/>Prima pars probatur quia quelet causa secunda ideo est 
+      <lb ed="#P" n="77"/>quia deus vult eam esse: et quia conseruat eam in esse. secunda 
+      <lb ed="#P" n="78"/>pars probatur quia voluntas diuina non est causa 
+      qua<lb ed="#P" n="79" break="no"/>re voluntas creata male vult. nec vult ipsam causare 
+      <lb ed="#P" n="80"/>odium sui ergo. non est causa quare illa voluntas causat 
+      <lb ed="#P" n="81"/>hoc odium quod patet per articulum parisiensem. septimum 
+      <lb ed="#P" n="82"/>in ordine nouellorum. c. 2 5. qui dicit quod quemlibet 
+      peccan<lb ed="#P" n="83" break="no"/>tem deus vult peccare voluntarie beneplaciti et 
+      fa<lb ed="#P" n="84" break="no"/>cit ipsum peccare et vult quod ipse peccet. error.
+    </p>
+               <p xml:id="oooo3o-k31708-d1e319">
+      ¶ Item 
+      <lb ed="#P" n="85"/>per. 3. qui est: quod quandocumque voluntas causat aliquid 
+      <lb ed="#P" n="86"/>taliter causat illud in virtute prime cause errori. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e326">
+                  <lb ed="#P" n="87"/>¶ Secunda licet deus cuilibet agenti secundario 
+      <lb ed="#P" n="88"/>coefficiat ad suam actionem: non tamen semper premouet: vel  
+      <lb ed="#P" n="89"/>impellit quodlem agens: ad quamlibet actionem quam 
+      cau<lb ed="#P" n="90" break="no"/>sat. prima pars patet quia nulla noua res potest in esse 
+      <lb ed="#P" n="91"/>produci: nisi deus ipsam aut efficiat. vel agenti creato 
+      <lb ed="#P" n="92"/>ad esse ipsius coefficiat. Secunda pars patet: quia 
+      a<lb ed="#P" n="93" break="no"/>lias deus premoueret sic ad peccandum: sicut 
+      impel<lb ed="#P" n="94" break="no"/>lit vel premouet ad bene operandum. quod: est 
+      contra<lb ed="#P" n="95" break="no"/>augustinum in multis locis.
+    </p>
+               <p xml:id="oooo3o-k31708-d1e349">
+      ¶ Item sequeretur quod deus 
+      <lb ed="#P" n="96"/>inclinaret voluntatem ad odium sui contra secundam partem 
+      <lb ed="#P" n="97"/>propositionis precedentis.
+    </p>
+               <p xml:id="oooo3o-k31708-d1e356">
+      ¶ Ex quo patet: quia licet deus 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e358">
+                  <lb ed="#P" n="98"/>¶ coefficiat voluntati ad odium: idest ad istum actum. vel ad et 
+      <lb ed="#P" n="99"/>illam qualitatem que est odit dei: non tamen facit ipsam 
+      e<lb ed="#P" n="100" break="no"/>licere illum actum: qui est odium dei. nec facit vt ipsa odiat
+    </p>
+               <p xml:id="oooo3o-k31708-d1e367">
+                  <lb ed="#P" n="101"/>¶ Ex quo vlterius apparet quod voluntas aliqualiter 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e372">
+                  <lb ed="#P" n="102"/>¶ agit vel causat: qualiter non agit in virtute prime 
+      cau<lb ed="#P" n="103" break="no"/>se per illum articulum. 3 prius allegatum.
+    </p>
+               <p xml:id="oooo3o-k31708-d1e379">
+      ¶ Tertia pro pe 
+      <lb ed="#P" n="104"/>positio. respectu bene agem voluntatis create: diuina et 
+      <lb ed="#P" n="105"/>voluntas nen solum est causa quod sit: sed cum hoc et causa pro 
+      <lb ed="#P" n="106"/>vt illius bene agere causa sit: sic scilicet quod impellit et 
+      fa<lb ed="#P" n="107" break="no"/>cit voluntatem creatam bene agere. ista est nota ex mliter 
+      <lb ed="#P" n="108"/>tis. dictis augu. et similiter istud est psalmiste 
+      dicen<lb ed="#P" n="109" break="no"/>tis: misericordia eius praeueniet me: Et per illud apostoli 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e396">
+                  <lb ed="#P" n="110"/>¶ spiritu dei aguntur hii filii dei sunt.
+    </p>
+               <p xml:id="oooo3o-k31708-d1e401">
+      ¶ Ex istis patet per 
+      <lb ed="#P" n="111"/>quod aliter deus concurrit ad actum malum. et aliter ad 
+      a<lb ed="#P" n="112" break="no"/>ctum bonum: aliter cum causa libera: aliter cum naturali 
+      <lb ed="#P" n="113"/>non libera. quia ad actum malum solum coefficit: et non agit 
+      <lb ed="#P" n="114"/>voluntatem nec actuat ad sic agere. Sed ad bonum non 
+      <lb ed="#P" n="115"/>solum coefficit ad actum sed etiam impellit et agit 
+      volunta<lb ed="#P" n="116" break="no"/>tem et facit eam sic agere: similiter concurrit cum causa 
+      li<lb ed="#P" n="117" break="no"/>pera ipsam mouendo: ad bonum: sed cum causa 
+      naturali<lb ed="#P" n="118" break="no"/>nonlibera sic: quod ipsam secundum suam naturalem 
+      poten<lb ed="#P" n="119" break="no"/>tiam: et proprium motum agere sinit et ad effectum suum 
+      coeffi<lb ed="#P" n="120" break="no"/>cit non autempraeumouet vel ipsam agere impellit. quia 
+      na<lb ed="#P" n="121" break="no"/>turaliter agit nisi suum agere suspendatur 
+      <!--121.xml-->
+      <pb ed="#P" n="51-v"/>
+                  <lb ed="#P" n="1"/>¶ Quarta propositio. nichil citra deum potest 
+      <lb ed="#P" n="2"/>esse diuine voluntatis causa nec scilicet vt sit nec v 
+      <lb ed="#P" n="3"/>causa sit. primum patet: secundum probatur. quia si 
+      <lb ed="#P" n="4"/>aliquid citra deum faceret diuinam voluntatem esse 
+      <lb ed="#P" n="5"/>causam: tunc diuina voluntas in agendo determina 
+      <lb ed="#P" n="6"/>retur ab extrinseco et moueretur ab alia extrinseco 
+      <lb ed="#P" n="7"/>quod est falsum. 
+    </p>
+            </div>
+            <div xml:id="oooo3o-k31708-Dd1e448">
+               <head xml:id="oooo3o-k31708-Hd1e450">Articulus 2</head>
+               <p xml:id="oooo3o-k31708-d1e452">
+                  <lb ed="#P" n="8"/>¶ Secundus articulus 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e457">
+                  <lb ed="#P" n="9"/>QUantum ad articulum secundun 
+      <lb ed="#P" n="10"/>sit primaconclusio. nulla causa 
+      creatape<lb ed="#P" n="11" break="no"/>test proprie esse causa alterius rei: vt sit 
+      <lb ed="#P" n="12"/>causa. probatur. stat quamlibet causalita 
+      <lb ed="#P" n="13"/>tem cause secunde esse respectu eius 
+      <lb ed="#P" n="14"/>quod b causet: et tamen b non causare (sit b. que nis 
+      <lb ed="#P" n="15"/>secunda alia causa) ergo: consequentia nota: 
+      antece<lb ed="#P" n="16" break="no"/>dens patet: quia faciat a creatura quicquid 
+      possen<lb ed="#P" n="17" break="no"/>circa b. adhuc deus potest suspendere b. ne cause 
+      <lb ed="#P" n="18"/>sicut de facto fecit de igne in camino puerorum. 
+      vn<lb ed="#P" n="19" break="no"/>de donens ignem ad siupam non facit ignem agere 
+      <lb ed="#P" n="20"/>in stupam: sed applicat tamen actiuum passiuo: et sic 
+      <lb ed="#P" n="21"/>ignis naturaliter agit nisi prohibeatur. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e488">
+                  <lb ed="#P" n="22"/>¶ Correlarium: apperiens fenestram non facit 
+      lu<lb ed="#P" n="23" break="no"/>men illuminare. nec aperiens oculos facit obiectum 
+      <lb ed="#P" n="24"/>causare visionem. patet quia remouet solum 
+      prohi<lb ed="#P" n="25" break="no"/>bens. sicut remouens columnam non facit lapide supe 
+      <lb ed="#P" n="26"/>rius quiescentem descendere: ista conclusio est magistri 
+      <lb ed="#P" n="27"/>hugolini in secundo 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e504">
+                  <lb ed="#P" n="28"/>¶ Contra quam videtur esse instantia apperiens 
+      <lb ed="#P" n="29"/>hec scilicet quod aliqua creatura potest esse causa vt b 
+      <lb ed="#P" n="30"/>lapis velocius descendat: per idem medium eadem 
+      <lb ed="#P" n="31"/>grauitate remanente sicut protciens b lapidem deor 
+      <lb ed="#P" n="32"/>sum: ergo videtur quod causa creata possit facere. b. et 
+      <lb ed="#P" n="33"/>se causam: ex quo potest facere ipsam velocius 
+      cau<lb ed="#P" n="34" break="no"/>sare motum. etc. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e523">
+                  <lb ed="#P" n="35"/>¶ Sed istud non valet quia illud velocius de 
+      <lb ed="#P" n="36"/>scendere esset effectus solius impellentis. et non .b. 
+      <lb ed="#P" n="37"/>lapidis. sicut si proticeretur sursum b. non violenter 
+      mo<lb ed="#P" n="38" break="no"/>ueretur tanta velocitate deorsum. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e534">
+                  <lb ed="#P" n="39"/>¶ Secunda conclusio. Sola voluntas dei: ess 
+      <lb ed="#P" n="40"/>potest causa: alterius cause: vt sit causa: probatur quia 
+      <lb ed="#P" n="41"/>iola ipsa habet in potestate sua impellere omens 
+      ca<lb ed="#P" n="42" break="no"/>sas requisitas ad facere esse causam et nullo modo 
+      <lb ed="#P" n="43"/>potest extrinsece nec intrinsece b causa non causa 
+      <lb ed="#P" n="44"/>re: stante voluntate dei quod b causet: ergo. patet etiam 
+      <lb ed="#P" n="45"/>per conclusionem primam. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e552">
+                  <lb ed="#P" n="46"/>¶ Ex quo infero correlarium responsale volun 
+      <lb ed="#P" n="47"/>tas diuina est omnium aliorum causa prima vt 
+      sini<lb ed="#P" n="48" break="no"/>et eorum que causatiua sunt: est causa vt sint et vt 
+      cau<lb ed="#P" n="49" break="no"/>se sint: patet ex dictis 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e563">
+                  <lb ed="#P" n="50"/>¶ Tertia conclusio. velle diuinum est efficiens 
+      <lb ed="#P" n="51"/>primum omnium creaturarum: vel ipsas de non esse 
+      <lb ed="#P" n="52"/>producendo: vel ipsas in esse conseruando. Proba 
+      <lb ed="#P" n="53"/>tut auctoritatibus augustini adductis ad 
+      opposi<lb ed="#P" n="54" break="no"/>tum questionis. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e576">
+                  <lb ed="#P" n="55"/>¶ Quarta conclusio. quamlibet essentiam 
+      incom<lb ed="#P" n="56" break="no"/>plexam: quam potest primum efficiens efficere: cum a 
+      <lb ed="#P" n="57"/>gente secundario potest efficere se solo. Probatur 
+      <lb ed="#P" n="58"/>per articulum. 57. inter antiquos: qui est quod deus non 
+      <lb ed="#P" n="59"/>potest in effectum cause secundarie sine ipsa. erro: 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e589">
+                  <lb ed="#P" n="60"/>¶ Correlarium quod sequitur ex ista conclu. est: quod 
+      <!--121.xml-->
+      <lb ed="#P" n="61"/>licet creata causa possit coagere: ad hoc vt alia 
+      crea<lb ed="#P" n="62" break="no"/>ta causa sit: non tamen potest coagere vt ipsa sit causa. et 
+      <lb ed="#P" n="63"/>(vt causet etc. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e603">
+                  <lb ed="#P" n="64"/>¶ Quinta conclusio. non quemlibet effectum 
+      con<lb ed="#P" n="65" break="no"/>plexum quem potest primum efficiens cum causa secunda: 
+      con<lb ed="#P" n="66" break="no"/>potest sesolo. Probatur quia splendorem solis seu solem 
+      <lb ed="#P" n="67"/>spendere: et sortem currere et huiusmodi: non potest deus nisi cum 
+      <lb ed="#P" n="68"/>causis secundis non enim potest facere solem lucere nisi 
+      <lb ed="#P" n="69"/>sol sit etc. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e619">
+                  <lb ed="#P" n="70"/>¶ Sexta conclusio. voluntas diuina non 
+      potests<lb ed="#P" n="71" break="no"/>esse efficiens omnim que fiunt: taliter: qualiter fiunt. 
+      <lb ed="#P" n="72"/>Probatur quia non potest esse efficiens causa 
+      actu<lb ed="#P" n="73" break="no"/>peccati: qualiter est peccatum: nec potest esse causa 
+      <lb ed="#P" n="74"/>cuiuslibet modi actus et circunstantie producte. Pro 
+      <lb ed="#P" n="75"/>batur per articulum. 34 c. 23. inter nouellos: qui est quod 
+      <lb ed="#P" n="76"/>deus est causa cuiuslibet modi actus et 
+      circunstan<lb ed="#P" n="77" break="no"/>tie producte error. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e639">
+                  <lb ed="#P" n="78"/>¶ Correlarium. aliqualiter esse est possibile: qua  
+      <lb ed="#P" n="79"/>liter esse non potest fieri a deo. patet ex conclusione. 
+      <lb ed="#P" n="80"/>Septima conclusio. velle diuinum omnium queo 
+      <lb ed="#P" n="81"/>fiunt: et qualitercumque fiunt: est causa: vel permittendo: et 
+      <lb ed="#P" n="82"/>hoc quantum ad mala culpe. vel efficiendo quantum ad bona. 
+      <lb ed="#P" n="83"/>vel non prohibendo etia quantum ad mala. Probatur. quia 
+      ni<lb ed="#P" n="84" break="no"/>chil fit aliqualiter: nisi deus hoc fieri sinat. vel 
+      effi<lb ed="#P" n="85" break="no"/>ciat etc. consequentia nota antecedens est augusti. in enchiri. c. 1o4 q 
+      <lb ed="#P" n="86"/>Octaua conclusio. velle diuinum: non est vni 
+      <lb ed="#P" n="87"/>formiter causa omnium que fiunt. Probatur quia 
+      <lb ed="#P" n="88"/>non omnia facta vniformiter fiunt: ergo. 
+      consequen<lb ed="#P" n="89" break="no"/>tia tenet: quia non arguitur voluntas dei esse causa 
+      <lb ed="#P" n="90"/>ad extra: nisi qualiter causat. et non aliter causat quam 
+      <lb ed="#P" n="91"/>res sint causate. ergo
+    </p>
+               <p xml:id="oooo3o-k31708-d1e672">
+      ¶ Item confirmatur quia 
+      a<lb ed="#P" n="92" break="no"/>liter est causa actus mali. et aliter est causa actuo iboni igitur. 
+      <lb ed="#P" n="93"/>Ex his sequitur quod omnium effectibilium 
+      es<lb ed="#P" n="94" break="no"/>sentiarum voluntas diuina est causa efficiens prima
+    </p>
+            </div>
+            <div xml:id="oooo3o-k31708-Dd1e683">
+               <head xml:id="oooo3o-k31708-Hd1e685">Articulus 3</head>
+               <p xml:id="oooo3o-k31708-d1e687">
+                  <lb ed="#P" n="95"/>Tertius articulus 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e692">
+                  <lb ed="#P" n="96"/>QUantum ad tertium articulum: et 
+      <lb ed="#P" n="97"/>Respondeo ad rationes Ad primam cum per 
+      <lb ed="#P" n="98"/>dicitur: aut hoc est per agere finitum 
+      ve<lb ed="#P" n="99" break="no"/>infinitum: dico quod per agere ad extra 
+      fu<lb ed="#P" n="100" break="no"/>nitum et cum dicitur ergo illud est 
+      com<lb ed="#P" n="101" break="no"/>municabile creature etc. dico quod non qualitercunque 
+      fi<lb ed="#P" n="102" break="no"/>nite agere est creature communicabile. quia 
+      indepen<lb ed="#P" n="103" break="no"/>denter finite agere non est communicabile 
+      creatu<lb ed="#P" n="104" break="no"/>re: qualiter agere est agere dei ad extra 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e714">
+                  <lb ed="#P" n="105"/>¶ Ad secundam nego consequentiam sicut 
+      pa<lb ed="#P" n="106" break="no"/>tet per sextam conclusionem secundi articuli: et per 
+      <lb ed="#P" n="107"/>eius correlarium. 
+    </p>
+               <p xml:id="oooo3o-k31708-d1e723">
+                  <lb ed="#P" n="108"/>¶ Ad tertiam cum dicitur aut ageret libere 
+      siue<lb ed="#P" n="109" break="no"/>contingenter aut necessario: dico quod ad extra agit 
+      con<lb ed="#P" n="110" break="no"/>tingenter. et vltra quod sua actio est contingens. et 
+      con<lb ed="#P" n="111" break="no"/>sequenter concedo: quod actio dei ad extra non est deus 
+      <lb ed="#P" n="112"/>sed est ipsa creatura realiter: sicut patuit libro primo 
+      <lb ed="#P" n="113"/>di. 41 et sic est finis questionis. 
+    </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
